@@ -87,15 +87,32 @@ Ez a cikk a Decapeptyl sajátos jellemzőit ismerteti. A HRT általános hatása
 
 </div>
 
-A triptorelin, amelyet többek között Decapeptyl márkanéven forgalmaznak, a gonadotropin-felszabadító hormon agonista analógjaként ható gyógyszer, amely gátolja a luteinizáló hormon (LH) és a follikulusz-stimuláló hormon (FSH) felszabadulását a szervezetben.
+A Decapeptyl a triptorelin-acetát márkaneve. A triptorelin egy GnRH-agonista (gonadotropin-releasing hormone agonist), amely hosszabb hatású peptid-analógként kezdeti hormonstimulációt követően hosszabb távon csökkenti a nemi hormonok (tesztoszteron, ösztrogének) termelését, tehát gátolja a luteinizáló hormon (LH) és a follikulusz-stimuláló hormon (FSH) felszabadulását a szervezetben.
+
+Decapeptyl különböző készítményekben érhető el — naponta adandó oldat (pl. IVF-hez, 100 µg/nap), illetve tartós (sustained-release, SR) depot formák 1 hónapos, 3 havi és 6 havi kiadódással (pl. 3 hónap = 11.25 mg; 6 hónap = 22.5 mg — a gyártó és forgalmazás szerint változhat).
+
+### Hogyan adják az injekciót?
+
+_Napi oldat (IVF):_ előretöltött fecskendő, általában szubkután az alsó hasfalba — a páciens/partner betanítható az öninjekciózásra; az első injekció után 30 perc megfigyelés javasolt allergiás reakció miatt. 
+
+_Depot (SR) készítmények:_ por + oldószer formában érkeznek, a készítményt fel kell oldani, és általában intramuszkulárisan (pl. farizom) vagy a készítménytől függően szubkután adja a szakember; ismétlés: hónaponta / 3 havonta / 6 havonta a hatóanyag mennyiségétől függően. 
+
+Fontos: depot-injekciók előkészítése és beadása általában egészségügyi személyzet feladata (reconstitutio, szuszpenzió keverése, sterilitás).
+
+### Hogyan működik (hatásmechanizmus)?
+
+Kezdetben a GnRH-agonista átmenetileg növeli az LH/FSH-t (ún. flare), majd receptorok lefáradásával és lefelé-szabályozással hosszan tartó gátlás következik, ami a tesztoszteron/ösztrogén szint csökkenéséhez vezet. Ez az oka annak, hogy prosztatarákban kezdeti „flare” tünetek (fájdalom, vizelési panaszok) előfordulhatnak.
 
 ### Orvosi felhasználás
 
 Fő alkalmazási területek:
 
 * Endometriózis kezelésére
-& Méhizom- (uterin) myómák csökkentése
+
+* Méhizom- (uterin) myómák csökkentése
+
 * Prosztatarák kezelése
+
 * Súlyos szexuális devianciával járó férfi hiper-szexualitás kezelése 
 
 Továbbá — hivatalosan nem engedélyezett módon (off-label) — használják nemi diszfóriás betegek esetén a pubertás elhalasztására.
@@ -120,11 +137,15 @@ A Decapeptyl 1 vagy 3 havonta beadandó injekció formájában kerül forgalomba
 
 Gyakori mellékhatások többek közt:
 
-* Anafilaxia
+* Hőhullámok, éjszakai izzadás (leggyakoribb).
+
+* Libidócsökkenés, szexuális működés változása, erekciós problémák.
+
 * Ízületi fájdalom (arthralgia), gyengeség (asthenia), asztma
+
 * Mellérzékenység férfiaknál és nőknél
+
 * Vérnyomás- és hangulatingadozások
-* Bőrpír, hőhullámok, súlyváltozások
 
 ## Adatlap
 
