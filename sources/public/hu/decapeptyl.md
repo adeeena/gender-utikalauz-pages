@@ -87,6 +87,19 @@ Ez a cikk a Decapeptyl sajátos jellemzőit ismerteti. A HRT általános hatása
 
 </div>
 
+A triptorelin, amelyet többek között Decapeptyl márkanéven forgalmaznak, a gonadotropin-felszabadító hormon agonista analógjaként ható gyógyszer, amely gátolja a luteinizáló hormon (LH) és a follikulusz-stimuláló hormon (FSH) felszabadulását a szervezetben.
+
+### Orvosi felhasználás
+
+Fő alkalmazási területek:
+
+* Endometriózis kezelésére
+& Méhizom- (uterin) myómák csökkentése
+* Prosztatarák kezelése
+* Súlyos szexuális devianciával járó férfi hiper-szexualitás kezelése 
+
+Továbbá — hivatalosan nem engedélyezett módon (off-label) — használják nemi diszfóriás betegek esetén a pubertás elhalasztására.
+
 A Decapeptyl 1 vagy 3 havonta beadandó injekció formájában kerül forgalomba. Leginkább serdülők pubertásgátlóként ismert, de transz nőknél antiandrogénként is alkalmazható. A bikalutamiddal együtt gyakran az egyik legjobb lehetséges antiandrogénnek tartják a HRT számára.
 
 ### Előnyök:
@@ -102,6 +115,16 @@ A Decapeptyl 1 vagy 3 havonta beadandó injekció formájában kerül forgalomba
 * Rendkívül drága.
 
 * 1 vagy 3 havonta kell injekciókat ismételni.
+
+### Mellékhatások
+
+Gyakori mellékhatások többek közt:
+
+* Anafilaxia
+* Ízületi fájdalom (arthralgia), gyengeség (asthenia), asztma
+* Mellérzékenység férfiaknál és nőknél
+* Vérnyomás- és hangulatingadozások
+* Bőrpír, hőhullámok, súlyváltozások
 
 ## Adatlap
 
