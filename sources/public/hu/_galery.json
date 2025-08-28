@@ -1,0 +1,153 @@
+[
+	{
+		"name": "Chaz Bono",
+		"gender": "transz férfi",
+		"link": "https://hu.wikipedia.org/wiki/Chaz_Bono",
+		"image": "chaz-bono.png",
+		"description": "Amerikai zenész, színész és rendező. Cher énekesnő gyermeke."
+	}, {
+		"name": "Lana Wachowski",
+		"gender": "transz nõ",
+		"link": "https://hu.wikipedia.org/wiki/Wachowski_testv%C3%A9rek",
+		"image": "lana-wachowski.png",
+		"description": "Amerikai rendező és producer, aki a nővére, (szintén transz) Lilly oldalán állva készítette a Mátrixot, a V mint Vendetta és a Sense8 című sorozatot, amelyben több LGBT+ szereplő is szerepel."
+	}, {
+		"name": "Ónodi Adél",
+		"gender": "transz nõ",
+		"link": "https://www.imdb.com/name/nm11784981/#:~:text=Ad%C3%A9l%20Onodi%20was%20born%20on,Resume",
+		"image": "onodi-adel.png",
+		"description": "Magyar színésznő és énekesnő."
+	}, {
+		"name": "Laura Les",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Laura_Les",
+		"image": "laura-les.png",
+		"description": "Amerikai zenei producer, énekes és dalszerző, akit Dylan Brady mellett a 100 gecs kísérleti elektronikus duó egyik feleként ismert."
+	}, {
+		"name": "Evan Greer",
+		"gender": "nem-bináris személy",
+		"link": "https://en.wikipedia.org/wiki/Evan_Greer",
+		"image": "evan-greer.png",
+		"description": "Bostoni queer indie punk zenész, író és aktivista."
+	}, {
+		"name": "Laverne Cox",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Laverne_Cox#new_tab",
+		"image": "laverne-cox.png",
+		"description": "Énekesnő és színésznő, akit a nagyközönség a Netflix sorozatában, az Orange Is The New Black-ben ismerhet meg, ahol egy transz nőt alakít."
+	}, {
+		"name": "Chelsea Manning",
+		"gender": "transz nõ",
+		"link": "https://hu.wikipedia.org/wiki/Chelsea_Manning",
+		"image": "chelsea-manning.png",
+		"description": "Az amerikai hadsereg volt katonai elemzője és a Wiki Leaks-ügyben érintett informátor."
+	}, {
+		"name": "Balian Buschbaum",
+		"gender": "transz férfi",
+		"link": "https://en.wikipedia.org/wiki/Balian_Buschbaum",
+		"image": "balian-buschbaum.png",
+		"description": "Német rúdugró, aki sportolói pályafutása során női kategóriában versenyzett. Transzidentitását 28 évesen jelentette be."
+	}, {
+		"name": "Ian Alexander",
+		"gender": "transz férfi, nem-bináris személy",
+		"link": "https://en.wikipedia.org/wiki/Ian_Alexander_(actor)#new_tab",
+		"image": "ian-alexander.png",
+		"description": "Színész, aki a Netflix The OA című sorozatában debütált."
+	}, {
+		"name": "Elliot Page",
+		"gender": "nem-bináris személy",
+		"link": "https://hu.wikipedia.org/wiki/Elliot_Page",
+		"image": "elliot-page.png",
+		"description": "Kanadai színész, aki a Hard Candy (2005) és a Juno (2007) című filmekben vált ismertté. Elliot Page, aki nyíltan meleg volt, mielőtt 2020-ban transzneműnek vallotta magát, több leszbikus szerepet is játszott, többek között a Freelove (2015) című filmben. Emellett az Umbrella Academy című sorozatban is játszik."
+	}, {
+		"name": "Jonathan Van Ness",
+		"gender": "nem-bináris személy",
+		"link": "https://en.wikipedia.org/wiki/Jonathan_Van_Ness#new_tab",
+		"image": "jonathan-van-ness.png",
+		"description": "Amerikai fodrász, podcaster, aktivista és szerző, aki leginkább a Queer Eye imázsszakértőjeként ismert."
+	}, {
+		"name": "Teddy Quinlivan",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Teddy_Quinlivan#new_tab",
+		"image": "teddy-quinlivan.png",
+		"description": "Amerikai fodrász, podcaster, aktivista és szerző, aki leginkább a Queer Eye imázsszakértőjeként ismert."
+	}, {
+		"name": "Janet Mock",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Janet_Mock",
+		"image": "janet-mock.png",
+		"description": "Amerikai író, televíziós műsorvezető és aktivista. Dolgozott a Marie Claire-nek és a People-nek."
+	}, {
+		"name": "Lena Raine",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Lena_Raine#new_tab",
+		"image": "lena-raine.png",
+		"description": "Amerikai producer és zeneszerző, aki a Celeste, a Guild Wars 2 és a Minecraft soundtrackjének egy részét készítette."
+	}, {
+		"name": "Rebecca Sugar",
+		"gender": "nem-bináris személy",
+		"link": "https://hu.wikipedia.org/wiki/Rebecca_Sugar",
+		"image": "rebecca-sugar.png",
+		"description": "Amerikai animációs filmrendező, zeneszerző és rendező. Ő a Steven Universe animációs sorozat alkotója (amelyben több nem-bináris karakter is szerepel), és dolgozott az Adventure Time animációs sorozaton is."
+	}, {
+		"name": "Thomas Beatie",
+		"gender": "transz férfi",
+		"link": "https://en.wikipedia.org/wiki/Thomas_Beatie",
+		"image": "thomas-beatie.png",
+		"description": "Egyesült Államokbeli aktivista, egyik elsőként felkapott transz férfi a média által, aki hosszú idővel a hormonkezelés megkezdése után szült gyermeket."
+	}, {
+		"name": "Jamie Clayton",
+		"gender": "transz nô",
+		"link": "https://en.wikipedia.org/wiki/Jamie_Clayton",
+		"image": "jamie-clayton.jpg",
+		"description": "Amerikai színésznõ, aki a Netflix eredeti sorozatában, a Sense8-ban játszott, ahol egy transz nőt alakított."
+	}, {
+		"name": "Tiq Milan",
+		"gender": "transz férfi",
+		"link": "https://en.wikipedia.org/wiki/Tiq_Milan",
+		"image": "tiq-milan.png",
+		"description": "Médiastratégia tanácsadó, író, előadó és amerikai aktivista."
+	}, {
+		"name": "Laura Jane Grace",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Laura_Jane_Grace",
+		"image": "laura-jane-grace.png",
+		"description": "Egyesült Államokbeli énekesnő-zenész egy általa alapított zenekarban."
+	}, {
+		"name": "Lynn Conway",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Lynn_Conway",
+		"image": "lynn-conway.png",
+		"description": "Vezető amerikai informatikus, az automatizált elektronikus áramkörtervezési ipar globális inkubátorának alapítója."
+	}, {
+		"name": "Lilly Wachowski",
+		"gender": "transz nõ",
+		"link": "https://hu.wikipedia.org/wiki/Wachowski_testv%C3%A9rek",
+		"image": "lilly-wachowski.png",
+		"description": "Amerikai rendező és producer, aki nővérével, Lana-val (aki szintén transznemű) a Matrix, a V mint Vendetta és a Sense8 című sorozat alkotója, amelyben több LMBT+ karakter is szerepel."
+	}, {
+		"name": "Sam Smith",
+		"gender": "nem-bináris személy",
+		"link": "https://hu.wikipedia.org/wiki/Sam_Smith",
+		"image": "sam-smith.png",
+		"description": "Brit énekes-dalszerző."
+	}, {
+		"name": "Maria Creveling",
+		"gender": "transz nõ",
+		"link": "https://en.wikipedia.org/wiki/Remilia",
+		"image": "maria-creveling.png",
+		"description": "Profi League of Legends játékos, aki arról ismert, hogy ő volt az első nő, aki kvalifikálta magát a Championship Seriesre."
+	}, {
+		"name": "Miley Cyrus",
+		"gender": "nem-bináris személy",
+		"link": "https://www.thepinknews.com/2017/05/05/miley-cyrus-gender-neutral/",
+		"image": "miley-cyrus.png",
+		"description": "Amerikai énekes-dalszerző és színésznő."
+	}, {
+		"name": "Erik Schinegger",
+		"gender": "transz férfi, interszex",
+		"link": "https://en.wikipedia.org/wiki/Erik_Schinegger",
+		"image": "erik-schinegger.png",
+		"description": "Osztrák síző, 1966-ban lesiklás világbajnok volt."
+	}
+]

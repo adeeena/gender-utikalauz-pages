@@ -1,0 +1,219 @@
+﻿[
+  {
+    "title": "💡 Bevezetés",
+    "children": [
+      {
+        "id": "/intro",
+        "title": "Alapvető tudnivalók"
+      },
+      {
+        "entryId": "mit-jelent-transznak-lenni",
+        "title": "Mit jelent transznak lenni?"
+      },
+      {
+        "entryId": "mit-jelent-nem-binarisnak-lenni",
+        "title": "Mit jelent nem-binárisnak lenni?"
+      },
+      {
+        "entryId": "mit-jelent-interszexnek-lenni",
+        "title": "Mit jelent az interszex?"
+      },
+      {
+        "id": "/lexikon",
+        "title": "Lexikon"
+      },
+      {
+        "id": "/galery",
+        "title": "Galéria"
+      },
+      {
+        "entryId": "transz-tortenelem",
+        "title": "Transz Történelem \uD83C\uDFFA"
+      }
+    ]
+  },
+  {
+    "title": "📚 Brosúrák, Kiadványok",
+    "children": [
+      {
+        "entryId": "brosurak",
+        "title": "Brosúragyűjtemény"
+      }
+    ]
+  },
+  {
+    "title": "👩‍👩‍👦‍👦 Közösségek",
+    "children": [
+      {
+        "entryId": "online-terek",
+        "title": "Online közösségek"
+      }
+    ]
+  },
+  {
+    "title": "🔍 Bizonytalanoknak",
+    "children": [
+      {
+        "entryId": "honnan-tudom-hogy-transz-vagyok",
+        "title": "Honnan tudom, hogy transz vagyok?"
+      },
+      {
+        "entryId": "transznak-es-melegnek-lenni",
+        "title": "Transznak és melegnek lenni"
+      },
+      {
+        "entryId": "sosem-leszek-passing",
+        "title": "Félek, hogy sosem leszek passing"
+      },
+      {
+        "entryId": "tul-fiatal-vagy-oreg-vagyok",
+        "title": "Félek, mert túl fiatal / öreg vagyok"
+      },
+      {
+        "entryId": "transznemuseg-csak-egy-divathullam",
+        "title": "Akik szerint ez csak egy divathullám"
+      },
+      {
+        "entryId": "detranzicio",
+        "title": "Detranzició"
+      }
+    ]
+  },
+  {
+    "title": "🔊 Transznak lenni a mindennapokban",
+    "children": [
+      {
+        "entryId": "kibujas",
+        "title": "Felkészülés a kibújásra"
+      },
+      {
+        "entryId": "mintalevelek-kibujashoz",
+        "title": "Mintalevelek kibújáshoz"
+      },
+      {
+        "entryId": "transzidentitas-a-munkahelyen",
+        "title": "Transzidentitás a munkahelyen"
+      },
+      {
+        "entryId": "transzidentitas-utazas",
+        "title": "✈️ Felkészülés utazásra"
+      },
+      {
+        "entryId": "diszforia",
+        "title": "Nemi diszfória"
+      },
+      {
+        "entryId": "transz-nok-tevhitek-es-mitoszok",
+        "title": "Tévhitek és mítoszok a transz nőkkel kapcsolatban"
+      }
+    ]
+  },
+  {
+    "title": "📊 Hormonok",
+    "children": [
+       {
+        "entryId": "hogyan-mukodnek-a-hormonok",
+        "title": "Hogyan működnek a hormonok?"
+      },
+      {
+        "entryId": "hormonterapia-elkezdese",
+        "title": "Hormonterápia elkezdése"
+      },
+      {
+        "entryId": "hormonterapia-hazilagos-modszerek",
+        "title": "Házilagos technikák, DIY"
+      },
+      {
+        "entryId": "hormontablazat-es-kalkulatorok",
+        "title": "Hormontáblázat és kalkulátorok"
+      },
+      {
+        "entryId": "feminizalo-hormonterapia",
+        "title": "Feminizáló HRT"
+      },
+      {
+        "entryId": "maszkulinizalo-hormonterapia",
+        "title": "Maszkulinizáló HRT"
+      },
+      {
+        "entryId": "termekenyseg-megorzese",
+        "title": "Termékenység megõrzése"
+      },
+      {
+        "entryId": "hormonok-haziallatok-cicak-kutyak",
+        "title": "Hormonterápia és háziállatok"
+      }
+    ]
+  },
+  {
+    "title": "👩🏼 Feminizáló Hormonterápia",
+    "children": [
+      {
+        "entryId": "transz-nok-es-ferfi-elojogok",
+        "title": "Van-e a transz nőknek bármilyen férfi előjoguk?"
+      },
+      {
+        "entryId": "feminizalas-passing",
+        "title": "Női passing - tippek és tanácsok"
+      },
+      {
+        "entryId": "feminizalas-testedzes",
+        "title": "Testedzés"
+      },
+      {
+        "entryId": "feminizalas-mutetek",
+        "title": "Műtétek"
+      },
+      {
+        "entryId": "feminizalas-tucking",
+        "title": "Tucking"
+      },
+      {
+        "entryId": "transz-nok-es-pms",
+        "title": "Premenstruációs szindróma"
+      },
+      {
+        "entryId": "feminizalas-hangfeminizacio",
+        "title": "Hangfeminizáció"
+      }
+    ]
+  },
+  {
+    "title": "👨🏽 Maszkulinizáló Hormonterápia",
+    "children": [
+      {
+        "entryId": "maszkulinizalas-passing",
+        "title": "Férfi passing - tippek és tanácsok"
+      },
+      {
+        "entryId": "maszkulinizalas-testedzes",
+        "title": "Testedzés"
+      },
+      {
+        "entryId": "maszkulinizalas-mell-elrejtese",
+        "title": "Mellek elrejtése"
+      },
+      {
+        "entryId": "maszkulinizalas-packing",
+        "title": "Packing"
+      },
+      {
+        "entryId": "maszkulinizalas-mutetek",
+        "title": "Műtétek"
+      }
+    ]
+  },
+  {
+    "title": "👨🏽 Nem-binárisok",
+    "children": [
+      {
+        "entryId": "mit-jelent-nem-binarisnak-lenni",
+        "title": "Mit jelent nem-binárisnak lenni?"
+      },
+      {
+        "entryId": "nem-binaris-passing",
+        "title": "Passing nem-binárisként"
+      }
+    ]
+  }
+]

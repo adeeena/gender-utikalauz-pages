@@ -1,0 +1,22 @@
+﻿{
+  "general.lineWelcome": "👋 Üdvözlet a",
+  "general.title": "Gender útikalauz",
+  "general.lineExplain": "oldalán, ahol rengeteg információt találhatsz az tranzíció előtt, vagy alatt lévő transz embereknek, családjaiknak és támogatóiknak.",
+  "general.intro": "Bevezető",
+  "general.close": "Bezár",
+  "home.recommendations": "Ajánló",
+  "general.allArticle": "Minden cikk",
+  "sidebar.title": "Dokumentumtár",
+  "footer.supportAt": "ITT TÁMOGATHATSZ MINKET:",
+  "footer.linksAt": "ITT ÉRHETSZ EL MINKET:",
+  "footer.emailOr": "vagy genderutikalauz@gmail.com",
+  "general.backToHome": "Vissza a főoldalra",
+  "entry.share": "Megosztás",
+  "entry.foundErrorTitle": "Elgépelést találtál? Helyesírási hiba szúrja a szemed? Esetleg tárgyi tévedést vétettünk?",
+  "entry.foundErrorText": "Jelentsd számunkra a <a href='mailto:genderutikalauz@gmail.com'>genderutikalauz@gmail.com</a> címen, hogy javíthassuk!",
+  "higham.light": "Enyhén pecsétes betét",
+  "higham.medium": "Közepesen pecsétes betét",
+  "higham.high": "Erõsen pecsétes betét",
+  "higham.low": "Vérrögök (kisebb, mint 1 cm)",
+  "higham.big": "Vérrögök (nagyobb, mint 1 cm)"
+}
