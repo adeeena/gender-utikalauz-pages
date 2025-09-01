@@ -16,12 +16,12 @@ A brosúrában bemutatott műtétek nem arra szolgálnak, hogy egyik eljá
 ### 👸 Feminizáló műtétek
 
 <div class="buttons">
-<a class="center-button" target="_blank" href="https://public.genderutikalauz.hu/feminizalo-mutetek.pdf">Letöltés</a>
+<a class="center-button" target="_blank" href="https://genderutikalauz.hu/api/entry?language=hu&id=feminizalo-mutetek&extension=pdf">Letöltés</a>
 </div>
 
 <br />
 <br />
 
 ### 👨 Maszkulinizáló műtétek
-Adéna gőzerővel rajzolja a pdfet, hogy mihamarabb kész legyen. Kb. február közepére készül el vele.
+Adéna gőzerővel rajzolja a pdfet, hogy mihamarabb kész legyen.
 
