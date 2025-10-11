@@ -20,7 +20,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Serve static files from the 'images' directory
 app.use('/images', express.static(path.join(__dirname, 'public', 'images')));
 
-
 app.get('/translations', (req, res) => {
   const { languageCode } = req.query;
   const filePath = path.join(__dirname, 'public', languageCode, '_translations.json');
@@ -58,8 +57,9 @@ app.get('/categories', (req, res) => {
 });
 
 app.get('/entry', (req, res) => {
-  const { id, languageCode } = req.query;
-  const filePath = path.join(__dirname, 'public', languageCode, `${id}.md`);
+  const { id, languageCode, extension } = req.query;
+  let ext = extension || 'md';
+  const filePath = path.join(__dirname, 'public', languageCode, `${id}.${ext}`);
 
   try {
     const content = fs.readFileSync(filePath, 'utf-8');
