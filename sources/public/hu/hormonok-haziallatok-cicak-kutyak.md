@@ -1,7 +1,14 @@
 ﻿---
 title: "Hormonkezelés és háziállatok"
-description: "Háziállatok (cicák, kutyák) és a hormonterápia kellemetlen következményekkel vagy rendellenességekkel járhat."
+description: "A bőrön felszívódó hormongélek és tapaszok hormonális zavart okozhatnak a háziállatoknál (cicák, kutyák); íme a tünetek és a szükséges óvintézkedések."
 lang: hu
+keywords: "hormonkezelés háziállat, ösztrogén gél macska kutya, hormongél óvintézkedés, transz hormon háziállat, bőrön felszívódó hormon"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/hormonok-haziallatok-cicak-kutyak"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_relaxing_walk.svg"
+slug: "hormonok-haziallatok-cicak-kutyak"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_relaxing_walk.svg" /></div>
@@ -14,7 +21,7 @@ Miután több európai országban mellékhatásokról számoltak be, az Anses-AN
 
 Ezek az esetek, amelyek kanokat és nőstényeket egyaránt érintettek, [leggyakrabban ösztrogénalapú kezelésekkel kapcsolatosan](/#/entry?id=feminizalo-hormonterapia).
 
-**Mivel [a krémeket és géleket a combra, a hasra vagy a karokra szokták kenni](/#/entry?id=geminizalo-gelek-tapaszok-kremek), így előfordulhat, hogy azok közvetlenül érintkeznek a háziállattal. Az expozíció lepedőn keresztül is előfordulhat, amikor az állatok a kezelt személy ágyán alszanak.**
+**Mivel [a krémeket és géleket a combra, a hasra vagy a karokra szokták kenni](/#/entry?id=feminizalo-gelek-tapaszok-kremek), így előfordulhat, hogy azok közvetlenül érintkeznek a háziállattal. Az expozíció lepedőn keresztül is előfordulhat, amikor az állatok a kezelt személy ágyán alszanak.**
 
 ## Háziállatoknál előforduló hormonális problémák
 
@@ -34,6 +41,19 @@ A háziállatokra kitettségének elkerülése érdekében minden szükséges ó
 
 Ezek a használattal kapcsolatos óvintézkedések minden, a bőrön át felszívódó gyógyszerre vonatkoznak.
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Árthat a háziállatomnak a hormongélem?
+
+Igen, ha közvetlenül érintkezik vele. A bőrön felszívódó ösztrogéngélek és tapaszok hormonális zavart okozhatnak cicáknál és kutyáknál, akár az ágyon való együttalvás vagy a kezelt bőrfelület megnyalása révén is.
+
+### Milyen tüneteket okozhat az állatnál?
+
+Jellemző tünet a nemi szerv duzzanata, szőrhullás, vagy hogy a sterilizált állat ismét tüzelni kezd. Hosszú távon az ösztrogén a csontvelőre is mérgező lehet, ami életveszélyes vérelégtelenséget okozhat, ezért érdemes állatorvoshoz fordulni.
+
+### Hogyan védhetem meg a háziállatomat?
+
+A gél felvitele után moss kezet, fedd le a kezelt bőrfelületet ruhával, ne hagyd az állatot ott nyalogatni, és kerüld a vele való együttalvást. Ha mégis érintkezett a kezelt területtel, öblítsd le vízzel az érintett testrészeit.
 
 ## Források
 
