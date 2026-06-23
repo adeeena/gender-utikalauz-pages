@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A transzneműekkel szembeni feminista elméletek megfordítása"
+title: "Transz történelem: a transzellenes feminista elméletek megjelenése"
+description: "Hogyan alakult ki az 1970-es évek feminista és leszbikus köreiben a transzellenes retorika; Mary Daly és Janice Raymond elméleteinek gyökerei és mai öröksége."
 lang: hu
+keywords: "transzellenes feminizmus, TERF eredete, Janice Raymond, Mary Daly, Sandy Stone, Beth Elliott, radikális feminizmus"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-feminista-elmeletek-megforditasa"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-feminista-elmeletek-megforditasa"
 ---
 
 <div class="floating-columns">
@@ -65,6 +72,20 @@ Bár lehet, hogy ma már nem ő a legismertebb transzellenes aktivista, Janice R
 Ennek jelenlegi megnyilvánulásai közé tartozik a transz sportolókkal kapcsolatos erkölcsi pánik, akik az összes érmet ellopják a cisz nők elől - miközben csak néhányuknak engedélyezik, hogy egyáltalán versenyezzenek -, a nőből férfivá történő átváltoztatásra irányuló kérelmek számának növekedése - amely növekedést csak a másik irányú átváltozások átlagos száma egyenlíti ki, és amelyet a transz férfiak újabban tapasztalható láthatósága és az információkhoz való hozzáférése magyaráz -, valamint a "nő" szó állítólagos eltörlése miatti felháborodás. A Women of the Right című könyvében Andrea Dworkin a transzellenes feminizmusról olyan elemzést készít, amely teljesen relevánsnak tűnik, amikor azt írja, hogy a konzervatív nők számára, akik a gyermekszülést tekintik a társadalomhoz való egyetlen hozzájárulásuknak, és ezért kardinális értéknek, a homoszexualitás egy nők nélküli világot jelent, és ezért a kihalásuk szorongását hordozza magában. Janice Raymond transzellenes ideológiája ugyanarról a kitörléstől való félelemről tanúskodik, amely az 1970-es évek végén, a Reagan-évek előestéjén végigfutott a feminista mozgalmon, és amely a feminista vívmányokkal szembeni konzervatív és elnyomó visszahatással szembesült, amelyet Susan Faludi írt le Backlash című könyvében. A transzellenes ideológia azonban, távolról sem védekező a visszahatással szemben, a feminizmus identitásába való visszahúzódást jelenti, amely most már kizárólag a "rossz" nők levadászásából áll a "jó" nők megmentésének reményében.
 
 Ám ezeknek a materialista feministáknak mindenekelőtt az a célja, hogy a transz narratívákat a szokásos ellenállásukba illesszék minden sztereotip nemi kifejezéssel szemben, beleértve annak felforgatását is - és aminek, ha létezik is dragban, semmi köze a mindennapokban megtapasztalt transzhoz. Ily módon a transzellenes feminizmus a materialista feministák és a queer-elmélet közötti ellentétek között fejeződik ki. A transz emberekről egy befejezetlen feminista felszabadítás primitív avatárjaiként alakítják ki elképzelésüket, és így nagyrészt lenézik intellektuális hozzájárulásukat.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mikor jelent meg a transzellenes feminista retorika?
+
+Az 1970-es évek Egyesült Államaiban, a feminista és leszbikus körökben kezdett kialakulni egy aktívan ellenséges retorika a transz nőkkel szemben, akiket tévesen "beszivárgó férfiaknak" állítottak be.
+
+### Ki volt Janice Raymond?
+
+Janice Raymond 1979-ben adta ki a The Transsexual Empire című könyvet, az első transzellenes retorikának szentelt feminista elméleti művet, amelyben a transz nőket a patriarchátus ügynökeiként ábrázolta, és a transzszexualizmus "erkölcsi kiirtását" javasolta.
+
+### Él-e még ez a gondolkodás?
+
+Igen. Bár Raymond ma már kevésbé ismert, az elméletei tovább élnek a mai transzellenes érvelésben, például a transz sportolókkal kapcsolatos erkölcsi pánikban és a nemi tranzíciót nehézítő törekvésekben.
 
 ## Forrás
 
