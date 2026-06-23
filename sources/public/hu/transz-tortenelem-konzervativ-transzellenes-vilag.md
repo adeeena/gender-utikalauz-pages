@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "Egy konzervatív transzellenes világ"
+title: "Transz történelem: egy konzervatív transzellenes világ"
+description: "Hogyan táplálják a konzervatív vallási intézmények és agytröszök (Vatikán, Heritage Foundation) a mai transzellenes mozgalmakat az USA-ban, az Egyesült Királyságban és Európában."
 lang: hu
+keywords: "konzervatív transzellenes mozgalom, Heritage Foundation, gender-kritikus, Vatikán gender, transz törvények USA, erkölcsi pánik"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-konzervativ-transzellenes-vilag"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-konzervativ-transzellenes-vilag"
 ---
 
 <div class="floating-columns">
@@ -68,6 +75,20 @@ A transzellenes mozgalom utolsó nagy színtere az olyan internetes fórumok, mi
 
 A Franciaország és az Egyesült Királyság közötti figyelemre méltó különbség azonban az, hogy egyelőre a baloldal egésze nem hajlandó transzfób pánikkeltésbe bocsátkozni, és a transzellenes mozgalmat a jobb- és szélsőjobboldal keretei közé szorítja.
 
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Honnan merítik a mai transzellenes mozgalmak a támogatásukat?
+
+A mai transzellenes mozgalmak ideológiai és pénzügyi támogatásukat nagyrészt konzervatív vallási intézményekből és agytrösztökből merítik, például a Vatikánból és az Egyesült Államokbeli Heritage Foundationből.
+
+### Mi a Heritage Foundation szerepe?
+
+A Heritage Foundation egy evangélikus agytröszt, amely a reakciós, abortuszellenes és LMBT-ellenes mozgalmak középpontjában áll, és amely jelentősen hozzájárult ahhoz, hogy a "gender-kritikus" mozgalom gyökeret vert az Egyesült Államokban.
+
+### Európára is kihat ez?
+
+Igen. A Heritage Foundation és a hasonló hálózatok befolyása jóval túlmutat az USA határain: brit és európai aktivisták is átvették a transzellenes retorikát, gyakran a feminizmus álcája alatt.
 
 ## Forrás
 
