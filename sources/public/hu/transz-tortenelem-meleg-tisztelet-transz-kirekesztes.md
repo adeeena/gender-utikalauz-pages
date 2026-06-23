@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A homoszexuális tiszteletreméltóság politikája a transz emberek kirekesztésének kísértéséhez vezet"
+title: "Transz történelem: a tiszteletreméltóság politikája és a transz kirekesztés"
+description: "Hogyan vezetett a Stonewall utáni meleg-leszbikus mozgalom intézményesülése és a 'tiszteletreméltóság politikája' a transz és rassziztált emberek kirekesztéséhez."
 lang: hu
+keywords: "tiszteletreméltóság politikája, transz kirekesztés, Sylvia Rivera, Gay Activists Alliance, Stonewall után, LMBT mozgalom"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-meleg-tisztelet-transz-kirekesztes"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-meleg-tisztelet-transz-kirekesztes"
 ---
 
 <div class="floating-columns">
@@ -66,6 +73,20 @@ Ez rávilágít arra, hogy a politikai és stratégiai döntések miként járul
 
 
 
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mit jelent a "tiszteletreméltóság politikája"?
+
+A tiszteletreméltóság politikája az a törekvés volt, amellyel egyes integrációra vágyó melegek "tisztességes" képet akartak mutatni, és ehhez elhatárolódtak a közösség marginalizáltabb részeitől, köztük a transz és rassziztált emberektől.
+
+### Hogyan rekesztődtek ki a transz emberek a Stonewall után?
+
+A Stonewall után létrejött szervezetek (például a Gay Activists Alliance) gyakran megtagadták a szót a transz és rassziztált emberektől, és a szexuális orientációt közös identitásként hangsúlyozva külön "problémává" tették a transz létezést.
+
+### Ki volt Sylvia Rivera?
+
+Sylvia Rivera latin-amerikai származású transz szexmunkás és aktivista volt, aki a Stonewall utáni mozgalomban a transz emberek kirekesztése ellen küzdött, és a tiszteletreméltóság politikájának egyik leghatározottabb bírálója lett.
 
 ## Forrás
 
