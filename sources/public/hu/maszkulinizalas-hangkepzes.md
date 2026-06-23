@@ -31,6 +31,30 @@ A tesztoszteronterápia hatására a hangszalagok megvastagodnak, és a hang ál
 * A változás mértéke egyéni, és nem mindenkinél azonos.
 * Az átmeneti időszakban a hang „kontrollvesztett" vagy rekedt lehet; ez normális.
 
+A beszédhang alaphangmagasságát hertzben (Hz) mérjük. A tesztoszteron általában a női tartományból (165-255 Hz) a férfi tartományba (85-155 Hz) viszi le a hangod; a kettő között van egy semleges sáv.
+
+<figure>
+<svg viewBox="0 0 620 240" width="100%" role="img" aria-label="Tipikus beszédhang-magasságok hertzben">
+  <rect x="0" y="0" width="620" height="240" fill="#ffffff"/>
+  <rect x="60" y="60" width="217" height="26" rx="4" fill="#2f4a7a"/>
+  <text x="168" y="78" text-anchor="middle" font-size="12" fill="#ffffff">Férfi (85-155 Hz)</text>
+  <rect x="248" y="100" width="86" height="26" rx="4" fill="#d9a441"/>
+  <text x="291" y="118" text-anchor="middle" font-size="11" fill="#ffffff">semleges</text>
+  <rect x="306" y="140" width="260" height="26" rx="4" fill="#c0508a"/>
+  <text x="436" y="158" text-anchor="middle" font-size="12" fill="#ffffff">Női (165-255 Hz)</text>
+  <line x1="60" y1="195" x2="580" y2="195" stroke="#444" stroke-width="1.5"/>
+  <g font-size="11" fill="#666" text-anchor="middle">
+    <line x1="60" y1="195" x2="60" y2="200" stroke="#444"/><text x="60" y="214">80</text>
+    <line x1="176" y1="195" x2="176" y2="200" stroke="#444"/><text x="176" y="214">120</text>
+    <line x1="291" y1="195" x2="291" y2="200" stroke="#444"/><text x="291" y="214">160</text>
+    <line x1="407" y1="195" x2="407" y2="200" stroke="#444"/><text x="407" y="214">200</text>
+    <line x1="522" y1="195" x2="522" y2="200" stroke="#444"/><text x="522" y="214">240</text>
+  </g>
+  <text x="320" y="232" text-anchor="middle" font-size="11" fill="#333">alaphangmagasság (Hz)</text>
+</svg>
+<figcaption><i>Tipikus beszédhang-tartományok. A tesztoszteron a hangod a férfi sáv felé viszi; a sávok átfednek, a határok tájékoztató jellegűek. Forrás: <a href="https://www.reddit.com/r/transvoice/comments/ni2igv/romeos_trans_masculine_voice_training_guide/">Romeo's Trans Masculine Voice Training Guide</a>.</i></figcaption>
+</figure>
+
 ➡️ Kapcsolódó: [Maszkulinizáló hormonterápia hatásai](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
 ## Mit tehetsz a technikával?
