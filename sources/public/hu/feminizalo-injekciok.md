@@ -1,7 +1,14 @@
 ---
 title: "✅Injekciók"
-description: "Ismerd meg az ✅Injekciók előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+description: "Az ösztrogéninjekció előnyei és hátrányai: intramuszkuláris és szubkután beadás, ösztradiol-valerát, -cipionát és -enantát, adagolás és öninjekciózás."
 lang: hu
+keywords: "ösztrogén injekció, ösztradiol valerát, ösztradiol cipionát, ösztradiol enantát, Neofollin, öninjekciózás, feminizáló HRT, monoterápia"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-injekciok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "feminizalo-injekciok"
 ---
 
 <div class="floating-columns">
@@ -32,9 +39,9 @@ BEVEZETŐ
 
 [✅Gélek, tapaszok, krémek](/#/entry?id=feminizalo-gelek-tapaszok-kremek)
 
-[✅Tabletták](/#/entry?id=tablettak)
+[✅Tabletták](/#/entry?id=feminizalo-tablettak)
 
-[✅Injekciók](/#/entry?id=injekciok)
+[✅Injekciók](/#/entry?id=feminizalo-injekciok)
 
 [😐Orrspray](/#/entry?id=orrspray)
 
@@ -273,3 +280,21 @@ Ha ezt az utat választod, győződj meg róla, hogy képzett szakemberekkel vag
 ## Kapcsolódó
 
 ➡️ [Injectable Estradiol Simulator](https://transfemscience.org/misc/injectable-e2-simulator/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi az ösztrogéninjekció legnagyobb előnye?
+
+Az injekció nehézség nélkül garantálja a magas ösztrogénszintet, ezért gyakran ez az egyetlen módszer, amivel a belőle antiandrogén nélküli ösztrogén-monoterápia is működik. Azoknak is jó választás, akiknek a bőre rosszul szívja fel a hormont.
+
+### Mi a különbség az intramuszkuláris és a szubkután injekció között?
+
+Az intramuszkuláris (izomba adó) injekció hosszabb tűt használ, a szubkután (bőr alá adó) könnyebben elvégezhető, de egyeseknek irritációt okozhat. Az elért hormonszintek és a felszívódás sebessége általában azonosnak tekinthető.
+
+### Milyen gyakran kell beadni az ösztrogéninjekciót?
+
+A gyakoriság az ösztradiol típusától függ: a valerátot átlagosan 5 naponta, a cipionátot hetente, az enantátot 10 naponta szokás beadni. Ha hormonális instabilitást tapasztalsz, érdemes kisebb adagokat gyakrabban adni.
+
+### Hol szerezhető be Magyarországon ösztrogéninjekció?
+
+Magyarországon már nem forgalmaznak ösztradiol injekciót, hivatalos úton nem elérhető. A legtöbben öninjekciózással, más országokban forgalmazott készítmények megrendelésével jutnak hozzá; a tűket és fecskendőket viszont recept nélkül meg lehet venni a gyógyszertárban.
