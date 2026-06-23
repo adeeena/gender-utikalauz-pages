@@ -1,7 +1,14 @@
 ---
-title: "😐Implantátumok"
-description: "Ismerd meg az 😐Implantátumok előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Implantátumok"
+description: "Az ösztrogén implantátum egy ritkán használt, bőr alá ültetett beviteli mód a feminizáló hormonterápiában: hogyan működik, előnyök, hátrányok és GYIK."
 lang: hu
+keywords: "ösztrogén implantátum, ösztradiol implantátum, bőr alá ültetett, feminizáló HRT, hormonbevitel, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/implantatumok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_doctor.svg"
+slug: "implantatumok"
 ---
 
 <div class="floating-columns">
@@ -95,5 +102,23 @@ Az orrspray-hez hasonlóan ezt a beadási módszert is csak ritkán alkalmazzák
 * Magyarországon nagyon nehéz beszerezni.
 
 * Ha az adagolás rossz, fennáll annak a veszélye, hogy az illető hónapokig aluladagolt marad.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Miért nem ajánlják gyakran az implantátumot transz nőknek?
+
+Mert minden egyes cserénél az implantátum egy kis heget hagyhat, és mivel a transz nőknek általában sokkal hosszabb ideig kell HRT-t szedniük, az évek során a hegek felhalmozódhatnak. Ezért az orvosok ezt a módszert inkább menopauza utáni cisz nőknek ajánlják.
+
+### Milyen gyakran kell cserélni az implantátumot?
+
+Az implantátumot általában néhány havonta kell cserélni, és minden cseréhez orvosra van szükség. Ha az adagolás nem megfelelő, az illető hosszabb ideig aluladagolt maradhat.
+
+### Hol érhető el az ösztrogén implantátum?
+
+Ez a beviteli mód csak ritkán és kevés országban, például Ausztráliában használatos. Magyarországon nagyon nehéz beszerezni, ezért a legtöbben más, könnyebben elérhető módszert (gél, tapasz, tabletta vagy injekció) választanak.
+
+## Források
+
+➡️ [Estradiol (medication) - Wikipedia](https://en.wikipedia.org/wiki/Estradiol_(medication))
 
 </div>
