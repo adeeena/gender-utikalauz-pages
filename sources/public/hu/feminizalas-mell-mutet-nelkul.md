@@ -61,6 +61,37 @@ Sajnos a transz nők számára történő felszereléssel kapcsolatos kollektív
 
 [Ez a kalkulátor hasznos segítség megmérni magadat, majd dönteni, mely melltartók lesznek a megfelelőek.](https://www.abrathatfits.org/calculator.php)
 
+## Hogyan mérd meg magad?
+
+A melltartóméret két részből áll: a **pántméretből** (a bordakosár körméretéből) és a **kosárméretből** (a mell teltségéből). A méréshez egy puha mérőszalag kell.
+
+1. **Bordabőség:** mérd meg szorosan a mellkasod a mell alatt. Ez adja a pántméretet.
+2. **Mellbőség:** mérd meg lazán a mell legteltebb pontján.
+3. **Különbség:** vond ki a bordabőséget a mellbőségből. A különbség adja a kosárméretet az alábbi táblázat szerint.
+
+<table>
+    <thead>
+        <tr>
+            <th>Mellbőség és bordabőség különbsége</th>
+            <th>Kosárméret</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>~2,5 cm</td><td>A</td></tr>
+        <tr><td>~5 cm</td><td>B</td></tr>
+        <tr><td>~7,5 cm</td><td>C</td></tr>
+        <tr><td>~10 cm</td><td>D</td></tr>
+        <tr><td>~12,5 cm</td><td>DD (E)</td></tr>
+        <tr><td>~15 cm</td><td>F</td></tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+A transz nők bordakosara gyakran szélesebb, a melle pedig kisebb és tövénél keskenyebb lehet, ezért a szokásos boltok mérettáblázatai nem mindig illenek rád. Ha két méret között vagy, próbálj ki többfélét. Részletes útmutató: <a href="https://bustyresources.fandom.com/wiki/How-to_determine_bra_size#Measuring_for_trans_women">Busty Resources (mérés transz nőknek)</a>.
+
+</div>
+
 ## Hogyan kell felvenni a melltartót?
 
 Két fő módszer van a hátsó csattal és pántokkal ellátott melltartók felvételére.
