@@ -1,8 +1,14 @@
 ﻿---
-title: "Tévhitek és mítoszok transz nőkről és a transzfeminin identitással kapcsolatban"
-description: "Milyen hazugságok, fals információk, elferdített tények keringenek a transzidentitásról és a transz emberekről? És mi az igazság mögöttük?"
+title: "Tévhitek és mítoszok transz nőkről"
+description: "A transzellenes retorika leggyakoribb érveinek leleplezése: biológiai és társadalmi tévhitek, a 'veszély a nőkre' vád és a gyermekeket érintő félrevezetések cáfolata."
 lang: hu
-
+keywords: "transz nők tévhitek, transzfób érvek, TERF, transzellenes retorika, biológiai nem tévhit, transz mítoszok"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-nok-tevhitek-es-mitoszok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_happy_feeling.svg"
+slug: "transz-nok-tevhitek-es-mitoszok"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_happy_feeling.svg" /></div>
@@ -158,6 +164,30 @@ A transzneműek jogaiért folytatott küzdelmek elleni visszahatást ezért egy 
 **Ki akarunk lépni abból a gödörből, amelyben elnyomóink szívesen látnak minket.**
 
 **Újra fel akarjuk fedezni a valódi emancipációs küzdelmek útját mindenki javára, minden nőért, mindenki egyenlőségéért.**
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Igaz, hogy a biológia szerint a transz nők "valójában férfiak"?
+
+Nem. A biológiai nem összetett (genetika, hormonok, anatómia), és az emberek körülbelül 2%-a születik valamilyen eltéréssel. A nőket a nemi szerveikre redukálni szexista érv, amelyet a feminizmus történetileg mindig elutasított.
+
+### A transz nők veszélyt jelentenek más nőkre?
+
+Nem. A transz nők nem potenciális támadók; ezt semmilyen statisztikai adat nem támasztja alá. Épp ellenkezőleg, a transz nők a túlányomórészt férfiak által elkövetett erőszak egyik legveszélyeztetettebb áldozati csoportja.
+
+### Megtartják a transz nők a férfi kiváltságaikat?
+
+Nem. Akár férfiként kezelték őket életük egy részében, akár nem, a transz nők ugyanúgy megtapasztalják a szexizmust, sőt a transz nőkre irányuló erőszak világszerte kiemelten magas.
+
+### A gyerekeket tranzícióra kényszerítik?
+
+Nem. A kiskorúak átmenete Magyarországon és külföldön is szigorúan szabályozott, és inkább a meghallgatásról és az idő adásáról szól, nem kényszerítésről. A "kényszerítés" vádja tény eként beállított félelemkeltés.
+
+## Források
+
+➡️ [Mythes et mensonges sur les personnes trans](https://toutesdesfemmes.fr/faq-mythes-et-mensonges-sur-les-personnes-trans/)
+
+➡️ [Histories of the Transgender Child](https://www.upress.umn.edu/book-division/books/histories-of-the-transgender-child)
 
 ## Forrás
 
