@@ -145,6 +145,43 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat 
 </table>
 
 
+### Miért biztonságosabb a bőrön át történő bevitel?
+
+A tabletta lenyelve először a májon halad át (ezt nevezzük "first-pass" hatásnak), ami megnöveli bizonyos véralvadási faktorok termelését, és ezzel kissé emeli a trombózis (vérrögképződés) kockázatát. A gél és a tapasz a bőrön át közvetlenül a véráramba jut, nagyrészt kikerülve a májat, ezért transzdermálisan alacsonyabb ez a kockázat.
+
+<figure>
+<svg viewBox="0 0 620 240" width="100%" role="img" aria-label="A tabletta és a transzdermális ösztrogén útja a szervezetben">
+  <rect x="0" y="0" width="620" height="240" fill="#ffffff"/>
+  <defs>
+    <marker id="ea" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#666"/></marker>
+  </defs>
+  <!-- bal: tabletta -->
+  <text x="155" y="26" text-anchor="middle" font-size="13" fill="#7a2b52" font-weight="bold">Szájon át (tabletta)</text>
+  <rect x="85" y="40" width="140" height="36" rx="6" fill="#fce4ec" stroke="#b8447e"/>
+  <text x="155" y="63" text-anchor="middle" font-size="12" fill="#7a2b52">ösztradiol</text>
+  <line x1="155" y1="76" x2="155" y2="104" stroke="#666" stroke-width="2" marker-end="url(#ea)"/>
+  <rect x="95" y="108" width="120" height="36" rx="6" fill="#fff3e0" stroke="#cc8a2f"/>
+  <text x="155" y="131" text-anchor="middle" font-size="12" fill="#8a5a1f">máj (first-pass)</text>
+  <line x1="155" y1="144" x2="155" y2="172" stroke="#666" stroke-width="2" marker-end="url(#ea)"/>
+  <text x="155" y="190" text-anchor="middle" font-size="11" fill="#8a3b29">véralvadási faktorok &#8593;</text>
+  <text x="155" y="208" text-anchor="middle" font-size="11" fill="#8a3b29">magasabb trombóziskockázat</text>
+  <!-- valaszto -->
+  <line x1="310" y1="35" x2="310" y2="215" stroke="#eee" stroke-width="1"/>
+  <!-- jobb: bor -->
+  <text x="465" y="26" text-anchor="middle" font-size="13" fill="#3a7a45" font-weight="bold">Bőrön át (gél, tapasz)</text>
+  <rect x="395" y="40" width="140" height="36" rx="6" fill="#fce4ec" stroke="#b8447e"/>
+  <text x="465" y="63" text-anchor="middle" font-size="12" fill="#7a2b52">ösztradiol</text>
+  <line x1="465" y1="76" x2="465" y2="104" stroke="#666" stroke-width="2" marker-end="url(#ea)"/>
+  <rect x="400" y="108" width="130" height="36" rx="6" fill="#e8f5e9" stroke="#3a7a45"/>
+  <text x="465" y="131" text-anchor="middle" font-size="12" fill="#1f4d28">közvetlenül a vérbe</text>
+  <line x1="465" y1="144" x2="465" y2="172" stroke="#666" stroke-width="2" marker-end="url(#ea)"/>
+  <text x="465" y="190" text-anchor="middle" font-size="11" fill="#3a7a45">kevésbé terheli a májat</text>
+  <text x="465" y="208" text-anchor="middle" font-size="11" fill="#3a7a45">alacsonyabb trombóziskockázat</text>
+</svg>
+<figcaption><i>A bőrön át felszívódó ösztradiol nagyrészt kikerüli a májat, ezért transzdermálisan alacsonyabb a vérrögképződés kockázata. Forrás: <a href="https://pghrt.diy/">pghrt.diy</a>.</i></figcaption>
+</figure>
+
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Melyik ösztrogén a legfontosabb a hormonterápiában?
