@@ -1,7 +1,14 @@
 ---
 title: "Mintalevél kibújáshoz - Nyilvános coming out"
-description: "Mintalevél, ami segíthet a coming outodban a nyilvánosság felé."
+description: "Másolható mintalevél a nyilvános coming outhoz, amely segít szavakba önteni a transz identitásod bejelentését a szélesebb környezeted felé."
 lang: hu
+keywords: "nyilvános coming out levél, mintalevél kibújás, transz coming out minta, közösségi média coming out"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mintalevel-kibujashoz-1"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_reading.svg"
+slug: "mintalevel-kibujashoz-1"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
