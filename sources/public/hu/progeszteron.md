@@ -193,6 +193,47 @@ Jobb szinteket lehet azonban elérni, ha a progeszteront kúp formájában szedj
 
 Bár nagyon nehéz előre megbecsülni, hogy ki hogyan fog reagálni a progeszteronra, a legbölcsebb tanács, amit adhatunk, hogy a teszteléssel várjuk meg, amíg a mellek fejlődése kellően előrehaladott, és azután a tapasztalt hatások alapján nézzük meg, hogy akarjuk-e folytatni vagy sem.
 
+## Szájon át vagy kúpként? Az anyagcsere különbsége
+
+A progeszteron egészen másképp viselkedik attól függően, hogyan szeded. **Szájon át** szedve nagy része a májban **allopregnanolonná** alakul; ez magyarázza az álmosító, nyugtató hatást, miközben magából a progeszteronból viszonylag kevés jut a véredbe. **Kúp formájában** (rektálisan) a progeszteron nagyrészt kikerüli a máj első áthaladását, így inkább magából a progeszteronból lesz több, és magasabb, hasznosabb szint érhető el.
+
+<figure>
+<svg viewBox="0 0 620 230" width="100%" role="img" aria-label="A progeszteron anyagcseréje szájon át és kúpként">
+  <rect x="0" y="0" width="620" height="230" fill="#ffffff"/>
+  <defs>
+    <marker id="pa" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#666"/></marker>
+  </defs>
+  <!-- bal: szajon at -->
+  <text x="155" y="28" text-anchor="middle" font-size="13" fill="#7a2b52" font-weight="bold">Szájon át (tabletta)</text>
+  <rect x="80" y="45" width="150" height="40" rx="6" fill="#fce4ec" stroke="#b8447e"/>
+  <text x="155" y="70" text-anchor="middle" font-size="12" fill="#7a2b52">progeszteron</text>
+  <line x1="155" y1="85" x2="155" y2="120" stroke="#666" stroke-width="2" marker-end="url(#pa)"/>
+  <text x="165" y="106" font-size="11" fill="#666">máj (first-pass)</text>
+  <rect x="70" y="125" width="170" height="40" rx="6" fill="#ede7f6" stroke="#6a4ca5"/>
+  <text x="155" y="150" text-anchor="middle" font-size="12" fill="#3d2c66">főleg allopregnanolon</text>
+  <text x="155" y="190" text-anchor="middle" font-size="11" fill="#888">álmosság, nyugtató hatás</text>
+  <!-- valaszto -->
+  <line x1="310" y1="40" x2="310" y2="200" stroke="#eee" stroke-width="1"/>
+  <!-- jobb: kup -->
+  <text x="465" y="28" text-anchor="middle" font-size="13" fill="#3a7a45" font-weight="bold">Kúp (rektális)</text>
+  <rect x="390" y="45" width="150" height="40" rx="6" fill="#fce4ec" stroke="#b8447e"/>
+  <text x="465" y="70" text-anchor="middle" font-size="12" fill="#7a2b52">progeszteron</text>
+  <line x1="465" y1="85" x2="465" y2="120" stroke="#666" stroke-width="2" marker-end="url(#pa)"/>
+  <text x="475" y="106" font-size="11" fill="#666">kikerüli a májat</text>
+  <rect x="385" y="125" width="160" height="40" rx="6" fill="#e8f5e9" stroke="#3a7a45"/>
+  <text x="465" y="150" text-anchor="middle" font-size="12" fill="#1f4d28">főleg progeszteron</text>
+  <text x="465" y="190" text-anchor="middle" font-size="11" fill="#888">magasabb hasznos szint</text>
+</svg>
+<figcaption><i>Szájon át szedve a progeszteron nagyrészt allopregnanolonná alakul (innen az álmosság); kúpként magasabb hasznos progeszteronszint érhető el. Forrás: <a href="https://pghrt.diy/">pghrt.diy</a> (8. szakasz).</i></figcaption>
+</figure>
+
+<div class="infobox warning">
+<h5>💊 Kölcsönhatás az 5-α-reduktáz-gátlókkal</h5>
+
+Ha [finasteridet](/#/entry?id=finasteride) vagy [dutasteridet](/#/entry?id=dutasteride) is szedsz, ezek befolyásolhatják, hogyan bomlik le a progeszteron allopregnanolonná, ami egyeseknél levertséget okozhat (függetlenül attól, hogyan szeded a progeszteront). Ez a hatás a leállítás után akár egy hónapig is fennmaradhat.
+
+</div>
+
 ## Források
 
 ➡️ [Why progesterone?](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/edit)
