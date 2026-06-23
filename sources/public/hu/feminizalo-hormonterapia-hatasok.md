@@ -1,7 +1,14 @@
 ---
 title: "Feminizáló hormonterápia hatásai"
-description: "Mikre lehet számítani a feminizáló hormonterápia hatásaiként?"
+description: "Mire számíthatsz a feminizáló hormonterápia hatásaiként: testforma, mellfejlődés, bőr, szőrzet, érzelmek, szexualitás és a visszafordithatatlan változások."
 lang: hu
+keywords: "feminizáló HRT hatások, mellfejlődés, testforma, ösztrogén hatásai, mikrodózis, libidó, sterilitás, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-hormonterapia-hatasok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_ride_till_i_can_no_more.svg"
+slug: "feminizalo-hormonterapia-hatasok"
 ---
 
 <div class="floating-columns">
@@ -181,6 +188,28 @@ A mikrodózisban adagolt HRT mellékhatásai kevésbé kutatott területek, így
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
 
 ➡️ [Hormones: A guide for MTFs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mennyi idő alatt jelennek meg a feminizáló HRT hatásai?
+
+A hatások fokozatosan, hónapok és évek alatt jelennek meg, és személyenként nagyon eltérőek. A bőr és a hangulat változása gyakran az első hónapokban kezdődik, a testforma és a mellfejlődés viszont több évet is igénybe vehet.
+
+### Befolyásolja az életkor a feminizáló HRT eredményét?
+
+Részben igen. Ha a pubertás vége előtt kezded, a csontváz (például a csípő) még feminin formát vehet fel, és a mell is nagyobbra fejlődhet. A többi hatásra az életkor viszonylag kevéssé hat, legfeljebb lassabban jelennek meg.
+
+### Visszafordithatóak a feminizáló HRT hatásai?
+
+Némelyik igen, némelyik nem. A mellfejlődés és a HRT okozta esetleges sterilitás gyakran visszafordithatatlan, míg például a bőr és az izomtömeg változásai a kezelés leállítása után nagyrészt visszatérnek a korábbi állapotba.
+
+### Mi az a mikrodózis?
+
+Mikrodózisról akkor beszélünk, ha a cél hormonszintek a cisznői tartomány alsó határához közelítenek. Hasznos lehet, ha lassabb változást vagy androgün hatást szeretnél, de fontos tudni, hogy idővel így is megjelenhet az összes hatás, és figyelni kell a hormonhiány tüneteire (hőhullám, depresszió).
+
+### Sterillé tesz a feminizáló HRT?
+
+A HRT minden formája nagy valószínűséggel csökkenti a termékenységet, gyakran visszafordithatatlanul. Ha szeretnél biológiai gyermeket, a HRT megkezdése előtt érdemes [termékenység-megőrzésről](/#/entry?id=termekenyseg-megorzese) (sperma fagyasztás) gondoskodni.
 
 </div>
 
