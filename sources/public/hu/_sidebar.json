@@ -101,6 +101,35 @@
     ]
   },
   {
+    "title": "❤️ Kapcsolatok és szexualitás",
+    "children": [
+      {
+        "entryId": "transzidentitas-es-szexualitas",
+        "title": "Transzidentitás és szexualitás"
+      },
+      {
+        "entryId": "partkapcsolat-randizas-kibujas-partnernek",
+        "title": "Párkapcsolat, randizás, kibújás a partnernek"
+      },
+      {
+        "entryId": "biztonsagos-szex-transz-noknek",
+        "title": "Biztonságos szex transz nőknek"
+      },
+      {
+        "entryId": "biztonsagos-szex-transz-ferfiaknak",
+        "title": "Biztonságos szex transz férfiaknak"
+      },
+      {
+        "entryId": "hiv-es-nemi-betegsegek",
+        "title": "HIV és nemi betegségek"
+      },
+      {
+        "entryId": "szexualis-elet-a-mutetek-utan",
+        "title": "Szexuális élet a műtétek után"
+      }
+    ]
+  },
+  {
     "title": "🔍 Bizonytalanoknak",
     "children": [
       {
