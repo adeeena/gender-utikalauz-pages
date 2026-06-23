@@ -1,7 +1,14 @@
 ---
 title: "Masztektómia"
-description: "Minden, amit tudni akartál a masztektómia műtétrôl a transzmaszkulin hormonterápiával kapcsolatban"
+description: "A masztéktómia (mellkasi maszkulinizáló műtét) technikái, lefolyása, gyógyulása és eredményei transzmaszkulin embereknek."
 lang: hu
+keywords: "masztéktómia, top surgery, mellkasi műtét, torsoplasztika, dupla bemetszés, periareoláris, FTM műtét"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalas-masztektomia"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
+slug: "maszkulinizalas-masztektomia"
 ---
 
 <div class="floating-columns">
