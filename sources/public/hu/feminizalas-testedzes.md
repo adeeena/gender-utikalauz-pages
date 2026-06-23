@@ -1,7 +1,14 @@
 ---
 title: "Testedzés - Női passing"
-description: "Testformáló gyakorlatok a még femininebb sziluettért"
+description: "Testformáló gyakorlatok a nőiesebb sziluettért: farizom-fókuszú edzés, keskenyebb derék és kardió tippek transz nőknek."
 lang: hu
+keywords: "testedzés, nőies sziluett, farizom edzés, guggolás, keskeny derék, női passing, transznemű nő, alakformálás"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-testedzes"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_shopping_bags.svg"
+slug: "feminizalas-testedzes"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_shopping_bags.svg" /></div>
@@ -12,7 +19,7 @@ Ezt a gyakorlatsort azoknak tervezték, akik androgün vagy nőiesebb testalkato
 
 ## Kíváncsi vagy, hogyan lehet nőiesebb alakod?
 
-**Röviden: renegeteg edzés a fenékre.**
+**Röviden: rengeteg edzés a fenékre.**
 
 Kicsit bővebben: összpontosíts a legfontosabb gyakorlatokra, amelyek a fenék legnagyobb izmát (glute maximus) és a fenék külső részén lévő izmokat (glute medius és minimus) építik, miközben feszes törzset tartanak fenn. Ez a megközelítés hatékonyan "kicselezheti" a nőies testalkatot a csípő és a súly arányának növelésével. Ez ugyanaz a megközelítés, amelyet a női specifikus edzésről szóló különböző szövegekben (pl. Glute Lab, Strong Curves, stb...) felvázolnak, és nemtől függetlenül hatékony. Mindannyiunknak ugyanazok az izmai.
 
@@ -25,7 +32,7 @@ Ezen túlmenően nem sokat tehetsz a derekad méretének csökkentése érdekéb
 
 <div class="infobox info">
 
-Ha teljesen kezdő vagy, maradj a csillaggal (&ast;) jelölt gyakorlatoknál. Így ez egy három gyakorlatos, szuper egyszerű sor lesz (plusz kardió!), amelyet körülbelül 20 perc alatt végezhetsz el. Ez segíteni fog az izomzat és a forma kezdeti nkialakításában. Ha úgy gondolod, hogy legalább kicsit is fitt vagy, akkor próbáld meg az összes felsorolt gyakorlatot elvégezni.
+Ha teljesen kezdő vagy, maradj a csillaggal (&ast;) jelölt gyakorlatoknál. Így ez egy három gyakorlatos, szuper egyszerű sor lesz (plusz kardió!), amelyet körülbelül 20 perc alatt végezhetsz el. Ez segíteni fog az izomzat és a forma kezdeti kialakításában. Ha úgy gondolod, hogy legalább kicsit is fitt vagy, akkor próbáld meg az összes felsorolt gyakorlatot elvégezni.
 
 Szintén szinte az összes gyakorlatot elvégezheted testsúllyal, de néhány beszerzés (súlyzó, [haskerék/ab wheel](https://www.decathlon.hu/p/haskerek-crosstreninghez-ab-wheel/_/R-p-167411), [bokasúly](https://www.decathlon.hu/p/fitnesz-csuklo-es-bokasuly-2x1-kg/_/R-p-152952?mc=8358972)) óriási segítséget jelent. És ezek viszonylag olcsón be is szerezhetőek.
 
@@ -83,3 +90,17 @@ A kardió egy külön dolog, és túl összetett ahhoz, hogy egy egyszerű bejeg
 ## Források
 
 ➡️ [Reddit r/SissyFitness](https://reddit.com/r/sissyfitness)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Milyen edzés segít a nőiesebb alakban?
+
+A nőiesebb sziluetthez elsősorban a farizmok (glute maximus, medius és minimus) építése segít, miközben feszes törzset tartasz. Ez növeli a csípő-derék arányt, ami nőiesebb benyomást kelt.
+
+### Tényleg keskenyebb derekat kaphatok edzéssel?
+
+Részben igen: ha csökkented a testzsírt és növeled a törzs izomtónusát, optikailag keskenyebb derék alakítható ki. A derék csontvázának mérete azonban nem változik, bár a női hormonok a zsírt a csípő felé irányíthatják.
+
+### Kezdőként mivel érdemes kezdeni?
+
+Kezdőnek elég a guggolás, a kitörés vagy lépcsőzés és a farizom híd, plusz heti 2-3 kardió. Ez egy egyszerű, kb. 20 perces rutin, amelyet testsúllyal is el lehet végezni.
