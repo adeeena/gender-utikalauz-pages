@@ -43,6 +43,25 @@ A teljes gyógyulás hónapokat vehet igénybe, és sebészenként, illetve műt
 
 ➡️ Kapcsolódó: [Maszkulinizáló műtétek](/#/entry?id=maszkulinizalas-mutetek)
 
+<table>
+    <thead>
+        <tr>
+            <th>Műtét típusa</th>
+            <th>Fontos szempontok a gyógyulás során</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Vaginoplasztika</td>
+            <td>Dilatációs protokoll betartása, fokozatosan kialakuló érzékenység, bőséges síkosító (a neovagina nem termel saját nedvességet)</td>
+        </tr>
+        <tr>
+            <td>Phalloplasztika és metoidioplasztika</td>
+            <td>Fokozatosan visszatérő érzékenység, technikafüggő szexuális funkció, előzetes egyeztetés a sebésszel</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Diszfória, eufória és testkép
 
 A műtét után a testérzeted megváltozhat, ami sokaknál csökkentheti a diszfóriát és növelheti a testtel való elégedettséget. Ugyanakkor az új test megismerése időt vehet igénybe; légy önmagaddal türelmes.
