@@ -1,7 +1,14 @@
 ---
 title: "Feminizáló hormonterápia"
-description: "Információkat transz nők és transzfeminin személyek számára elérhető feminizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
+description: "Információk transz nők és transzfeminin személyek számára elérhető feminizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
 lang: hu
+keywords: "feminizáló hormonterápia, HRT, MtF, ösztrogén, antiandrogén, transznemű nő, transzfeminin, hormonkezelés"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-hormonterapia"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "feminizalo-hormonterapia"
 ---
 
 <div class="floating-columns">
@@ -99,5 +106,19 @@ Jó olvasást!
 ➡️ [wikitrans.co](https://wikitrans.co)
 
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi az a feminizáló hormonterápia (HRT)?
+
+A feminizáló hormonterápia a test nemi hormonszintjeinek módosítása: a tesztoszteront lecsökkenti vagy blokkolja, az ösztradiolt pedig a cisznői tartományba emeli, hogy a test nőiesebb formát vegyen fel. Transz nők és transzfeminin személyek számára a tranzíció egyik leggyakoribb orvosi lépése.
+
+### Hogyan tudok hozzájutni a feminizáló HRT-hez?
+
+A HRT-t orvos (háziorvos, endokrinológus vagy nőgyógyász) írhatja fel az egészségi állapotod kiértékelése után. Részletekről a [hormonterápia elkezdése](/#/entry?id=hormonterapia-elkezdese) című cikkben olvashatsz.
+
+### Hol érdemes elkezdeni a tájékozódást?
+
+Először olvasd el a feminizáló HRT [alapjait](/#/entry?id=feminizalo-hormonterapia-alapok), a [használt technikákat](/#/entry?id=feminizalo-hormonterapia-technikak) és a [hatásait](/#/entry?id=feminizalo-hormonterapia-hatasok). Ezután nézd meg, hogyan juthatsz kezeléshez, végül pedig az egyes ösztrogéneket, antiandrogéneket és progesztineket bemutató oldalakat.
 
 </div>
