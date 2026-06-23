@@ -1,7 +1,14 @@
 ---
 title: "Cipők - Női passing"
-description: "Hol lehet megfelelő minősegben cipőket találni nagyobb lábméretű nők számára?"
+description: "Hol találsz nagyobb méretű női cipőket Magyarországon és online, 41-es mérettől felfelé, bolti és webshop tippekkel."
 lang: hu
+keywords: "nagy méretű női cipő, 43-as női cipő, transznemű nő, cipőbolt, online cipő, női passing"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-cipok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_shopping_bags.svg"
+slug: "feminizalas-cipok"
 ---
 
 <div class="floating-columns">
@@ -71,5 +78,15 @@ Azoknak, akiknek nincs lehetőségük boltba menni, csak az online boltok maradn
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Hol találok nagy méretű női cipőt Magyarországon?
+
+A 41-42-es női méretek a legtöbb nagyobb cipőboltban megtalálhatók, gyakran "XL" jelzéssel. A 43-as és a feletti méreteknél a választék kisebb; a Deichmann 44-ig, a Humanic 46-ig kínál ilyeneket.
+
+### Hol rendelhetek nagy méretű női cipőt online?
+
+Az interneten sokkal nagyobb a választék; többek között az Asos (43,5-ig), az Onlymaker, a Zalando és a Spartoo kínál nagyobb méretű női cipőket.
 
 </div>
