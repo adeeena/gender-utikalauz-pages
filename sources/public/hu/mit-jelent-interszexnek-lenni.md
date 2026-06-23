@@ -1,7 +1,14 @@
 ﻿---
 title: "Mit jelent interszexnek lenni?"
-description: "Tények, tévhitek és bemutató az interszexualitásról"
+description: "Az interszexualitás azt jelenti, hogy valaki olyan biológiai nemi jellegzetességgel születik, amely nem tipikusan férfi vagy női; tények, tévhitek és a transz identitástól való különbség."
 lang: hu
+keywords: "interszex, interszexualitás, biológiai nem, nemi jellegzetesség, intersex, hermafroditizmus tévhit"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mit-jelent-interszexnek-lenni"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/intersex-pride-flag.png"
+slug: "mit-jelent-interszexnek-lenni"
 ---
 
 <div class="header-image"><img src="assets/images/intersex-pride-flag.png" /></div>
@@ -18,6 +25,24 @@ Az interszexualitást néha "hermafroditizmusnak" nevezik, de ezt az érintettek
 Ajánlatos az interszex szót használni, és az érintett személyekre interszexként (leíró kifejezés) vagy interszexként (inkább politikai kifejezés, mivel nem minden interszexuális személy tekinti magát interszexuálisnak) hivatkozni.
 
 **Az interszex nem tévesztendő össze a transz-identitással**, amely a születéskor kijelölt nemtől eltérő társadalmi nemet jelent, míg az interszex biológiai állapot.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mit jelent interszexnek lenni?
+
+Az interszex azt jelenti, hogy valakinek egy vagy több olyan biológiai nemi jellegzetessége van (anatómiai, kromoszómális vagy hormonális), amely nem tekinthető tipikusan férfinak vagy tipikusan nőnek. Ez megfigyelhető születéskor, pubertáskorban vagy később is.
+
+### Mennyire gyakori az interszexualitás?
+
+Becslések szerint a népesség körülbelül 1,7-4%-a interszex valamilyen formában. Nem minden interszex állapot látható szabad szemmel.
+
+### Ugyanaz az interszex, mint a transznemű?
+
+Nem. Az interszex egy biológiai állapot, míg a transzneműség azt jelenti, hogy valaki a születéskor kijelölt nemtől eltérő nemmel azonosul. Egy interszex ember lehet cisz vagy transz is.
+
+### Helyes a "hermafrodita" szó használata?
+
+Nem. A "hermafrodita" tudományosan helytelen az emberre nézve, és az érintettek elutasítják, mert egy képzeletbeli fétisre utal. Helyette az interszex szó használata ajánlott.
 
 ## Kapcsolódó linkek
 
