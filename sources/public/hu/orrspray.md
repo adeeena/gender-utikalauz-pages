@@ -1,7 +1,14 @@
 ---
-title: "😐Orrspray"
-description: "Ismerd meg az 😐Orrspray előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Orrspray"
+description: "Az ösztrogén orrspray egy ritkábban használt beviteli mód a feminizáló hormonterápiában: hogyan működik, előnyök, hátrányok és GYIK."
 lang: hu
+keywords: "ösztrogén orrspray, ösztradiol orrspray, feminizáló HRT, hormonbevitel, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/orrspray"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_workout.svg"
+slug: "orrspray"
 ---
 
 <div class="floating-columns">
@@ -92,5 +99,23 @@ A gyakorlatban a jellemzők nagyjából ugyanazok, mint a transzdermális alkalm
 * Magyarországon nem áll rendelkezésre
 
 * Általában drágább, mint a gél vagy a tapasz
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Hogyan szívódik fel a hormon az orrspray-ből?
+
+Az orrspray a hormont az orr belső nyálkahártyáján keresztül juttatja a szervezetbe, ahonnan az felszívódik. A jellemzői nagyjából megegyeznek a transzdermális (gél, tapasz) bevitelével, így nincs trombóziskockázata.
+
+### Kinek lehet jó választás az orrspray?
+
+Azoknak lehet alternatíva, akik nem tűrik jól a gél vagy a tapasz bőrkontaktusát. Hátránya, hogy Magyarországon nem elérhető, és általában drágább a többi transzdermális módszernél.
+
+### Stabil hormonszintet ad az orrspray?
+
+Igen, az orrspray általában stabil hormonszintet biztosít és könnyen adagolható. A pontos adagolást és a vérszintek ellenőrzését azonban itt is érdemes orvossal egyeztetni.
+
+## Források
+
+➡️ [Estradiol (medication) - Wikipedia](https://en.wikipedia.org/wiki/Estradiol_(medication))
 
 </div>
