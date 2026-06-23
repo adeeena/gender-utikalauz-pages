@@ -31,6 +31,39 @@ A tesztoszteronterápia hatására általában megindul vagy felerősödik az ar
 * A sűrűség és a teljes lefedettség évek alatt alakulhat ki, ha egyáltalán teljessé válik.
 * A végeredményt nagyrészt a **genetika** határozza meg (nézd meg a családod férfi tagjait).
 
+<table>
+    <thead>
+        <tr>
+            <th>Időszak T mellett</th>
+            <th>Mire számíthatsz</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1-6 hónap</td>
+            <td>Finom pihe a felső ajkon és az állon</td>
+        </tr>
+        <tr>
+            <td>6-12 hónap</td>
+            <td>Sűrűsödő, sötétedő szőr az arc alsó részén</td>
+        </tr>
+        <tr>
+            <td>1-3 év</td>
+            <td>A szakáll terjedése az arcon, fokozatos sűrűsödés</td>
+        </tr>
+        <tr>
+            <td>3-5+ év</td>
+            <td>A végső sűrűség kialakulása (erősen genetikafüggő)</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox warning">
+
+Ezek tájékoztató tartományok; az arcszőr fejlődése nagy egyéni eltéréseket mutat, és nem mindenkinél válik teljessé.
+
+</div>
+
 ➡️ Kapcsolódó: [Maszkulinizáló hormonterápia hatásai](/#/entry?id=maszkulinizalo-hormonterapia-hatasok)
 
 ## Ha lassan vagy egyenetlenül nő
