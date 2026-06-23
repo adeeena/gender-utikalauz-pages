@@ -23,6 +23,38 @@ A szervezetek elérhetőségei és szolgáltatásai időről időre változhatna
 
 </div>
 
+<table>
+    <thead>
+        <tr>
+            <th>Szervezet</th>
+            <th>Mivel foglalkozik</th>
+            <th>Honlap</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Háttér Társaság</td>
+            <td>Jogsegély, telefonos és online információs szolgálat</td>
+            <td><a href="https://hatter.hu/">hatter.hu</a></td>
+        </tr>
+        <tr>
+            <td>Transvanilla Transznemű Egyesület</td>
+            <td>Transz érdekképviselet, jogi nemi elismerés</td>
+            <td><a href="https://transvanilla.hu/">transvanilla.hu</a></td>
+        </tr>
+        <tr>
+            <td>TGEU (Transgender Europe)</td>
+            <td>Európai érdekvédelem, jogi és egészségügyi információ</td>
+            <td><a href="https://tgeu.org/">tgeu.org</a></td>
+        </tr>
+        <tr>
+            <td>Magyar Helsinki Bizottság</td>
+            <td>Emberi jogi és diszkriminációs ügyek</td>
+            <td><a href="https://helsinki.hu/">helsinki.hu</a></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Jogi segítség és érdekvédelem
 
 ### Háttér Társaság
