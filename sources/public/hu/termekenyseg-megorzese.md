@@ -1,7 +1,14 @@
 ---
 title: "Termékenység megőrzése"
-description: "Milyen lehetőségek állnak a transz emberek részére, hogy megőrizzék termékenységüket?"
+description: "Hogyan őrizhetik meg a transz emberek a termékenységüket a tranzíció előtt: spermium- és petesejtfagyasztás, hereszszövet-megőrzés és a későbbi termékenységi kezelések."
 lang: hu
+keywords: "termékenység megőrzése transz, spermafagyasztás, petesejt fagyasztás, transz termékenység, IVF transz, tranzíció gyermekvállalás"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/termekenyseg-megorzese"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_family.svg"
+slug: "termekenyseg-megorzese"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_family.svg" /></div>
@@ -58,6 +65,24 @@ Még mindig nagyon keveset tudunk arról, hogy milyen összetett hormonális ös
 Ha a partner cisz nő, a transz férfi lefagyasztott petesejtjei felhasználhatók megtermékenyítésre (IVF) vagy intracitoplazmatikus spermiuminjekcióval (ICSI) történő megtermékenyítésre egy donortól származó spermamintával.
 
 Ha a transz férfinak férfi partnere van, a partner spermamintája felhasználható a fagyasztott petesejtek megtermékenyítéséhez. Ez lehetővé teszi, hogy mindkét szülővel biológiai rokonságban álló gyermek szülessen, bár ehhez béranya is szükséges.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mikor érdemes a termékenység megőrzésén gondolkodni?
+
+Lehetőleg a hormonterápia megkezdése előtt, mert a hormonok befolyásolják az ivarsejttermelést. A spermium- vagy petesejtfagyasztás a leghatékonyabb, ha még a kezelés előtt történik, de utána is van lehetőség a hormonok ideiglenes leállításával.
+
+### Le tudja fagyasztani a spermáját egy transz nő a hormonok megkezdése után?
+
+Nehezebb. A spermafagyasztáshoz a spermatermelésnek működnie kell; aki a pubertás legelején kezdte a gátlószereket, esetleg nem tud spermát adni. Ilyenkor sebészi úton hereszszövet fagyasztható, bár ez még kísérleti módszer.
+
+### A tesztoszteron fogamzásgátló?
+
+Nem. A tesztoszteron nem fogamzásgátló, és a szedése közben bekövetkező terhesség születési rendellenességeket okozhat a magzatnál. Ha terhesség lehetősége fennáll, külön fogamzásgátlásról kell gondoskodni.
+
+### Szülhet egy transz férfi gyermeket?
+
+Igen, ha megvannak a szükséges szervei. A tesztoszteront ilyenkor le kell állítani, és meg kell várni a menstruáció visszatérését. Sok transz férfi számára ez érzelmileg megterhelő lehet, de orvosilag lehetséges.
 
 ## Források, cikkek
 
