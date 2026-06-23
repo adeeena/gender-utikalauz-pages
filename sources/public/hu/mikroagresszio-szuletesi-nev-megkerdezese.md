@@ -1,7 +1,14 @@
 ---
-title: "🚫 Születési név megkérdezése. - Nemi mikroagresszió"
-description: "Mikroagresszió magyarázata, háttere, javaslatok."
+title: "Születési név megkérdezése - Nemi mikroagresszió"
+description: "Miért bántó, ha egy transz embertől a születési vagy 'valódi' nevét kérdezik: ez elutasítja az identitását és a választott nevét."
 lang: hu
+keywords: "deadname, születési név, valódi név transz, transz név megkérdezése, nemi mikroagresszió"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mikroagresszio-szuletesi-nev-megkerdezese"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_feeling_blue.svg"
+slug: "mikroagresszio-szuletesi-nev-megkerdezese"
 source: 0ef33a89-f43e-45ca-887a-9415f8d1fc9c
 ---
 
@@ -40,6 +47,15 @@ Ez a kérdés azt sugallja, hogy az illető nem tekinti "valódi" névnek azt a 
 
 Elutasítja a transznemű személy identitását és azt, hogy ki/hogyan akarja magát bemutatni. Nem tesz különbséget egy személy neve és identitása, valamint "hivatalos neve" között.
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Miért ne kérdezzem meg egy transz ember születési nevét?
+
+Mert ezzel azt sugallod, hogy a választott neve nem "valódi", és a korábbi neve (a deadname) érvényesebb. Ez fájdalmas, és elutasítja az illető identitását. A valódi név az, amelyet ő megoszt veled.
+
+### Mit tegyek, ha véletlenül megkérdeztem vagy a régi nevét használtam?
+
+Kérj röviden elnézést, javítsd ki magad, és használd tovább a helyes nevet. Ne csinálj belőle nagy jelenetet; a lényeg, hogy ezután a megfelelő nevet használd.
 
 ## Forrás:
 
