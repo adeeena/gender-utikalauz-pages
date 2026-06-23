@@ -34,6 +34,33 @@ Ez a cikk általános tájékoztatást ad. A konkrét támogatási lehetőségek
 
 ➡️ Kapcsolódó: [Hormontáblázat és kalkulátorok](/#/entry?id=hormontablazat-es-kalkulatorok)
 
+<table>
+    <thead>
+        <tr>
+            <th>Kiadás típusa</th>
+            <th>Jellege</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Orvosi konzultációk, vérvizsgálatok</td>
+            <td>Rendszeres, visszatérő</td>
+        </tr>
+        <tr>
+            <td>Hormonkészítmények (recept szerint)</td>
+            <td>Rendszeres, visszatérő</td>
+        </tr>
+        <tr>
+            <td>Műtétek és utánkövetés</td>
+            <td>Egyszeri, nagyobb kiadás</td>
+        </tr>
+        <tr>
+            <td>Ruhatár, kiegészítők, segédeszközök</td>
+            <td>Változó, ütemezhető</td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="infobox warning">
 
 Soha ne spórolj az orvosi felügyeleten vagy a vérvizsgálatokon. A biztonságos tranzíció hosszú távon olcsóbb, mint az ellenőrizetlen módszerek kockázatainak kezelése.
