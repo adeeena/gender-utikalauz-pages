@@ -178,6 +178,45 @@ Ezek az információk csak tájékoztató jellegűek; a felépülési idő függ
 * **A súlyzós edzés és az intenzívebb sportok** (például küzdősportok) folytatása **6 hét és 2 hónappal a műtét után**, amíg a szövetek elég erősek ahhoz, hogy ellenálljanak a feszültségnek, hogy korlátozza a heg megnagyobbodását.
 Mindenképpen tartd be a sebészed ajánlásait!
 
+<figure>
+<svg viewBox="0 0 620 210" width="100%" role="img" aria-label="A masztektómia utáni felépülés idővonala">
+  <rect x="0" y="0" width="620" height="210" fill="#ffffff"/>
+  <line x1="50" y1="105" x2="585" y2="105" stroke="#2f4a7a" stroke-width="3"/>
+  <!-- csomopontok -->
+  <g font-size="11" fill="#333">
+    <!-- 0 nap -->
+    <circle cx="60" cy="105" r="6" fill="#2f4a7a"/>
+    <text x="60" y="88" text-anchor="middle" font-weight="bold" fill="#2f4a7a">0</text>
+    <text x="60" y="135" text-anchor="middle">Műtét</text>
+    <!-- 10-15 nap -->
+    <circle cx="160" cy="105" r="6" fill="#2f4a7a"/>
+    <text x="160" y="88" text-anchor="middle" font-weight="bold" fill="#2f4a7a">10-15 nap</text>
+    <text x="160" y="135" text-anchor="middle">hétköznapi</text>
+    <text x="160" y="149" text-anchor="middle">tevékenységek</text>
+    <!-- 4-6 het -->
+    <circle cx="280" cy="105" r="6" fill="#2f4a7a"/>
+    <text x="280" y="88" text-anchor="middle" font-weight="bold" fill="#2f4a7a">4-6 hét</text>
+    <text x="280" y="135" text-anchor="middle">kíméletes sport</text>
+    <!-- 6 het-2 ho -->
+    <circle cx="400" cy="105" r="6" fill="#2f4a7a"/>
+    <text x="400" y="88" text-anchor="middle" font-weight="bold" fill="#2f4a7a">6 hét-2 hó</text>
+    <text x="400" y="135" text-anchor="middle">súlyzós edzés,</text>
+    <text x="400" y="149" text-anchor="middle">erős sport</text>
+    <!-- 6 ho -->
+    <circle cx="500" cy="105" r="6" fill="#2f4a7a"/>
+    <text x="500" y="88" text-anchor="middle" font-weight="bold" fill="#2f4a7a">6 hó</text>
+    <text x="500" y="135" text-anchor="middle">végleges</text>
+    <text x="500" y="149" text-anchor="middle">eredmény</text>
+    <!-- 9-18 ho -->
+    <circle cx="575" cy="105" r="6" fill="#7d9bc7"/>
+    <text x="575" y="88" text-anchor="middle" font-weight="bold" fill="#5a7bb0">9-18 hó</text>
+    <text x="575" y="135" text-anchor="middle">hegek</text>
+    <text x="575" y="149" text-anchor="middle">halványulnak</text>
+  </g>
+</svg>
+<figcaption><i>A masztektómia utáni felépülés főbb állomásai. Az időpontok tájékoztató jellegűek, és személyenként eltérhetnek. Forrás: a cikkben hivatkozott sebészeti ajánlások.</i></figcaption>
+</figure>
+
 ## Posztoperatív ellátás
 A jó gyógyulás a bőröd minőségétől, az ápolástól és az általános életmódodtól is függ. Az alábbiakban néhány példát említünk:
 
