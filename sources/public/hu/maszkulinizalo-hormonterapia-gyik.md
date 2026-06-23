@@ -1,7 +1,14 @@
 ---
 title: "Maszkulinizáló hormonterápia GYIK"
-description: "Gyakran feltett kérdések a maszkulinizáló hormonterápiával kapcsolatban."
+description: "Gyakran ismételt kérdések a maszkulinizáló hormonterápiáról: nem-bináris HRT, a kezelés időtartama, termékenység, leállítás és utazás tesztoszteronnal."
 lang: hu
+keywords: "maszkulinizáló HRT GYIK, tesztoszteron kérdések, nem-bináris hormon, termékenység, hormonterápia leállítása, transz férfi"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalo-hormonterapia-gyik"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_questions.svg"
+slug: "maszkulinizalo-hormonterapia-gyik"
 ---
 
 <div class="floating-columns">
