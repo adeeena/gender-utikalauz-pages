@@ -23,6 +23,33 @@ Ezért szükségesnek éreztük, hogy "lebuktassuk" ezeket az érveket, elmagyar
 
 Az alábbiakban a diskurzusukban rendszeresen felhozott fő érveket találja, és az egyes érvekre kattintva magyarázatot találsz arra, hogy miért félrevezetőek vagy tévesek.
 
+<table>
+    <thead>
+        <tr>
+            <th>Fő transzellenes érv</th>
+            <th>Rövid válasz</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>"A transz nők álcázott férfiak"</td>
+            <td>A nem összetett (genetika, hormonok, anatómia); a biológiai esszencializmus szexista és téves</td>
+        </tr>
+        <tr>
+            <td>"A transz nők veszélyt jelentenek a nőkre"</td>
+            <td>Nincs statisztikai alap; a transz nők maguk az erőszak fő áldozatai</td>
+        </tr>
+        <tr>
+            <td>"A transzaktivisták veszélyeztetik a feminizmust"</td>
+            <td>Régi homofób és antifeminista érvek újrahasznosítása</td>
+        </tr>
+        <tr>
+            <td>"Kényszerítjük a gyerekeket a tranzícióra"</td>
+            <td>A folyamat szigorúan szabályozott; időt ad, nem erőltet</td>
+        </tr>
+    </tbody>
+</table>
+
 ## A transz nők nőknek álcázott férfiak
 
 ### Biológiai érvelés: "A transz nők nőknek álcázott férfiak".

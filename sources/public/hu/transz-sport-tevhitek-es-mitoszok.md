@@ -22,6 +22,41 @@ Ami jó hírnek kellene lennie, az a médiában pánikszerű vitatémává vált
 
 Ennek az útmutatónak a célja, hogy megadja a szükséges érveket ezeknek a mesterségesen létrehozott vitáknak a megválaszolásához.
 
+<table>
+    <thead>
+        <tr>
+            <th>Tévhit</th>
+            <th>Valóság</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A transz nők megőrzik a férfi sportelőnyt</td>
+            <td>A tesztoszteron csökkenésével néhány hónap alatt elvész az előny</td>
+        </tr>
+        <tr>
+            <td>Bárki transz nőnek mondhatja magát, hogy nyerjen</td>
+            <td>Szinte senki nem él nőként egy versenyért; a szabályzatok kizárják</td>
+        </tr>
+        <tr>
+            <td>Elég lenne külön kategóriát létrehozni</td>
+            <td>Diszkriminatív lenne, hiszen nincs valós előny</td>
+        </tr>
+        <tr>
+            <td>Transz férfiak nem versenyeznek férfiakkal</td>
+            <td>Sok transz férfi versenyez férfi kategóriában</td>
+        </tr>
+        <tr>
+            <td>Veszélyezteti a többi nőt az öltözőkben</td>
+            <td>Nincs valós kockázat; a férfi öltöző a transz nőt veszélyezteti</td>
+        </tr>
+        <tr>
+            <td>A szigorú biológiai szabályok jók</td>
+            <td>Cisz és interszex nőket is kizárhatnak, faji diszkriminációhoz vezethetnek</td>
+        </tr>
+    </tbody>
+</table>
+
 ## A transznemű nők megőrzik férfi előnyeiket
 
 Nem. A férfiak sportbeli előnyei, élettani szempontból, elsősorban a tesztoszteron miatt vannak. Az adatok azt mutatják, hogy a transznemű nők néhány hónap hormonkezelés után elveszítik ezt az előnyt, amint a tesztoszteronszintjük csökken. [Így a tranzíció során a transznemű nők jelentősen veszítenek izomtömegükből, állóképességükből és általában sportteljesítményükből](https://cces.ca/fr/athletes-transgenres-feminines-et-sport-delite-examen-scientifique), ami a későbbiekben más nőkéhez mérhető szintekhez juttatja őket.
