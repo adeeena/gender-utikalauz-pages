@@ -35,6 +35,8 @@ A teljes gyógyulás hónapokat vehet igénybe, és sebészenként, illetve műt
 
 ➡️ Kapcsolódó: [Vaginoplasztika (hüvelyplasztika)](/#/entry?id=feminizalas-vaginoplasztika-huvelyplasztika)
 
+➡️ Kapcsolódó: [Genitális egészség a hormonterápia alatt](/#/entry?id=feminizalo-hormonterapia-genitalis-egeszseg)
+
 ## Phalloplasztika és metoidioplasztika után
 
 * Az **érzékenység** fokozatosan tér vissza, és a tapintásérzet (ha idegösszekötés történt) hónapok alatt alakul ki.

@@ -103,6 +103,12 @@ A műtét előtt és után 10 napig szigorúan tilos aszpirint, gyulladáscsökk
 A hormonális ösztrogénkezelést általában abba kell hagyni a műtét előtt, kivéve különleges körülmények között, a trombózis-embólia kockázatának csökkentése érdekében. A kezelést akkor kell folytatni, ha a beteg hazatért és újra normálisan képes járni. A műtét után 2-3 hónappal egyeztess az endokrinológussal.
 Az esetleges antiandrogén-kezelést (ciproteron-acetát, [Androcur](/#/entry?id=androcur)) a műtétig folytatni kell. A műtét után abba kell hagyni.
 
+<div class="infobox info">
+
+A penile-inversion technika a meglévő genitális szövetet használja fel, ezért hasznos lehet a műtét előtt odafigyelni a szövet megőrzésére. Erről bővebben a [Genitális egészség a hormonterápia alatt](/#/entry?id=feminizalo-hormonterapia-genitalis-egeszseg) cikkben olvashatsz.
+
+</div>
+
 A visszérgyulladás kockázatának csökkentése érdekében a műtétre rugalmas pamut tartózoknit kell beszerezni.
 
 **A műtéti területen, majd a kötszerben lévő széklet jelenlétének elkerülése érdekében erősen ajánlott a kórházi felvétel előtt 3-4 nappal speciális diétát tartani** (nincs gyümölcs, nincs leves, nincs kenyér, nincsenek friss vagy erjesztett sajtok). Ezt a diétát a vizeletkatéter eltávolításáig kell folytatni. Ugyanebből a célból a műtétet megelőző napon vastagbélkészítmény beöntést írhatnak elő.
