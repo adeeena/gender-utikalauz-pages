@@ -65,6 +65,39 @@ A felépülési idő körülbelül 2 hét.
 
 A műtét körülbelül 6-800 ezer forintba kerül.
 
+<table>
+    <tbody>
+        <tr>
+            <td><b>Műtét neve</b></td>
+            <td>Chondrolaryngoplasztika</td>
+        </tr>
+        <tr>
+            <td><b>Időtartam</b></td>
+            <td>30-45 perc</td>
+        </tr>
+        <tr>
+            <td><b>Érzéstelenítés</b></td>
+            <td>Helyi vagy általános</td>
+        </tr>
+        <tr>
+            <td><b>Kórházi tartózkodás</b></td>
+            <td>Általános érzéstelenítésnél kb. 1 éjszaka</td>
+        </tr>
+        <tr>
+            <td><b>Felépülés</b></td>
+            <td>Kb. 2 hét</td>
+        </tr>
+        <tr>
+            <td><b>Heg</b></td>
+            <td>1,5-2,5 cm, a bőrredőbe vagy az áll alá rejtve</td>
+        </tr>
+        <tr>
+            <td><b>Hatás a hangra</b></td>
+            <td>Nincs</td>
+        </tr>
+    </tbody>
+</table>
+
 Megjegyzendő, hogy ez a műtét semmilyen módon nem változtatja meg a hangot, de kombinálható más műtétekkel, például hangszálműtéttel vagy arcfeminizációval.
 
 <div class="infobox info">
