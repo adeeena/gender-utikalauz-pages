@@ -110,6 +110,40 @@ Végül a nemi hormonok jelenléte a szervezetben korlátozza a GnRH, <a href="h
 
 **A hormonok HRT-n keresztül történő bevezetése megváltoztatja ezt az egyensúlyt, és lehetővé teszi, hogy a szervezet megszüntesse a nemi hormonok természetes termelését.**
 
+<figure>
+<svg viewBox="0 0 460 430" width="100%" role="img" aria-label="A HPG-tengely (hipotalamusz, agyalapi mirigy, nemi mirigyek) negatív visszacsatolása">
+  <rect x="0" y="0" width="460" height="430" fill="#ffffff"/>
+  <defs>
+    <marker id="arr" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#555"/>
+    </marker>
+    <marker id="arrred" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#b8447e"/>
+    </marker>
+  </defs>
+  <!-- dobozok -->
+  <rect x="110" y="20" width="240" height="50" rx="8" fill="#ede7f6" stroke="#6a4ca5" stroke-width="1.5"/>
+  <text x="230" y="50" text-anchor="middle" font-size="15" fill="#3d2c66">Hipotalamusz</text>
+  <rect x="110" y="140" width="240" height="50" rx="8" fill="#e3f2fd" stroke="#2f6fa5" stroke-width="1.5"/>
+  <text x="230" y="170" text-anchor="middle" font-size="15" fill="#1c466b">Agyalapi mirigy</text>
+  <rect x="110" y="260" width="240" height="60" rx="8" fill="#e8f5e9" stroke="#3a7a45" stroke-width="1.5"/>
+  <text x="230" y="285" text-anchor="middle" font-size="15" fill="#1f4d28">Nemi mirigyek</text>
+  <text x="230" y="305" text-anchor="middle" font-size="12" fill="#4a6b50">herék / petefészek</text>
+  <rect x="110" y="370" width="240" height="48" rx="8" fill="#fce4ec" stroke="#b8447e" stroke-width="1.5"/>
+  <text x="230" y="399" text-anchor="middle" font-size="13" fill="#7a2b52">tesztoszteron / ösztrogén</text>
+  <!-- lefelé mutató nyilak + címkék -->
+  <line x1="230" y1="70" x2="230" y2="138" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="240" y="108" font-size="12" fill="#555">GnRH</text>
+  <line x1="230" y1="190" x2="230" y2="258" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="240" y="228" font-size="12" fill="#555">LH, FSH</text>
+  <line x1="230" y1="320" x2="230" y2="368" stroke="#555" stroke-width="2" marker-end="url(#arr)"/>
+  <!-- visszacsatoló nyíl jobb oldalon -->
+  <path d="M350,394 C420,394 420,45 352,45" fill="none" stroke="#b8447e" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arrred)"/>
+  <text x="428" y="220" text-anchor="middle" font-size="12" fill="#b8447e" transform="rotate(90 428 220)">negatív visszacsatolás (-)</text>
+</svg>
+<figcaption><i>A HPG-tengely: az agy hormonokkal utasítja a nemi mirigyeket, a keletkező nemi hormonok pedig visszajelzéssel fékezik az agyat. A HRT ezt a visszacsatolást használja ki, hogy elnyomja a saját hormontermelést. Forrás: <a href="https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis">Wikipedia (HPG axis)</a>.</i></figcaption>
+</figure>
+
 <div class="content-image"><img src="assets/images/Hypothalamic-pituitary-gonadal_axis.svg.png" /></div>
 
 
