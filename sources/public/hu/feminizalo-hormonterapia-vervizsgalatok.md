@@ -1,7 +1,14 @@
 ---
 title: "Vérvizsgálatok és azok kiértékelése transzfeminin személyeknek"
-description: "Milyen vérvizsgálatokat kell elvégeznem, ha hormonterápián vagyok?"
+description: "Milyen vérvizsgálatokat és milyen gyakran kell elvégeztetni feminizáló hormonterápia alatt, és hogyan értelmezd az ösztradiol- és tesztoszteronszintet."
 lang: hu
+keywords: "feminizáló HRT vérvizsgálat, ösztradiol szint, tesztoszteron szint, májfunkció, prolaktin, hormonkontroll, transzfeminin"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-hormonterapia-vervizsgalatok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
+slug: "feminizalo-hormonterapia-vervizsgalatok"
 ---
 
 <div class="floating-columns">
@@ -189,5 +196,19 @@ Ha még nem változtattad meg a személyin a nemedet, akkor a vérvizsgálatos p
 ➡️ [RainbowHealth Ontario](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html)
 
 ➡️ [DIY HRT Wiki](https://diyhrt.wiki/transfem)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Milyen gyakran kell vért vetetni feminizáló HRT alatt?
+
+A szokásos rend szerint a kezelés kezdete előtt, majd a 3., 6. és 12. hónapban célszerű vérvizsgálat. Ezután általában évente elegendő az ellenőrzés, kivéve, ha például Androcurt vagy spironolactone-t szedsz, ami gyakoribb kontrollt igényel.
+
+### Milyen ösztradiol- és tesztoszteronszintre kell törekedni?
+
+A legfontosabb, hogy az ösztrogénszint 100 pg/ml felett, a tesztoszteronszint pedig 50 ng/dl alatt legyen. A cél azonban mindig a hormonok klinikai hatása, nem pedig egy konkrét laborszám önmagában.
+
+### Miért a születéskori nemre vonatkoznak a labor referenciaértékei?
+
+A laborleleten szereplő referenciatartományok a nyilvántartott nemhez igazodnak. Ha még nem változtattad meg a nemedet a dokumentumaidban, a papíron a születéskori nemre vonatkozó értékek jelennek meg, ezért a saját célértékeidet érdemes orvossal egyeztetni.
 
 </div>
