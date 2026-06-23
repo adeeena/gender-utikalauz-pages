@@ -1,7 +1,14 @@
 ---
 title: "Hormontáblázat és kalkulátorok"
-description: "Néhány kiszámoló és táblázat a hormonok referenciaértékeivel."
+description: "Hormonok referenciaértékei egy helyen: ösztradiol, ösztron, tesztoszteron, progeszteron, FSH és LH normál értékei, valamint mértékegység-váltó kalkulátorok."
 lang: hu
+keywords: "hormontáblázat, ösztradiol érték, tesztoszteron érték, progeszteron érték, FSH, LH, pg/ml pmol/l váltó, referenciaértékek, HRT, transznemű"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/hormontablazat-es-kalkulatorok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_progress_overview.svg"
+slug: "hormontablazat-es-kalkulatorok"
 ---
 
 <div class="floating-columns">
@@ -151,7 +158,7 @@ Az alábbi táblázat összefoglalja az ösztrogének standard értékeit ciszne
 
 ## Tesztoszteron
 
-Az alábbi táblázat összefoglalja az tesztoszteron standard értékeit cisznemű férfiak és nők számára.
+Az alábbi táblázat összefoglalja a tesztoszteron standard értékeit ciszemű férfiak és nők számára.
 
 <table>
     <thead>
@@ -322,5 +329,31 @@ Az alábbi táblázat összefoglalja az FSH és LH standard értékeit cisznemű
 [Táblázat forrása](https://www.ebmconsult.com/articles/lab-test-follicle-stimulating-hormone-fsh-level)
 
 </div>
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mennyi a célösztradiol-szint egy transznemű nő számára?
+
+A legtöbb irányelv szerint a jó ösztradiolszint körülbelül 60 és 200 pg/ml (körülbelül 220 és 800 pmol/l) között van. Az alacsonyabb értékek inkább a HRT kezdetére jellemzőek.
+
+### Mennyi a kivánt tesztoszteronszint feminizáló HRT alatt?
+
+A cél általában a cisznői tartomány, vagyis nagyjából 10 és 54 ng/dl (0,35-1,87 nmol/l) között. Az e feletti érték arra utalhat, hogy a tesztoszteron-blokkolás nem elég hatékony.
+
+### Hogyan váltom át a pg/ml értéket pmol/l-re?
+
+Az ösztradiolnál 1 pg/ml körülbelül 3,67 pmol/l-nek felel meg. Az oldal tetején található kalkulátorok automatikusan elvégzik ezt és a tesztoszteron, valamint a progeszteron átváltását is.
+
+### Miért térnek el a laborom referenciaértékei az itt láthatóaktól?
+
+A laborok eltérő módszereket és mérőeszközöket használnak, ezért a referenciatartományok kissé különbözhetnek. Mindig a leletókon feltüntetett referenciaértékeket vesd össze a saját eredményeddel, és beszéld meg orvosoddal.
+
+## Források
+
+➡️ [Estradiol - Wikipedia](https://en.wikipedia.org/wiki/Estradiol)
+
+➡️ [Testosterone levels - Wikipedia](https://en.wikipedia.org/wiki/Testosterone#Levels)
+
+➡️ [Serum progesterone - Healthline](https://www.healthline.com/health/serum-progesterone#test-results)
 
 </div>
