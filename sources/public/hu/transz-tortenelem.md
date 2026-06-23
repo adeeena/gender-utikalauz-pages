@@ -72,6 +72,28 @@ Ezért létfontosságú, hogy nyíltan harcoljunk ez ellen a reakciós offenzív
 
 A történelmi hátteret vizsgálva kiderül, hogy teljesen tévesek azok az állítások, amelyek szerint a transzneműek "a modernitás újkori újítása". Ez egyben megnyitja a politikai lehetőségek mezejét is: közösen olyan nagyszabású társadalmi konszenzusokat építhetünk, amelyek a jelenlegi helyzetnél sokkal egyenlőségelvűbbek. A jelenleg tapasztalható reakciós offenzíva pontosan arra irányul, hogy megakadályozza ezeket a változásokat, és egy olyan hierarchikus társadalmat építsen ki, amelyben egy kisebbség profitot és előnyt húz a társadalmi test egyes tagjainak - és különösen a transz embereknek - az uralmából, kirekesztéséből, elkülönítéséből, sőt elnyomásából.
 
+<figure>
+<svg viewBox="0 0 660 180" width="100%" role="img" aria-label="A nemi átjárás történelmi korszakai az ókortól napjainkig: görög és római ókor, Bizánci Birodalom, középkor, 1900-1939 orvosi technikák, 1950-2010 tranzíció útja, és napjaink.">
+    <line x1="40" y1="90" x2="620" y2="90" stroke="#9bbf8a" stroke-width="3"/>
+    <circle cx="70" cy="90" r="8" fill="#2f7a3a"/>
+    <text x="70" y="62" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f4a7a">Ókor</text>
+    <text x="70" y="118" text-anchor="middle" font-size="11" fill="#333">görög, római</text>
+    <circle cx="180" cy="90" r="8" fill="#3a7a45"/>
+    <text x="180" y="62" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f4a7a">Bizánc</text>
+    <circle cx="300" cy="90" r="8" fill="#3a7a45"/>
+    <text x="300" y="62" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f4a7a">Középkor</text>
+    <circle cx="420" cy="90" r="8" fill="#4a6fa5"/>
+    <text x="420" y="62" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f4a7a">1900-1939</text>
+    <text x="420" y="118" text-anchor="middle" font-size="11" fill="#333">orvosi technikák</text>
+    <circle cx="530" cy="90" r="8" fill="#4a6fa5"/>
+    <text x="530" y="62" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f4a7a">1950-2010</text>
+    <text x="530" y="118" text-anchor="middle" font-size="11" fill="#333">tranzíció útja</text>
+    <circle cx="610" cy="90" r="8" fill="#c0508a"/>
+    <text x="610" y="62" text-anchor="middle" font-size="12" font-weight="bold" fill="#2f4a7a">Ma</text>
+</svg>
+<figcaption><i>A transz lét végigkíséri az emberiség történelmét; nem a modernitás újkeletű jelensége. Forrás: <a href="https://institutlaboetie.fr/wp-content/uploads/2023/06/NOTE-ILB-LGBT-1.pdf">Institut La Boétie</a>.</i></figcaption>
+</figure>
+
 ## Forrás
 
 ➡️ [La fluidité de genre de l’Antiquité à nos jours](https://institutlaboetie.fr/wp-content/uploads/2023/06/NOTE-ILB-LGBT-1.pdf)
