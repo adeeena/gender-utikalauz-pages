@@ -77,6 +77,37 @@ A tesztoszteron-alapú HRT során a lehetséges fogamzásgátló módszerek list
 
 * Fogamzásgátlás a partner számára (fűtött fehérnemű, vaszektómia stb.)
 
+<table>
+    <thead>
+        <tr>
+            <th>Fogamzásgátló módszer</th>
+            <th>Tesztoszteronnal kompatibilis?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Progesztin tabletta vagy implantátum</td>
+            <td>Igen</td>
+        </tr>
+        <tr>
+            <td>Réz alapú spirál</td>
+            <td>Igen</td>
+        </tr>
+        <tr>
+            <td>Óvszer (belső és külső)</td>
+            <td>Igen</td>
+        </tr>
+        <tr>
+            <td>Partner oldali módszerek (pl. vaszektómia)</td>
+            <td>Igen</td>
+        </tr>
+        <tr>
+            <td>Ösztrogénalapú módszerek</td>
+            <td>Nem ajánlott</td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="infobox info">
 
 👉 Ha a kezelés abbahagyása esetén a termékenység az esetek túlnyomó többségében természetes úton visszatér.
