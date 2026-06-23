@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A középkori Nyugaton a merev binarizmus ellenére megjelennek néhol nemváltáson átesett, pozitívan ábrázolt személyiségek"
+title: "Transz történelem: a középkori Nyugat"
+description: "A középkori Nyugat merev nemi binarizmusa és a nemi normákat áthágó alakok (például Jeanne d'Arc férfiruhája) a történeti források tükrében."
 lang: hu
+keywords: "középkor transz történelem, Jeanne d'Arc férfiruha, nemi binarizmus középkor, transzvesztitizmus, öltözködési rendelet, Clovis Maillet"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-kozepkor"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-kozepkor"
 ---
 
 <div class="floating-columns">
@@ -68,6 +75,19 @@ Clovis Maillet legújabb könyve, a Les genres fluides (2020) a Jeanne d'Arc-mű
 <div class="content-image"><img src="assets/images/jeanne-d-arc.png" />
 <span>Skicc Jeanne d'Arcról Clément de Fauquembergue jegyzőnek a párizsi parlament egyik nyilvántartásában, Párizs, Archives nationales, 1429. május 10.</span></div>
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Merevebb volt-e a nemi binarizmus a középkori Nyugaton?
+
+Igen. A középkori Nyugat a Keletnél jóval merevebb bináris nemfelfogást örökölt, amelyben a férfi és a női kategória gyakorlatilag áthatolhatatlan volt, és a nemi normák áthágását botrányosnak tartották.
+
+### Miért volt fontos Jeanne d'Arc férfiruhája?
+
+Jeanne d'Arc férfiruhát viselt, amit bírái végső érvként használtak fel a halálos ítélet megpecsételéséhez. Történetét a történészek óvatosan értelmezik: Clovis Maillet szerint "Jeanne életében nem volt sem szent, sem transznemű".
+
+### Értelmezhetők-e ezek az alakok mai értelemben transzként?
+
+Nem egyértelműen. A történészek óva intenek attól, hogy a középkori alakokra automatikusan a mai "transz" kategóriát alkalmazzuk; ezek a történetek inkább a nemi normák és azok áthágásának korabeli összetettségét mutatják.
 
 ## Forrás
 
