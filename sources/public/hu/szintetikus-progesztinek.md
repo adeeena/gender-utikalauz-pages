@@ -1,7 +1,14 @@
 ---
-title: "😐Szintetikus progesztinek"
-description: "Ismerd meg az 😐Szintetikus progesztinek előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Szintetikus progesztinek"
+description: "A szintetikus progesztinek erős antiandrogén hatású, fogamzásgátlókhoz kifejlesztett hormonok; a feminizáló HRT-ben a depresszió és a májelégtelenség kockázata miatt csak korlátozottan ajánlottak."
 lang: hu
+keywords: "szintetikus progesztin, progesztin, antiandrogén, Androcur, prolaktin, depresszió, feminizáló HRT, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/szintetikus-progesztinek"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_coolness.svg"
+slug: "szintetikus-progesztinek"
 ---
 
 <div class="floating-columns">
@@ -185,5 +192,23 @@ Előfordulhat egy több hónapig tartó platóhatás is, amelynek során is tapa
 Előfordulhat, hogy a várt hatások lassúak, gyengék vagy nem jelentkeznek. Ebben az esetben egy vagy több vérvizsgálat is kellhet az ösztradiolszint mérésére. Ha az ösztradiolszint alacsony marad a magas dózis ellenére, akkor előfordulhat, hogy a készítmény átmegy a bőrgáton, vagy rosszul asszimilálódik. Egyeseknél azonban előfordulhat, hogy a hatás nem tartós, egyeseknél a hatás csekély maradhat a normán belüli hormonszintek ellenére.
 
 </div>
+## GYIK (Gyakran Ismételt Kérdések)
 
+### Mi a különbség a szintetikus progesztin és a bioidentikus progeszteron között?
+
+A bioidentikus progeszteron a szervezet által is termelt természetes hormonnal azonos, és alacsony kockázatú. A szintetikus progesztinek mesterségesen előállított, hosszabb hatású molekulák, amelyek erősebb antiandrogén hatás mellett több mellékhatással, például a depresszió és a májelégtelenség magasabb kockázatával járnak.
+
+### Miért csak korlátozottan ajánlottak a szintetikus progesztinek?
+
+Mert erős antiandrogén hatásuk mellett növelik a depresszió, a prolaktinszint-emelkedés és a májkárosodás kockázatát. Ha más, biztonságosabb antiandrogén (például a bicalutamide) elérhető, általában azt érdemes választani.
+
+### Mit tegyek, ha az orvosom szintetikus progesztint írt fel?
+
+Igyekezz a lehető legalacsonyabb adagot szedni, és beszéld meg az orvosoddal, hogy áttérhetsz-e biztonságosabb antiandrogénre. Fontos a tesztoszteron, a prolaktin és a májenzimek rendszeres ellenőrzése is.
+
+## Források
+
+➡️ [Progestin - Wikipedia](https://en.wikipedia.org/wiki/Progestin)
+
+➡️ [Antiandrogen - Wikipedia](https://en.wikipedia.org/wiki/Antiandrogen)
 </div>
