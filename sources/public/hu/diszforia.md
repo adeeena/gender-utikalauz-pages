@@ -42,6 +42,51 @@ A diszfória az enyhe kényelmetlenségtől a szélsőséges kényelmetlenségig
 
 ## A nemi diszfória jelei
 
+A nemi diszfória gyakran közvetett, nehezen felismerhető formában jelentkezik. Az alábbi táblázat összefoglalja a leggyakoribb jeleket, amelyeket a cikk részletesen is bemutat.
+
+<table>
+    <thead>
+        <tr>
+            <th>Jel</th>
+            <th>Rövid leírás</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mindennapi nehézségek</td>
+            <td>A legegyszerűbb feladatok is állandó küzdelmet jelentenek</td>
+        </tr>
+        <tr>
+            <td>Érzelmi elszakadás</td>
+            <td>Elidegenedés a saját érzésektől, érzelmi zsibbadtság</td>
+        </tr>
+        <tr>
+            <td>Deperszonalizáció</td>
+            <td>Mintha forgatókönyvből, kívülről élnéd az életed</td>
+        </tr>
+        <tr>
+            <td>Az értelmetlenség érzése</td>
+            <td>Hiányzó hosszú távú célok, cél nélküliség</td>
+        </tr>
+        <tr>
+            <td>"Más vagyok" érzés</td>
+            <td>Vágy a normalitásra, állandó mérgező belső monológ</td>
+        </tr>
+        <tr>
+            <td>Súlyosbodás pubertáskorban</td>
+            <td>A tünetek a serdülőkorban jelentősen felerősödnek</td>
+        </tr>
+        <tr>
+            <td>Megküzdési kísérletek</td>
+            <td>Szerek, gondolati elterelés, átmeneti megoldások</td>
+        </tr>
+        <tr>
+            <td>Feloldódás a tranzícióval</td>
+            <td>A tünetek látványos enyhülése a tranzíció kezdetén</td>
+        </tr>
+    </tbody>
+</table>
+
 ### Folyamatos nehézségek a nap egyszerű átvészelésében.
 Életem nagy részében minden megmagyarázhatatlanul stresszes volt, és nehéz volt összeszedni magam, hogy a legapróbb hétköznapi dolgokat is elvégezzem. Elmenni a boltba, kitakarítani a házat, lezuhanyozni, bármilyen apróságot, amit az emberek kértek tőlem... egyszerűen túl soknak éreztem az egészet. Még ha nem is volt szituációs oka ennek a stressznek, semmi sem ment könnyen. Ez több volt, mint a lustaság puszta megszokása - olyan volt, mintha szellemileg annyira elfáradtam volna, hogy minden állandó terhet és küzdelmet jelentett.
 
