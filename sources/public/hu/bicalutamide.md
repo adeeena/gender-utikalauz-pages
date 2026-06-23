@@ -1,7 +1,14 @@
 ---
-title: "✅Bicalutamide"
-description: "Ismerd meg az ✅Bicalutamide előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Bicalutamide"
+description: "A bicalutamide az egyik leghatékonyabb és legbiztonságosabb tesztoszteron-blokkoló a feminizáló hormonterápiában: hatásmechanizmus, adagolás, kockázatok és GYIK."
 lang: hu
+keywords: "bicalutamide, Casodex, antiandrogén, tesztoszteron blokkoló, NSAA, feminizáló HRT, androgénreceptor, transznemű nő, májenzim"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/bicalutamide"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "bicalutamide"
 ---
 
 <div class="floating-columns">
