@@ -1,7 +1,14 @@
 ---
 title: "Vérvizsgálatok és azok kiértékelése transzmaszkulin személyeknek"
-description: "Milyen vérvizsgálatokat kell elvégeznem, ha hormonterápián vagyok?"
+description: "Milyen vérvizsgálatokat kell elvégezni maszkulinizáló hormonterápia alatt, milyen gyakran, és mennyi legyen a tesztoszteron- és ösztradiolszint."
 lang: hu
+keywords: "vérvizsgálat, tesztoszteronszint, ösztradiol, maszkulinizáló HRT, laborkontroll, transzmaszkulin, transz férfi"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalo-hormonterapia-vervizsgalatok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_doctor.svg"
+slug: "maszkulinizalo-hormonterapia-vervizsgalatok"
 ---
 
 <div class="floating-columns">
@@ -152,5 +159,19 @@ A teljes vérkép (CBC), a májfunkciós tesztek (<a href="https://medy.hu/got/"
 ➡️ [RainbowHealth Ontario](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html)
 
 ➡️ [DIY HRT Wiki](https://diyhrt.wiki/transmasc)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Milyen gyakran kell vért vetetnem a kezelés alatt?
+
+Maszkulinizáló hormonterápia alatt érdemes legalább 3 havonta vért vetetni, az első kontrollt pedig a kezelés első hónapjának végén. A vért a következő injekció előtti napon, a mélyponton célszerű levetetni.
+
+### Mennyi legyen a teljes tesztoszteronszintem?
+
+Az Endokrin Társaság ajánlása szerint a cél a férfi fiziológiás tartomány, általában 300-1000 ng/dl. Valamivel magasabb vagy alacsonyabb érték miatt nem kell aggódni, kivéve, ha az ösztradiol is túl magas.
+
+### Mennyi legyen az ösztradiol (E2) értékem?
+
+A felnőtt férfiak normál tartománya 10-50 pg/ml; végső soron érdemes az ösztradiolt 70 pg/ml alatt tartani. Valamivel magasabb érték miatt nem kell aggódni.
 
 </div>
