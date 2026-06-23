@@ -1,7 +1,14 @@
 ---
-title: "⛔Finasteride"
-description: "Ismerd meg az ⛔Finasteride előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Finasteride"
+description: "A finasteride egy 5-alfa-reduktaz gátló, amelyet a feminizáló HRT-ben általában nem ajánlunk: nem nyomja el a tesztoszteront, viszont neurológiai és hangulati mellékhatások kockázatával jár."
 lang: hu
+keywords: "finasteride, finaszterid, 5-alfa-reduktaz gátló, DHT, posztfinaszterid szindróma, hajhullás, feminizáló HRT, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/finasteride"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_skateboard.svg"
+slug: "finasteride"
 ---
 
 <div class="floating-columns">
@@ -187,5 +194,27 @@ Előfordulhat egy több hónapig tartó platóhatás is, amelynek során is tapa
 Előfordulhat, hogy a várt hatások lassúak, gyengék vagy nem jelentkeznek. Ebben az esetben egy vagy több vérvizsgálat is kellhet az ösztradiolszint mérésére. Ha az ösztradiolszint alacsony marad a magas dózis ellenére, akkor előfordulhat, hogy a készítmény átmegy a bőrgáton, vagy rosszul asszimilálódik. Egyeseknél azonban előfordulhat, hogy a hatás nem tartós, egyeseknél a hatás csekély maradhat a normán belüli hormonszintek ellenére.
 
 </div>
+## GYIK (Gyakran Ismételt Kérdések)
 
+### Miért nem ajánlott a finasteride a feminizáló HRT-ben?
+
+A finasteride nem csökkenti a tesztoszteronszintet, csak a DHT-vá alakulását gátolja, így önmagában nem elég hatékony a feminizáláshoz. Emellett a posztfinaszterid szindróma néven ismert, tartós mellékhatások kockázatával jár.
+
+### Mi az a posztfinaszterid szindróma?
+
+Ez egy ritka, de tartós mellékhatás-együttes, amely a libidó elvesztését, depressziót, szorongást, öngyilkos gondolatokat és neurológiai tüneteket foglalhat magába. A tünetek a gyógyszer abbahagyása után is fennmaradhatnak.
+
+### Van olyan eset, amikor a finasteride mégis hasznos lehet?
+
+Elvileg csak akkor, ha a tesztoszteront már megfelelően lecsökkentették, de a DHT-szint továbbra is magas marad, és ez hajhullást okoz. Ez azonban ritka, és ilyenkor is érdemes az orvosoddal mérlegelni a kockázatokat.
+
+### Mi a különbség a finasteride és a dutasteride között?
+
+Mindkettő 5-alfa-reduktaz gátló, de a dutasteride erősebb, mert a típusok szélesebb körét gátolja, így a DHT nagyobb részét blokkolja. Mindkettőt a hasonló kockázatok miatt nem ajánljuk a feminizáláshoz.
+
+## Források
+
+➡️ [Finasteride - Wikipedia](https://en.wikipedia.org/wiki/Finasteride)
+
+➡️ [5α-Reductase inhibitor - Wikipedia](https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor)
 </div>
