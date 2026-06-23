@@ -1,7 +1,14 @@
 ---
-title: "⛔Dutasteride"
-description: "Ismerd meg a ⛔Dutasteride előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Dutasteride"
+description: "A dutasteride egy erős 5-alfa-reduktaz gátló, amelyet a feminizáló HRT-ben általában nem ajánlunk: a finasteride-hez hasonló kockázatokkal jár, és nem nyomja el a tesztoszteront."
 lang: hu
+keywords: "dutasteride, Avodart, Duodart, 5-alfa-reduktaz gátló, DHT, finasteride, hajhullás, feminizáló HRT, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/dutasteride"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_ride_till_i_can_no_more.svg"
+slug: "dutasteride"
 ---
 
 <div class="floating-columns">
@@ -163,5 +170,27 @@ Előfordulhat egy több hónapig tartó platóhatás is, amelynek során is tapa
 Előfordulhat, hogy a várt hatások lassúak, gyengék vagy nem jelentkeznek. Ebben az esetben egy vagy több vérvizsgálat is kellhet az ösztradiolszint mérésére. Ha az ösztradiolszint alacsony marad a magas dózis ellenére, akkor előfordulhat, hogy a készítmény átmegy a bőrgáton, vagy rosszul asszimilálódik. Egyeseknél azonban előfordulhat, hogy a hatás nem tartós, egyeseknél a hatás csekély maradhat a normán belüli hormonszintek ellenére.
 
 </div>
+## GYIK (Gyakran Ismételt Kérdések)
 
+### Mi a különbség a dutasteride és a finasteride között?
+
+Mindkettő 5-alfa-reduktaz gátló, vagyis a tesztoszteron DHT-vá alakulását gátolják. A dutasteride erősebb: az enzim mindhárom típusát gátolja, így a DHT-szint akar 98%-át is blokkolhatja, míg a finasteride csak nagyjából 70%-át.
+
+### Miért nem ajánlott a dutasteride a feminizáló HRT-ben?
+
+A dutasteride nem csökkenti a tesztoszteronszintet, ezért önmagában nem feminizál. Emellett a finasteride-hez hasonló mellékhatások (depresszió, libidóvesztés, neurológiai tünetek) kockázatával jár, amelyek tartósak lehetnek.
+
+### Mikor lehet mégis indokolt a dutasteride?
+
+Csak akkor, ha a tesztoszteront már megfelelően lecsökkentették, de a DHT-szint rendellenesen magas marad és hajhullást okoz. Ilyenkor is érdemes az orvosoddal alaposan mérlegelni a kockázatokat.
+
+### Meddig marad a szervezetben a dutasteride?
+
+A dutasteride felezési ideje nagyon hosszú, körülbelül 4-5 hét, ezért a hatása és az esetleges mellékhatásai a szedés abbahagyása után is sokáig fennmaradhatnak.
+
+## Források
+
+➡️ [Dutasteride - Wikipedia](https://en.wikipedia.org/wiki/Dutasteride)
+
+➡️ [5α-Reductase inhibitor - Wikipedia](https://en.wikipedia.org/wiki/5%CE%B1-Reductase_inhibitor)
 </div>
