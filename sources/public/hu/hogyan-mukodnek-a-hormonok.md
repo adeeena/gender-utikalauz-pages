@@ -1,7 +1,14 @@
 ---
 title: "Hogyan működnek a hormonok?"
-description: "Gyorstalpaló, hogy hogyan is működnek a nemi hormonok."
+description: "Érthető magyarázat arról, hogyan működnek a nemi hormonok: receptorok, kötési affinitás, agonisták és antagonisták, valamint a HPG-tengely szerepe a hormonterápiában."
 lang: hu
+keywords: "hormonok, nemi hormonok, ösztrogén, tesztoszteron, receptor, kötési affinitás, agonista, antagonista, HPG-tengely, GnRH, LH, FSH, hormonterápia, HRT"
+author: "Montefiori Adéna Auróra"
+canonical: "https://gender-utikalauz-pages.vercel.app/cikk/hogyan-mukodnek-a-hormonok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://gender-utikalauz-pages.vercel.app/images/undraw_doctor.svg"
+slug: "hogyan-mukodnek-a-hormonok"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_doctor.svg" /></div>
@@ -107,4 +114,38 @@ Végül a nemi hormonok jelenléte a szervezetben korlátozza a GnRH, <a href="h
 
 
 [Kép forrása](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a különbség a hormon és a receptor között?
+
+A hormon a kémiai hírvivő (a kulcs), a receptor pedig a sejt fogadó pontja (a zár). A hormon a vérben keringve eljut a célsejtekhez, és csak ott fejti ki a hatását, ahol a megfelelő receptor megtalálható. Ezért tud egyetlen hormon a test sok különböző pontján hatni.
+
+### Miért hat a tesztoszteron máshogy, mint az ösztrogén?
+
+Mert eltérő receptorokhoz kötődnek. A tesztoszteron (és más androgének) az androgénreceptorokat aktiválja, az ösztrogének pedig az ösztrogénreceptorokat. Egy hormon általában nem tudja aktiválni a másik csoport receptorát, ezért a feminizáló és a maszkulinizáló hatások külön úton érvényesülnek.
+
+### Mit jelent az, hogy egy gyógyszer antiandrogén?
+
+Az antiandrogén olyan molekula, amely beül az androgénreceptorba, de nem aktiválja azt, és közben megakadályozza, hogy a tesztoszteron kötődjön. A zár-kulcs hasonlatban ez egy olyan kulcs, amely befér a zárba, de nem fordul el, és kizárja a valódi kulcsot. Ezt használják a feminizáló hormonterápiában a tesztoszteron hatásának csökkentésére.
+
+### Hogyan állítja le a hormonterápia a saját hormontermelést?
+
+A HPG-tengely visszacsatoláson alapul: ha kívülről viszel be nemi hormont, az agy érzékeli a magas szintet, és lecsökkenti a GnRH, az LH és az FSH kibocsátását. Ennek hatására a herék vagy a petefészkek nagyrészt leállítják a saját hormontermelésüket.
+
+### Meg kell értenem mindezt ahhoz, hogy elkezdjem a HRT-t?
+
+Nem. A hormonterápia elkezdéséhez nem szükséges a biokémia részletes ismerete. Ez a cikk csak abban segít, hogy magabiztosabban hozz döntéseket és jobban értsd, mi történik a testedben.
+
+## Források
+
+➡️ [How Do Steroid Hormones Work? - ThoughtCo](https://www.thoughtco.com/how-steroid-hormones-work-373393)
+
+➡️ [Hypothalamic-pituitary-gonadal axis - Wikipedia](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis)
+
+➡️ [Follikuluszstimuláló hormon (FSH) - Wikipédia](https://hu.wikipedia.org/wiki/Follikuluszstimul%C3%A1l%C3%B3_hormon)
+
+➡️ [Luteinizáló hormon (LH) - Wikipédia](https://hu.wikipedia.org/wiki/Luteiniz%C3%A1l%C3%B3_hormon)
+
+➡️ [Ösztradiol - Wikipédia](https://hu.wikipedia.org/wiki/%C3%96sztradiol)
 
