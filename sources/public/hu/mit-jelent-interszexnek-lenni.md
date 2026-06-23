@@ -52,6 +52,48 @@ Ajánlatos az interszex szót használni, és az érintett személyekre intersze
     </tbody>
 </table>
 
+## Néhány interszex állapot
+
+Az interszexualitásnak sokféle formája van; az alábbi néhány gyakrabban említett példa. Ezek nagyon eltérőek, és az ellátás mindig egyéni; a felsorolás csak tájékoztató jellegű.
+
+<table>
+    <thead>
+        <tr>
+            <th>Állapot</th>
+            <th>Jellemző</th>
+            <th>Hormonális vonatkozás</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://hu.wikipedia.org/wiki/Klinefelter-szindr%C3%B3ma">Klinefelter-szindróma (47,XXY)</a></td>
+            <td>Egy plusz X-kromoszóma XY mellett.</td>
+            <td>A pubertásban gyakran alacsony a tesztoszteronszint, ami pótlást igényelhet.</td>
+        </tr>
+        <tr>
+            <td>Perzisztáló Müller-cső szindróma (PMDS)</td>
+            <td>XY test, amelyben fejletlen méh és petevezeték is jelen van.</td>
+            <td>A megmaradt szövet daganatkockázata miatt a progeszteron szerepe mérlegelendő.</td>
+        </tr>
+        <tr>
+            <td>Ovotesztikuláris állapot</td>
+            <td>Petefészek- és heresszövet együttes jelenléte.</td>
+            <td>A hormonszintek ingadozóak lehetnek a vegyes ivarmirigyszövet miatt.</td>
+        </tr>
+        <tr>
+            <td>Nem-klasszikus CAH (ncCAH)</td>
+            <td>A mellékvese fokozott androgéntermelése (enyhébb forma).</td>
+            <td>A progeszteron egyeseknél androgén hatást válthat ki.</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+Ha interszex vagy, és hormonterápián gondolkodsz, a fenti sajátosságok miatt különösen fontos, hogy a kezelést a saját állapotodat ismerő orvossal beszéld meg.
+
+</div>
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Mit jelent interszexnek lenni?
