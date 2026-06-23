@@ -1,7 +1,14 @@
 ---
 title: "Maszkulinizáló hormonterápia"
-description: "Információkat transz férfiak és transzmaszkulin személyek számára elérhető maszkulinizáló hormonkezelésekkel kapcsolatban. Tudj meg mindent a HRT-ről, és készülj fel az informált döntésre."
+description: "Maszkulinizáló hormonkezelés (HRT) transz férfiaknak és transzmaszkulin személyeknek: technikák, hatások, vérvizsgálatok és az informált döntés."
 lang: hu
+keywords: "maszkulinizáló hormonterápia, tesztoszteron, HRT, transz férfi, transzmaszkulin, FTM hormon, T injekció"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalo-hormonterapia"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_launching.svg"
+slug: "maszkulinizalo-hormonterapia"
 ---
 
 <div class="floating-columns">
@@ -62,7 +69,7 @@ Ebben a dossziéban megtudhatod, hogyan kaphatsz ilyen kezelést. De azt is megi
 **Minden cikk tartalmaz forrásokat, amelyekkel könnyen ellenőrizheted a tudásod, és amikor egy módszer vagy információ még nincs ellenőrizve (mert a tudomány nap mint nap fejlődik), külön kiemeljük.**
 
 
-1. **Első lépésként javasoljuk, hogy olvasd el a [használt technikákat](/#/entry?id=feminizalo-hormonterapia-technikak) és a [hormonkezelés hatásait](/#/entry?id=feminizalo-hormonterapia-hatasok) a maszkulinizáló hormonterápiával (HRT) kapcsolatban**.
+1. **Első lépésként javasoljuk, hogy olvasd el a [használt technikákat](/#/entry?id=maszkulinizalo-hormonterapia-technikak) és a [hormonkezelés hatásait](/#/entry?id=maszkulinizalo-hormonterapia-hatasok) a maszkulinizáló hormonterápiával (HRT) kapcsolatban**.
 
 2. Amikor ezzel készen vagy, olvasd el, hogyan lehet hormonkezeléshez jutnod.
 
@@ -77,5 +84,19 @@ Jó olvasást!
 ➡️ [wikitrans.co](https://wikitrans.co)
 
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a célja a maszkulinizáló hormonterápiának?
+
+A maszkulinizáló hormonterápia (HRT) célja a test nemi hormonszintjeinek módosítása, elsősorban tesztoszteronnal, hogy a test férfiasabb alakot vegyen fel: mélyülő hang, szőrnövekedés, izomnövekedés és a menstruáció megszűnése.
+
+### Honnan szerezhetek maszkulinizáló hormonkezelést?
+
+A tesztoszteron-kezelést első alkalommal szakorvosnak (gyakran endokrinológusnak) kell felírnia, utána rendszeres vérvizsgálattal követik. A részletekről a hormonterápia indításáról és a technikákról szóló cikkekben olvashatsz.
+
+### Kell-e élethossziglan szednem a tesztoszteront?
+
+Amíg vannak működő nemi hormont termelő szerveid (petefészek), addig bármikor, kockázat nélkül leállíthatod. Ha azonban eltávolították a petefészkeket, élethosszig tartó hormonkezelésre lesz szükséged a hormonhiány és a csontritkulás elkerülése érdekében.
 
 </div>
