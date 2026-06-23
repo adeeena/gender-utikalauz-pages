@@ -1,7 +1,14 @@
 ---
 title: "Tesztoszteron, menstruáció és termékenység"
-description: "Milyen kapcsolatban áll a hormonterápia a menstruációs ciklussal, illetve a meddőséggel?"
+description: "Hogyan hat a maszkulinizáló hormonterápia a menstruációra és a termékenységre, milyen fogamzásgátlás használható és mi történik terhesség esetén."
 lang: hu
+keywords: "tesztoszteron menstruáció, termékenység, meddőség, fogamzásgátlás, transz férfi terhesség, maszkulinizáló HRT"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalo-hormonterapia-menstruacio-meddoseg"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_conversation.svg"
+slug: "maszkulinizalo-hormonterapia-menstruacio-meddoseg"
 ---
 
 <div class="floating-columns">
@@ -60,7 +67,7 @@ A menstruáció elmaradása nem jelenti azt, hogy már ne lennél termékeny. Ha
 
 Vannak olyan hormonális fogamzásgátló módszerek, amelyek nem befolyásolják a T-t. Csak ösztrogénalapú módszerek nem ajánlottak.
 
-A tesztoszteron-alapú HRT során a lehetségek fogamzásgátló módszerek listája:
+A tesztoszteron-alapú HRT során a lehetséges fogamzásgátló módszerek listája:
 
 * Progesztin alapú tabletták és implantátumok
 
@@ -90,5 +97,24 @@ Az alábbi brosúra választ adhat néhány kérdésedre, mint hogy mikor kell a
 
 ➡️ [Transzmaszkulinként, terhesen](https://public.genderutikalauz.hu/transzmaszkulinkent-terhesen.pdf)
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Termékeny maradok-e a maszkulinizáló HRT alatt?
+
+A termékenység korlátozott, de nem szűnik meg teljesen. A menstruáció elmaradása nem jelenti azt, hogy ne lehetnél terhes, ezért ha szexuális kapcsolatod van, fogamzásgátlásra van szükség.
+
+### Milyen fogamzásgátlást használhatok tesztoszteron mellett?
+
+A tesztoszteront nem befolyásoló módszerek: progesztin alapú tabletta és implantátum, réz spirál, óvszer, valamint a partner oldalán alkalmazott módszerek. Csak az ösztrogénalapú módszerek nem ajánlottak.
+
+### Megszűnik-e a menstruációm a tesztoszterontól?
+
+A menstruáció általában fokozatosan gyengül és megszűnik, bár évekig tartó kihagyás után is visszatérhet. Ha nem szűnik meg teljesen, menstruációblokkoló vagy csak progesztin tartalmú tabletta segíthet.
+
+## Források
+
+➡️ [Transzmaszkulinként, terhesen](https://public.genderutikalauz.hu/transzmaszkulinkent-terhesen.pdf)
+
+➡️ [wikitrans.co](https://wikitrans.co)
 
 </div>
