@@ -1,7 +1,14 @@
 ---
-title: "✅Progeszteron"
-description: "Ismerd meg a ✅Progeszteron előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Progeszteron"
+description: "A progeszteron egy bioidentikus, alacsony kockázatú hormon a feminizáló HRT-ben: hatásai a mellfejlődésre és a közérzetre, adagolás, mellékhatások és GYIK."
 lang: hu
+keywords: "progeszteron, bioidentikus progeszteron, Utrogestan, feminizáló HRT, mellfejlődés, antiandrogén, Tanner, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/progeszteron"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_wishes.svg"
+slug: "progeszteron"
 ---
 
 <div class="floating-columns">
@@ -190,5 +197,22 @@ Bár nagyon nehéz előre megbecsülni, hogy ki hogyan fog reagálni a progeszte
 
 ➡️ [Why progesterone?](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/edit)
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a különbség a progeszteron és a szintetikus progesztin között?
+
+A progeszteron a szervezet által is termelt, természetes hormonnal azonos (bioidentikus) molekula, és nagyon alacsony kockázatú. A szintetikus progesztinek (például az Androcur) erősebbek és hosszabb hatásúk, de több mellékhatással, például a depresszió magasabb kockázatával járnak.
+
+### Miért okoz a progeszteron álmosságot?
+
+A szájon át szedett progeszteron a szervezetben nyugtató, altató hatású anyagcseretermékké alakul. Ezért ajánlott este, lefekvés előtt bevenni, és nem szabad vezetés vagy fokozott éberséget igénylő tevékenység előtt szedni.
+
+### Segít a progeszteron a mellnövekedésben?
+
+Ez nem bizonyított, és az eredmények egyénenként nagyon eltérőek. Sok orvos azt javasolja, hogy a progeszteron szedésével várj legalább két évet a HRT kezdetétől, vagy amíg a mellfejlődés eléri a Tanner 3 stádiumot, mivel a túl korán megkezdett szedés lelassíthatja a fejlődést.
+
+### Melyik a leghatékonyabb módja a progeszteron szedésének?
+
+Mivel a progeszteron felezési ideje nagyon rövid, a szájon át szedés gyenge szinteket eredményez. A kúp (rektalis vagy vaginalis) formában szedve magasabb és tartósabb szint érhető el, az injekció pedig még hatékonyabb, bár ezt a módszert ritkán használják.
 
 </div>
