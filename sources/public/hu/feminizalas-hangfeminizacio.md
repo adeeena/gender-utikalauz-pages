@@ -1,7 +1,14 @@
 ---
 title: "Hangfeminizáció"
-description: "Hangfeminizáció: A transz nők számára fontos téma. Támpontok a hangszín nőiesítéséhez és magabiztosabb hanghasználathoz. 🗣️💁‍♀️"
+description: "Hogyan tedd nőiesebbé a hangodat: a hangmagasság, a rezonancia, az artikuláció és a légzés szerepe, gyakorlatok, hangtanári foglalkozások és szoftverek."
 lang: hu
+keywords: "hangfeminizáció, hangképzés, hangmagasság, rezonancia, transznemű nő, nőies hang, logopédus, voice training"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-hangfeminizacio"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_mindfulness.svg"
+slug: "feminizalas-hangfeminizacio"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_mindfulness.svg" /></div>
