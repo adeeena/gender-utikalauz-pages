@@ -1,7 +1,14 @@
 ---
 title: "Mintalevél kibújáshoz - Kibújás a (tágabb) rokonság felé"
-description: "Mintalevél, ami segíthet a coming outodban a rokonság felé."
+description: "Másolható mintalevél a tágabb rokonságnak történő kibújáshoz, amely segít elmondani a nagycsaládnak, hogy transz vagy."
 lang: hu
+keywords: "kibújás rokonság levél, coming out családnak minta, transz levél rokonoknak, nagycsalád coming out"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mintalevel-kibujashoz-4"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_reading.svg"
+slug: "mintalevel-kibujashoz-4"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
