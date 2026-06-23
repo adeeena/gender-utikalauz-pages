@@ -160,6 +160,33 @@ Az Androcur vagy ciproteron-acetátot általában antiandrogénként használjá
 
 **Rengeteg veszélyes mellékhatása van.** Különösen hírhedt a prolaktinémia és a legrosszabb esetben az agyhártyagyulladás kialakulásának kockázatáról. Az agyhártyagyulladás kockázata közvetlenül a dózissal és a használat időtartamával függ össze.
 
+<figure>
+<svg viewBox="0 0 520 280" width="100%" role="img" aria-label="A meningeoma kockázata a ciproteron-acetát összesített adagja szerint">
+  <rect x="0" y="0" width="520" height="280" fill="#ffffff"/>
+  <line x1="70" y1="30" x2="70" y2="210" stroke="#444" stroke-width="1.5"/>
+  <line x1="70" y1="210" x2="500" y2="210" stroke="#444" stroke-width="1.5"/>
+  <!-- y feliratok -->
+  <line x1="70" y1="138" x2="500" y2="138" stroke="#eee"/>
+  <line x1="70" y1="66" x2="500" y2="66" stroke="#eee"/>
+  <text x="64" y="214" text-anchor="end" font-size="11" fill="#888">0×</text>
+  <text x="64" y="142" text-anchor="end" font-size="11" fill="#888">10×</text>
+  <text x="64" y="70" text-anchor="end" font-size="11" fill="#888">20×</text>
+  <!-- bars -->
+  <rect x="110" y="203" width="90" height="7" fill="#9bbf8a"/>
+  <text x="155" y="197" text-anchor="middle" font-size="12" fill="#3f6b39">1×</text>
+  <text x="155" y="228" text-anchor="middle" font-size="11" fill="#333">&lt; 3 g</text>
+  <text x="155" y="244" text-anchor="middle" font-size="10" fill="#888">(referencia)</text>
+  <rect x="245" y="163" width="90" height="47" fill="#e0915f"/>
+  <text x="290" y="157" text-anchor="middle" font-size="12" fill="#8a4a1f">6,6×</text>
+  <text x="290" y="228" text-anchor="middle" font-size="11" fill="#333">12-36 g</text>
+  <rect x="380" y="54" width="90" height="156" fill="#c0392b"/>
+  <text x="425" y="48" text-anchor="middle" font-size="12" fill="#7a2018">21,7×</text>
+  <text x="425" y="228" text-anchor="middle" font-size="11" fill="#333">&#8805; 60 g</text>
+  <text x="285" y="265" text-anchor="middle" font-size="11" fill="#333">összesített ciproteron-acetát adag</text>
+</svg>
+<figcaption><i>A meningeoma (agyhártya-daganat) kockázata meredeken nő a ciproteron-acetát összesített adagjával. Forrás: <a href="https://ansm.sante.fr/actualites/risque-de-meningiome-et-progestatifs-recommandations-generales-pour-limiter-ce-risque">ANSM</a> (Weill és mtsai., BMJ 2021).</i></figcaption>
+</figure>
+
 Az agyhártyagyulladás esete óta botrány tört ki, amely megakadályozta, hogy az orvosok **szerződésszerű aláírt megállapodás és rendszeres MRI-vizsgálat nélkül írják fel a gyógyszert.**
 
 A májelégtelenség magas kockázatával is jár, ezért rendszeres vérvizsgálatot igényel a májenzimszintek ellenőrzése céljából.
