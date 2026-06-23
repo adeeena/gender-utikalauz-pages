@@ -1,7 +1,14 @@
 ---
 title: "Ádámcsutka-műtét"
-description: "Ádámcsutka-műtét és gégeplasztika: Ismerd meg a chondrolaryngoplasztika céljait és folyamatát. Gyors, kisebb műtét, 2 hét felépülési idővel. Ár: 6-800 ezer Ft."
+description: "Ádámcsutka-műtét (chondrolaryngoplasztika): a gégeporc kidúmorodásának csökkentése, gyors beavatkozás kb. 2 hét felépüléssel és 6-800 ezer Ft költséggel."
 lang: hu
+keywords: "ádámcsutka műtét, chondrolaryngoplasztika, gégeplasztika, trachea shave, feminizáló műtét, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-adamcsutka-mutet"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
+slug: "feminizalas-adamcsutka-mutet"
 ---
 
 <div class="floating-columns">
@@ -75,5 +82,19 @@ A diszkrétebb ádámcsutkán kívül az egyetlen közvetlen következmény egy 
 ## Kapcsolódó
 
 ➡️ [Adam´s Apple Reduction / Trachea Shave feminization in 3-D | FACIALTEAM](https://www.youtube.com/watch?v=jJFwuzwNMQQ)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Megváltoztatja-e a hangomat az ádámcsutka-műtét?
+
+Nem. A chondrolaryngoplasztika kizárólag a gégeporc látható kidúmorodását csökkenti, a hangot semmilyen módon nem változtatja meg. A hang feminizálásához külön hangszálműtét vagy hangképzés szükséges.
+
+### Mennyi ideig tart a műtét és a felépülés?
+
+Maga a műtét gyors, kb. 30-45 perc, a felépülési idő pedig körülbelül 2 hét. Általános érzéstelenítés esetén szükség lehet egy éjszakára a kórházban.
+
+### Marad-e látható heg?
+
+Általában egy 1,5-2,5 cm hosszú kis heg marad, amelyet a sebész igyekszik a nyak bőrredőjébe vagy az áll alá rejteni, így alig látható.
 
 </div>
