@@ -107,6 +107,47 @@ A ciklusom minden egyes ismétlésével képes voltam megjósolni a mentális á
 
 * A 23. nap a ciklus végéig egyre viharosabbá válik. Hangulatváltozásaim kezdenek lenni, és az érzelmi reakcióim egyre erősebbek. Könnyebben leszek nyűgös, és hajlamosabbnak találom magam a közúti dühre, de nagyon boldognak is érzem magam, amikor érzelmileg magasabbra lendülök. Ez a 28-31. napig tart, majd hirtelen újra összeomlok az 1. napra.
 
+<table>
+    <thead>
+        <tr>
+            <th>Ciklusnap</th>
+            <th>Tapasztalt tünetek (a szerző megfigyelése)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1-6</td>
+            <td>Súlyos diszfória, depresszió, vízvisszatartás, ízületi merevség (a "menstruáció")</td>
+        </tr>
+        <tr>
+            <td>7-12</td>
+            <td>Nyomott hangulat, fokozott diszmorfia</td>
+        </tr>
+        <tr>
+            <td>13-16</td>
+            <td>Eufória, magabiztosság, magas libidó (ovulációs fázis)</td>
+        </tr>
+        <tr>
+            <td>16-20</td>
+            <td>Normál időszak, kevés változás</td>
+        </tr>
+        <tr>
+            <td>21-22</td>
+            <td>Jó testérzés, mellduzzanat</td>
+        </tr>
+        <tr>
+            <td>23-31</td>
+            <td>Hangulatingadozás, ingerlékenység, erős érzelmi hullámzás</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+Ez a táblázat egyetlen személy szubjektív megfigyelése, nem klinikai adat. A tünetek mindenkinél nagyon eltérőek lehetnek.
+
+</div>
+
 Az a gyanúm, hogy az orvostudomány teljesen téved az LH és az FSH, különösen az FSH emberekben való fogadásával kapcsolatban. Az e hormonok egyes testrészek által adott válaszaira vonatkozó számos tanulmány egereken és teheneken végzett megfigyeléseken alapul, amelyeknek teljesen más az ösztro-ciklusa, mint az emberé, és jelentősen eltérő az agyi struktúrájuk. Tekintettel arra, ahogyan az [FSH a női reproduktív ciklus során ingadozik](https://web.archive.org/web/20230731013126/https://en.wikiversity.org/wiki/WikiJournal_of_Medicine/Reference_ranges_for_estradiol,_progesterone,_luteinizing_hormone_and_follicle-stimulating_hormone_during_the_menstrual_cycle), és ahogyan ezek az ingadozások egybeesnek az általunk tapasztalt tünetekkel, az összefüggés túl erős ahhoz, hogy véletlen legyen.
 
 Sajnos, amíg valaki nem végez vizsgálatot az LH- és FSH-vérszintekről az ösztrogénterápián lévő férfiaknál, akiknél periódusos ciklusok jelentkeznek, addig soha nem lehetünk igazán biztosak benne.
