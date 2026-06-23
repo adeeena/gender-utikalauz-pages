@@ -252,6 +252,42 @@ Ezen kívül teljesen lehetséges egy hormonkezelés megszakítása, majd késő
 
 Létezik mikroadagolású hormonkezelés is (amely csak részben helyettesíti természetes hormonjaidat). A változások megegyeznek a "hagyományos" hormonkezeléssel, de kevésbé intenzívek és hosszabb idő alatt következnek be.
 
+## Tévhitek és mítoszok a HRT-ről
+
+A hormonterápia körül sok pontatlan állítás kering. Az alábbiakban a leggyakoribb tévhiteket tisztázzuk.
+
+### Igaz, hogy az ösztrogén trombózist (vérrögöt) okoz?
+
+A kockázat nem egyforma minden készítménynél. A trombóziskockázatot főleg a **szintetikus ösztrogének** és a **szájon át szedett (orális) forma** növelik, mert ezek a májon keresztül hatnak. A bioidentikus ösztradiol injekcióban vagy tapaszban megkerüli a máj első áthaladását, ezért a kockázata lényegesen kisebb. A dohányzás tovább növeli a trombóziskockázatot.
+
+### Abba kell hagynom a hormonokat a műtét előtt?
+
+A korábbi gyakorlattal szemben ma már a [WPATH SOC8 ajánlása](https://www.wpath.org/soc8) szerint általában nem kell rutinszerűen leállítani a hormonokat a műtét előtt. A hirtelen leállítás rontja a közérzetet, és nincs egyértelmű bizonyíték arra, hogy csökkentené a szövődmények kockázatát. A konkrét teendőről mindig a műtétet végző sebészeddel egyeztess.
+
+### Befolyásolja a dohányzás (nikotin) a HRT-t?
+
+Igen. A nikotin növeli a trombóziskockázatot, ami az ösztrogénnel együtt összeadódik, ráadásul rontja a bőr- és a szövetkeringést, ami a feminizáció és a műtéti gyógyulás szempontjából is hátrányos.
+
+### Jobb-e alacsony adaggal kezdeni, hogy „természetesebb" legyen a folyamat?
+
+Nem. A nagyon alacsony kezdő adagnak nincs bizonyított előnye: nem teszi „természetesebbé" a feminizációt, csak lassítja a hatások beindulását. A cél a klinikai hatáshoz elegendő, megfelelő hormonszint elérése.
+
+### A testsúlyom alapján kell beállítani az adagot?
+
+Nem. A hormonadagolás nem testsúlyarányos; a beállítás a [vérvizsgálati](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok) eredmények és a klinikai hatások alapján történik, nem a testtömeg szerint.
+
+### Igaz, hogy a feminizáció néhány év után leáll?
+
+Nem. A változások éveken át folytatódhatnak, és nem állnak meg egy fix időpontban. Egyes hatások (pl. a mellfejlődés) az első években a leggyorsabbak, de a folyamat lassabb ütemben tovább tart, amíg fenntartod a kezelést.
+
+### Megemeli-e az alsó műtét (vaginoplasztika) a tesztoszteronszintet?
+
+Nem. Épp ellenkezőleg: a herék eltávolításával megszűnik a tesztoszteron fő forrása, így a szint csökken, és a T-blokkolóra már nincs szükség.
+
+### Csökken a magasságom vagy a lábméretem a HRT-től?
+
+A felnőttkori magasság érdemben nem csökken a hormonterápiától. Néhányan beszámolnak a lábméret apró változásáról (a szalagok és a zsíreloszlás módosulása miatt), de ez nem jelentős és nem garantált.
+
 ## Utazás hormonkészítményekkel
 
 A legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még hetekre elegendő tűkkel és injekciós készletekkel is.
