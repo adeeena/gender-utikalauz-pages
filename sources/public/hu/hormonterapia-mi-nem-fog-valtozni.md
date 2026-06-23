@@ -43,6 +43,58 @@ Bár létezik számos műtét [maszkulinizáló](/#/entry?id=maszkulinizalas-mut
 
 Attól függően, hogy hogyan élsz szexuális életet, lehet, hogy meg kell fontolni a fogamzásgátlási lehetőségeket. A hormonterápia nem csökkenti a HIV és a szexuális úton terjedő fertőzések kockázatát. Szükséged lehet óvszerre, kesztyűre vagy más latex gátló eszközökre.
 
+## Összefoglaló: mit nem változtat meg a hormonterápia?
+
+<table>
+    <thead>
+        <tr>
+            <th>Terület</th>
+            <th>Mi nem változik</th>
+            <th>Megjegyzés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Magasság, kéz- és lábméret</td>
+            <td>Nem csökken</td>
+            <td>Nincs rá elérhető kezelés</td>
+        </tr>
+        <tr>
+            <td>Hangmagasság (feminizáló HRT)</td>
+            <td>Nem változik</td>
+            <td>Hangképzéssel fejleszthető</td>
+        </tr>
+        <tr>
+            <td>Csontváz, vállszélesség</td>
+            <td>Nem alakul át</td>
+            <td>Pubertás után rögzült</td>
+        </tr>
+        <tr>
+            <td>Kromoszómák, belső nemi szervek</td>
+            <td>Nem változnak</td>
+            <td>Születés előtt alakultak ki</td>
+        </tr>
+        <tr>
+            <td>FTM-nél a kifejlett mell</td>
+            <td>Nem tűnik el</td>
+            <td>Masztektómia szükséges hozzá</td>        </tr>
+        <tr>
+            <td>"Férfi" mintájú kopaszodás</td>
+            <td>A kopasz terület nem nő vissza</td>
+            <td>A folyamat lassulhat vagy megállhat</td>
+        </tr>
+        <tr>
+            <td>Mentális és testképi nehézségek</td>
+            <td>Nem oldódnak meg automatikusan</td>
+            <td>Terápia és támogatás segíthet</td>
+        </tr>
+        <tr>
+            <td>HIV és STI kockázat</td>
+            <td>Nem csökken</td>
+            <td>A védekezés továbbra is szükséges</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Források
 
