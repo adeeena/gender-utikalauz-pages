@@ -1,7 +1,14 @@
 ---
 title: "Különböző feminizáló hormonkezelési technikák"
-description: "Összefoglaló, milyen különböző lehetőségeink és technikák állnak rendelkezésre feminizáló hormonkezelés során."
+description: "A feminizáló HRT négy fő technikája: ösztrogén + T-blokkoló, ösztrogén monoterápia, ösztrogén + progeszteron és a Powers-módszer; előnyök, hátrányok és kockázatok."
 lang: hu
+keywords: "feminizáló HRT technikák, ösztrogén monoterápia, T-blokkoló, Powers módszer, progeszteron, ösztradiol, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-hormonterapia-technikak"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_friends.svg"
+slug: "feminizalo-hormonterapia-technikak"
 ---
 
 <div class="floating-columns">
@@ -218,10 +225,28 @@ Alapvetően ez egy [ösztrogén](/#/entry?id=osztrogenek) monoterápia, de azzal
 
 Gyakorlatilag ez azt jelenti, hogy a páciens ösztrogéntablettákkal kezd, majd néhány hónap után injekciókra vagy tapaszokra vált. A pubertás során bekövetkező változások utánzása érdekében általában hozzáadnak progeszteront, amikor a mell elég fejlett, a [Tanner 3. stádium](https://en.wikipedia.org/wiki/Tanner_scale) végétől.
 
-Ez a módszer folyamatosan fejlődik: a legújabb változatai a [bicalutamid](/#/entry?id=bicalutamid) hozzáadásával kiegészültek T-blokkolóként, így közelebb hozva egy hagyományosabb módszerhez.
+Ez a módszer folyamatosan fejlődik: a legújabb változatai a [bicalutamide](/#/entry?id=bicalutamide) hozzáadásával kiegészültek T-blokkolóként, így közelebb hozva egy hagyományosabb módszerhez.
 
 ➡️ [A módszer teljes bemutatása elérhető itt (PPT prezentáció)](https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx).
 
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Melyik a leggyakrabban használt feminizáló HRT-technika?
+
+A leggyakoribb az ösztrogén és T-blokkoló együttes szedése. Ez külön szabályozhatóvá teszi a tesztoszteron és az ösztrogén szintjét, és a legjobban hasonlít egy cisznői pubertásra.
+
+### Biztonságos a csak ösztrogénes (monoterápia) módszer?
+
+Az ösztrogén monoterápia magas ösztradiolszinttel nyomja el a tesztoszteront, és sokak számára jól működik, különösen injekcióval. Hátránya, hogy a magasabb ösztrogénszint növelheti a trombózis kockázatát, ezért fontos a fokozatos kezdés és a rendszeres ellenőrzés.
+
+### Mi az a Powers-módszer?
+
+A Powers-módszer egy ösztrogén alapú megközelítés, amely az ösztradiol mellett az ösztron szintjét is figyeli, és a cisz pubertás hormonváltozásait próbálja utánozni. Fontos tudni, hogy ez vitatott, még nem publikált és nem elismert módszer, ezért inkább elméletnek tekintendő.
+
+### Szedhetek csak antiandrogént ösztrogén nélkül?
+
+Nem ajánlott. A szervezetnek szüksége van valamelyik nemi hormonra (ösztrogénre vagy tesztoszteronra) a megfelelő működéshez. A csak antiandrogénből álló kezelés hormonhiányt okozhat, ami például csontritkulás és depresszió kockázatával jár.
 
 </div>
