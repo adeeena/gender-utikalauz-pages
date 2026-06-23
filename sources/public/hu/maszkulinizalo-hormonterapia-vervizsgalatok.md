@@ -147,6 +147,59 @@ Az Endokrin Társaság 2017-es, a transznemű HRT-re vonatkozó klinikai iránye
 
 A felnőtt férfiak normál tartománya **10-50 pg/ml** ([Ösztrogén mértékegységváltó (kalkulátor)](#/osztrogen-kalkulator)), bár ez az életkortól és az egyéni tényezőktől függően változik. Próbáld megcélozni ezt a tartományt, bár valamivel magasabb szintek miatt nem kell aggódni. Végsősoron **próbáld meg az ösztradiolt 70 pg/ml alatt tartani.**
 
+## Célértékek egy táblázatban
+
+<table>
+    <thead>
+        <tr>
+            <th>Mit mérünk</th>
+            <th>Tájékoztató célérték</th>
+            <th>Megjegyzés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Teljes tesztoszteron (T)</td>
+            <td>300-1000 ng/dl (10,4-34,7 nmol/L)</td>
+            <td>A férfi fiziológiás tartomány (Endokrin Társaság, 2017).</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol (E2)</td>
+            <td>10-50 pg/ml (37-184 pmol/L)</td>
+            <td>Lehetőség szerint 70 pg/ml (257 pmol/L) alatt.</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox warning">
+<h5>⏱️ Mikor vérvételezz? A „trough" (mélypont)</h5>
+
+Injekciós tesztoszteronnál a szint az adagok között ingadozik. A legjobban összehasonlítható eredményt a **mélyponton** kapod: közvetlenül a következő injekció **előtti** napon. Ha mindig ugyanabban a ciklusfázisban mérsz, az eredmények összevethetők lesznek.
+
+</div>
+
+<figure>
+<svg viewBox="0 0 600 260" width="100%" role="img" aria-label="A tesztoszteronszint ingadozása az injekciók között és a trough mérési pont">
+  <rect x="0" y="0" width="600" height="260" fill="#ffffff"/>
+  <line x1="60" y1="30" x2="60" y2="210" stroke="#444" stroke-width="1.5"/>
+  <line x1="60" y1="210" x2="560" y2="210" stroke="#444" stroke-width="1.5"/>
+  <line x1="60" y1="90" x2="560" y2="90" stroke="#7d9bc7" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="556" y="84" text-anchor="end" font-size="11" fill="#4a6fa5">férfi tartomány</text>
+  <path d="M60,150 C100,60 140,60 180,150 C220,180 240,180 290,150 C330,60 370,60 410,150 C450,180 470,180 520,150" fill="none" stroke="#2f4a7a" stroke-width="3"/>
+  <circle cx="60" cy="150" r="4" fill="#2f4a7a"/>
+  <circle cx="290" cy="150" r="4" fill="#2f4a7a"/>
+  <circle cx="520" cy="150" r="4" fill="#2f4a7a"/>
+  <text x="60" y="232" text-anchor="middle" font-size="11" fill="#666">injekció</text>
+  <text x="290" y="232" text-anchor="middle" font-size="11" fill="#666">következő injekció</text>
+  <text x="520" y="232" text-anchor="middle" font-size="11" fill="#666">injekció</text>
+  <circle cx="290" cy="150" r="7" fill="none" stroke="#2f7a3a" stroke-width="2"/>
+  <text x="290" y="128" text-anchor="middle" font-size="12" fill="#2f7a3a">itt mérj (trough)</text>
+  <text x="300" y="252" text-anchor="middle" font-size="11" fill="#888">idő</text>
+  <text x="52" y="40" text-anchor="end" font-size="11" fill="#888">szint</text>
+</svg>
+<figcaption><i>Az injekciós tesztoszteron szintje a beadások között hullámzik; a következő adag előtti mélyponton mért érték a legjobban összehasonlítható. Forrás: Endocrine Society (Hembree és mtsai, 2017), <a href="http://ftm-transsexuel.info/">ftm-transsexuel.info</a>.</i></figcaption>
+</figure>
+
 ➡️ [A hormontáblázatot itt találod](/#/entry?id=hormontablazat-es-kalkulatorok).
 
 ## Egyéb vizsgálatok
