@@ -89,6 +89,33 @@ A transz emberek nagyon különbözőek, de a kétség, hogy valóban transz-e v
 
 **Íme három közülük.**
 
+<table>
+    <thead>
+        <tr>
+            <th>Teszt</th>
+            <th>A helyzet</th>
+            <th>Mit jelezhet</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>A kapcsoló</td>
+            <td>Gomb, amely az ellenkező nemben ébreszt fel</td>
+            <td>Ha megnyomnád, lehet, hogy transz vagy</td>
+        </tr>
+        <tr>
+            <td>A visszakapcsoló</td>
+            <td>Az ellenkező nemben ébredsz, gomb a visszaváltáshoz</td>
+            <td>Ha nem nyomnád meg, lehet, hogy transz vagy</td>
+        </tr>
+        <tr>
+            <td>A nem-bináris kapcsoló</td>
+            <td>Választhatod, hogyan érzékeljen a környezeted</td>
+            <td>Ha androgün vagy gendersemleges érzékelést választanál, lehet, hogy nem-bináris vagy</td>
+        </tr>
+    </tbody>
+</table>
+
 ### A kapcsoló
 
 Képzelj el egy gombot, amelyet bármikor megnyomhatsz. Ha megnyomod, a valóság hirtelen megváltozik, és a születésedkori nemeddel ellentétes nemben ébredsz fel. Mindenki azt feltételezi, hogy ez a normális, vagy hogy mindig is ilyen voltál. Nincs visszaút.

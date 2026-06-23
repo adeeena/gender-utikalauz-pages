@@ -37,6 +37,28 @@ A hormonterápia befolyásolhatja a libidót és a szexuális élményt:
 * Az ösztrogénterápia gyakran csökkentheti a nemi vágy intenzitását, és megváltoztathatja az orgazmus jellegét.
 * A tesztoszteronterápia gyakran növelheti a libidót, és érzékenységbeli változásokat hozhat.
 
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Ösztrogénterápia</th>
+            <th>Tesztoszteronterápia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Libidó</b></td>
+            <td>Gyakran csökkenhet</td>
+            <td>Gyakran nőhet</td>
+        </tr>
+        <tr>
+            <td><b>Élmény</b></td>
+            <td>Az orgazmus jellege változhat</td>
+            <td>Érzékenységbeli változások</td>
+        </tr>
+    </tbody>
+</table>
+
 Ezek a hatások egyéniek. A test megváltozásával az is átalakulhat, hogy mi okoz örömöt vagy diszfóriát.
 
 ➡️ Kapcsolódó: [Feminizáló hormonterápia hatásai](/#/entry?id=feminizalo-hormonterapia-hatasok)
