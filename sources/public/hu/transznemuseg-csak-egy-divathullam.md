@@ -1,7 +1,14 @@
 ﻿---
 title: "Transznak lenni csak egy divathullám?"
-description: "Divatos lett transznak lenni manapság vagy másmi áll a háttérben?"
+description: "A transzneműség nem új jelenség és nem divat: történelmi és kulturális példák, valamint a megnövekedett láthatóság valódi okai."
 lang: hu
+keywords: "transzneműség divat, transz történelem, két szellem, hidzsra, muxe, transz láthatóság, Magnus Hirschfeld"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transznemuseg-csak-egy-divathullam"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_fashion_photoshoot.svg"
+slug: "transznemuseg-csak-egy-divathullam"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_fashion_photoshoot.svg" /></div>
@@ -18,9 +25,9 @@ Különösen a közmédia vagy a TV2 hivalkodó műsorai, és bizonyos filmek, a
 
 Az eredmény az, hogy úgy tűnik, mintha többen lennének, mint korábban, még ha ez nem is igaz. Mert a transzidentitás valamilyen formában mindig is létezett a világ minden kultúrájában.
 
-A közelmúltig a nyugati kultúrában nem volt helye az atipikus nemi identitású embereknek. Ez azonban korabban vagy más kultúrákban nem feltétlenül igaz.
+A közelmúltig a nyugati kultúrában nem volt helye az atipikus nemi identitású embereknek. Ez azonban korábban vagy más kultúrákban nem feltétlenül igaz.
 
-Peldak az emberi történelemben:
+Példák az emberi történelemben:
 
 * A **két szellem** az indián kultúrákban
 * A **Muxe** a mexikói zapotec kultúrában.
@@ -36,9 +43,19 @@ Amint azt a pszichiátria (sajnos rendkívül problematikus) történetéből tu
 
 A transzneműség állapotának, nem pedig betegségnek a megértése a transz közösség felhatalmazásával kezdődik, és ezzel párhuzamosan az LGBTIQ+ mozgalommal. A transzneműség az elmúlt években nagyobb láthatóságot kapott a médiában, és a transz emberek láthatóbb részeivé váltak a társadalomnak, ami nem feltétlenül jelenti azt, hogy a transz embereknek jobbak az életkörülményei.
 
+## GYIK (Gyakran Ismételt Kérdések)
 
+### A transzneműség új jelenség?
 
+Nem. A normatív férfi vagy női identitáson kívül meghatározott emberek mindig is léteztek, számos kultúrában és történelmi korban. Például a két szellem az indián kultúrákban, a hidzsra Dél-Ázsiában vagy a muxe a mexikói zapotec kultúrában.
 
+### Akkor miért tűnik úgy, hogy egyre több a transz ember?
+
+Nem azért, mert "divat" lett, hanem mert az internet és a közösségi média révén többen tudják szavakba önteni az érzéseiket, és kevesebben rejtik el az identitásukat. A nagyobb láthatóság nem jelenti azt, hogy több transz ember születne.
+
+### Miért kezelték betegségként a transzneműséget?
+
+A patologizálás a nem normatív szexualitás perverzióként való felfogásából és a modern orvostudomány korabeli szexizmusából, rasszizmusából ered. Már a 20. század elején is folyt azonban kutatás, amely nem "őrületségnek" tekintette, például Magnus Hirschfeld berlini szexológiai intézetében.
 
 ## Források
 
