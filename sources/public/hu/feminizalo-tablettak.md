@@ -1,7 +1,14 @@
 ---
 title: "✅Tabletták"
-description: "Ismerd meg a ✅Tabletták előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+description: "Az ösztrogén tabletta formájának előnyei és hátrányai: szájon át és szublingvális (nyelv alatti) adagolás, májfeldolgozás, trombóziskockázat és adagolási útmutató."
 lang: hu
+keywords: "ösztrogén tabletta, ösztradiol, Estrofem, szublingvális, bukkális, feminizáló HRT, trombózis kockázat, DIY HRT"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-tablettak"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "feminizalo-tablettak"
 ---
 
 <div class="floating-columns">
@@ -181,5 +188,23 @@ Kerüld a nem bioidentikus ösztrogéneket, mint például a Premarin vagy az et
 ## DIY beszerzési források
 
 ➡️ [hrt.coffee - tabletták](https://hrt.coffee/pills/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a különbség a lenyelt és a nyelv alatti (szublingvális) tabletta között?
+
+Lenyelve a tabletta áthalad a májon, ami növeli a trombózis kockázatát és gyakran alacsonyabb ösztradiolszintet eredményez. Szublingválisan (a nyelv alatt feloldva) az ösztrogén megkerüli a májat, magasabb csúcsértéket ér el és csökkenti a trombóziskockázatot, viszont gyorsabban is ürül, ezért naponta többször kell bevenni.
+
+### Veszélyesek az ösztrogéntabletták a trombózis miatt?
+
+A modern, bioidentikus ösztradioltabletták (például Estrofem) sokkal kisebb kockázatot jelentenek, mint a régi készítmények, és a trombóziskockázatuk még a fogamzásgátló tabletta alatti is. A régebbi, nem bioidentikus formák (Premarin, etinilösztradiol) viszont kerülandők.
+
+### Naponta hányszor kell bevenni az ösztrogéntablettát?
+
+Lenyelve általában napi 1-2 alkalom elegendő, mert stabil szintet ad. Szublingvális használatnál a gyorsabb ürülés miatt gyakran 8-12 óránként szükséges adagolni a szint fenntartásához.
+
+### Megfelezhetem a tablettát a pontos adagoláshoz?
+
+Igen, ha nehéz eltörni, gyógyszertárban kapható tablettavágóval pontosan adagolható. A végleges adagot mindig vérvizsgálat eredménye alapján érdemes beállítani.
 
 </div>
