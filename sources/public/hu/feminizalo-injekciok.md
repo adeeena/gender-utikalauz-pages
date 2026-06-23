@@ -161,6 +161,75 @@ Az alábbiakban egy kis grafikon mutatja a kapott görbéket az ösztradiol típ
 
 <img src="assets/images/estradiol-injections.png" />
 
+<figure>
+<svg viewBox="0 0 600 320" width="100%" role="img" aria-label="Az ösztradiol-valerát, -cipionát és -enantát vérszintgörbéje az idő függvényében">
+  <rect x="0" y="0" width="600" height="320" fill="#ffffff"/>
+  <line x1="60" y1="30" x2="60" y2="250" stroke="#444" stroke-width="1.5"/>
+  <line x1="60" y1="250" x2="560" y2="250" stroke="#444" stroke-width="1.5"/>
+  <text x="52" y="40" text-anchor="end" font-size="11" fill="#888">szint</text>
+  <text x="300" y="280" text-anchor="middle" font-size="11" fill="#888">idő (kb. egy hét)</text>
+  <!-- valerat: magas csucs, gyors eses -->
+  <path d="M60,235 C100,55 140,60 180,120 C230,200 290,238 360,236 C430,232 480,222 520,212" fill="none" stroke="#9c2f66" stroke-width="3"/>
+  <!-- cipionat: mersekelt -->
+  <path d="M60,235 C105,150 150,128 200,128 C300,138 420,158 520,176" fill="none" stroke="#c0508a" stroke-width="3"/>
+  <!-- enantat: lapos -->
+  <path d="M60,235 C105,165 155,140 210,136 C320,132 430,134 520,138" fill="none" stroke="#e08bb5" stroke-width="3"/>
+  <!-- jelmagyarazat -->
+  <rect x="395" y="40" width="160" height="74" rx="6" fill="#fafafa" stroke="#ddd"/>
+  <line x1="405" y1="58" x2="435" y2="58" stroke="#9c2f66" stroke-width="3"/>
+  <text x="442" y="62" font-size="11" fill="#333">valerát (ingadozó)</text>
+  <line x1="405" y1="78" x2="435" y2="78" stroke="#c0508a" stroke-width="3"/>
+  <text x="442" y="82" font-size="11" fill="#333">cipionát (mérsékelt)</text>
+  <line x1="405" y1="98" x2="435" y2="98" stroke="#e08bb5" stroke-width="3"/>
+  <text x="442" y="102" font-size="11" fill="#333">enantát (stabil)</text>
+</svg>
+<figcaption><i>Ugyanaz a heti adag más-más észternél eltérő görbét ad: a valerát magasra ugrik, majd gyorsan esik; az enantát a legstabilabb. Forrás: <a href="https://pghrt.diy/">pghrt.diy</a> (3. szakasz), <a href="https://transfemscience.org/misc/injectable-e2-simulator/">Transfeminine Science injekciós szimulátor</a>.</i></figcaption>
+</figure>
+
+### Az észterek összehasonlítása
+
+<table>
+    <thead>
+        <tr>
+            <th>Észter</th>
+            <th>Görbe jellege</th>
+            <th>Tipikus adagolás</th>
+            <th>Gyakoriság</th>
+            <th>Megjegyzés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ösztradiol-valerát (EV)</td>
+            <td>Magas csúcs, gyors esés (a leginkább ingadozó)</td>
+            <td>6-8 mg/hét vagy 4-5 mg/5 nap</td>
+            <td>Hetente vagy heti 2x</td>
+            <td>A leggyakrabban felírt forma.</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol-cipionát (EC)</td>
+            <td>Mérsékelt hullámzás</td>
+            <td>5-7 mg/hét</td>
+            <td>Hetente</td>
+            <td>Megengedőbb, mint a valerát.</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol-enantát (EEn)</td>
+            <td>Nagyon lapos, stabil</td>
+            <td>4-6 mg/hét (5-7 mg/10 nap)</td>
+            <td>Hetente (akár 10 nap)</td>
+            <td>A stabilitás „arany standardja", főleg DIY.</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol-undecilát (EUn)</td>
+            <td>Nagyon hosszú hatás, kísérleti</td>
+            <td>Nem szabványosított</td>
+            <td>Havi / negyedéves</td>
+            <td>Tapasztalt felhasználóknak, kiszámíthatatlanabb.</td>
+        </tr>
+    </tbody>
+</table>
+
 [Az injekciós szimulátor itt érhető el](https://transfemscience.org/misc/injectable-e2-simulator/). Segítségével megtudhatod, hogy hány napra van szükséged az injekció beadásához, mielőtt néhány hónap múlva a vérszintek ellenőrzésével módosítanád.
 
 ## Adagolási útmutató
