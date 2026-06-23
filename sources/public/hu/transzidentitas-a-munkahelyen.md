@@ -124,6 +124,41 @@ A vállalat legtöbb dokumentuma belső, és nem a vállalaton kívüli személy
 
 * Feliratok (például az iroda ajtaján)
 
+<table>
+    <thead>
+        <tr>
+            <th>Névváltás nélkül NEM módosítható</th>
+            <th>Névváltás nélkül módosítható</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bérpapír</td>
+            <td>Névjegykártya</td>
+        </tr>
+        <tr>
+            <td>Hivatalos nyilatkozatok (TB, állam, nyugdíj, bank)</td>
+            <td>Badge/belépőkártya</td>
+        </tr>
+        <tr>
+            <td>Képviselőválasztási lista</td>
+            <td>Cégjegyzékben feltüntetett név</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>E-mail cím és elektronikus aláírás</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Szervezeti ábra neve, jelenléti ívek</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Ajtófeliratok</td>
+        </tr>
+    </tbody>
+</table>
+
 Magyarországon az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény védi a munkavállalókat.
 
 ### Mosdók

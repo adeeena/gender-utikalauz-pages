@@ -51,6 +51,33 @@ Az orvosi tranzíció az olyan beavatkozásokat foglalja magában, mint:
 
 ➡️ Kapcsolódó: [Hormonterápia elkezdése](/#/entry?id=hormonterapia-elkezdese)
 
+<table>
+    <thead>
+        <tr>
+            <th>Tranzíció típusa</th>
+            <th>Mit foglal magában</th>
+            <th>Magyarországi helyzet</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Társas</td>
+            <td>Választott név, névmások, megjelenés, coming out</td>
+            <td>Szabadon megtehető</td>
+        </tr>
+        <tr>
+            <td>Jogi</td>
+            <td>A hivatalos név és nem módosítása</td>
+            <td>2020 óta nem lehetséges</td>
+        </tr>
+        <tr>
+            <td>Orvosi</td>
+            <td>Hormonterápia, műtétek, szőrtelenítés, hangképzés</td>
+            <td>Elérhető (orvosi feltételekkel)</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Nincs kötelező út
 
 Nem kell minden lépést megtenned ahhoz, hogy „eléggé" transz légy. Van, aki csak társasan tranzícionál, van, aki hormonokat szed, de nem műt, és van, aki minden lépést megtesz. Mindegyik út egyformán érvényes.
