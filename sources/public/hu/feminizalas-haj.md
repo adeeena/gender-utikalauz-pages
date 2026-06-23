@@ -79,6 +79,47 @@ Bizonyos frizurák valóban segíthetnek elrejteni ezt a férfiasnak vélt hajvo
 
 <div class="content-image"><img src="assets/images/feminine-hairline-2.png" /></div>
 
+## Hajbeültetés (FUE)
+
+Ha a hajhullás már előrehaladott, és a gyógyszeres megőrzés önmagában nem elegendő, a hajbeültetés tartós megoldás lehet. A leggyakoribb módszer a **FUE (Follicular Unit Extraction)**: a fej hátsó és oldalsó részéből (a donorzonából) egyesével kiemelt hajhagymákat ültetnek át a ritkuló területre.
+
+Transznemeű nőknél a FUE-t gyakran a **hajvonal feminizálására** is használják: a férfias, M-alakú, hátrahúzódó hajvonal lekerekíthető, a halánték feltolthető.
+
+<div class="infobox info">
+
+Fontos: a beültetés nem hoz létre új hajat, csak a már meglévő, élő tüszőket helyezi át. Ezért érdemes előbb a meglévő hajat megőrizni hormonterápiával és szükség esetén kiegészítő kezeléssel, mielőtt beültetésre gondolnál.
+
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Megközelítés</th>
+            <th>Mit csinál?</th>
+            <th>Mikor?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Feminizáló hormonterápia</td>
+            <td>Megállítja a férfias hajhullást, részleges visszanövesztést segít.</td>
+            <td>Minden esetben ez az alap.</td>
+        </tr>
+        <tr>
+            <td>5-ARI (finaszterid / dutaszterid) + minoxidil</td>
+            <td>Tovább lassítja a hullást és segíti a sűrűsödést.</td>
+            <td>Kiegészítésként, orvosi egyeztetéssel.</td>
+        </tr>
+        <tr>
+            <td>FUE hajbeültetés</td>
+            <td>Meglévő tüszőket helyez át a ritkuló területre, illetve lekerekíti a hajvonalat.</td>
+            <td>Ha a gyógyszeres megőrzés már nem elég.</td>
+        </tr>
+    </tbody>
+</table>
+
+A FUE tartós eredményt ad, de költséges, és gyakran több ülés szükséges hozzá. Érdemes tapasztalt, a hajvonal-feminizálásban jártas szakértőt választani.
+
 ## Pajesz
 
 A férfiak és a nők frizurája eltérően kezeli a fül körüli hajat.
@@ -139,7 +180,9 @@ Használhatsz olyan sminket, ami vékonyabbá teszi az arcodat (kontúrozás), j
 ### Vissza tudja növeszteni a hajamat a feminizáló hormonkezelés?
 
 A feminizáló hormonkezelés megállítja a férfias típusú hajhullást, és segíthet a megállítás előtti hónapokban elvesztett haj részleges visszanövesztésében. A már teljesen kopasz területeket azonban általában nem növeszti vissza.
+### Számomra is szóba jön a hajbeültetés (FUE)?
 
+A FUE akkor lehet hasznos, ha a hajhullás már előrehaladott, vagy ha a férfias hajvonalat szeretnéd feminizálni. A beültetés a meglévő tüszőket helyezi át, új hajat nem hoz létre, ezért előbb érdemes a meglévő hajat hormonterápiával és szükség esetén kiegészítő kezeléssel megőrizni. Az eljárás tartós, de költséges, és több ülést igényelhet.
 ### Hogyan rejthetem el a férfias hajvonalat?
 
 Bizonyos frizurák jól elrejtik a halántéknál visszahúzódó hajvonalat, például az oldalra vagy homlokba fésült tincsek. A fül előtti pajeszt érdemes kerülni, mert a nőies haj ívben, a fülek mögött nő.
