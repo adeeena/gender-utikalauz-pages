@@ -146,6 +146,38 @@ Az antiandrogéneket az [orchidektómiáig](/#/entry?id=feminizalas-orchidectomi
     </tbody>
 </table>
 
+### Hatékonyság és biztonság egy ábrán
+
+Az alábbi ábra azt foglalja össze, hogy az egyes T-blokkolók mennyire hatékonyak a tesztoszteron blokkolásában, és mennyire biztonságosak. A jobb felső sarok az ideális: hatékony és biztonságos.
+
+<figure>
+<svg viewBox="0 0 600 420" width="100%" role="img" aria-label="Antiandrogének hatékonyságának és biztonságának összehasonlítása">
+  <rect x="0" y="0" width="600" height="420" fill="#ffffff"/>
+  <!-- ideal negyed kiemelese -->
+  <rect x="315" y="40" width="245" height="155" fill="#eef7ee"/>
+  <text x="552" y="56" text-anchor="end" font-size="10" fill="#5a9a5a">ideális zóna</text>
+  <!-- tengelyek -->
+  <line x1="70" y1="40" x2="70" y2="350" stroke="#444" stroke-width="1.5"/>
+  <line x1="70" y1="350" x2="560" y2="350" stroke="#444" stroke-width="1.5"/>
+  <text x="315" y="385" text-anchor="middle" font-size="12" fill="#333">Antiandrogén hatékonyság &#8594;</text>
+  <text x="20" y="195" text-anchor="middle" font-size="12" fill="#333" transform="rotate(-90 20 195)">Biztonság &#8594;</text>
+  <!-- pontok -->
+  <circle cx="511" cy="71" r="7" fill="#2f7a3a"/>
+  <text x="500" y="64" text-anchor="end" font-size="12" fill="#1f4d28">GnRH-agonista (Decapeptyl)</text>
+  <circle cx="486" cy="86" r="7" fill="#2f7a3a"/>
+  <text x="475" y="100" text-anchor="end" font-size="12" fill="#1f4d28">Bicalutamide</text>
+  <circle cx="290" cy="149" r="7" fill="#d9a441"/>
+  <text x="300" y="145" font-size="12" fill="#8a6a1f">Spironolactone</text>
+  <circle cx="192" cy="195" r="7" fill="#d9a441"/>
+  <text x="202" y="191" font-size="12" fill="#8a6a1f">5-ARI (finaszterid, dutaszterid)</text>
+  <circle cx="437" cy="257" r="7" fill="#c0392b"/>
+  <text x="426" y="261" text-anchor="end" font-size="12" fill="#7a2018">Androcur</text>
+  <circle cx="413" cy="303" r="7" fill="#c0392b"/>
+  <text x="402" y="307" text-anchor="end" font-size="12" fill="#7a2018">Flutamide</text>
+</svg>
+<figcaption><i>A bicalutamide és a GnRH-agonisták egyszerre hatékonyak és biztonságosak; az Androcur és a flutamide kockázatosabb, az 5-ARI-k pedig gyenge antiandrogének. A pozíciók tájékoztató jellegűek. Forrás: <a href="https://pghrt.diy/">pghrt.diy</a>.</i></figcaption>
+</figure>
+
 ## Módszerek
 
 A gyakorlatban 5 különböző módszer létezik a tesztoszteron blokkolására:
