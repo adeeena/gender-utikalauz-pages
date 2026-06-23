@@ -37,6 +37,33 @@ A nem-binaritás társadalmi tényező, amelynek semmi köze sincs a biológiáh
 
 A nem-binaritás nem felel meg az androgünségnek sem, amely a férfi és női esztétikai jegyeket vegyítő fizikai megjelenést írja le.
 
+<table>
+    <thead>
+        <tr>
+            <th>Fogalom</th>
+            <th>Mit jelent</th>
+            <th>Köze a biológiához</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nem-binaritás</td>
+            <td>Nemi identitás, amely nem kizárólag férfi vagy nő</td>
+            <td>Nincs (társadalmi, identitásbeli)</td>
+        </tr>
+        <tr>
+            <td>Interszexualitás</td>
+            <td>Anatómiai, hormonális vagy kromoszómális eltérés</td>
+            <td>Igen (biológiai)</td>
+        </tr>
+        <tr>
+            <td>Androgünség</td>
+            <td>Férfi és női esztétikai jegyeket vegyítő megjelenés</td>
+            <td>Nincs (megjelenés)</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Elismerés világszerte
 
 A nem-bináris nemi identitás, bár mindig is létezett, egyre inkább társadalmi és jogi elismerést nyer.
