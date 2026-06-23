@@ -27,6 +27,48 @@ Ez a cikk általános tájékoztatás, nem helyettesíti az orvosi tanácsadást
 
 A leggyakoribb STI-k közé tartozik a chlamydia, a gonorrhoea (kankó), a szifilisz (vérbaj), a HPV, a herpesz és a HIV. Sok közülük tünetmentes is lehet, ezért a **rendszeres szűrés** kulcsfontosságú.
 
+<table>
+    <thead>
+        <tr>
+            <th>Fertőzés</th>
+            <th>Jellemző</th>
+            <th>Kezelés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Chlamydia</td>
+            <td>Gyakran tünetmentes</td>
+            <td>Antibiotikummal gyógyítható</td>
+        </tr>
+        <tr>
+            <td>Gonorrhoea (kankó)</td>
+            <td>Gyakran tünetmentes</td>
+            <td>Antibiotikummal gyógyítható</td>
+        </tr>
+        <tr>
+            <td>Szifilisz (vérbaj)</td>
+            <td>Szakaszosan jelentkező tünetek</td>
+            <td>Antibiotikummal gyógyítható</td>
+        </tr>
+        <tr>
+            <td>HPV</td>
+            <td>Bőrkontaktussal terjed; védőoltás van</td>
+            <td>Oltással megelőzhető, tünetek kezelhetők</td>
+        </tr>
+        <tr>
+            <td>Herpesz</td>
+            <td>Visszatérő kiújulások</td>
+            <td>Vírusellenes szerrel a tünetek kezelhetők</td>
+        </tr>
+        <tr>
+            <td>HIV</td>
+            <td>Vér és testnedvek útján terjed</td>
+            <td>Nem gyógyítható, de jól kezelhető (U=U)</td>
+        </tr>
+    </tbody>
+</table>
+
 ## A HIV megelőzése
 
 A HIV elleni védekezés több eszközből áll:
@@ -34,6 +76,33 @@ A HIV elleni védekezés több eszközből áll:
 * **Óvszer** következetes használata.
 * **PrEP** (expozíció előtti megelőzés): gyógyszeres megelőzés, amely jelentősen csökkenti a fertőzés kockázatát, ha rendszeresen szeded.
 * **PEP** (expozíció utáni megelőzés): kockázatos esemény után, minél hamarabb (általában 72 órán belül) megkezdett gyógyszeres kezelés, amely megelőzheti a fertőzést.
+
+<table>
+    <thead>
+        <tr>
+            <th>Szempont</th>
+            <th>PrEP</th>
+            <th>PEP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mikor</td>
+            <td>A kockázat ELŐTT, rendszeresen</td>
+            <td>A kockázat UTÁN, 72 órán belül</td>
+        </tr>
+        <tr>
+            <td>Cél</td>
+            <td>Folyamatos megelőzés</td>
+            <td>Sürgősségi megelőzés</td>
+        </tr>
+        <tr>
+            <td>Hogyan</td>
+            <td>Rendszeres szedés</td>
+            <td>Rövid kúra (kb. 28 nap)</td>
+        </tr>
+    </tbody>
+</table>
 
 <div class="infobox success">
 
