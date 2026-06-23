@@ -1,7 +1,14 @@
 ---
-title: "✈️ Felkészülés utazásra"
-description: "Hogyan készüljünk fel, vegyünk jegyeket és utazzunk a világban?"
+title: "Felkészülés utazásra"
+description: "Hogyan készülj fel transzként az utazásra: jegyfoglalás a hivatalos neveddel, hormonok és injekciók szállítása repülőn, és biztonsági tudnivalók."
 lang: hu
+keywords: "transz utazás, hormonok repülőn, HRT utazás, transz repülőtér, gyógyszer kézipogyász, transz útlevél név"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transzidentitas-utazas"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_travel_mode.svg"
+slug: "transzidentitas-utazas"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_travel_mode.svg" /></div>
@@ -38,10 +45,23 @@ Készíts fénymásolatot (és telefonos fotót) a receptjeidről, és tegyél e
 
 Ha a repülőút több, mint két óráig tart, akkor lehetőleg viselj kompressziós harisnyát. Mivel a mélyvénás trombózis kockázata a repülés időtartamával nő, különösen, ha transzfeminin hormonkezelés alatt állsz; ami már önmagában hordozza ezeket a kockázatokat.
 
+## GYIK (Gyakran Ismételt Kérdések)
 
+### Milyen névvel foglaljam le a repülőjegyet?
 
+Mindig a személyi igazolványodban vagy útleveledben szereplő hivatalos kereszt- és vezetéknévvel, mert a légitársaságok megkövetelik a pontos egyezést. Ha már megváltoztattad a neved, érdemes időben új okmányokat igényelni.
 
+### Felvihetem a hormonjaimat és a fecskendőket a repülőre?
 
+Igen. A gyógyszereket tartsd az eredeti csomagolásukban, és vigyél magaddal érvényes (lehetőleg angol nyelvű) vényt. Fecskendőt is felvihetsz kézipogyászban orvosi igazolással, de érdemes előre egyeztetni a légitársasággal. A 100 ml feletti folyékony készítmények a feladott pogyászba valók.
+
+### Mit tegyek, hogy ne legyen gond az ellenőrzésnél?
+
+Tartsd minden gyógyszered egy könnyen hozzáférhető táskában, világosan felcímkézve a teljes névvel. Készíts másolatot és telefonos fotót a vényeidről, és tarts egy példányt a gyógyszerek mellett, egy másikat külön helyen. Soha ne tegyél HRT-t félrevezetően címkézett dobozóba.
+
+### Számítsak-e fokozott trombóziskockázatra hosszú repülőúton?
+
+Igen, ha transzfeminin hormonkezelés alatt állsz, mert az ösztrogén önmagában is növeli a mélyvénás trombózis kockázatát. Két óránál hosszabb útra viselj kompressziós harisnyát és mozogj rendszeresen.
 
 ## Források
 
