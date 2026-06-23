@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A hagyományos európai társadalmak a szigorú binaritás és a három nemű rendszer közötti ingadozása - a görög és római ókor hermafroditái"
+title: "Transz történelem: a görög és római ókor"
+description: "A görög és római ókor nemét váltó mitológiai alakjai (Hermaphroditus, Teiresziasz) és a hermafroditák valósága: a binaritás és a háromnemű rendszer között."
 lang: hu
+keywords: "görög mitológia transz, Hermaphroditus, Teiresziasz, hermafrodita ókor, római gallok, transz történelem ókor"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-gorog-es-romai-okor"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-gorog-es-romai-okor"
 ---
 
 <div class="floating-columns">
@@ -82,6 +89,20 @@ Mindezek a történetek érdekesen liminálissá teszik Tiresziászt, hiszen ő 
 Tiresziasz nővé válását néha büntetésként fogalmazzák meg a kígyók megtámadásáért, a férfi alakba való visszatérés pedig jutalom. Azonban az a mód, ahogyan Tiresziasz elfogadta a nőként való életet, és képes volt megházasodni, gyermekeket szülni, és a nők istennőjének papnőjévé válni, lehetővé teszi, hogy ebben a korban jól elfogadott transz nőként lássuk őt.
 
 Az úgynevezett hermafroditák vagy androgün emberek valósága sokkal borúsabb. Születésüket gonosz jelnek tekintik, a két nem nemi jellegzetességek birtoklása olyan vétek, amely megzavarja a nemek felosztását: szörnyetegnek tekintik őket. Ezért az interszexuális csecsemőket nyilvánosság elé állították; és a felnőtteket, akiknek az interszexuális állapotát felfedezték, akár meg is ölhették. A Római Birodalomban racionálisabb megközelítést alkalmaztak: az a tény, hogy léteztek mindkét nemi tulajdonságokkal rendelkező lények, már nem sorolta őket automatikusan a szörnyek kategóriájába. A gallokat, Cybele istennő eunuch papjait sem férfinak, sem nőnek nem tekintették, és a nemek binaritásán kívülre helyezték őket.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Volt-e a transzneműségnek megfelelője az ókori Görögországban?
+
+A mai értelemben vett transzneműség fogalma nem létezett az ókorban, de számos görög mítosz (például Hermaphroditus és Teiresziasz) a nem megváltozásáról szól, általában semlegesen vagy pozitívan ábrázolva.
+
+### Ki volt Teiresziasz?
+
+Teiresziasz a görög mitológia vak prófétája, aki hét évre nővé változott: Héra papnője lett, megházasodott és gyermekei születtek, majd visszaváltozott férfivá. A története miatt sokan a kor egyik elfogadott transz női alakjaként olvassák.
+
+### Hogyan kezelték az interszex embereket az ókorban?
+
+A görög világban a "hermafroditák" születését gyakran gonosz jelnek tekintették, és az interszex embereket súlyos diszkrimináció érte. A Római Birodalomban ennek racionálisabb megközelítése alakult ki, és nem sorolták őket automatikusan a "szörnyek" közé.
 
 ## Forrás
 
