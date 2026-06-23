@@ -97,6 +97,45 @@ Ezeknek a termékeknek az az előnye, hogy vény nélkül kaphatók; ezért kön
 
 Ezeket a kezeléseket a HRT mellett kell alkalmazni, hogy fokozzák annak hatását, de természetesen HRT nélkül is használhatod őket, ha nem akarsz és/vagy nem kaphatsz HRT-t.
 
+## A módszerek összehasonlítása
+
+<table>
+    <thead>
+        <tr>
+            <th>Módszer</th>
+            <th>Gyakoriság</th>
+            <th>Fő előny</th>
+            <th>Fő hátrány</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Injekció, enantát (<a href="/#/entry?id=maszkulinizalo-injekciok">Testosteron Depo</a>)</td>
+            <td>2-4 hetente</td>
+            <td>Jól ismert, olcsó, hatékony</td>
+            <td>A szint hullámzik az injekciók között (hangulat, fáradtság)</td>
+        </tr>
+        <tr>
+            <td>Injekció, undekanoát (<a href="/#/entry?id=nebido">Nebido</a>)</td>
+            <td>10-14 hetente</td>
+            <td>Nagyon stabil szint, ritka beadás</td>
+            <td>Nehéz finomhangolni, az első adagok orvosi felügyeletet igényelnek</td>
+        </tr>
+        <tr>
+            <td>Gél (<a href="/#/entry?id=androgel">Androgel</a>)</td>
+            <td>Naponta</td>
+            <td>Tűmentes, gyorsan állítható, jó mikroadagoláshoz</td>
+            <td>Naponta kell kenni, érintkezéssel átadható másnak</td>
+        </tr>
+        <tr>
+            <td>Nem hormonális (<a href="/#/entry?id=ricinusolaj">ricinusolaj</a>, <a href="/#/entry?id=minoxidil">minoxidil</a>)</td>
+            <td>Naponta / helyileg</td>
+            <td>Vény nélkül kapható</td>
+            <td>Kevésbé hatékony; nem mélyíti a hangot, nem állítja le a menstruációt</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Kapcsolódó
 
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
