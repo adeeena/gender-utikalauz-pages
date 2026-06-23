@@ -2,6 +2,13 @@
 title: "Ösztrogének"
 description: "Az ösztrogének kritikusak a feminizáló hormonterápiában. Fedezd fel hatásukat, illetve a különböző kezeléseket (mint a gélek vagy a tabletták)!"
 lang: hu
+keywords: "ösztrogén, ösztradiol, ösztron, ösztriol, feminizáló hormonterápia, HRT, ösztrogén monoterápia, hormonszint, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/osztrogenek"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_modern_woman.svg"
+slug: "osztrogenek"
 ---
 
 <div class="floating-columns">
@@ -78,7 +85,7 @@ T-BLOKKOLÓK ÉS PROGESZTINEK
 
 Az ösztrogéneket általában a női nemi hormonoknak nevezik. Ezek a hormonok kritikus szerepet játszanak a női reproduktív rendszerben, valamint számos más fiziológiai folyamatban.
 
-Ami az ösztrogéneket illeti, valójában több hormont is összefoglal, a legfontosabbak között az ösztradiol, az ösztron és az esztriol található meg. A HRT esetében elsősorban az ösztradiolra fogunk összpontosítani, egyszerűen azért, mert ez a hormon sokkal hatékonyabb, mint a többi, mivel sokkal könnyebben kötődik az ösztrogén receptorokhoz a többiekhez képest.
+Ami az ösztrogéneket illeti, valójában több hormont is összefoglal, a legfontosabbak között az ösztradiol, az ösztron és az ösztriol található meg. A HRT esetében elsősorban az ösztradiolra fogunk összpontosítani, egyszerűen azért, mert ez a hormon sokkal hatékonyabb, mint a többi, mivel sokkal könnyebben kötődik az ösztrogén receptorokhoz a többiekhez képest.
 
 A feminizáló hatáson kívül az ösztrogének [antigonadotrop](https://en.wikipedia.org/wiki/Gonadotropin) hatással is rendelkeznek, vagyis jelenlétük természetesen arra sarkallja a testet, hogy csökkentse a tesztoszteron termelését.
 
@@ -111,7 +118,7 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat 
             <td>Könnyű</td>
         </tr>
         <tr>
-            <td><a href="/#/entry?id=osztrogen-tablettak">✅Tabletták</a></td>
+                <td><a href="/#/entry?id=feminizalo-tablettak">✅Tabletták</a></td>
             <td>Nagyon jó kezdéshez, de hosszú távon kissé kockázatosabb. Közepes hatékonyság.</td>
             <td>Közepes</td>
             <td>Könnyű</td>
@@ -138,7 +145,29 @@ Többféle kezelés létezik az ösztrogének szedésére. Összesen 5 fő utat 
 </table>
 
 
-# Források
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Melyik ösztrogén a legfontosabb a hormonterápiában?
+
+Az ösztradiol. Ez az ösztrogének közül a leghatékonyabb, mert a legkönnyebben kötődik az ösztrogénreceptorokhoz. A feminizáló HRT szinte mindig ösztradiolt használ, nem ösztront vagy ösztriolt.
+
+### Milyen ösztradiolszint szükséges a tesztoszteron elnyomásához?
+
+A 200-300 pg/mL körüli ösztradiolszint általában elegendő ahhoz, hogy a tesztoszteron női tartományba csökkenjen, így akár T-blokkoló nélkül is. Még alacsonyabb szinten is van antigonadotrop hatás, csak gyengébb.
+
+### Mi az ösztrogén monoterápia?
+
+Az ösztrogén monoterápia olyan hormonterápia, amely kizárólag ösztrogént (ösztradiolt) használ, külön T-blokkoló nélkül. A megfelelően magas ösztradiolszint maga nyomja el a tesztoszterontermelést.
+
+### Melyik beviteli mód a legbiztonságosabb?
+
+A bőrön keresztüli (transzdermális) bevitel, vagyis a gél és a tapasz tekinthető a legbiztonságosabbnak, mert megkerüli a májat, így alacsonyabb a vérrögösödés (trombózis) kockázata. A tabletták kényelmesek a kezdéshez, de a májon áthaladva valamivel nagyobb kockázatot jelentenek.
+
+### Elérhető-e az ösztradiol Magyarországon?
+
+Igen. Az ösztradiol tartalmú gélek, tapaszok és tabletták receptre elérhetők Magyarországon. Az injekciós formát nehéz beszerezni, az orrspray pedig gyakorlatilag nem elérhető.
+
+## Források
 
 ➡️ [Properties of HRT estrogens](https://moderntranshormones.com/2017/11/16/chart-properties-of-hrt-estrogens/)
 
