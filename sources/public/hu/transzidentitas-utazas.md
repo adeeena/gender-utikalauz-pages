@@ -45,6 +45,43 @@ Készíts fénymásolatot (és telefonos fotót) a receptjeidről, és tegyél e
 
 Ha a repülőút több, mint két óráig tart, akkor lehetőleg viselj kompressziós harisnyát. Mivel a mélyvénás trombózis kockázata a repülés időtartamával nő, különösen, ha transzfeminin hormonkezelés alatt állsz; ami már önmagában hordozza ezeket a kockázatokat.
 
+## Utazási checklist (áttekintés)
+
+<table>
+    <thead>
+        <tr>
+            <th>Tennivaló</th>
+            <th>Miért fontos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Foglalj a hivatalos neveddel</td>
+            <td>A légitársaságok pontos egyezést követelnek az okmányoddal</td>
+        </tr>
+        <tr>
+            <td>Vigyél érvényes (lehetőleg angol nyelvű) vényt</td>
+            <td>Igazolja, hogy jogosan birtoklod a gyógyszereidet</td>
+        </tr>
+        <tr>
+            <td>Hagyd a gyógyszert eredeti csomagolásban</td>
+            <td>Bizonyítja, hogy megfelel a receptnek</td>
+        </tr>
+        <tr>
+            <td>Kézipoggyász: az úton beveendő gyógyszerek</td>
+            <td>Folyékony készítményből max. 100 ml vihető fel</td>
+        </tr>
+        <tr>
+            <td>Másolat és telefonos fotó a receptekről</td>
+            <td>Elvesztés esetén legyen tartalék</td>
+        </tr>
+        <tr>
+            <td>Transzfeminin: kompressziós harisnya 2+ órás úton</td>
+            <td>Csökkenti a mélyvénás trombózis kockázatát</td>
+        </tr>
+    </tbody>
+</table>
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Milyen névvel foglaljam le a repülőjegyet?
