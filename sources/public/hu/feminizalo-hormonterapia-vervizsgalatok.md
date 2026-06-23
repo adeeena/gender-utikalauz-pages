@@ -260,6 +260,35 @@ A hormonszint az adagok között ingadozik. A legtöbb információt akkor kapod
 <figcaption><i>A vérszint az adagok között hullámzik; a legalacsonyabb pont (a következő adag előtt) a leghasznosabb mérési idő. Forrás: <a href="https://pghrt.diy/">pghrt.diy</a> (4. szakasz), <a href="https://transfemscience.org/">Transfeminine Science</a>.</i></figcaption>
 </figure>
 
+## Vérvizsgálat műtétek után (orchidectomia, vaginoplasztika)
+
+A herék eltávolítása ([orchidectomia](/#/entry?id=feminizalas-orchidectomia)) vagy a [vaginoplasztika](/#/entry?id=feminizalas-vaginoplasztika-huvelyplasztika) után megszűnik a tesztoszteron fő forrása. Ez érdemben megváltoztatja az adagolást és a célértékeket.
+
+<table>
+    <thead>
+        <tr>
+            <th>Mi változik</th>
+            <th>Részletek</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>T-blokkoló elhagyása</td>
+            <td>A here eltávolítása után már nincs szükség antiandrogénre (spironolactone, bicalutamide stb.), mert a fő T-forrás megszűnt.</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol szinten tartása</td>
+            <td>Az ösztrogént továbbra is szedned kell; tartsd legalább kb. 100 pg/ml (350 pmol/L) felett a csontok egészségéhez és a jó közérzethez.</td>
+        </tr>
+        <tr>
+            <td>Tesztoszteron mikroadag</td>
+            <td>Opcionális. A nulla közeli T (kevesebb mint 10 ng/dl) egyeseknél fáradtságot, levertséget és libidóvesztést okozhat; ilyenkor kis tesztoszteron-mikroadag segíthet.</td>
+        </tr>
+    </tbody>
+</table>
+
+A műtét után tehát a hangsúly a tesztoszteron elnyomásáról átkerül az ösztrogénszint fenntartására. Ha a közérzeted (energia, kedv, libidó) romlik, érdemes orvossal megbeszélni egy kis tesztoszteron-mikroadag lehetőségét.
+
 ## Források
 
 ➡️ [RainbowHealth Ontario](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html)
@@ -279,5 +308,9 @@ A legfontosabb, hogy az ösztrogénszint 100 pg/ml felett, a tesztoszteronszint 
 ### Miért a születéskori nemre vonatkoznak a labor referenciaértékei?
 
 A laborleleten szereplő referenciatartományok a nyilvántartott nemhez igazodnak. Ha még nem változtattad meg a nemedet a dokumentumaidban, a papíron a születéskori nemre vonatkozó értékek jelennek meg, ezért a saját célértékeidet érdemes orvossal egyeztetni.
+
+### Változik-e a vizsgálat orchidectomia vagy vaginoplasztika után?
+
+Igen. A herék eltávolítása után megszűnik a tesztoszteron fő forrása, ezért T-blokkolóra már nincs szükség. Az ösztrogént viszont továbbra is szedned kell (legalább kb. 100 pg/ml felett) a csontok egészségéhez. Ha a nulla közeli tesztoszteron miatt fáradtságot vagy libidóvesztést tapasztalsz, egy kis tesztoszteron-mikroadagról érdemes orvossal beszélni.
 
 </div>
