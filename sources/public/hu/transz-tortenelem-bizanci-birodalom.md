@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A középkori Bizánci Birodalom háromnemű rendszere"
+title: "Transz történelem: a Bizánci Birodalom háromnemű rendszere"
+description: "A középkori Bizánci Birodalomban három nem létezett: férfiak, nők és eunuchok; a 'szent eunuch' státusz lehetővé tette az aszkéta nők nemi átmenetét."
 lang: hu
+keywords: "Bizánci Birodalom eunuch, háromnemű rendszer, szent eunuch, középkori transz történelem, Theodóra, bizánci orvoslás"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-bizanci-birodalom"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-bizanci-birodalom"
 ---
 
 <div class="floating-columns">
@@ -59,6 +66,20 @@ A hermafroditákról szóló cím közvetlenül a kasztrációról szóló cím 
 
 <div class="content-image"><img src="assets/images/imperatrice-theodora.png" />
 <span>Theodóra császárnő udvarhölgyekkel és két eunuchkal körülvéve, mozaik a ravennai Szent Vitus templomból, 547 körül.</span></div>
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Hány nemet ismert a Bizánci Birodalom?
+
+A bizánci Keleten három nem létezett: férfiak, nők és eunuchok (akiket gyakran androgünnek is neveztek). Az eunuchokat külön társadalmi és jogi kategóriának tekintették, nem egyszerűen csökkentértékű férfiaknak.
+
+### Mit jelentett a "szent eunuch" státusz?
+
+A bizánci Keleten egyes aszkéta nőket nem férfinak, hanem eunuchnak, "szent eunuchnak" tekintettek. Ez a kategória lehetővé tette egyfajta nemi átmenetet, mivel ezek a nők a szigorú aszkézis révén kiléphettek a női nem társadalmi szerepéből.
+
+### Más volt-e ez a Nyugaton?
+
+Igen. A latin Nyugat binarista nézeteket vallott, és nem ismerte el a harmadik nem kategóriáját, így ott nem volt lehetőség a bizánci "szent eunuch" átmenethez hasonló társadalmi szerepre.
 
 ## Forrás
 
