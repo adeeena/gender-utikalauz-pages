@@ -43,6 +43,10 @@ BEVEZETŐ
 
 [✅Injekciók](/#/entry?id=feminizalo-injekciok)
 
+[Injekciós technika](/#/entry?id=feminizalo-hormonterapia-injekcios-technika)
+
+[Injekciós hibaelhárítás](/#/entry?id=feminizalo-injekciok-hibaelharitas)
+
 [😐Orrspray](/#/entry?id=orrspray)
 
 [😐Implantátumok](/#/entry?id=implantatumok)

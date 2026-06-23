@@ -43,6 +43,10 @@ BEVEZETŐ
 
 [✅Injekciók](/#/entry?id=feminizalo-injekciok)
 
+[Injekciós technika](/#/entry?id=feminizalo-hormonterapia-injekcios-technika)
+
+[Injekciós hibaelhárítás](/#/entry?id=feminizalo-injekciok-hibaelharitas)
+
 [😐Orrspray](/#/entry?id=orrspray)
 
 [😐Implantátumok](/#/entry?id=implantatumok)
@@ -300,6 +304,12 @@ Az embereknek általában 200-250pg/ml-es ösztradiolszintre van szükségük a 
 * Sokan félnek az injekcióktól
 
 ## Öninjekciózás
+
+<div class="infobox info">
+
+A beadás részletes, lépésről lépésre technikáját (tűválasztás, fecskendők, beadási helyek, a fiola kezelése) külön cikkben részletezzük: [Injekciós technika és eszközök](/#/entry?id=feminizalo-hormonterapia-injekcios-technika). Ha valami nem a megszokott módon alakul (fájdalom, vérzés, szivárgás, kristályok), nézd meg az [Injekciós hibaelhárítás](/#/entry?id=feminizalo-injekciok-hibaelharitas) oldalt.
+
+</div>
 
 <div class="infobox warning">
 
