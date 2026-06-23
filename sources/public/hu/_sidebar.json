@@ -130,6 +130,27 @@
     ]
   },
   {
+    "title": "🌿 Egészség és jóllét",
+    "children": [
+      {
+        "entryId": "mentalis-egeszseg",
+        "title": "Mentális egészség"
+      },
+      {
+        "entryId": "valsag-es-segitsegkeres",
+        "title": "Válság és segítségkérés"
+      },
+      {
+        "entryId": "eligazodas-az-egeszsegugyben",
+        "title": "Eligazodás az egészségügyben"
+      },
+      {
+        "entryId": "online-biztonsag",
+        "title": "Online biztonság"
+      }
+    ]
+  },
+  {
     "title": "🔍 Bizonytalanoknak",
     "children": [
       {
