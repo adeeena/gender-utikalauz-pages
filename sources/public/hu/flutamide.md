@@ -1,7 +1,14 @@
 ---
-title: "⛔Flutamide"
-description: "Ismerd meg az ⛔Flutamide előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Flutamide"
+description: "A flutamide egy nem szteroid antiandrogén, amelyet a magas májtoxicitás miatt a feminizáló HRT-ben nem ajánlunk; helyette biztonságosabb alternatívák léteznek."
 lang: hu
+keywords: "flutamide, antiandrogén, NSAA, májtoxicitás, májelégtelenség, feminizáló HRT, tesztoszteron blokkoló, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/flutamide"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "flutamide"
 ---
 
 <div class="floating-columns">
@@ -137,5 +144,23 @@ Előfordulhat egy több hónapig tartó platóhatás is, amelynek során is tapa
 Előfordulhat, hogy a várt hatások lassúak, gyengék vagy nem jelentkeznek. Ebben az esetben egy vagy több vérvizsgálat is kellhet az ösztradiolszint mérésére. Ha az ösztradiolszint alacsony marad a magas dózis ellenére, akkor előfordulhat, hogy a készítmény átmegy a bőrgáton, vagy rosszul asszimilálódik. Egyeseknél azonban előfordulhat, hogy a hatás nem tartós, egyeseknél a hatás csekély maradhat a normán belüli hormonszintek ellenére.
 
 </div>
+## GYIK (Gyakran Ismételt Kérdések)
 
+### Miért nem ajánlott a flutamide a feminizáló HRT-ben?
+
+A flutamide ugyan hatékony androgénreceptor-blokkoló, de jelentős májtoxicitással jár, és súlyos, akar halálos májelégtelenséget is okozhat. Mivel léteznek biztonságosabb, hasonlóan hatékony alternatívák (például a bicalutamide), a használatát nem javasoljuk.
+
+### Mi a különbség a flutamide és a bicalutamide között?
+
+Mindkettő nem szteroid antiandrogén (NSAA), és az androgénreceptort blokkolja. A bicalutamide azonban sokkal biztonságosabb és további receptorokhoz nem kötődik, míg a flutamide májkárosodási kockázata lényegesen magasabb.
+
+### Mire kell figyelni, ha mégis flutamide-ot szedek?
+
+Feltétlenül rendszeresen ellenőriztetni kell a májenzimeket (GOT, GPT, GGT), és bármilyen májra utaló tünet (sárgaság, hasi fájdalom, sötét vizelet) esetén azonnal orvoshoz kell fordulni. A legjobb azonban biztonságosabb antiandrogénre váltani.
+
+## Források
+
+➡️ [Flutamide - Wikipedia](https://en.wikipedia.org/wiki/Flutamide)
+
+➡️ [Flutamide § Transgender hormone therapy - Wikipedia](https://en.wikipedia.org/wiki/Flutamide#Transgender_hormone_therapy)
 </div>
