@@ -183,6 +183,45 @@ A dilatáció ajánlott mértéke az egyes sebészektől függ, és minden egyes
 * a következő hónapban naponta kétszer 30 perc,
 * és így tovább, amíg naponta egyszer, majd hetente egyszer nem tágítják, és ez fokozatosan csökken az első vagy akár a második műtét utáni évben.
 
+<table>
+    <thead>
+        <tr>
+            <th>Időszak</th>
+            <th>Gyakoriság</th>
+            <th>Egy alkalom hossza</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. hónap</td>
+            <td>naponta 3x</td>
+            <td>1 óra</td>
+        </tr>
+        <tr>
+            <td>2. hónap</td>
+            <td>naponta 2x</td>
+            <td>1 óra</td>
+        </tr>
+        <tr>
+            <td>3. hónap</td>
+            <td>naponta 2x</td>
+            <td>30 perc</td>
+        </tr>
+        <tr>
+            <td>ezután fokozatosan</td>
+            <td>naponta 1x, majd hetente 1x</td>
+            <td>a sebész szerint</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox warning">
+<h5>⚠️ A dilatáció a siker 80%-a</h5>
+
+Ez csak egy példaprogram; mindig a sebészed által előírt ütemtervet kövesd. A rendszeres dilatáció nélkül a hüvelyüreg napok alatt beszűkülhet vagy teljesen eltűnhet. Az első dilatációt mindig képzett gondozóval (orvos vagy nővér) végezd.
+
+</div>
+
 Szűkület esetén a dilatációk gyakoriságát ismét növelni kell, amíg a kielégítő hüvelyhossz/szélesség el nem érhető.
 
 A gyógyulási idő jelentősen változik, egytől több hónapig terjed, attól függően, hogy van-e bőrelhalás. Ezen időszak alatt nagyon fontos a rendszeres konzultáció, hogy az esetleges szövődményeket korai stádiumban felismerjük és optimálisan ellássuk.
