@@ -1,7 +1,14 @@
 ---
 title: "Progesztinek"
-description: "Progesztinek: Női hormonok, melyek szabályozzák a menstruációs ciklust. Mellékhatásaik változatosak, de fontosak a transz nők számára."
+description: "Progesztinek a feminizáló hormonterápiában: mi a progeszteron és a szintetikus progesztin, milyen hatásaik vannak a mellfejlődésre, és miért használják antiandrogénként."
 lang: hu
+keywords: "progesztin, progeszteron, szintetikus progesztin, feminizáló hormonterápia, HRT, antiandrogén, mellfejlődés, Tanner, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/progesztinek"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_wishes.svg"
+slug: "progesztinek"
 ---
 
 <div class="floating-columns">
@@ -141,9 +148,33 @@ Mivel gyakori, hogy az ösztrogénszint túl alacsony ahhoz, hogy elnyomja a tes
 
 Meg kell jegyezni, hogy bár csökkentik a tesztoszteronszintet, a progesztinek maguk is rendelkeznek enyhe androgén és antiösztrogén hatással, ami egyeseknél korlátozhatja hatékonyságukat.
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a különbség a progeszteron és a szintetikus progesztin között?
+
+A progeszteron a szervezet által is termelt, természetes hormonnal azonos molekula (bioidentikus). A szintetikus progesztinek mesterségesen előállított, hasonló hatású molekulák, amelyek azonban gyakran erősebb mellékhatásokkal járnak, például magasabb emlőrák-kockázattal.
+
+### Szükségem van progesztinre a feminizáló HRT-ben?
+
+Nem mindenkinek. A progesztint gyakran azért adják hozzá, hogy antiandrogénként csökkentse a tesztoszteront, vagy a mellfejlődés és a közérzet miatt. A hatások egyénenként nagyon eltérőek, és kevés a megbízható tanulmány, ezért érdemes az orvosoddal egyénileg mérlegelni.
+
+### Igaz, hogy a progeszteron segíti a mellnövekedést?
+
+Ez nem bizonyos. Néhány tapasztalat szerint a progeszteron segítheti a mell terminális lebenyeinek kialakulását, mások szerint a túl korán (a Tanner 3 stádium előtt) megkezdett szedése inkább korlátozhatja a fejlődést. Sok orvos ezért azt javasolja, hogy várj legalább két évet a HRT kezdetétől.
+
+### Miért okoz a szájon át szedett progeszteron álmosságot?
+
+A szájon át szedett progeszteron a szervezetben olyan anyagcseretermékké alakul, amely nyugtató, altató hatású. Ezért sokan lefekvés előtt szedik, és nem ajánlott vezetés vagy fokozott éberséget igénylő tevékenység előtt bevenni.
+
+### Növeli a progesztin az emlőrák kockázatát?
+
+A szintetikus progesztinek hosszú távú szedése enyhén növelheti az emlőrák kockázatát. Ezért fontos a rendszeres szűrés és az, hogy a progesztin használatát az orvosoddal beszéld meg.
+
 ## Források
 
 ➡️ [Why progesterone?](https://docs.google.com/document/d/1OGiomfiMk18nPb3ITKZD9pWPvWRUlyI06enxahQpHBI/edit)
+
+➡️ [Progesterone (medication) - Wikipedia](https://en.wikipedia.org/wiki/Progesterone_(medication))
 
 
 </div>
