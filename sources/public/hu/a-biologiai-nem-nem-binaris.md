@@ -35,6 +35,43 @@ A biológiai nemnek több, egymástól részben független összetevője van:
 
 Ezek a rétegek a legtöbb embernél egy irányba mutatnak, de nem mindenkinél; és önmagában egyik réteg sem „a" nem.
 
+<table>
+    <thead>
+        <tr>
+            <th>A nem rétege</th>
+            <th>Mit jelent</th>
+            <th>Példák, variációk</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Kromoszómális nem</td>
+            <td>A nemi kromoszómák összetétele</td>
+            <td>XX, XY, X0, XXY, XYY</td>
+        </tr>
+        <tr>
+            <td>Gonádális nem</td>
+            <td>Az ivarmirigyek típusa</td>
+            <td>petefészek, here, kevert szövet</td>
+        </tr>
+        <tr>
+            <td>Hormonális nem</td>
+            <td>A hormonszintek és a receptorérzékenység</td>
+            <td>eltérő szintek és érzékenység</td>
+        </tr>
+        <tr>
+            <td>Anatómiai nem</td>
+            <td>Belső és külső nemi szervek</td>
+            <td>tipikus vagy atipikus felépítés</td>
+        </tr>
+        <tr>
+            <td>Másodlagos nemi jellegek</td>
+            <td>Külső, pubertáskori jellemzők</td>
+            <td>szőrzet, testalkat</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Az interszex valóság
 
 Az **interszex** gyűjtőfogalom azokra az állapotokra, amikor valakinek a nemi jellemzői nem illenek a tipikus férfi vagy női kategóriába. Az interszex állapotok meglepően gyakoriak, és önmagukban is mutatják, hogy a nem nem egyszerű kétértékű rendszer.
