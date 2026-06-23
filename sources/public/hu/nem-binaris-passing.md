@@ -1,7 +1,14 @@
 ---
 title: "Nem-bináris passing"
-description: "Néhány támpont a nem-bináris személyek passingjához."
+description: "Mit jelent a passing nem-bináris emberek számára: androgün megjelenés, nem-bináris hormonkezelés, coming out és a nem lineáris tranzíciók."
 lang: hu
+keywords: "nem-bináris passing, androgün, nem-bináris HRT, mikrodózis, nonbináris coming out, gendersemleges megjelenés"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/nem-binaris-passing"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_people.svg"
+slug: "nem-binaris-passing"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_people.svg" /></div>
@@ -18,7 +25,7 @@ Ez tehát egy olyan társadalmi fogalom, amely érinti a kulturális normákat, 
 
 A nyugati társadalom még mindig küszködik azzal, hogy megszabaduljon a férfiak és nők ez a fajta bináris kategorizálásától; mind a mindennapi életben, mind társadalmi szinten.
 
-Ez a cikk nem azt állítja, hogy önmagában forradalmasítja a helyzetet, hanem inkább úmutatást ad és tanúvallomást nyújt, amelyek a nem-bináris emberek tapasztalataiból származnak, akik szembesülnek ezzel a helyzettel.
+Ez a cikk nem azt állítja, hogy önmagában forradalmasítja a helyzetet, hanem inkább útmutatást ad és tanúvallomást nyújt, amelyek a nem-bináris emberek tapasztalataiból származnak, akik szembesülnek ezzel a helyzettel.
 
 A cikk célja, hogy reális képet adjon a felmerülő nehézségekről és azokról a lehetőségekről, amelyeket fel lehet tárni, ha valaki nem-bináris.
 
@@ -105,6 +112,23 @@ A *passing* tehát egy figyelembe vevendő elem lehet, de a lényeg az, hogy hal
 
 Mindenki maga dönti el, hogy felfedezi-e a lehetőségeket, ha akarja; és kifejezi a nem-binaritását aszerint, hogy az adott pillanatban azt hogyan értelmezi.
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Androgünnek kell kinéznem ahhoz, hogy nem-bináris legyek?
+
+Nem. Az az elképzelés, hogy a nem-bináris embereknek androgünnek kell látszaniuk, egy előítélet, amely már eleve bináris feltételezésekre épül. A nem-bináris emberek lehetnek nőiesek, férfiasak vagy androgünek; nincs egyetlen "helyes" megjelenés.
+
+### Létezik külön nem-bináris hormonkezelés?
+
+Nincs egyetlen "nem-bináris HRT". A mikrodózis vagy a HRT egy idő utáni abbahagyása lehetőség, de ezeket bináris transz emberek is használják, és sok nem-bináris ember a számára megfelelő "bináris" kezelést választja. A hormonok szedése lehetőség, nem kötelezettség.
+
+### Hogyan ismerik fel mások, hogy nem-bináris vagyok?
+
+Megjelenés alapján nem lehet megállapítani valaki nem-binaritását, ezért a láthatóság elsősorban a coming outon és a társadalmi tranzíció lépésein múlik. A nyugati társadalom alapból binárisan kategorizál, ezért a nem-bináris lét gyakran folyamatos kibújással jár.
+
+### A nem lineáris tranzíció ugyanaz, mint a detranzíció?
+
+Nem. Amikor egy nem-bináris ember például abbahagyja a HRT-t vagy visszatér bizonyos névmásokhoz, az nem detranzíció, hanem a saját, a bináris dobozokon kívül eső útjának a kifejezése.
 
 ## További információk
 
