@@ -1,7 +1,14 @@
 ---
 title: "Mellnagyobbítás"
-description: "Mellnagyobbítás transzfeminin tranzíció során: Információk, várakozási idő, költségek és eljárás részletei. Készülj fel a műtétre! 🌸"
+description: "Mellnagyobítás a transzfeminin tranzíció részeként: implantátumtípusok, műtéti technikák, költségek, lábadozás és lehetséges kockázatok."
 lang: hu
+keywords: "mellnagyobítás, mammoplasztika, mellimplantátum, szilikon protézis, lipofilling, transzfeminin műtét, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-mellnagyobbito-mutet"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_dua_lipa.svg"
+slug: "feminizalas-mellnagyobbito-mutet"
 ---
 
 <div class="floating-columns">
@@ -257,5 +264,29 @@ A rossz minőségű szilikonimplantátumok esetében az anyag porózussá válha
 ### Súlyos kockázatok
 
 Mindig fennáll a súlyosabb esetek lehetősége, bár ritkán, mint például nekrózis, fertőzések stb. A kockázatokkal kapcsolatban beszélj először a sebészeddel.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mennyit érdemes várni a mellnagyobítással a hormonkezelés után?
+
+Általában legalább két évet érdemes várni, mert a hormonok hatására a mell több éven át nőhet. Ha túl korán műtteted magad, előfordulhat, hogy a végén nagyobb lesz a melled a vártnál.
+
+### Mennyibe kerül a mellnagyobítás?
+
+A mammoplasztika ára körülbelül 500 ezer és 2 millió forint között mozog, a járulékos költségekkel (altatás, konzultáció) együtt. A kiegészítő díjak önmagukban 400-800 ezer forintot is kitehetnek.
+
+### Meddig tartanak a mellimplantátumok?
+
+Egy protézis élettartama általában 10-15 év, néha azonban idő előtt cserélni kell, ha az implantátum megreped. Évente egyszer ajánlott kontrollvizsgálat és rendszeres MRI az esetleges elváltozások kiszűrésére.
+
+### Mikor térhetek vissza a munkához és a sporthoz?
+
+Számíts rá, hogy akár két hét szabadságot is ki kell venned a munkából, az otthoni lábadozás pedig 5-10 nap. A sportolást a műtét utáni 2 hónapig kerülni kell.
+
+## Források
+
+➡️ [Kamol Hospital](https://www.kamolhospital.com/fr/)
+
+➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
