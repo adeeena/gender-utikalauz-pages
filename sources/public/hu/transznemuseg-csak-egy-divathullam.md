@@ -35,6 +35,37 @@ Példák az emberi történelemben:
 * A **hidzsra** a Közel-Keleten és Ázsiában, amely több száz éven át látható volt a közéletben.
 * A **Mahu, Fakaleiti** vagy **Fa'afafine** Polinéziában.
 
+<table>
+    <thead>
+        <tr>
+            <th>Kultúra / régió</th>
+            <th>Elnevezés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Őshonos amerikai (indián) kultúrák</td>
+            <td>Két szellem (Two-Spirit)</td>
+        </tr>
+        <tr>
+            <td>Mexikói zapotec</td>
+            <td>Muxe</td>
+        </tr>
+        <tr>
+            <td>Thaiföld</td>
+            <td>Katoi</td>
+        </tr>
+        <tr>
+            <td>Közép-Kelet és Dél-Ázsia</td>
+            <td>Hidzsra</td>
+        </tr>
+        <tr>
+            <td>Polinézia</td>
+            <td>Mahu, Fakaleiti, Fa'afafine</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Transzneműség a 20. század Európájában
 
 A transzneműség patologizálását (amely a pszichológia és a pszichiátria tárgyává válik) segítette a nem normatív szexualitás és a szexuális megnyilvánulás perverzióként való felfogása és a homoszexualitás kriminalizálása. Ugyanakkor meg kell jegyezni, hogy a 19. században és a 20. század elején a szexuális identitást és az irányultságot nem fogták külön fogalomként, és ezt a "disszidens" identitást természetellenesnek, perverznek és veszélyesnek is fogták.

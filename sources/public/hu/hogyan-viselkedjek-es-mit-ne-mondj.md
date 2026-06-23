@@ -56,6 +56,33 @@ Kerüld az „igazi nő/férfi" kifejezést a cisz emberekre. A transz nők nők
 * Ha valaki kibújik előtted: „Köszönöm, hogy megosztottad. Itt vagyok neked."
 * Ha nem tudsz valamit: „Szeretnék tájékozódni, hol olvashatok utána?" (ahelyett, hogy kínos kérdésekkel terhelnéd).
 
+<table>
+    <thead>
+        <tr>
+            <th>Kerüld ezt</th>
+            <th>Mondd inkább ezt</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>„Egyáltalán nem is látszik rajtad!"</td>
+            <td>Dicsérd a stílusát, humorát, munkáját, mint bárki másét</td>
+        </tr>
+        <tr>
+            <td>„Olyan bátor vagy!"</td>
+            <td>„Köszönöm, hogy megosztottad. Itt vagyok neked."</td>
+        </tr>
+        <tr>
+            <td>„Szebb vagy, mint sok igazi nő/férfi."</td>
+            <td>Kerüld az „igazi" szót; a transz nők nők, a transz férfiak férfiak</td>
+        </tr>
+        <tr>
+            <td>„Mi volt a régi neved?" / „Mi van a lábad között?"</td>
+            <td>Ne kérdezz a testéről vagy a múltjáról; tájékozódj inkább önállóan</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Az alapszabály
 
 Figyelj a másikra, kezeld őt teljes emberként, és kövesd a vezetését abban, hogy mennyit akar megosztani. Ha tévedsz, javítsd ki magad, és tanulj belőle.
