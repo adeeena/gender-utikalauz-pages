@@ -116,6 +116,37 @@ Ennek eredményeképpen a mellékhatásaik miatt nagyobb valószínűséggel ír
 * Növelheti a depresszió kockázatát.
 * [Növeli az emlőrák kockázatát](https://en.wikipedia.org/wiki/Progesterone_(medication)#Breast_cancer) (különösen a szintetikus progesztinek esetében).
 
+<table>
+    <thead>
+        <tr>
+            <th>Lehetséges pozitív hatások</th>
+            <th>Lehetséges negatív hatások</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Csökkentheti a nemi hormonok termelését</td>
+            <td>Mellduzzanat, vízvisszatartás</td>
+        </tr>
+        <tr>
+            <td>Segítheti a mellfejlődés befejezését (terminális lebenyek)</td>
+            <td>Étvágynövekedés, zsírfelhalmozódás, súlygyarapodás</td>
+        </tr>
+        <tr>
+            <td>Elősegítheti az alvást</td>
+            <td>Álmosság, szédülés (csak progeszteron)</td>
+        </tr>
+        <tr>
+            <td>Növelheti az anyagcserét</td>
+            <td>Fokozhatja a diszfóriát és a depresszió kockázatát</td>
+        </tr>
+        <tr>
+            <td>Hatással lehet a libidóra (növelheti vagy csökkentheti)</td>
+            <td>Növeli az emlőrák kockázatát (főleg szintetikus)</td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="infobox error">
 <h5>❗Figyelem</h5>
 
