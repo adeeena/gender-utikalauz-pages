@@ -1,8 +1,14 @@
 ﻿---
 title: "Tévhitek és mítoszok a transz sportolókról"
-description: "Milyen hazugságok, fals információk, elferdített tények keringenek a transz sportolókról?"
+description: "Válasz a transz sportolókról terjesztett tévhitekre: a hormonkezelés után a transz nők elvesztik a férfi előnyt, és a kizáró szabályok más nőket is veszélyeztetnek."
 lang: hu
-
+keywords: "transz sportolók, transz nő sport, tesztoszteron sport előny, transz sport tévhitek, méltányosság sport, NOB irányelv"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-sport-tevhitek-es-mitoszok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_happy_feeling.svg"
+slug: "transz-sport-tevhitek-es-mitoszok"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_happy_feeling.svg" /></div>
@@ -50,6 +56,24 @@ Ha pánikba esünk és indokolatlanul szigorú biológiai kritériumokat vezetü
 Bár ezek a támadások indokolatlanok a versenysportok esetében is, a következmények valósak: a transz nőket valójában mindennap kizárják a versenyekről igazságtalan szabályok miatt, amelyeket bizonyos szövetségek vagy szabályzatok írnak elő, ellentmondva azoknak az elveknek, amelyek az egyenlőséget és méltányosságot hirdetik.
 
 De a versenyzésen túl, a transz nők mindennap szenvednek a transzfóbia következményeitől amatőr sporttevékenységük során, kirekesztve őket csapataikból, megjegyzésekkel vagy diszkriminációval szembesülve. Pedig a sport gyakran központi elem az emberek egészségének, mentális és fizikai egyensúlyának megőrzésében, és jogként kellene, hogy megillessen mindenkit, függetlenül attól, hogy milyen szinten űzi.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Megtartják a transz nők a férfi sportelőnyüket?
+
+Nem. A férfi sportelőny elsősorban a tesztoszteronnak köszönhető, és a feminizáló hormonkezelés néhány hónapja után a transz nők jelentősen veszítenek izomtömegből, állóképességből és teljesítményből, más nőekéhez hasonló szintre.
+
+### Nem ad-e bárkinek lehetőséget visszaelésre, hogy transz nőnek mondja magát?
+
+A gyakorlatban szinte senki nem vállalja, hogy a mindennapjaiban nőként éljen pusztszán egy versenyért. A legtöbb szabályzat ezenfelül kötelező hormonkezelést és a női életvitelt is előírja, ami kizárja ezt a feltételezett forgatókönyvet.
+
+### Jó megoldás lenne külön kategóriát létrehozni a transz nőknek?
+
+Nem. Mivel a transz nőknek nincs előnyük a cisz nőkkel szemben, egy ilyen külön kategória diszkriminatív lenne, kevés résztvevővel és finanszírozással, és a gyakorlatban kizárná a transz nőket a sportból.
+
+### Kit érint még a túlságosan szigorú biológiai szabályozás?
+
+A túlságosan szigorú biológiai kritériumok cisz és interszex nőket is kizárhatnak, és gyakran a fehér sportolónők normái alapján készülnek, így faji diszkriminációhoz is vezethetnek.
 
 ## Forrás
 
