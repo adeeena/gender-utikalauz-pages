@@ -1,7 +1,14 @@
 ---
 title: "Transzidentitás a munkahelyen"
-description: "Hogyan tegyük meg az outolást a munkahelyünkön, transzként?"
+description: "Hogyan bujj ki transzként a munkahelyeden, hogyan jelentsd be a tranzíciódat a HR-nek és a vezetőségnek, és milyen jogok és gyakorlatok segítik a befogadó munkakörnyezetet."
 lang: hu
+keywords: "transz a munkahelyen, kibújás munkahelyen, tranzíció bejelentése, HR transz, munkahelyi diszkrimináció, transz munkavállaló jogok"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transzidentitas-a-munkahelyen"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_conversation.svg"
+slug: "transzidentitas-a-munkahelyen"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_conversation.svg" /></div>
@@ -38,7 +45,7 @@ A HR-menedzserek ritkán szakértői a transzidentitással kapcsolatos kérdése
 
 Sok munkáltató manapság nyújt valamiféle egészségügyi ellátással kapcsolatos támogatási csomagot. Ha ilyesmi van a munkahelyi bónuszok között, akkor érdemes olyat választani, ami támogatja az orvosi tranzíciót, vagy legalább az azzal járó költségekből minél többet.
 
-Azonban a nyitottság a legfontosabb mind a munkavállaló, mind a munkáltató részéről, ami azonban (főként Kelegt-Európában) nem alapértelmezetten jár. Kibújás előtt nagyon nehéz megállapítani, hogy a cég, ahol dolgoozl, hogyan fog reagálni, fog-e bárminemű hátrányos megkülönböztetés érni, vagy nem fognak-e valamilyen egyéb indok miatt elbocsájtani.
+Azonban a nyitottság a legfontosabb mind a munkavállaló, mind a munkáltató részéről, ami azonban (főként Kelet-Európában) nem alapértelmezetten jár. Kibújás előtt nagyon nehéz megállapítani, hogy a cég, ahol dolgozol, hogyan fog reagálni, fog-e bárminemű hátrányos megkülönböztetés érni, vagy nem fognak-e valamilyen egyéb indok miatt elbocsájtani.
 
 ## Hogyan kerülhetjük el a munkahelyi transzidentitással kapcsolatos tabukat, és hogyan kezelhetjük a témát professzionális módon?
 
@@ -142,7 +149,23 @@ Ha viszont az egyén a vállalatnál kíván maradni, de a HR-vezető úgy íté
 ## LMBT-dolgozói összefogás mukahelyen belül
 
 Bizonyos cégméret felett szokott lenni LMBTQ+ csoport is, aminek segítségével akár önszervezeő módon lehet egymást segíteni; vagy a HR-rel együtt érzékenyítő/oktató előadásokat tarthatnak a többi dolgozónak.
+## GYIK (Gyakran Ismételt Kérdések)
 
+### Köteles vagyok tájékoztatni a munkáltatómat a tranzíciómról?
+
+Ha a tranzíciód már befejeződött és a jogi papírjaid rendben vannak, nem vagy köteles bejelenteni. Ha azonban a tranzíció a felvétel után kezdődik és látható változásokkal jár, célszerű tájékoztatni a munkáltatót, még ha törvényileg nem is kötelező. Minél előbb, annál jobb.
+
+### Megváltoztathatja a cég a nevemet névváltoztatás nélkül?
+
+A jogi személyazonosságot (bérpapír, hivatalos nyilatkozatok) nem, de a belső dokumentumokat igen: a névjegykártya, a belépőkártya, az e-mail cím, a jelenléti ívek és az ajtófeliratok módosíthatók az általad használt névre.
+
+### Mit tehetek, ha diszkrimináció ér a munkahelyemen?
+
+Magyarországon az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény védi a munkavállalókat. A legtöbb cégnek van belső antidiszkriminációs policyja is, amely leírja, hová fordulhatsz; ezt általában az onboarding során ismerteti a HR.
+
+### Használhatom a nememnek megfelelő mosdót a munkahelyen?
+
+Igen, jogod van az általad megélt nemednek megfelelő mosdó használatához. A nemsemleges mosdó lehet egy kiegészítő megoldás, de nem kötelező alternatíva, és nem helyettesíti a nemednek megfelelő tér használatát.
 ## Források
 
 ➡️ [Transidentité au travail](https://www.andrh.fr/presse/communique/CP-Transidentite-au-travail-decouvrez-le-premier-guide-a-destination-des-RH-et-des-managers)
