@@ -1,7 +1,14 @@
 ---
 title: "Kibújás"
-description: "Tippek és tanácsok sikeres comint outoláshoz"
+description: "Gyakorlati tippek a sikeres coming outhoz: hogyan, mikor és kinek bujj ki, hogyan készülj a reakciókra, és hogyan védd magad a legrosszabb forgatókönyv esetén."
 lang: hu
+keywords: "kibújás, coming out, előbújás, transz coming out, hogyan bujjak ki, család előtti kibújás, kibújás szülőknek"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/kibujas"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_conversation.svg"
+slug: "kibujas"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_conversation.svg" /></div>
@@ -68,3 +75,27 @@ Ha úgy ítéled meg, hogy a kibújásod bárminemű veszélyekkel járhat, akko
 * kérd meg egy barátot/barátnőt, hogy kísérjen el a találkozóra, és aki segíthet a beszélgetésben
 * biztosítsd, hogy bármikor el tudj menni a találkozóról
 * ha a szüleidnek tervezed a kibújást, kérd meg előtte egy barátodat/barátnődet, hogy ha nem alakul jól a beszélgetés, tudj máshol aludni
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Kinek bujjak ki először?
+
+Célszerű olyan emberekkel kezdeni, akikről tudod, hogy elfogadóak: barátokkal vagy az LMBT közösség tagjaival. Rajtuk "gyakorolva" magabiztosabbá válsz, és megtanulod kezelni a kérdéseket, mielőtt a nehézebb beszélgetésekre kerülne sor.
+
+### Hogyan vezessem fel a kibújást?
+
+Sokaknak segít, ha jó hírként keretezik: például "Van egy magammal kapcsolatos jó hírem." Érdemes előbb a korábbi nehézségekről, majd a mostani jobb érzésről beszélni, és csak ezután elmondani, hogy transz vagy. Egy nyómtatott levél vagy kiadvány segíthet, hogy a másik fél utólag is átgondolhassa.
+
+### Mit tegyek, ha rosszul sül el?
+
+Készülj fel a legrosszabb forgatókönyvre: vigyél magaddal egy támogató barátot, biztosítsd, hogy bármikor el tudj menni, és ha a szüleidnek bujsz ki, legyen egy hely, ahol szükség esetén aludhatsz. A biztonságod a legfontosabb.
+
+### Egyszerre vagy külön bujjak ki az embereknek?
+
+A merevebben hozzáálló emberekkel érdemes külön, négyszemközt leülni, hogy legyen lehetőség a kérdéseikre válaszolni. A nyitottabb, valószínűleg pozitívan reagáló embereknek akar egyszerre is kibujhatsz.
+
+## Források
+
+➡️ [10 tévhit a transzidentitásról (kiadvány)](/#/entry?id=brosura-10-tevhit-a-transzidentitasrol)
+
+➡️ [Mintalevelek kibújáshoz](/#/entry?id=mintalevelek-kibujashoz)
