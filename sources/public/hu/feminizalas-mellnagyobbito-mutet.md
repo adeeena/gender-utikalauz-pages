@@ -130,6 +130,35 @@ A lipoliftinget sokáig a mellrák kockázatával hozták összefüggésbe. Óvi
 
 Fennállhat a fertőzés, a mikrokalcifikációk (kis fehér foltok) és a tapintható zsíros ciszták kialakulásának kockázata is.
 
+### A módszerek összehasonlítása
+
+<table>
+    <thead>
+        <tr>
+            <th>Módszer</th>
+            <th>Fő előny</th>
+            <th>Fő hátrány</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Szilikongél implantátum</td>
+            <td>Természetes állag, a legelterjedtebb (kb. 80%)</td>
+            <td>Szivárgás nehezebben észlelhető, ritkán fájdalmas tok (kapszula) alakulhat ki</td>
+        </tr>
+        <tr>
+            <td>Sóoldatos / hidrogél implantátum</td>
+            <td>Szivárgás esetén a tartalom ártalmatlan és felszívódik, könnyű felismerni</td>
+            <td>Érzékenyebb a repedésre, szakadáskor átmeneti aszimmetria</td>
+        </tr>
+        <tr>
+            <td>Lipofilling (saját zsír)</td>
+            <td>Nincs látható heg a mellen, saját szövet</td>
+            <td>A térfogat 20-50%-a felszívódik, elég testzsír kell, gyakran ismételni kell</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Fizikai hozzáférés
 
 A protézisek beültetésének három útvonala van. Mindegyik módszer többé-kevésbé látható heget hagy maga után:
@@ -206,6 +235,38 @@ A kórházban 2 napig kell maradni. A sebész meg fog kérni, hogy egy-másfél 
 Készülj fel arra, hogy akár 2 hétig is szabadságot kell kivennie a munkából.
 
 A műtétet követő 2 hónapig kerüld a sportolást.
+
+<figure>
+<svg viewBox="0 0 620 200" width="100%" role="img" aria-label="A mellnagyobbítás utáni felépülés idővonala">
+  <rect x="0" y="0" width="620" height="200" fill="#ffffff"/>
+  <line x1="50" y1="100" x2="585" y2="100" stroke="#c0508a" stroke-width="3"/>
+  <g font-size="11" fill="#333">
+    <circle cx="60" cy="100" r="6" fill="#c0508a"/>
+    <text x="60" y="84" text-anchor="middle" font-weight="bold" fill="#9c2f66">0</text>
+    <text x="60" y="128" text-anchor="middle">Műtét</text>
+    <circle cx="170" cy="100" r="6" fill="#c0508a"/>
+    <text x="170" y="84" text-anchor="middle" font-weight="bold" fill="#9c2f66">5-10 nap</text>
+    <text x="170" y="128" text-anchor="middle">otthoni</text>
+    <text x="170" y="142" text-anchor="middle">lábadozás</text>
+    <circle cx="290" cy="100" r="6" fill="#c0508a"/>
+    <text x="290" y="84" text-anchor="middle" font-weight="bold" fill="#9c2f66">2 hét</text>
+    <text x="290" y="128" text-anchor="middle">vissza a</text>
+    <text x="290" y="142" text-anchor="middle">munkába</text>
+    <circle cx="410" cy="100" r="6" fill="#c0508a"/>
+    <text x="410" y="84" text-anchor="middle" font-weight="bold" fill="#9c2f66">1-1,5 hó</text>
+    <text x="410" y="128" text-anchor="middle">támasztó</text>
+    <text x="410" y="142" text-anchor="middle">melltartó vége</text>
+    <circle cx="510" cy="100" r="6" fill="#c0508a"/>
+    <text x="510" y="84" text-anchor="middle" font-weight="bold" fill="#9c2f66">2 hó</text>
+    <text x="510" y="128" text-anchor="middle">sport újra</text>
+    <circle cx="575" cy="100" r="6" fill="#e08bb5"/>
+    <text x="575" y="84" text-anchor="middle" font-weight="bold" fill="#b8447e">3-5 hó</text>
+    <text x="575" y="128" text-anchor="middle">fájdalom</text>
+    <text x="575" y="142" text-anchor="middle">enyhül</text>
+  </g>
+</svg>
+<figcaption><i>A mellnagyobbítás utáni felépülés főbb állomásai. Az időpontok tájékoztató jellegűek, és a sebésztől, valamint a technikától függően eltérhetnek.</i></figcaption>
+</figure>
 
 ### Fájdalmas?
 
