@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "1900-1939: a "nemváltoztató" orvosi technikák megjelenése"
+title: "Transz történelem: a nemváltoztató orvosi technikák megjelenése (1900-1939)"
+description: "1900-1939: a nemi hormonok felfedezése és az első nemváltoztató műtétek; Magnus Hirschfeld berlini Szexuális Kutatóintézete és annak nácik általi elpusztítása."
 lang: hu
+keywords: "Magnus Hirschfeld, nemváltoztató műtét története, Dora Richter, transzvesztita engedély, Szexuális Kutatóintézet, transz orvoslás története"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-nemvaltoztato-orvosi-technikak-megjelenese"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-nemvaltoztato-orvosi-technikak-megjelenese"
 ---
 
 <div class="floating-columns">
@@ -61,6 +68,20 @@ Magnus Hirschfeld nemcsak orvosi segítséget nyújtott a transzneműeknek, hane
 
 <div class="content-image"><img src="assets/images/transpass.jpg" />
 <span>Transzvesztita engedély.</span></div>
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Ki volt Magnus Hirschfeld?
+
+Magnus Hirschfeld (1868-1935) német orvos volt, aki 1919-ben megalapította a berlini Szexuális Kutatóintézetet. Az elsők között küzdött a "transzvesztiták" méltóságáért, hormoninjekciókat adott és elsőként kísérelt meg nemváltoztató műtéteket.
+
+### Mikor végezték az első nemváltoztató műtéteket?
+
+Hirschfeld már 1912-ben végrehajtott egy masztektómiát és méheltávolítást egy transz férfin, transz nőkön pedig 1921-től operált. Dora Richter 1931-es vaginoplasztikája talán a történelem első ilyen műtéte volt.
+
+### Mi történt a berlini intézettel?
+
+1933. május 6-án, nem sokkal Hitler hatalomra kerülése után a nácik kifosztották és felgyújtották a Szexológiai Intézetet. Hirschfeld száműzetésbe vonult, és 1935-ben Franciaországban halt meg.
 
 ## Forrás
 
