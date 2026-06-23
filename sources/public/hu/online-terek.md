@@ -1,14 +1,21 @@
 ﻿---
-title: "Online közösségi terek a transzidentitással kapcsolatban"
-description: "Néhány kiindulópont, hogy összekapcsolódhass sorstársaiddal, és hogy barátokat szerezhess."
+title: "Online közösségi terek transz embereknek"
+description: "Magyar és nemzetközi online közösségek, fórumok és Discord-szerverek transz embereknek és hozzátartozóiknak, ahol sorstársakkal kapcsolódhatsz és barátokat szerezhetsz."
 lang: hu
+keywords: "transz online közösség, transz fórum, asktransgender, r/MTF, r/FTM, transz Discord, LMBT közösség magyar"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/online-terek"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_walking_together.svg"
+slug: "online-terek"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_walking_together.svg" /></div>
 
-# Szeretteid és családod számára
+# Online közösségi terek
 
-Kerüld el a transz emberek számára fenntartott online közösségi tereket, ha nem vagy sem transz, es nem is kérdőjelezed meg a születési nemedet; ha csak nincs rá valamilyen alapos okod, es a kérdéses online tér befogadja a [cisz](/lexikon?anchor=cisz) embereket is. Ezekben az online terekben a transzok védve és biztonságan érzik magukat, és szabadon beszélgethetnek.
+Kerüld el a transz emberek számára fenntartott online közösségi tereket, ha nem vagy sem transz, és nem is kérdőjelezed meg a születési nemedet; ha csak nincs rá valamilyen alapos okod, és a kérdéses online tér befogadja a [cisz](/lexikon?anchor=cisz) embereket is. Ezekben az online terekben a transzok védve és biztonságban érzik magukat, és szabadon beszélgethetnek.
 
 Ha cisznemű vagy, és pusztán csak kíváncsiságból szándékozol felkeresni ezeket a fórumokat, akkor közvetlenül vagy közvetve veszélyezteted ezeknek a néha bizonytalan és törékeny embereknek a biztonságát.
 
@@ -43,3 +50,21 @@ A Reddit egy olyan oldal, amely tematikus fórumokat (subreddit) gyűjt össze.
 ➡️ [r/transgamers](https://www.reddit.com/r/transgamers/): videojátékokkal játszó transz emberek közössége
 
 ➡️ [r/traaaaaaannnnnnnnnns](https://www.reddit.com/r/traaaaaaannnnnnnnnns/): transz humor, transz emberektől
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Beléphetek transz fórumokra, ha cisz vagyok?
+
+A kifejezetten transz embereknek fenntartott tereket érdemes elkerülni, ha cisz vagy és nem kérdőjelezed meg a nemedet, mert ezek a terek a transz emberek biztonságát és nyugalmát szolgálják. Ha kérdéseid vannak, vannak kifejezetten cisz embereknek nyitott terek, például az r/transeducate.
+
+### Hol találok magyar nyelvű transz közösséget?
+
+Magyar nyelven például a Pantheon LMBT Discord-szerver nyújt közösséget. Sok magyar transz ember a nagyobb, angol nyelvű Reddit-közösségeket is használja, mert ezek nagyon aktívak.
+
+### Melyik angol fórumot ajánlott kezdőként?
+
+Az r/asktransgender jó általános kiindulópont bármilyen kérdéshez. Emellett az r/MTF a transzfeminin, az r/FTM a transzmaszkulin közösség, az r/transvoice pedig a hanggyakorlás számára hasznos.
+
+### Biztonságos megosztani személyes adatokat ezeken a tereken?
+
+Legyél óvatos: ne ossz meg be azonosító adatokat (teljes név, lakhely, munkahely) nyilvános fórumokon, különösen, ha még nem bújtál ki. Az online biztonság különösen fontos a még rejtőzködő vagy sérülékeny helyzetben lévő emberek számára.
