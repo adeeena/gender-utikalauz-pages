@@ -108,6 +108,38 @@ Ezt a gyógyszert általában olyan férfiaknak írják fel, akik erősen kopasz
 
 * Nem hatékony a tesztoszteron elnyomására.
 
+<table>
+    <thead>
+        <tr>
+            <th>Szempont</th>
+            <th>Finasteride</th>
+            <th>Dutasteride</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mit blokkol</td>
+            <td>Főleg a 2-es típusú 5α-reduktáz</td>
+            <td>Mindhárom (1, 2, 3) 5α-reduktáz típus</td>
+        </tr>
+        <tr>
+            <td>DHT-csökkenés</td>
+            <td>kb. 70%</td>
+            <td>akár 98%</td>
+        </tr>
+        <tr>
+            <td>Tesztoszteronra hat?</td>
+            <td>Nem csökkenti</td>
+            <td>Nem csökkenti</td>
+        </tr>
+        <tr>
+            <td>Javallat transz nőknek</td>
+            <td>Csak tartósan magas DHT esetén</td>
+            <td>Csak tartósan magas DHT esetén</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Adatlap
 
 <table>

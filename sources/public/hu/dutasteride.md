@@ -112,6 +112,38 @@ Ezt a gyógyszert általában olyan férfiaknak írják fel, akik erősen kopasz
 
 Hasonló a [Finasteride-hez](/#/entry?id=finasteride), fő különbsége, hogy az összes [5α-reduktázt](/#/entry?id=t-blokkolok) blokkolja, így a DHT-szint akár 98%-át is képes blokkolni. 
 
+<table>
+    <thead>
+        <tr>
+            <th>Szempont</th>
+            <th>Finasteride</th>
+            <th>Dutasteride</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mit blokkol</td>
+            <td>Főleg a 2-es típusú 5α-reduktáz</td>
+            <td>Mindhárom (1, 2, 3) 5α-reduktáz típus</td>
+        </tr>
+        <tr>
+            <td>DHT-csökkenés</td>
+            <td>kb. 70%</td>
+            <td>akár 98%</td>
+        </tr>
+        <tr>
+            <td>Tesztoszteronra hat?</td>
+            <td>Nem csökkenti</td>
+            <td>Nem csökkenti</td>
+        </tr>
+        <tr>
+            <td>Javallat transz nőknek</td>
+            <td>Csak tartósan magas DHT esetén</td>
+            <td>Csak tartósan magas DHT esetén</td>
+        </tr>
+    </tbody>
+</table>
+
 Összességében ugyanazokkal a kockázatokkal jár, mint a [Finasteride](/#/entry?id=finasteride). Emiatt kerülni kell, kivéve, ha abnormálisan magas a DHT-szinted.
 
 ## Adatlap
