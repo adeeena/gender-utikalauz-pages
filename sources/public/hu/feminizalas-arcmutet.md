@@ -1,7 +1,14 @@
 ---
 title: "Arcműtét"
-description: "Arcfeminizációs műtét (FFS) részletei: Csökkentsd a férfias vonásokat! Gyakori műtétek, sebek elrejtése, beavatkozások és felépülés. Tökéletes arcábrázat a transz nők számára."
+description: "Arcfeminizációs műtét (FFS): a férfias arcvonások csökkentése, a homlok, arccsont, állkapocs és áll átformálása, valamint a lábadozás és kockázatok."
 lang: hu
+keywords: "arcfeminizáció, FFS, arcműtét, homlok átalakítás, állkapocs, orrplasztika, feminizáló műtét, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-arcmutet"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
+slug: "feminizalas-arcmutet"
 ---
 
 <div class="floating-columns">
@@ -227,7 +234,7 @@ A gyakorlatban ezek az injekciók célozhatják:
 
 ### Botox:
 
-A botulinum toxin injekciók csökkentiki a szem körüli mimikai ráncokat.
+A botulinum toxin injekciók csökkentik a szem körüli mimikai ráncokat.
 
 Használhatók a szemöldök enyhe megemelésére is, segítve a szemek nyitottabbá tételét.
 
@@ -247,5 +254,22 @@ A botulinum toxin az arc nőiesítésére is használható az orrhegy mérsékel
 
 ➡️ [Féminisation faciale ou chirurgie de féminisation du visage](https://www.sofcpre.fr/src/fiches-informations/fr/feminisation-faciale-ou-chirurgie-de-feminisation-du-visage.pdf)
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi az arcfeminizációs műtét (FFS) célja?
+
+Az FFS célja az arc "férfias" vonásainak csökkentése és nőiesebb összkép kialakítása, elsősorban a homlok, az arccsontok, az állkapocs és az áll csontszerkezetének átformálásával. Ez gyakran jobb társadalmi beilleszkedést és nagyobb magabiztosságot eredményez.
+
+### Megváltoztatja-e az FFS a hangomat?
+
+Nem. Az arcfeminizációs műtét a csontokra és a lágyrészekre hat, a hangot nem befolyásolja. A hang feminizálásához hangképzés vagy külön hangszálműtét szükséges.
+
+### Mennyi a felépülési idő?
+
+A véraláfutások és a duzzanat átlagosan két héten belül eltűnnek, az első hónap végére a duzzanat szinte teljesen lehúzódik. A végeredményt azonban csak 9-12 hónap múlva lehet teljes mértékben értékelni.
+
+### Hol lesznek a hegek?
+
+A hegek a felső harmadban a hajban, néha a homlok hajvonalán rejtőznek, és frizurával vagy sminkkel eltakarhatók. A szájban lévő hegek mindig láthatatlanok maradnak.
 
 </div>
