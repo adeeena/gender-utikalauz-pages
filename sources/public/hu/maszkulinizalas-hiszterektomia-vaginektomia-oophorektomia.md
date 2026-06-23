@@ -1,7 +1,14 @@
 ---
 title: "Méheltávolítás, oophorektómia és vaginektómia"
-description: "Minden, amit tudni akartál a méheltávolításról a transzmaszkulin hormonterápiával kapcsolatban"
+description: "A hiszterektómia (méheltávolítás), oophorektómia és vaginektómia technikái, hatásai és gyógyulása transzmaszkulin embereknek."
 lang: hu
+keywords: "hiszterektómia, méheltávolítás, oophorektómia, vaginektómia, transzmaszkulin műtét, FTM műtét, termékenység"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
+slug: "maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia"
 ---
 
 <div class="floating-columns">
@@ -156,6 +163,24 @@ Ne feledd azonban, hogy a méheltávolítás manapság nagyon gyakori műtét, a
 A méheltávolítás kb. 900 ezer forint. Az oophorektómia hasonló árban van és a vaginektómia ennek többszöröse is lehet.
 
 Azonban előfordulhat, hogy többet kell fizetnie, ha a sebész bármi tényező miatt többet számol fel.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Kötelező a vaginektómia, ha méheltávolítást szeretnék?
+
+Nem. A méheltávolítás, az oophorektómia és a vaginektómia külön is végezhetőek. A vaginektómia viszont nem végezhető el méheltávolítás nélkül. Egyes sebészek a nemi átalakító műtéthez feltételként kérik, de sokan nyitottak a megbeszélésre.
+
+### Szükségem lesz élethossziglani hormonkezelésre a műtét után?
+
+Csak akkor, ha mindkét petefészket eltávolítják (oophorektómia). Ekkor leáll az ösztrogén- és progeszterontermelés, ezért egész életen át hormonpótlásra van szükség a csontritkulás és más kockázatok elkerülése végett. Ha a petefészkek a helyükön maradnak, a szervezet továbbra is termel hormonokat.
+
+### Lehetek termékeny méheltávolítás után?
+
+A méheltávolítás után a terhesség lehetetlen. Ha szeretnéd megőrizni a termékenységedet, a műtét előtt lépéseket tehetsz a petesejtek megfagyasztására (ha a petefészkek megmaradnak vagy előtte). Nézd meg a termékenység megőrzéséről szóló cikkünket.
+
+### Felgyorsítja az oophorektómia a maszkulinizációt?
+
+Fokozhatja a tesztoszteron hatását (például a hang kissé mélyül, a zsíreloszlás és a szőrnövekedés változik), de ez nem törvényszerű, és a tesztoszteron önmagában is éveken át folytatja a szervezet maszkulinizálását.
 
 ## Források:
 
