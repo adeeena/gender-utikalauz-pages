@@ -1,7 +1,14 @@
 ---
-title: "⛔Androcur"
-description: "Ismerd meg az ⛔Androcur előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Androcur"
+description: "Az Androcur (ciproteron-acetát) egy erős antiandrogén progesztin, amelyet a magas depresszió-, agyhártyagyulladás- és májelégtelenség-kockázat miatt nem ajánlunk; előnyök, kockázatok és GYIK."
 lang: hu
+keywords: "Androcur, ciproteron-acetát, cyproterone, antiandrogén, progesztin, meningeoma, agyhártyagyulladás, prolaktin, feminizáló HRT, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/androcur"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_ride_a_bicycle.svg"
+slug: "androcur"
 ---
 
 <div class="floating-columns">
@@ -256,5 +263,29 @@ Előfordulhat, hogy a várt hatások lassúak, gyengék vagy nem jelentkeznek. E
 ## DIY beszerzési források
 
 ➡️ [hrt.coffee - Cyproterone](https://hrt.coffee/cypro/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Miért nem ajánlott az Androcur?
+
+Az Androcur ugyan nagyon hatékony antiandrogén, de súlyos kockázatokkal jár: emeli a depresszió, a prolaktinszint-emelkedés, a májelégtelenség és hosszú távon az agyhártya-daganat (meningeoma) kockázatát. Ma már biztonságosabb alternatívák érhetőek el, például a bicalutamide vagy a GnRH-agonisták.
+
+### Ha mégis Androcurt szedek, mennyi a biztonságos adag?
+
+A vizsgálatok szerint az Androcur már napi 10 mg-tól eléri maximális hatékonyságát, ezért nincs értelme 2 naponta fél tablettánál (vagyis nagyjából napi 6,5-12,5 mg-nál) többet szedni. A magasabb adag csak a kockázatokat növeli, a hatást nem.
+
+### Mi az a meningeoma, és hogyan függ össze az Androcurral?
+
+A meningeoma az agyhárták általában jóindulatú daganata. Az Androcur tartós, nagy dózisú szedése bizonyítottan növeli a kialakulásának kockázatát, és a kockázat az adaggal és a szedés időtartamával arányos. Ezért sok országban csak rendszeres MRI-vizsgálat mellett írható fel.
+
+### Át lehet állni Androcurról más antiandrogénre?
+
+Igen, és sok esetben érdemes is. Beszélj az orvosoddal arról, hogy bicalutamide-ra vagy GnRH-agonistára (például Decapeptylre) válts. Az átállást mindig orvosi felügyelet mellett érdemes elvégezni.
+
+## Források
+
+➡️ [Cyproterone acetate - Wikipedia](https://en.wikipedia.org/wiki/Cyproterone_acetate)
+
+➡️ [Risque de méningiome et progestatifs - ANSM](https://ansm.sante.fr/actualites/risque-de-meningiome-et-progestatifs-recommandations-generales-pour-limiter-ce-risque)
 
 </div>
