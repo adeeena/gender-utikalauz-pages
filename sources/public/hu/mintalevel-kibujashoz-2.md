@@ -1,7 +1,14 @@
 ---
-title: "Mintalevél kibújáshoz - Szülőknek címzett kisérőlevél kibújáshoz"
-description: "Mintalevél, ami segíthet a coming outodban a szülők felé."
+title: "Mintalevél kibújáshoz - Szülőknek címzett kisérőlevél"
+description: "Másolható mintalevél a szülőknek történő kibújáshoz, amely segít érzékenyen és világosan elmondani a szüleidnek, hogy transz vagy."
 lang: hu
+keywords: "kibújás szülőknek levél, coming out szülőknek minta, transz levél szülőknek, kisérőlevél kibújás"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mintalevel-kibujashoz-2"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_reading.svg"
+slug: "mintalevel-kibujashoz-2"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_reading.svg" /></div>
