@@ -99,6 +99,137 @@ Bár a hormonok számos változást hoznak magukkal, azonban nem adnak mindenre 
 
 </div>
 
+## Mikor mi változik? Időbeli áttekintés
+
+A feminizáló hatások nem egyszerre, hanem fokozatosan jelennek meg. Az alábbi időzítés a nemzetközi szakmai irányelveken (Endocrine Society / Hembree és mtsai) alapul, amelyeket a legtöbb trans egészségügyi segédlet is átvesz. A számok **átlagos tartományok**: a saját tempód ettől eltérhet.
+
+<figure>
+<svg viewBox="0 0 640 360" width="100%" role="img" aria-label="A feminizáló hormonterápia hatásainak időbeli megjelenése">
+  <rect x="0" y="0" width="640" height="360" fill="#ffffff"/>
+  <!-- függőleges rácsvonalak az időpontokhoz -->
+  <line x1="210" y1="45" x2="210" y2="300" stroke="#ddd" stroke-width="1"/>
+  <line x1="242" y1="45" x2="242" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="275" y1="45" x2="275" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="340" y1="45" x2="340" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="470" y1="45" x2="470" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="600" y1="45" x2="600" y2="300" stroke="#ddd" stroke-width="1"/>
+  <!-- idő feliratok -->
+  <text x="210" y="38" text-anchor="middle" font-size="11" fill="#888">0</text>
+  <text x="242" y="38" text-anchor="middle" font-size="11" fill="#888">3 hó</text>
+  <text x="275" y="38" text-anchor="middle" font-size="11" fill="#888">6 hó</text>
+  <text x="340" y="38" text-anchor="middle" font-size="11" fill="#888">1 év</text>
+  <text x="470" y="38" text-anchor="middle" font-size="11" fill="#888">2 év</text>
+  <text x="600" y="38" text-anchor="middle" font-size="11" fill="#888">3 év+</text>
+  <!-- sávok: onset -> maximum -->
+  <text x="200" y="64" text-anchor="end" font-size="12" fill="#333">Bőr lágyulása</text>
+  <rect x="242" y="54" width="98" height="14" rx="3" fill="#c0508a"/>
+  <text x="200" y="92" text-anchor="end" font-size="12" fill="#333">Libidócsökkenés</text>
+  <rect x="221" y="82" width="183" height="14" rx="3" fill="#c0508a"/>
+  <text x="200" y="120" text-anchor="end" font-size="12" fill="#333">Spontán erekció csökk.</text>
+  <rect x="221" y="110" width="54" height="14" rx="3" fill="#c0508a"/>
+  <text x="200" y="148" text-anchor="end" font-size="12" fill="#333">Izomtömeg csökkenése</text>
+  <rect x="242" y="138" width="228" height="14" rx="3" fill="#c0508a"/>
+  <text x="200" y="176" text-anchor="end" font-size="12" fill="#333">Testzsír átrendeződése</text>
+  <rect x="242" y="166" width="358" height="14" rx="3" fill="#b8447e"/>
+  <text x="200" y="204" text-anchor="end" font-size="12" fill="#333">Heretérfogat csökkenése</text>
+  <rect x="242" y="194" width="358" height="14" rx="3" fill="#b8447e"/>
+  <text x="200" y="232" text-anchor="end" font-size="12" fill="#333">Mellnövekedés</text>
+  <rect x="242" y="222" width="358" height="14" rx="3" fill="#9c2f66"/>
+  <text x="200" y="260" text-anchor="end" font-size="12" fill="#333">Arcszőrzet ritkulása</text>
+  <rect x="275" y="250" width="325" height="14" rx="3" fill="#b8447e"/>
+  <!-- alaptengely -->
+  <line x1="210" y1="300" x2="600" y2="300" stroke="#444" stroke-width="1.5"/>
+  <text x="405" y="322" text-anchor="middle" font-size="11" fill="#888">idő a kezelés kezdetétől</text>
+  <!-- jelmagyarázat -->
+  <rect x="210" y="334" width="12" height="12" rx="2" fill="#9c2f66"/>
+  <text x="228" y="344" font-size="11" fill="#666">maradandó</text>
+  <rect x="320" y="334" width="12" height="12" rx="2" fill="#b8447e"/>
+  <text x="338" y="344" font-size="11" fill="#666">részben maradandó</text>
+  <rect x="470" y="334" width="12" height="12" rx="2" fill="#c0508a"/>
+  <text x="488" y="344" font-size="11" fill="#666">visszafordítható</text>
+</svg>
+<figcaption><i>A fő feminizáló hatások megjelenése (a sáv kezdete = az első jelek, a sáv vége = a hatás kiteljesedése). Tájékoztató tartományok; egyénenként eltérhet. Forrás: Endocrine Society irányelvek (Hembree és mtsai), valamint <a href="https://pghrt.diy/">pghrt.diy</a>.</i></figcaption>
+</figure>
+
+A részletes tartományokat az alábbi táblázat foglalja össze:
+
+<table>
+    <thead>
+        <tr>
+            <th>Hatás</th>
+            <th>Kezdet</th>
+            <th>Teljes hatás</th>
+            <th>Maradandó a kezelés leállítása után?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Testzsír átrendeződése</td>
+            <td>3-6 hónap</td>
+            <td>2-5 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Izomtömeg és erő csökkenése</td>
+            <td>3-6 hónap</td>
+            <td>1-2 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Bőr lágyulása, kevésbé zsíros bőr</td>
+            <td>3-6 hónap</td>
+            <td>ismeretlen</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Libidócsökkenés</td>
+            <td>1-3 hónap</td>
+            <td>1-2 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Spontán merevedések csökkenése</td>
+            <td>1-3 hónap</td>
+            <td>3-6 hónap</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Mellnövekedés</td>
+            <td>3-6 hónap</td>
+            <td>2-3 év</td>
+            <td><b>Igen</b> (részben megmarad)</td>
+        </tr>
+        <tr>
+            <td>Heretérfogat csökkenése</td>
+            <td>3-6 hónap</td>
+            <td>2-3 év</td>
+            <td>Részben</td>
+        </tr>
+        <tr>
+            <td>Termékenység csökkenése</td>
+            <td>változó</td>
+            <td>&gt;3 év</td>
+            <td><b>Gyakran igen</b> (lehet végleges)</td>
+        </tr>
+        <tr>
+            <td>Test- és arcszőrzet ritkulása</td>
+            <td>6-12 hónap</td>
+            <td>&gt;3 év</td>
+            <td>Nem (az arcszőr tartós eltávolításához lézer/elektrolízis kell)</td>
+        </tr>
+        <tr>
+            <td>Hangmagasság</td>
+            <td colspan="2">nincs hatás (a hang nem mélyül vissza; hangképzés szükséges)</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+A táblázat a <b>tipikus</b> időzítést mutatja, nem garanciát. A genetika, az életkor, a kezdő hormonszintek és az adagolás mind befolyásolják, mikor és milyen erősen jelennek meg a hatások.
+
+</div>
 
 ## Várható hatások
 
