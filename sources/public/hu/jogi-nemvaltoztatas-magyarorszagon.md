@@ -32,6 +32,29 @@ Magyarországon a jogi nemváltoztatás 2018 óta gyakorlatban, 2020 óta pedig 
 
 Ennek következtében a transznemű emberek hivatalosan nem tudják megváltoztatni sem a nemüket, sem (a nemükhöz igazodó) keresztnevüket az okmányaikban.
 
+<figure>
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="A jogi nemi elismerés idővonala Magyarországon: 2018 előtt kérvényezhető volt, 2018-tól leállították, 2020-ban törvény tiltotta meg, ma nemzetközi jogi viták tárgya.">
+    <line x1="40" y1="100" x2="600" y2="100" stroke="#7d9bc7" stroke-width="3"/>
+    <circle cx="90" cy="100" r="9" fill="#2f7a3a"/>
+    <text x="90" y="70" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f4a7a">2018 előtt</text>
+    <text x="90" y="135" text-anchor="middle" font-size="12" fill="#333">kérvényezhető</text>
+    <text x="90" y="151" text-anchor="middle" font-size="12" fill="#333">volt</text>
+    <circle cx="260" cy="100" r="9" fill="#d9a441"/>
+    <text x="260" y="70" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f4a7a">2018</text>
+    <text x="260" y="135" text-anchor="middle" font-size="12" fill="#333">kérelmek</text>
+    <text x="260" y="151" text-anchor="middle" font-size="12" fill="#333">leállítása</text>
+    <circle cx="420" cy="100" r="9" fill="#c0392b"/>
+    <text x="420" y="70" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f4a7a">2020</text>
+    <text x="420" y="135" text-anchor="middle" font-size="12" fill="#333">XXX. törvény</text>
+    <text x="420" y="151" text-anchor="middle" font-size="12" fill="#333">33. §: tiltás</text>
+    <circle cx="560" cy="100" r="9" fill="#4a6fa5"/>
+    <text x="560" y="70" text-anchor="middle" font-size="15" font-weight="bold" fill="#2f4a7a">Ma</text>
+    <text x="560" y="135" text-anchor="middle" font-size="12" fill="#333">nemzetközi</text>
+    <text x="560" y="151" text-anchor="middle" font-size="12" fill="#333">jogi viták</text>
+</svg>
+<figcaption><i>A jogi nemi elismerés helyzetének alakulása Magyarországon. Forrás: <a href="https://en.wikipedia.org/wiki/LGBTQ_rights_in_Hungary#Gender_identity_and_expression">Wikipedia</a>.</i></figcaption>
+</figure>
+
 ## Miért fontos ez a gyakorlatban?
 
 A személyes okmányokon szereplő, az identitással nem egyező név és nem (úgynevezett „nem egyező okmányok") számos helyzetben kellemetlenséget vagy kockázatot jelenthet:
