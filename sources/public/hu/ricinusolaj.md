@@ -1,7 +1,14 @@
 ---
-title: "✅Ricinusolaj"
-description: "Ismerd meg az ✅Ricinusolaj előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Ricinusolaj"
+description: "A ricinusolaj egy nem hormonális, biztonságos termék, amely segítheti a haj és a szőrzet növekedését; használat, hatások, óvintzkedések és GYIK."
 lang: hu
+keywords: "ricinusolaj, hajnövekedés, szőrnövekedés, nem hormonális, komedogen, transznemű"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/ricinusolaj"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_barber.svg"
+slug: "ricinusolaj"
 ---
 
 <div class="floating-columns">
@@ -70,8 +77,26 @@ Rendszeres alkalmazás esetén a ricinusolaj felgyorsítja a haj növekedését,
 
 <div class="infobox warning">
 
-⚠️ A ricinusolaj komedogén termék: elősegíti a pattanások vagy pattanások megjelenését ott, ahol alkalmazzák.
+⚠️ A ricinusolaj komedogen termék: elősegítheti a pattanások vagy mitesszerek megjelenését ott, ahol alkalmazzák.
 
 </div>
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Tényleg növeszti a ricinusolaj a hajat és a szőrzetet?
+
+Rendszeres alkalmazás mellett a ricinusolaj felgyorsíthatja a haj növekedését, és bizonyos mértékig sűrűbbé és vastagabbá teheti azt. A hatás azonban visszaforditható: ha abbahagyod a használatát, a haj visszatér eredeti állapotába.
+
+### Vannak mellékhatásai a ricinusolajnak?
+
+A ricinusolaj nem hormonális és nincs egészségre gyakorolt mellékhatása. Mivel azonban komedogen, elősegítheti a pattanások és mitesszerek megjelenését azon a területen, ahol alkalmazod.
+
+### Hol és mennyiért kapható a ricinusolaj?
+
+A ricinusolaj szupermarketekben és bioboltokban kapható, általában 1 és 6 ezer forint közötti áron. Nincs szükség receptre, és bátran használható más, hormonális vagy nem hormonális módszerek mellett is.
+
+## Források
+
+➡️ [Castor oil - Wikipedia](https://en.wikipedia.org/wiki/Castor_oil)
 
 </div>
