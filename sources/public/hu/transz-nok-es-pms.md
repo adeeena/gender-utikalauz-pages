@@ -1,7 +1,14 @@
 ﻿---
 title: "Transz nők és premenstruációs szindróma"
-description: "Miért lehet a transz nőknek menstruációjuk?"
+description: "Miért tapasztalhatnak a transz nők menstruációs tüneteket: a hipotalamusz ciklikus működése, a petefészken kívüli ösztrogéntermelés és a prosztaglandinok szerepe."
 lang: hu
+keywords: "transz nő menstruáció, transz PMS, premenstruációs szindróma transz, hormonciklus, hipotalamusz, ösztrogén ciklus"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-nok-es-pms"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_ideation.svg"
+slug: "transz-nok-es-pms"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_ideation.svg" /></div>
@@ -104,6 +111,23 @@ Az a gyanúm, hogy az orvostudomány teljesen téved az LH és az FSH, különö
 
 Sajnos, amíg valaki nem végez vizsgálatot az LH- és FSH-vérszintekről az ösztrogénterápián lévő férfiaknál, akiknél periódusos ciklusok jelentkeznek, addig soha nem lehetünk igazán biztosak benne.
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Lehet a transz nőknek menstruációjuk?
+
+Vérzésük nincs, mert nincs méhük és petefészkük, de sok transz nő a menstruációhoz hasonló, ciklikusan ismétlődő tüneteket tapasztal: görcsöket, puffadást, hangulati ingadozást, mellfeszülést és fáradtságot.
+
+### Mitől alakulnak ki ezek a tünetek petefészek nélkül?
+
+Az ösztrogénnel működő testben a hipotalamusz ciklikusan szabályozza a hormonokat, és a petefészken kívüli szervek (mellszövet, mellékvese, zsírszövet) is termelnek ösztrogént, progeszteront és prosztaglandinokat, amelyek menstruációs jellegű tüneteket okozhatnak.
+
+### Mikor jelentkezhetnek ezek a tünetek?
+
+Jellemzően nem a hormonterápia első éveiben, hanem később, mert a mellszövetnek el kell érnie egy bizonyos fejlettséget ahhoz, hogy érdemi hormon- és prosztaglandin-forrássá váljon.
+
+### Tudományosan bizonyított ez?
+
+Egyelőre kevés a kutatás: gyakorlatilag senki nem vizsgálta tudományosan a transz nők ciklikus tüneteit, így a magyarázatok jórészt anekdotikus beszámolókon és élettani érvelésen alapulnak. A tünetek azonban valósak és sok transz nő átéli őket.
 
 ## Források
 
