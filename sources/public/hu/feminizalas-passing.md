@@ -1,7 +1,14 @@
 ---
 title: "Feminin passing"
-description: "Feminin passing: Tippek a nőiesség kifejezéséhez a mindennapokban. 🌸💄"
+description: "Hogyan működik a női passing: a férfias jegyek csökkentése és a nőies vonások erősítése, az első pillantás szerepe és gyakorlati tippek a mindennapokhoz."
 lang: hu
+keywords: "feminin passing, női passing, transznemű nő, nőiesség, férfias jegyek, első pillantás, tranzíció, megjelenés"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-passing"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_makeup_artist.svg"
+slug: "feminizalas-passing"
 ---
 
 <div class="floating-columns">
@@ -112,5 +119,23 @@ Ha valaki első pillantásod után nőnek minősít, akkor sokkal nagyobb esély
 ➡️ [wikitrans.co](https://wikitrans.co)
 
 ➡️ [Reddit r/MtF: How Passing Actually Works](https://web.archive.org/web/20190609034146/https://www.reddit.com/r/MtF/comments/aib80p/how_passing_actually_works/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a legfontosabb a női passingban?
+
+A passing két párhuzamos folyamatból áll: a férfias jegyek csökkentéséből és a nőies vonások erősítéséből. A legtöbbeknek a férfias attribútumok (például az arcszőrzet) csökkentése hozza a legnagyobb változást, mert ezek elnyomják a nőies jegyeket.
+
+### Elég, ha csak nőiesen öltözöm és sminkelek?
+
+Nem feltétlenül. Ha erős férfias és nőies jegyeket egyszerre küldesz, az összemoshatja az üzenetet, és a szándékkal ellentétes hatást kelthet. Előbb érdemes a domináns férfias jegyeket csökkenteni, hogy a nőies vonások érvényesülni tudjanak.
+
+### Mennyi idő alatt dől el, hogy passing vagyok-e?
+
+A nemek felismerése elsősorban az első 1-2 másodpercben, az első pillantásnál történik. Ha ekkor nőnek olvasnak, sokkal nagyobb eséllyel maradsz passing a hosszabb, közeli megfigyelés során is, mert nehezebb megváltoztatni egy véleményt, mint megerősíteni.
+
+### A passing azt jelenti, hogy minden nőies sztereotípiának meg kell felelnem?
+
+Nem. Számtalan cisz és transz nő jár pólóban és farmerben, nem sminkel és nem hord ékszert, mégis nő. A tranzíció célja az, hogy közelebb kerülj önmagadhoz, nem pedig az, hogy egyik sztereotípiából a másikba lépj.
 
 </div>
