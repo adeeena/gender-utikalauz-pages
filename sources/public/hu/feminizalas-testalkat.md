@@ -1,7 +1,14 @@
 ---
-title: "Haj - Testalkat, ruházat"
-description: "Feminin passing és ruházat: Tippek a nőiesség kifejezéséhez a mindennapokban. 🌸💄"
+title: "Testalkat, ruházat - Női passing"
+description: "Hogyan öltözködj a testalkatodnak megfelelően: a vállak és a derek-csípő arány optikai alakítása, színek, rétegek és nőies sziluett."
 lang: hu
+keywords: "feminizáló ruházat, testalkat, női passing, homokóra alak, vállak, öltözködés, nőies sziluett, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-testalkat"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/morfologia.jpg"
+slug: "feminizalas-testalkat"
 ---
 
 <div class="floating-columns">
@@ -115,5 +122,19 @@ A rózsaszínt csak akkor javaslom használni, ha kezdesz közeledni az androgü
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Hogyan öltözködjek, ha széles a vállam?
+
+Válassz olyan felsőket, amelyek szabadon hagyják a nyakad, a kulcscsontod és a válladat, például széles gallérú vagy mély kivágású darabokat. Ezek optikailag csökkentik a vállak hatását és nőiesebb arányokat keltenek.
+
+### Hogyan kelthetek homokóra alakot ruhával?
+
+Használj színeket és kontrasztokat a testrészek kiemelésére: V-alakú testnél például sötét színekkel minimalizálhatod a vállakat, világosabb, színesebb alsóval pedig kiemelheted a csípődet. A cél a kiegyensúlyozottabb sziluett, nem a tökéletes homokóra.
+
+### Van nemük a ruháknak?
+
+Nincs. Bármilyen testalkattal azt viselheted, amiben jól érzed magad; a tippek csak segítenek a nőiesebb összkép kialakításában, ha ezt szeretnéd. A legfontosabb a magabiztosság és a komfortérzet.
 
 </div>
