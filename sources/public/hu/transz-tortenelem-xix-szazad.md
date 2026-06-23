@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "Törvényszéki harcok a nemi megkülönböztetések ellen a XIX. században"
+title: "Transz történelem: a XIX. század"
+description: "A XIX. század: az iparosodás és gyarmatosítás mellett a binarizmus és virilizmus felemelkedése, a szexuális pszichopatológia születése és a transzvesztitizmus kriminalizálása."
 lang: hu
+keywords: "XIX. század transz történelem, transzvesztitizmus kriminalizálás, Psychopathia sexualis, Herculine Barbin, cross-dressing törvény, hidzsra"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-xix-szazad"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-xix-szazad"
 ---
 
 <div class="floating-columns">
@@ -70,6 +77,20 @@ Az 1850-es évektől kezdve számos amerikai városban törvények hada lépett 
 Amelia Bloomer azt követelte, hogy a nőknek joguk legyen nadrágot és bugyit viselni a hosszú szoknyák és a terjedelmes fehérneműk helyett. Antifeminista körök a maguk részéről elítélték az öltözködési reformot, mint ami egyenlő lenne a transzvesztitizmussal, különösen mivel a transzvesztitizmus kérdését a migrációval együtt megjelenő divathullámnak tartják, különösen a nyugati parton. A kínai migránsok érkezése Kaliforniába az aranylázzal együtt elmosott számos, a nemek között kialakult különbségeket. Az európai származású amerikaiak selyempizsamát viselő kínai nőket és hosszú inget viselő férfiakat láttak; elmondásuk szerint nehezen tudták megkülönböztetni a férfiakat a nőktől. Az amerikai polgárháború alatt sok nő harcolt férfinak kiadva magát. Ilyen volt például Franklin Thompson és Harry T. Budford, akik férfiaknak öltözve katonák és kémek voltak. Amikor nőként éltek, a nevük Sarah Emma Edmonds és Loreta Velazquez volt. Így tehát a XIX. század végén a transzkérdés már nemcsak európai, hanem globális méreteket is öltött. 
 
 
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Hogyan változott a nemi normák megitélése a XIX. században?
+
+A XIX. század a binarizmus és a virilizmus felemelkedésének időszaka volt Nyugaton. A homoszexualitást és a transzvesztitizmust közerkölcs elleni bűncselekményként büntették, és ekkor született meg a "perverziókat" tanulmányozó szexuális pszichopatológia.
+
+### Ki volt Herculine Barbin?
+
+Herculine Barbin egy interszex személy volt, akit 1838-ban lányként anyakönyveztek és nőként nőtt fel, majd egy orvosi vizsgálat után a törvény férfiként való életre kényszerítette; történetét később Michel Foucault dolgozta fel.
+
+### Globális volt-e a "transzkérdés" a XIX. században?
+
+Igen. A gyarmatosítás révén az európaiak számos más nemi rendszerrel találkoztak (például az indiai hidzsrákkal és a szamoai fa'afafinékkal), így a század végére a transzkérdés már globális méreteket öltött.
 
 ## Forrás
 
