@@ -167,6 +167,32 @@ A bicalutamide a májon áthaladva növelheti a májenzimszintet, ami legrosszab
 Egy [4052 prosztatarákos beteggel végzett vizsgálatban](https://cutt.ly/9wU2p9e5), akiknek napi 150 mg bicalutamide-ot adtak, a kóros májenzimszintű betegek aránya mindössze 3,4% volt. [Ehhez képest ez az arány](https://books.google.fr/books?id=d8cgCAAAQBAJ&pg=PA618&redir_esc=y#v=onepage&q&f=false) az Androcurral kezelt betegek esetében 10 és 28% között mozgott.
 Ezenkívül megállapították, hogy a májenzimek emelkedése általában csak átmeneti volt, és egy bizonyos idő után normalizálódott.
 
+<figure>
+<svg viewBox="0 0 500 280" width="100%" role="img" aria-label="A kóros májenzimszint aránya bicalutamide és Androcur mellett">
+  <rect x="0" y="0" width="500" height="280" fill="#ffffff"/>
+  <line x1="70" y1="30" x2="70" y2="210" stroke="#444" stroke-width="1.5"/>
+  <line x1="70" y1="210" x2="470" y2="210" stroke="#444" stroke-width="1.5"/>
+  <!-- y rács 10/20/30% -->
+  <line x1="70" y1="150" x2="470" y2="150" stroke="#eee" stroke-width="1"/>
+  <line x1="70" y1="90" x2="470" y2="90" stroke="#eee" stroke-width="1"/>
+  <text x="64" y="214" text-anchor="end" font-size="11" fill="#888">0%</text>
+  <text x="64" y="154" text-anchor="end" font-size="11" fill="#888">10%</text>
+  <text x="64" y="94" text-anchor="end" font-size="11" fill="#888">20%</text>
+  <text x="64" y="34" text-anchor="end" font-size="11" fill="#888">30%</text>
+  <!-- bicalutamide 3,4% -->
+  <rect x="140" y="190" width="80" height="20" fill="#7bb274"/>
+  <text x="180" y="184" text-anchor="middle" font-size="12" fill="#3f6b39">3,4%</text>
+  <text x="180" y="228" text-anchor="middle" font-size="12" fill="#333">Bicalutamide</text>
+  <text x="180" y="244" text-anchor="middle" font-size="10" fill="#888">(150 mg/nap)</text>
+  <!-- androcur 10-28% (tartomany) -->
+  <rect x="320" y="42" width="80" height="108" fill="#d9745f"/>
+  <text x="360" y="36" text-anchor="middle" font-size="12" fill="#8a3b29">10-28%</text>
+  <text x="360" y="228" text-anchor="middle" font-size="12" fill="#333">Androcur</text>
+  <text x="360" y="244" text-anchor="middle" font-size="10" fill="#888">(ciproteron-acetát)</text>
+</svg>
+<figcaption><i>A kóros májenzimszint aránya jóval alacsonyabb bicalutamide, mint Androcur mellett. Forrás: a fent hivatkozott klinikai vizsgálatok.</i></figcaption>
+</figure>
+
 Ennek ellenére a májenzimszinteket figyelemmel kell kísérni az esetleges eltérések miatt. **Ebből a célból a kezelés kezdetén havonta vérmintát kell venni a transzaminázszintek (GOT, GPT, GGT) mérésére, és a szinteket ezt követően is rendszeresen ellenőrizni kell.**
 
 A májkockázathoz hasonlóan a bicalutamide a tüdőkárosodás nagyon alacsony kockázatával jár. [Mindössze 17 esetről számoltak be](https://en.wikipedia.org/wiki/Template:Published_case_reports_of_bicalutamide-associated_lung_toxicity), és ezek mindegyike a feminizáló HRT-hez előírtnál nagyobb dózisban történt.
