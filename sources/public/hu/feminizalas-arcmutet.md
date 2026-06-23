@@ -66,6 +66,33 @@ Ezeknek a műtéteknek a célja az arc átformálása annak érdekében, hogy:
 
 Ezek az arcformáló eljárások elsősorban a férfi és a női csontváz közötti különbségek vizsgálatán alapulnak, különösen a szemöldök elülső részén, az arccsontok, az állkapocs, az áll és az orr területén. **Ezek a férfi-női különbségek akadályozhatják a transznők társadalmi beilleszkedését.**
 
+<table>
+    <thead>
+        <tr>
+            <th>Arcrégió</th>
+            <th>Jellemző férfias vonás</th>
+            <th>Feminizáló beavatkozás</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Felső harmad (homlok, szemöldök)</td>
+            <td>Kiugró szemöldökív, magas vagy hátrahúzódó hajvonal</td>
+            <td>Homlok lekerekítése, szemöldökív csökkentése, hajvonal-süllyesztés</td>
+        </tr>
+        <tr>
+            <td>Középső harmad (orr, arccsont)</td>
+            <td>Nagyobb orr, eltérő arccsont-térfogat</td>
+            <td>Nőiesítő orrplasztika, arccsontplasztika</td>
+        </tr>
+        <tr>
+            <td>Alsó harmad (állkapocs, áll, ádámcsutka)</td>
+            <td>Széles állkapocsszög, szögletes áll, kiugró ádámcsutka</td>
+            <td>Állkapocs- és állplasztika, <a href="/#/entry?id=feminizalas-adamcsutka-mutet">ádámcsutka-csökkentés</a></td>
+        </tr>
+    </tbody>
+</table>
+
 Ezek a konstitúciós elváltozások néha bizonyos genetikai eredetű, nagyon férfias arcú nőknél is megtalálhatók. Ezenkívül az életkor előrehaladtával arc-, fül- vagy orron elváltozások jelentkeznek, amelyek hajlamosak az arc maszkulinizálódására.
 
 Az arc szerkezetének nőiesítését célzó műtétek önmagukban is elvégezhetők, vagy szükség esetén más kiegészítő arcplasztikai beavatkozásokkal, különösen az orr módosításával (nőiesítő orrplasztika) és a jugo-maláris térfogat módosításával (arccsontplasztika) együtt.

@@ -53,6 +53,39 @@ A feminizációs műtétek olyan műtétek, amelyek jellemzően női nemhez tart
 
 **Minden transz személy tranzíciója és célja más és más; nem kell műtéteket elvégezned, hogy "igazi" transz lehess, vagy hogy teljesen a választott nemedhez tartozz.**
 
+## A leggyakoribb feminizáló műtétek
+
+<table>
+    <thead>
+        <tr>
+            <th>Műtét</th>
+            <th>Mit csinál</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/#/entry?id=feminizalas-mellnagyobbito-mutet">Mellnagyobbítás</a></td>
+            <td>A mellek térfogatának növelése implantátummal vagy saját zsírral</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=feminizalas-arcmutet">Arcfeminizáció (FFS)</a></td>
+            <td>Az arccsontok és a lágy részek nőiesítése</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=feminizalas-adamcsutka-mutet">Ádámcsutka-csökkentés</a></td>
+            <td>A kiugró pajzsporc (ádámcsutka) csökkentése</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=feminizalas-orchidectomia">Orchidektómia</a></td>
+            <td>A herék eltávolítása; leállítja a tesztoszterontermelést</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=feminizalas-vaginoplasztika-huvelyplasztika">Vaginoplasztika</a></td>
+            <td>Hüvely, csikló és szeméremajkak kialakítása</td>
+        </tr>
+    </tbody>
+</table>
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Kell-e műtét ahhoz, hogy "igazi" transz nő legyek?

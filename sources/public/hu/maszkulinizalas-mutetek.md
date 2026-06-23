@@ -45,6 +45,39 @@ A maszkulinizáló műtétek olyan műtétek, amelyek jellemzően férfi nemhez 
 
 **Minden transz személy tranzíciója és célja más és más; nem kell műtéteket elvégezned, hogy "igazi" transz lehess, vagy hogy teljesen a választott nemedhez tartozz.**
 
+## A leggyakoribb maszkulinizáló műtétek
+
+<table>
+    <thead>
+        <tr>
+            <th>Műtét</th>
+            <th>Mit csinál</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/#/entry?id=maszkulinizalas-masztektomia">Masztektómia</a></td>
+            <td>A mellszövet eltávolítása, mellkasi maszkulinizálás</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia">Hiszterektómia</a></td>
+            <td>A méh eltávolítása</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia">Oophorektómia</a></td>
+            <td>A petefészkek eltávolítása; végleges sterilitást okoz</td>
+        </tr>
+        <tr>
+            <td><a href="/#/entry?id=maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia">Vaginektómia</a></td>
+            <td>A hüvely nyálkahártyájának eltávolítása és zárása</td>
+        </tr>
+        <tr>
+            <td>Metoidioplasztika / Phalloplasztika</td>
+            <td>Alsó (genitális) maszkulinizáló műtétek</td>
+        </tr>
+    </tbody>
+</table>
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Milyen maszkulinizáló műtétek léteznek?
