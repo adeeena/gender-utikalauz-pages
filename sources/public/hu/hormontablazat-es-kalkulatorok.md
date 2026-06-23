@@ -33,6 +33,48 @@ KALKULÁTOROK
 
 # Hormontáblázat
 
+## Mértékegység-átváltás gyorsan
+
+A laboreredmények különböző mértékegységekben jöhetnek. Ha kézzel szeretnél átváltani, az alábbi szorzók segítenek; a fenti kalkulátorok automatikusan is elvégzik.
+
+<table>
+    <thead>
+        <tr>
+            <th>Hormon</th>
+            <th>Átváltás</th>
+            <th>Szorzó</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ösztradiol</td>
+            <td>pg/ml &#8594; pmol/l</td>
+            <td>× 3,671</td>
+        </tr>
+        <tr>
+            <td>Tesztoszteron</td>
+            <td>ng/dl &#8594; nmol/l</td>
+            <td>× 0,0347</td>
+        </tr>
+        <tr>
+            <td>Tesztoszteron</td>
+            <td>ng/ml &#8594; nmol/l</td>
+            <td>× 3,47</td>
+        </tr>
+        <tr>
+            <td>Progeszteron</td>
+            <td>ng/ml &#8594; nmol/l</td>
+            <td>× 3,18</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+Visszafelé (pl. pmol/l &#8594; pg/ml) oszd el ugyanazzal a szorzóval. Például 220 pmol/l ösztradiol = 220 ÷ 3,671 &#8776; 60 pg/ml.
+
+</div>
+
 ## Ösztrogének
 
 Az alábbi táblázat összefoglalja az ösztrogének standard értékeit cisznemű férfiak és nők számára.
