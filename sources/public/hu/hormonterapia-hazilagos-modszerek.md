@@ -1,7 +1,14 @@
 ---
 title: "Hormonterápia házilagos módszerek, DIY"
-description: "Milyen módokon lehet az orvosokat megkerülve hormonkészítményekhez jutni?"
+description: "Házilagos (DIY) hormonterápia: recept nélküli beszerzés, gyógyszerészeti minőségű és házi készítésű források, jogi háttér és biztonsági tanácsok."
 lang: hu
+keywords: "DIY HRT, házilagos hormonterápia, recept nélküli ösztrogén, hrt.coffee, gyógyszerészeti minőség, vám, transznemű, önkezelés"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/hormonterapia-hazilagos-modszerek"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_empty_cart.svg"
+slug: "hormonterapia-hazilagos-modszerek"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_empty_cart.svg" /></div>
@@ -107,6 +114,24 @@ Az itt vagy nem szereplő források kockázatosak lehetnek. Rendelés leadása e
 
 ➡️ [RoidBazaar EU - Testosterone Cypionate II.](https://eu.roidbazaar.me/europe-domestic/testosterone-cypionate-250-1296/)
 
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Illegális a házilagos (DIY) hormonterápia?
+
+Magyarországon és a legtöbb országban az ösztrogének és antiandrogének nem ellenőrzött anyagok, ezért megrendelésük és birtoklásuk szinte mindig nulla jogi következménnyel jár. A nemzetközi csomagot a vám ritkán lefoglalhatja és megsemmisítheti, de ezért sem kerülsz jogi bajba.
+
+### Mi a különbség a gyógyszerészeti minőségű és a házi készítésű HRT között?
+
+A gyógyszerészeti minőségű HRT-t engedéllyel rendelkező, szabályozott gyógyszergyárak állítják elő, és ugyanolyan minőségű, mint a patikai készítmény. A házi készítésű HRT-t magánszemélyek állítják össze nyersanyagból; több eredendő kockázatot hordoz, ezért csak akkor ajánlott, ha a gyógyszerészeti minőségű forrás nem elérhető.
+
+### Mit tegyek, ha a vám lefoglalja a csomagomat?
+
+Ne áruld el a vámosoknak, mi van a csomagban. Még ha fel is veszik veled a kapcsolatot, a HRT megrendelése miatt nem kerülsz jogi bajba. Ha lehet, vedd fel a kapcsolatot az eladóval, aki gyakran ingyen újraküldi vagy visszatéríti a rendelést.
+
+### Mennyi idő alatt érkezik meg a megrendelt HRT?
+
+A gyógyszerészeti minőségű nemzetközi rendelések általában 3-6 hét alatt érkeznek meg, a házi készítésű küldemények 2-3 hét alatt. Az orosz forrásokból a szállítás tovább, akár 4-8 hétig is tarthat.
 
 ## Kapcsolódó
 
