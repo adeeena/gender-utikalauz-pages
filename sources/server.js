@@ -3,6 +3,7 @@ const path = require('path');
 const fs = require('fs');
 const marked = import('marked');
 const cors = require('cors');
+const seo = require('./seo');
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -13,12 +14,61 @@ const port = process.env.PORT || 3000;
 // };
 app.use(cors());
 
+// Measure AI crawler hits and AI-assistant referrals (#8).
+// Logs are captured by the hosting platform; no persistence required.
+app.use((req, res, next) => {
+  const ua = req.get('user-agent') || '';
+  const referer = req.get('referer') || '';
+  const bot = seo.AI_BOTS.find((b) => ua.toLowerCase().includes(b.toLowerCase()));
+  if (bot) {
+    console.log(`[ai-crawler] bot=${bot} path=${req.originalUrl} ts=${new Date().toISOString()}`);
+  }
+  const refHost = seo.AI_REFERRERS.find((h) => referer.toLowerCase().includes(h));
+  if (refHost) {
+    console.log(`[ai-referral] source=${refHost} path=${req.originalUrl} ts=${new Date().toISOString()}`);
+  }
+  next();
+});
+
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, 'public')));
 
 // API routes
 // Serve static files from the 'images' directory
 app.use('/images', express.static(path.join(__dirname, 'public', 'images')));
+
+// ---- AI SEO: robots, sitemap, llms.txt, server-rendered articles ----
+app.get('/robots.txt', (req, res) => {
+  res.type('text/plain').send(seo.buildRobots());
+});
+
+app.get('/sitemap.xml', (req, res) => {
+  res.type('application/xml').send(seo.buildSitemap('hu'));
+});
+
+app.get('/llms.txt', (req, res) => {
+  res.type('text/plain; charset=utf-8').send(seo.buildLlms('hu'));
+});
+
+app.get('/llms-full.txt', (req, res) => {
+  res.type('text/plain; charset=utf-8').send(seo.buildLlmsFull('hu'));
+});
+
+// Crawlable, server-rendered article pages with full <head> meta + JSON-LD.
+app.get('/cikk/:slug', async (req, res) => {
+  const slug = String(req.params.slug || '').replace(/[^a-z0-9\-]/gi, '');
+  const lang = req.query.languageCode || 'hu';
+  const entry = seo.readEntry(lang, slug);
+  if (!entry) {
+    return res.status(404).type('text/plain').send('A keresett cikk nem található.');
+  }
+  try {
+    const html = await seo.renderArticleHtml(entry);
+    res.type('text/html; charset=utf-8').send(html);
+  } catch (e) {
+    res.status(500).type('text/plain').send('Hiba a cikk megjelenítésekor.');
+  }
+});
 
 app.get('/translations', (req, res) => {
   const { languageCode } = req.query;
