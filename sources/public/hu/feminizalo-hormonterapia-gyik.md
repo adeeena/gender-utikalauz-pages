@@ -1,7 +1,14 @@
 ---
 title: "Feminizáló hormonterápia GYIK"
-description: "Gyakran feltett kérdések a feminizáló hormonterápiával kapcsolatban."
+description: "Gyakran ismételt kérdések a feminizáló hormonterápiáról: hatások, termékenység, adagolás, a kezelés fenntartása és leállítása, valamint utazás hormonkészítményekkel."
 lang: hu
+keywords: "feminizáló HRT GYIK, transznemű nő, ösztrogén, termékenység, progeszteron, SERM, raloxifen, hormonszint, utazás hormonokkal"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-hormonterapia-gyik"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_questions.svg"
+slug: "feminizalo-hormonterapia-gyik"
 ---
 
 <div class="floating-columns">
@@ -248,5 +255,11 @@ A legtöbb feminizáló hormonterápiás készítménnyel lehet utazni. Még het
 A légi közlekedésnél győződj meg, hogy a készítményeid egyértelműen fel vannak címkézve, hogy mi is az valójában (írd rá a gyógyszer teljes nevét az üvegre/ampullára/stb., ha szükséges). Ne próbálj meg rosszul felcímkézett HRT-t felvinni a repülőgépre, például ne tegyél HRT tablettákat egy vitaminos üvegbe. Ha injekciót használsz, tárold a feladott poggyászában.
 
 [További infók az utazásról szóló bejegyzésben.](/#/entry?id=transzidentitas-utazas)
+
+## Források
+
+➡️ [Transgender hormone therapy (male-to-female) - Wikipedia](https://en.wikipedia.org/wiki/Transgender_hormone_therapy_(male-to-female))
+
+➡️ [Overview of feminizing hormone therapy - UCSF](https://transcare.ucsf.edu/guidelines/feminizing-hormone-therapy)
 
 </div>
