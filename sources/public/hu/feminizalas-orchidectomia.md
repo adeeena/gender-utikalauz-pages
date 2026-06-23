@@ -1,7 +1,14 @@
 ---
 title: "Orchidektómia"
-description: "Orchidektómia következményei és folyamata. Műtét utáni lábadozás és fontos tudnivalók. 🩹💡"
+description: "Az orchidektómia (heretávolítás) folyamata, következményei és lábadozása, valamint a kapcsolat a későbbi hüvelyplasztikával."
 lang: hu
+keywords: "orchidektómia, heretávolítás, here amputáció, tesztoszteron, hüvelyplasztika, feminizáló műtét, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-orchidectomia"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_breaking_barriers.svg"
+slug: "feminizalas-orchidectomia"
 ---
 
 <div class="floating-columns">
@@ -151,5 +158,19 @@ Egyes transz emberek először a heréiket szeretnék eltávolíttatni, majd ké
 Nincs ellenjavallata annak, hogy ezt a két műtétet egymás után végezzék el, amíg a herezacskót nem távolították el. Ez nyitva hagyja az ajtót a hüvelyplasztika előtt.
 
 A hüvelyplasztika eredményeinek maximalizálása érdekében azonban a lágyéktáji orchiektómia módszere ajánlott. Ennél a módszernél nem a herék bőrén, hanem a hasüregen keresztül történik a beavatkozás, ezáltal csökkentve a neovagina felépítéséhez felhasználható bőrön a hegesedés kockázatát.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mit befolyásol a herék eltávolítása?
+
+A herék eltávolítása leállítja a tesztoszteron- és spermiumtermelést. Ezért a műtét után a hormonkezelést folytatni vagy módosítani kell, és ha valaha biológiai gyermeket szeretnél, a műtét előtt célszerű spermafagyasztást végeztetni.
+
+### Akadályozza-e a műtét a későbbi hüvelyplasztikát?
+
+Csak akkor, ha a sebész eltávolítja a herezacskót, mert az összeegyeztethetetlen a hüvelyplasztikával. Ha később hüvelyplasztikát tervezel, ezt feltétlenül jelezd előre, és a lágyéktáji módszert kérd.
+
+### Mennyi ideig tart a műtét és a lábadozás?
+
+Maga a műtét átlagosan csak kb. 30 percig tart, és sokszor még aznap hazamehetsz. A műtét után 3 hétig ne emelj 5 kg-nál nehezebbet, és 4 hétig kerüld a szexuális együttlétet.
 
 </div>
