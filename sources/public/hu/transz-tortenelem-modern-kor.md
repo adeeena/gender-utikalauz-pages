@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A modern kor ellentmondásai: a bináris rendszer szilárdsága és a nemek elmosódása és inverziója iránti kulturális érdeklődés"
+title: "Transz történelem: a modern kor ellentmondásai"
+description: "A modern kor ellentmondásai: a bináris rendszer szilárdsága, az éneklő kasztráltak divatja, a gyarmatosítás és a nem-európai nemi rendszerekkel való találkozás."
 lang: hu
+keywords: "modern kor transz történelem, kasztrált énekesek, berdache, gyarmatosítás nemi rendszer, alvó hermafrodita, nemi binarizmus"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-modern-kor"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-modern-kor"
 ---
 
 <div class="floating-columns">
@@ -65,6 +72,20 @@ A tizenötödik század végétől kezdve az európai hatalmak gyarmatosítási 
 
 
 
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi jellemezte a modern kor nemi felfogását?
+
+A modern kort ellentmondás jellemezte: egyszerre volt jelen a bináris nemi rendszer szilárdsága és a nemek elmosódása iránti kulturális érdeklődés, például az éneklő kasztráltak divatja és az ókori hermafrodita-ábrázolások újrafelfedezése révén.
+
+### Hogyan hatott a gyarmatosítás a nemi felfogásra?
+
+A gyarmatosítás során a nyugatiak olyan társadalmakkal találkoztak, amelyekben több nem létezett (például az észak-amerikai "berdache" személyek). A nyugati gyarmatosítók a saját bináris és keresztény kategóriáikat ráerőltetve elnyomták őket.
+
+### Mi az az "alvó hermafrodita" szobor?
+
+Egy görög eredeti római másolata a 2. századból, amelyet 1608-ban találtak meg Rómában; ma a Louvre egyik leghíresebb szobra. A teste egyszerre mutat női és férfi vonásokat, és a kor nemi felfogásának összetettségét jelképezi.
 
 ## Forrás
 
