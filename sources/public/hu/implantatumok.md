@@ -89,6 +89,31 @@ Az orvosok általában inkább a menopauza utáni nőknek írják fel ezeket az 
 
 Az orrspray-hez hasonlóan ezt a beadási módszert is csak ritkán alkalmazzák és csak néhány országban, például Ausztráliában.
 
+<table>
+    <tbody>
+        <tr>
+            <td><b>Beviteli mód</b></td>
+            <td>Bőr alá ültetett implantátum</td>
+        </tr>
+        <tr>
+            <td><b>Ajánlottság</b></td>
+            <td>😐 Semleges</td>
+        </tr>
+        <tr>
+            <td><b>Csere gyakorisága</b></td>
+            <td>Néhány havonta, orvosi beavatkozással</td>
+        </tr>
+        <tr>
+            <td><b>Fő hátrány</b></td>
+            <td>A hegedés hosszú távon felhalmozódhat</td>
+        </tr>
+        <tr>
+            <td><b>Elérhetőség Magyarországon</b></td>
+            <td>Nagyon nehéz beszerezni</td>
+        </tr>
+    </tbody>
+</table>
+
 ### Előnyök:
 
 * A beültetés után több hónapig nyugalom van.

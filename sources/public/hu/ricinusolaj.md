@@ -75,6 +75,35 @@ Ez a termék nem hormonális. A ricinusolaj szupermarketekben és bioboltokban 1
 
 Rendszeres alkalmazás esetén a ricinusolaj felgyorsítja a haj növekedését, és bizonyos mértékig sűrűbbé és vastagabbá teheti azt (a bajuszon és az arcokon, illetve a halánték felett, hogy nőiesebbé tegye a hajszálakat). Hatása visszafordítható: ha a terméket nem alkalmazzuk folyamatosan, a haj visszatér eredeti állapotába.
 
+<table>
+    <tbody>
+        <tr>
+            <td><b>Típus</b></td>
+            <td>Nem hormonális, helyi ápolószer</td>
+        </tr>
+        <tr>
+            <td><b>Ajánlottság</b></td>
+            <td>✅ Ajánlott (nincs egészségügyi mellékhatása)</td>
+        </tr>
+        <tr>
+            <td><b>Hol kapható</b></td>
+            <td>Szupermarket, biobolt (recept nélkül)</td>
+        </tr>
+        <tr>
+            <td><b>Ár</b></td>
+            <td>Kb. 1-6 ezer forint</td>
+        </tr>
+        <tr>
+            <td><b>Hatás</b></td>
+            <td>A haj és szőr növekedésének gyorsítása, sűrítése</td>
+        </tr>
+        <tr>
+            <td><b>Megjegyzés</b></td>
+            <td>Komedogén; pattanást okozhat ott, ahol használod</td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="infobox warning">
 
 ⚠️ A ricinusolaj komedogen termék: elősegítheti a pattanások vagy mitesszerek megjelenését ott, ahol alkalmazzák.

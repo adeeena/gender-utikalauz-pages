@@ -74,6 +74,23 @@ A hormonterápia minden szinten hatással van a szervezetre, és sok hormonterá
 
 Az adagolás akkor "jó", ha a tesztoszteronszint két vérvizsgálat között stabil, hasonló a ciszgender férfiakéhoz **(7 és 30 nmol/L között)**, és nem jelentkeznek a rosszul beállított adagolás mellékhatásai (hőhullámok, rossz hangulat, krónikus fáradtság és/vagy alvászavarok).
 
+<table>
+    <tbody>
+        <tr>
+            <td><b>Tesztoszteron céltartomány</b></td>
+            <td>7-30 nmol/L</td>
+        </tr>
+        <tr>
+            <td><b>Referencia</b></td>
+            <td>Ciszgender férfiak szintje</td>
+        </tr>
+        <tr>
+            <td><b>Mérés</b></td>
+            <td>Két vérvizsgálat között stabil érték</td>
+        </tr>
+    </tbody>
+</table>
+
 <div class="infobox info">
 
 💡 Kevés tanulmány létezik a maszkulinizáló HRT-ről, és semmi sem mondható ki teljes bizonyossággal, hogy jobb vagy rosszabb-e alacsony dózissal kezdeni, majd növelni, vagy rögtön magas dózissal kezdeni, majd beállítani.

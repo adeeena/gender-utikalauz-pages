@@ -87,6 +87,31 @@ A hormonokat orrspray-vel fecskendezik be, ahol az orr belső nyálkahártyájá
 
 A gyakorlatban a jellemzők nagyjából ugyanazok, mint a transzdermális alkalmazásnál. A spray-ket általában olyan emberek használják, akik nem tolerálják a gél vagy a tapasz érintkezését a bőrükön.
 
+<table>
+    <tbody>
+        <tr>
+            <td><b>Beviteli mód</b></td>
+            <td>Orrnyálkahártyán át felszívódó spray</td>
+        </tr>
+        <tr>
+            <td><b>Ajánlottság</b></td>
+            <td>😐 Semleges</td>
+        </tr>
+        <tr>
+            <td><b>Hormonszint</b></td>
+            <td>Stabil</td>
+        </tr>
+        <tr>
+            <td><b>Trombóziskockázat</b></td>
+            <td>Nincs (nem terheli a májat)</td>
+        </tr>
+        <tr>
+            <td><b>Elérhetőség Magyarországon</b></td>
+            <td>Nem áll rendelkezésre</td>
+        </tr>
+    </tbody>
+</table>
+
 ### Előnyök:
 * Könnyű, egyszerű adagolás
 
