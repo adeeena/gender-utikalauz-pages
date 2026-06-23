@@ -31,6 +31,37 @@ A nemi úton terjedő fertőzések (STI-k) elleni védelem alapjai:
 * **Rendszeres szűrés** STI-kre és HIV-re, különösen új partner esetén.
 * Saját segédeszközök (pl. dildó) esetén óvszer használata és alapos tisztítás a megosztás előtt.
 
+<table>
+    <thead>
+        <tr>
+            <th>Védekezés</th>
+            <th>Mi ellen véd</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Óvszer</td>
+            <td>STI-k és HIV behatoló szexnél</td>
+        </tr>
+        <tr>
+            <td>Nyalókendő (dental dam)</td>
+            <td>STI-k orális szexnél</td>
+        </tr>
+        <tr>
+            <td>PrEP</td>
+            <td>HIV-fertőzés</td>
+        </tr>
+        <tr>
+            <td>Segédeszköz-óvszer és tisztítás</td>
+            <td>Fertőzések megosztott eszközöknél</td>
+        </tr>
+        <tr>
+            <td>Rendszeres szűrés</td>
+            <td>Korai felismerés, a továbbadás megelőzése</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Tesztoszteron, hüvelyi egészség és kényelem
 
 A tesztoszteronterápia hatással lehet a hüvelyi szövetekre:

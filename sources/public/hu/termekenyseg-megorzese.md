@@ -17,6 +17,38 @@ slug: "termekenyseg-megorzese"
 
 A termékenység megőrzése egy olyan kérdés, amely gyakran felmerül a tranzíció kapcsán, és amely a partnereiddel együtt is felmerülhet témaként.
 
+<table>
+    <thead>
+        <tr>
+            <th>Szempont</th>
+            <th>Transz nők (AMAB)</th>
+            <th>Transz férfiak (AFAB)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Mit fagyasztanak</td>
+            <td>Spermium; vagy hereszövet (kísérleti)</td>
+            <td>Petesejt vagy embrió; vagy petefészekszövet (kísérleti)</td>
+        </tr>
+        <tr>
+            <td>Ideális időpont</td>
+            <td>A hormonterápia megkezdése előtt</td>
+            <td>A tesztoszteron megkezdése előtt</td>
+        </tr>
+        <tr>
+            <td>Hormon után lehetséges?</td>
+            <td>Nehezebb; a spermatermelésnek működnie kell</td>
+            <td>Igen, de le kell állítani a T-t és megvárni a menstruáció visszatérését</td>
+        </tr>
+        <tr>
+            <td>Későbbi felhasználás</td>
+            <td>IVF/ICSI cisz női partnerrel; férfi partnernél donor és béranya</td>
+            <td>IVF/ICSI donor spermával; férfi partnernél béranya</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Mintavételezés
 
 Ennek során ivarsejteket (spermiumokat, petesejteket) fagyasztanak le, hogy később újra felhasználhatók legyenek.

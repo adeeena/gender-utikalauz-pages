@@ -31,6 +31,33 @@ A nemi úton terjedő fertőzések (STI-k) ellen a legfontosabb védelem:
 * **Nyalókendő (dental dam)** orális szexnél.
 * **Rendszeres szűrés** STI-kre és HIV-re, különösen új partner esetén.
 
+<table>
+    <thead>
+        <tr>
+            <th>Védekezés</th>
+            <th>Mi ellen véd</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Óvszer</td>
+            <td>STI-k és HIV behatoló szexnél</td>
+        </tr>
+        <tr>
+            <td>Nyalókendő (dental dam)</td>
+            <td>STI-k orális szexnél</td>
+        </tr>
+        <tr>
+            <td>PrEP</td>
+            <td>HIV-fertőzés</td>
+        </tr>
+        <tr>
+            <td>Rendszeres szűrés</td>
+            <td>Korai felismerés, a továbbadás megelőzése</td>
+        </tr>
+    </tbody>
+</table>
+
 ## HIV és PrEP
 
 A HIV elleni védekezésben fontos eszköz a **PrEP** (expozíció előtti megelőzés), amely egy gyógyszeres megelőzési forma a HIV-fertőzés kockázatának csökkentésére. Ha úgy érzed, releváns lehet számodra, beszélj róla egy szakemberrel.
