@@ -1,7 +1,14 @@
 ---
 title: "Feminizáló hormonterápia alapjai"
-description: "Bevezető a feminizáló hormonterápiába."
+description: "A feminizáló HRT négy alapelve: a tesztoszteron blokkolása, az ösztradiol nőies szintre emelése, az alacsony dózissal kezdés és a progeszteron későbbi bevezetése."
 lang: hu
+keywords: "feminizáló hormonterápia alapjai, HRT, ösztradiol szint, tesztoszteron blokkolás, Tanner, progeszteron, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalo-hormonterapia-alapok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "feminizalo-hormonterapia-alapok"
 ---
 
 <div class="floating-columns">
@@ -195,4 +202,23 @@ Továbbá a tanulmányok arra utalnak, hogy a progeszteron nem szükséges a tra
 ➡️ [Reference ranges for blood tests](https://en.m.wikipedia.org/wiki/Reference_ranges_for_blood_tests) (Wikipedia)
 
 ➡️ [Trans Memo - hormonal follow-up for trans people - Android](https://play.google.com/store/apps/details?id=chrysalide.testomemo)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mennyire kell lecsökkenteni a tesztoszteronszintet a feminizáláshoz?
+
+A cél, hogy a teljes tesztoszteron a cisznői tartományba, körülbelül 0,15-0,55 ng/ml (0,5-1,9 nmol/l) közé kerüljön. Ez létfontosságú, mert a magas tesztoszteron blokkolja az ösztrogén hatását, így elegendő blokkolás nélkül nem történik feminizálás.
+
+### Mi a kivánt ösztradiolszint?
+
+Általában 60 és 200 pg/ml (körülbelül 220-730 pmol/l) között. A 60 pg/ml alacsony érték, inkább csak a HRT kezdetén ajánlott. Ha energiahiányt, libidócsökkenést vagy hangulati instabilitást tapasztalsz, az ösztrogénszinted lehet túl alacsony.
+
+### Miért kell alacsony dózissal kezdeni?
+
+Az alacsony kezdő dózis lehetővé teszi egy esetleges egészségügyi probléma időben történő észlelését, és időt ad a szervezetnek az alkalmazkodásra. Különösen 20 év alatt fontos kerülni a túl magas ösztrogénadagot, hogy ne álljon le hirtelen a csontfejlődés.
+
+### Miért csak később érdemes progeszteront szedni?
+
+A cisz pubertás során a progeszteron csak később, a mellfejlődés előrehaladott szakaszában jelenik meg. A túl korán megkezdett progeszteron korlátozhatja a végleges mellméretet, ezért sok orvos a HRT második évéig vagy a Tanner 3 stádiumig vár vele.
+
 </div>
