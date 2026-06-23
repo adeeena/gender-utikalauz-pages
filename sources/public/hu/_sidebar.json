@@ -51,6 +51,35 @@
     ]
   },
   {
+    "title": "🤝 Szövetségeseknek és hozzátartozóknak",
+    "children": [
+      {
+        "entryId": "hogyan-segithetek-a-transz-embereknek",
+        "title": "Hogyan segíthetek a transz embereknek?"
+      },
+      {
+        "entryId": "szerettem-transz-hogyan-segitsek",
+        "title": "A szerettem transz; hogyan segítsek?"
+      },
+      {
+        "entryId": "transz-gyermekem-van",
+        "title": "Transz gyermekem van"
+      },
+      {
+        "entryId": "nevmasok-megszolitas-deadname",
+        "title": "Névmások, megszólítás, deadname"
+      },
+      {
+        "entryId": "hogyan-viselkedjek-es-mit-ne-mondj",
+        "title": "Hogyan viselkedjek, mit ne mondj?"
+      },
+      {
+        "entryId": "szabad-e-elmondani-masnak",
+        "title": "Szabad-e elmondani másnak?"
+      }
+    ]
+  },
+  {
     "title": "🔍 Bizonytalanoknak",
     "children": [
       {
