@@ -1,7 +1,14 @@
 ---
-title: "✅Nebido"
-description: "Ismerd meg a ✅Nebido előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Nebido"
+description: "A Nebido (tesztoszteron-undekanoát) egy hosszú hatású tesztoszteron-injekció a maszkulinizáló hormonterápiában: adagolás, hatástartam, költségek és GYIK."
 lang: hu
+keywords: "Nebido, tesztoszteron undekanoát, tesztoszteron injekció, maszkulinizáló HRT, FTM, transznemű férfi, intramuszkuláris"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/nebido"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_skateboard.svg"
+slug: "nebido"
 ---
 
 <div class="floating-columns">
@@ -142,5 +149,24 @@ Egyeseknél a HRT egyes hatásai a normálisnak megfelelő hormonszintek ellené
 
 ➡️ [Steroid Calculator](https://steroidcalculator.com)
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Milyen gyakran kell beadni a Nebidot?
+
+A Nebido hosszú hatású, általában két-három havonta kell beadni. A pontos gyakoriságot a vér tesztoszteronszintje alapján az orvosoddal együtt érdemes beállítani.
+
+### Mi a különbség a Nebido és a rövidebb hatású tesztoszteron-injekciók között?
+
+A Nebido tesztoszteron-undekanoátot tartalmaz, amelynek nagyon hosszú a felezési ideje, így ritkább beadást igényel és stabilabb szintet adhat. A tesztoszteron-enantát (például a Testosteron Depot) rövidebb hatású, gyakrabban kell beadni, és nagyobb ingadozást okozhat.
+
+### Normális, hogy a beadás után ingadozik a közérzetem?
+
+Igen. A beadást követően tesztoszteroncsúcs alakulhat ki, a ciklus végére pedig a szint lecsökkenhet, ami a közérzetet is befolyásolhatja. Ha az ingadozás zavaró, beszélj orvosoddal az adagolás vagy a gyakoriság finomhangolásáról.
+
+## Források
+
+➡️ [Le sous-dosage de testostérone](https://hackmd.io/@biyokea/sous-dosage_testosterone)
+
+➡️ [Testosterone undecanoate - Wikipedia](https://en.wikipedia.org/wiki/Testosterone_undecanoate)
 
 </div>
