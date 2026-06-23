@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Public base URL where these crawlable pages are served (override per environment).
-const SITE_URL = (process.env.SITE_URL || 'https://gender-utikalauz-pages.vercel.app').replace(/\/+$/, '');
+const SITE_URL = (process.env.SITE_URL || 'https://genderutikalauz.hu').replace(/\/+$/, '');
 // Human-facing interactive single-page app (hash-routed).
 const APP_URL = (process.env.APP_URL || 'https://genderutikalauz.hu').replace(/\/+$/, '');
 const SITE_NAME = 'Gender Útikalauz';

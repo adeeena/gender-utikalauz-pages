@@ -4,10 +4,10 @@ description: "Érthető magyarázat arról, hogyan működnek a nemi hormonok: r
 lang: hu
 keywords: "hormonok, nemi hormonok, ösztrogén, tesztoszteron, receptor, kötési affinitás, agonista, antagonista, HPG-tengely, GnRH, LH, FSH, hormonterápia, HRT"
 author: "Montefiori Adéna Auróra"
-canonical: "https://gender-utikalauz-pages.vercel.app/cikk/hogyan-mukodnek-a-hormonok"
+canonical: "https://genderutikalauz.hu/cikk/hogyan-mukodnek-a-hormonok"
 datePublished: "2023-01-01"
 dateModified: "2026-06-23"
-image: "https://gender-utikalauz-pages.vercel.app/images/undraw_doctor.svg"
+image: "https://genderutikalauz.hu/images/undraw_doctor.svg"
 slug: "hogyan-mukodnek-a-hormonok"
 ---
 
