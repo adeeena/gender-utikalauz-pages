@@ -57,6 +57,43 @@ Az [interneten](https://www.noklapja.hu/szinkavalkad/2022/06/21/nyari-ruhak-amik
 
 A legtöbb transz nő V, H vagy O testalkatú. Sok transz nőnek vizuálisan „nőiesebben” kell kinéznie, hogy biztonságban érezze magát, vagy hogy segítsen a diszfóriáján.
 
+<table>
+    <thead>
+        <tr>
+            <th>Testalkat</th>
+            <th>Jellemző</th>
+            <th>Öltözködési tipp</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>V (széles váll, keskeny csípő)</td>
+            <td>A felsőtest hangsúlyos</td>
+            <td>Sötét felső, világosabb vagy színesebb alsó; a vállat hagyd szabadon</td>
+        </tr>
+        <tr>
+            <td>H (egyenes vonalak)</td>
+            <td>Kevés derékhajlat</td>
+            <td>Öv és réteges felsők a derék hangsúlyozására</td>
+        </tr>
+        <tr>
+            <td>O (kerekebb középrész)</td>
+            <td>Derék körüli teltség</td>
+            <td>A-vonalú szoknya, V-nyak, sötétebb középrész</td>
+        </tr>
+        <tr>
+            <td>X (homokóra)</td>
+            <td>Kiegyensúlyozott váll-csípő arány</td>
+            <td>A derék hangsúlyozása testhezálló darabokkal</td>
+        </tr>
+        <tr>
+            <td>A (keskeny váll, szélesebb csípő)</td>
+            <td>Az alsótest hangsúlyos</td>
+            <td>Világosabb felső, sötét alsó a kiegyensúlyozásért</td>
+        </tr>
+    </tbody>
+</table>
+
 A magas nők vagy a V alakú nők számára a passzolás fő kihívása az lesz, hogy nőiesítsék a felsőtestüket. Más szóval, hogy vékonyabbá, "hangsúlytalanabbá" tedd.
 
 A nyugati szépségideálok azt diktálják, hogy azok a nők, akiknek homokóra alakú a testük „a legszebbek” (vagy a legvonzóbbak a férfiak számára; *a szépségideálok alapvetően szexisták és ciszheteronormatívak*). Úgy, hogy a társadalomban minden nőies embertől elvárják, hogy homokóra alakú legyen.
