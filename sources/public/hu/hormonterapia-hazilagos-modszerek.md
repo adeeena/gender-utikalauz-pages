@@ -115,6 +115,82 @@ Az itt vagy nem szereplő források kockázatosak lehetnek. Rendelés leadása e
 ➡️ [RoidBazaar EU - Testosterone Cypionate II.](https://eu.roidbazaar.me/europe-domestic/testosterone-cypionate-250-1296/)
 
 
+## A fiola felépítése
+
+Az injekciós ösztradiol nem tiszta hormon: a hatóanyag egy olajos oldatban van feloldva, néhány segédanyaggal együtt. Ha tudod, mi van a fiolában, könnyebben megérted, miért sűrűbb vagy hígabb az egyik készítmény a másiknál, és miért okozhat némelyik több irritációt.
+
+<table>
+    <thead>
+        <tr>
+            <th>Összetevő</th>
+            <th>Szerepe</th>
+            <th>Megjegyzés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Vivőolaj</td>
+            <td>Feloldja az ösztradiolésztert, ebben adják be.</td>
+            <td>A ricinusolaj sűrű, de a legkevésbé irritáló; az MCT-olaj hígabb, könnyebben átfolyik vékony tűn, de inkább házi készítésű forrásokra jellemző.</td>
+        </tr>
+        <tr>
+            <td>Tartósítószer</td>
+            <td>Megőrzi a fiola sterilitását a felbontás után.</td>
+            <td>Jellemzően benzil-alkohol; gyógyszerészeti minőségű készítményben mindig jelen van.</td>
+        </tr>
+        <tr>
+            <td>Koszolvens (oldékonyságnövelő)</td>
+            <td>Segíti az észter feloldódását, csökkenti a viszkozitást.</td>
+            <td>Jellemzően benzil-benzoát; szubkután beadásnál enyhe irritációt okozhat.</td>
+        </tr>
+    </tbody>
+</table>
+
+## Hogyan ellenőrizz egy DIY forrást?
+
+Ha rákényszerülsz a házilagos beszerzésre, a forrás megbízhatóságának ellenőrzése a legfontosabb biztonsági lépés. Az alábbi szempontok segítenek megítélni egy forgalmazót.
+
+<table>
+    <thead>
+        <tr>
+            <th>Szempont</th>
+            <th>Mit nézz?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Közösségi visszajelzés</td>
+            <td>Mások tapasztalatai megbízható helyeken (r/TransDIY, hrt.coffee; tesztoszteronnál eroids.com).</td>
+        </tr>
+        <tr>
+            <td>Független laborteszt</td>
+            <td>Van-e harmadik fél által végzett tisztaság- és koncentrációvizsgálat a termékről.</td>
+        </tr>
+        <tr>
+            <td>Átláthatóság</td>
+            <td>Fel van-e tüntetve az összetevők és a pontos koncentráció (mg/ml).</td>
+        </tr>
+        <tr>
+            <td>Konzisztencia</td>
+            <td>Mások vérvizsgálati eredményei stabilak és a vártnak megfelelőek-e a készítménnyel.</td>
+        </tr>
+        <tr>
+            <td>Kommunikáció</td>
+            <td>A forgalmazó válaszol-e a kérdésekre, megbízhatóan kezeli-e a problémákat.</td>
+        </tr>
+        <tr>
+            <td>Csomagolás</td>
+            <td>Lezárt, steril fiola, olvasható címkével és sértetlen csomagolással érkezik-e.</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox warning">
+
+Bármilyen alapos is az ellenőrzés, a házilagos forrás mindig több kockázatot hordoz, mint a gyógyszerészeti minőségű, ellenőrzött készítmény. Amint lehet, a hormonszintjeidet ellenőriztesd [vérvizsgálattal](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok).
+
+</div>
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Illegális a házilagos (DIY) hormonterápia?
