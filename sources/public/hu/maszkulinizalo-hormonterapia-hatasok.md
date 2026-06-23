@@ -68,6 +68,139 @@ Bár a hormonok számos változást hoznak magukkal, azonban nem adnak mindenre 
 
 </div>
 
+## Mikor mi változik? Időbeli áttekintés
+
+A tesztoszteron hatásai fokozatosan jelennek meg. Az alábbi időzítés a nemzetközi szakmai irányelveken (Endocrine Society / Hembree és mtsai) alapul. A számok **átlagos tartományok**; a saját tempód ettől eltérhet, és nagyban függ a genetikádtól (nézd meg a családod cisz férfi tagjait).
+
+<figure>
+<svg viewBox="0 0 640 360" width="100%" role="img" aria-label="A maszkulinizáló hormonterápia hatásainak időbeli megjelenése">
+  <rect x="0" y="0" width="640" height="360" fill="#ffffff"/>
+  <!-- függőleges rácsvonalak -->
+  <line x1="210" y1="45" x2="210" y2="300" stroke="#ddd" stroke-width="1"/>
+  <line x1="242" y1="45" x2="242" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="275" y1="45" x2="275" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="340" y1="45" x2="340" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="470" y1="45" x2="470" y2="300" stroke="#eee" stroke-width="1"/>
+  <line x1="600" y1="45" x2="600" y2="300" stroke="#ddd" stroke-width="1"/>
+  <!-- idő feliratok -->
+  <text x="210" y="38" text-anchor="middle" font-size="11" fill="#888">0</text>
+  <text x="242" y="38" text-anchor="middle" font-size="11" fill="#888">3 hó</text>
+  <text x="275" y="38" text-anchor="middle" font-size="11" fill="#888">6 hó</text>
+  <text x="340" y="38" text-anchor="middle" font-size="11" fill="#888">1 év</text>
+  <text x="470" y="38" text-anchor="middle" font-size="11" fill="#888">2 év</text>
+  <text x="600" y="38" text-anchor="middle" font-size="11" fill="#888">3 év+</text>
+  <!-- sávok -->
+  <text x="200" y="64" text-anchor="end" font-size="12" fill="#333">Menstruáció megszűnése</text>
+  <rect x="232" y="54" width="43" height="14" rx="3" fill="#7d9bc7"/>
+  <text x="200" y="92" text-anchor="end" font-size="12" fill="#333">Zsíros bőr, pattanás</text>
+  <rect x="221" y="82" width="184" height="14" rx="3" fill="#7d9bc7"/>
+  <text x="200" y="120" text-anchor="end" font-size="12" fill="#333">Csikló megnagyobbodása</text>
+  <rect x="242" y="110" width="163" height="14" rx="3" fill="#2f4a7a"/>
+  <text x="200" y="148" text-anchor="end" font-size="12" fill="#333">Hangmélyülés</text>
+  <rect x="242" y="138" width="228" height="14" rx="3" fill="#2f4a7a"/>
+  <text x="200" y="176" text-anchor="end" font-size="12" fill="#333">Testzsír átrendeződése</text>
+  <rect x="242" y="166" width="358" height="14" rx="3" fill="#7d9bc7"/>
+  <text x="200" y="204" text-anchor="end" font-size="12" fill="#333">Izomtömeg növekedése</text>
+  <rect x="275" y="194" width="325" height="14" rx="3" fill="#7d9bc7"/>
+  <text x="200" y="232" text-anchor="end" font-size="12" fill="#333">Arc- és testszőrzet</text>
+  <rect x="275" y="222" width="325" height="14" rx="3" fill="#2f4a7a"/>
+  <text x="200" y="260" text-anchor="end" font-size="12" fill="#333">Hajritkulás (genetikai)</text>
+  <rect x="340" y="250" width="260" height="14" rx="3" fill="#4a6fa5"/>
+  <!-- tengely -->
+  <line x1="210" y1="300" x2="600" y2="300" stroke="#444" stroke-width="1.5"/>
+  <text x="405" y="322" text-anchor="middle" font-size="11" fill="#888">idő a kezelés kezdetétől</text>
+  <!-- jelmagyarázat -->
+  <rect x="210" y="334" width="12" height="12" rx="2" fill="#2f4a7a"/>
+  <text x="228" y="344" font-size="11" fill="#666">maradandó</text>
+  <rect x="320" y="334" width="12" height="12" rx="2" fill="#4a6fa5"/>
+  <text x="338" y="344" font-size="11" fill="#666">részben maradandó</text>
+  <rect x="470" y="334" width="12" height="12" rx="2" fill="#7d9bc7"/>
+  <text x="488" y="344" font-size="11" fill="#666">visszafordítható</text>
+</svg>
+<figcaption><i>A fő maszkulinizáló hatások megjelenése (a sáv kezdete = az első jelek, a sáv vége = a hatás kiteljesedése). Tájékoztató tartományok; egyénenként eltérhet. Forrás: Endocrine Society irányelvek (Hembree és mtsai), valamint <a href="http://ftm-transsexuel.info/">ftm-transsexuel.info</a>.</i></figcaption>
+</figure>
+
+A részletes tartományokat az alábbi táblázat foglalja össze:
+
+<table>
+    <thead>
+        <tr>
+            <th>Hatás</th>
+            <th>Kezdet</th>
+            <th>Teljes hatás</th>
+            <th>Maradandó a kezelés leállítása után?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Zsíros bőr, pattanások</td>
+            <td>1-6 hónap</td>
+            <td>1-2 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Menstruáció megszűnése</td>
+            <td>2-6 hónap</td>
+            <td>-</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Csikló megnagyobbodása</td>
+            <td>3-6 hónap</td>
+            <td>1-2 év</td>
+            <td><b>Igen</b></td>
+        </tr>
+        <tr>
+            <td>Hüvelyi szárazság, atrófia</td>
+            <td>3-6 hónap</td>
+            <td>1-2 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Testzsír átrendeződése</td>
+            <td>3-6 hónap</td>
+            <td>2-5 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Hangmélyülés</td>
+            <td>3-12 hónap</td>
+            <td>1-2 év</td>
+            <td><b>Igen</b></td>
+        </tr>
+        <tr>
+            <td>Izomtömeg és erő növekedése</td>
+            <td>6-12 hónap</td>
+            <td>2-5 év</td>
+            <td>Nem</td>
+        </tr>
+        <tr>
+            <td>Arc- és testszőrzet növekedése</td>
+            <td>6-12 hónap</td>
+            <td>4-5 év</td>
+            <td><b>Igen</b> (nagyrészt)</td>
+        </tr>
+        <tr>
+            <td>Halántéki hajritkulás, kopaszodás</td>
+            <td>&gt;12 hónap</td>
+            <td>változó (genetikai)</td>
+            <td>Részben</td>
+        </tr>
+        <tr>
+            <td>Termékenység csökkenése</td>
+            <td>változó</td>
+            <td>&gt;3 év</td>
+            <td><b>Gyakran igen</b> (lehet végleges)</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+A táblázat a <b>tipikus</b> időzítést mutatja, nem garanciát. A genetika, az életkor, a kezdő hormonszintek és az adagolás mind befolyásolják, mikor és milyen erősen jelennek meg a hatások.
+
+</div>
+
 ## A leggyakoribb hatások
 
 * A csikló hipertrófiája, neopénisz formájában (más néven "dicklit"). Ez általában az első adag után jelentkezik.
