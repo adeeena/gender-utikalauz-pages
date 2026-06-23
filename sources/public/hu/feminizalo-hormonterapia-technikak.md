@@ -124,6 +124,48 @@ A cikkben említett technikák:
 
 * 4. módszer: Powers módszer
 
+<table>
+    <thead>
+        <tr>
+            <th>Módszer</th>
+            <th>Hogyan nyomja el a tesztoszteront?</th>
+            <th>Fő előny</th>
+            <th>Fő hátrány / kockázat</th>
+            <th>Elismertség</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Ösztrogén + T-blokkoló</td>
+            <td>Külön T-blokkoló gyógyszer</td>
+            <td>A T és az E külön szabályozható</td>
+            <td>Könnyű aluladagolni az ösztrogént (hormonhiány)</td>
+            <td>Standard, legelterjedtebb</td>
+        </tr>
+        <tr>
+            <td>2. Ösztrogén monoterápia</td>
+            <td>Magas ösztradiol (antigonadotrop hatás)</td>
+            <td>Egyszerű, költséghatékony, nincs T-blokkoló</td>
+            <td>Magasabb ösztrogénszint, nagyobb trombóziskockázat</td>
+            <td>Növekvő, főleg injekcióval</td>
+        </tr>
+        <tr>
+            <td>3. Ösztrogén + progeszteron</td>
+            <td>Az E és a progeszteron együtthatása</td>
+            <td>Szorongásoldó hatás, „természetesebb"</td>
+            <td>A T-elnyomás emberenként nagyon változó</td>
+            <td>Az Endokrin Társaság nem ismeri el</td>
+        </tr>
+        <tr>
+            <td>4. Powers-módszer</td>
+            <td>Magas E (az ösztradiolt és az ösztront is figyeli)</td>
+            <td>A cisz pubertás lefutását próbálja utánozni</td>
+            <td>Vitatott, még nem publikált</td>
+            <td>Nem elismert, elméleti</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 1. módszer: Ösztrogén és T-blokkoló bevétele
 
 Manapság leggyakrabban felírt hormonpótló kezelés. Ezek T-blokkolók (amely blokkolja a tesztoszteron termelését) bevitelét jelentik az [ösztrogének](/#/entry?id=osztrogenek) mellett.
