@@ -71,6 +71,43 @@ A transz ("a másik oldalon" latinul) ellentéte a **cisz** ("ugyanazon az oldal
 
 Az interszexuális emberek olyan elsődleges és/vagy másodlagos nemi jellegzetességekkel születnek, amelyek nem tartoznak a nő és a férfi tipikus társadalmi és orvosi meghatározásába. Az interszexuális emberek lehetnek cisz vagy transz személyek. Az interszex egy biológiai állapot, míg a transz-identitás egy társadalmi állapot, tehát két különböző dologról van szó.
 
+<table>
+    <thead>
+        <tr>
+            <th>Fogalom</th>
+            <th>Meghatározás</th>
+            <th>Névmás, megjegyzés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Transz nő</td>
+            <td>Születésekor fiúnak jelölték, nőként azonosul</td>
+            <td>Nőnemű névmások</td>
+        </tr>
+        <tr>
+            <td>Transz férfi</td>
+            <td>Születésekor lánynak jelölték, férfiként azonosul</td>
+            <td>Hímnemű névmások</td>
+        </tr>
+        <tr>
+            <td>Nem bináris</td>
+            <td>Neme a bináris felfogáson kívül esik</td>
+            <td>Gyűjtőfogalom</td>
+        </tr>
+        <tr>
+            <td>Cisz</td>
+            <td>Aki azonosul a születéskor kapott nemével</td>
+            <td>A transz ellentéte</td>
+        </tr>
+        <tr>
+            <td>Interszex</td>
+            <td>Atipikus nemi jellegzetességekkel született</td>
+            <td>Biológiai állapot; lehet cisz vagy transz</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Honnan ered a transzneműség?
 
 Sokan igyekeznek **megérteni, hogy honnan es miért vannak transz emberek**. Hogyan történhetett ez? miért vagyok transz? miért transz a gyermekem? mit csinaltam rosszul? Mert a transzidentitás eredetének megértése hipotetikusan **megoldana egy problémát... ami nem probléma.**

@@ -51,6 +51,33 @@ Ha túl sokat sportolok, és nem pihenek eleget, nagyon szorongok és nyilvánva
 
 Néha pedig egyszerűen csak rossz napom van, és nem tudok rá okot találni.
 
+<table>
+    <thead>
+        <tr>
+            <th>Lehetséges ok</th>
+            <th>Mit tehetsz</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Alváshiány</td>
+            <td>Pótold az alvást; már napi 1 órával kevesebb is ronthatja a hangulatot</td>
+        </tr>
+        <tr>
+            <td>Túlzásba vitt testmozgás</td>
+            <td>Pihenj eleget; a túledzés megemeli a kortizolszintet</td>
+        </tr>
+        <tr>
+            <td>Hormonváltozások</td>
+            <td>A HRT bármilyen változása heteken át hangulatingadozást okozhat</td>
+        </tr>
+        <tr>
+            <td>Alkohol és egészségtelen ételek</td>
+            <td>Mérsékeld; rontják az alvást és a hangulatot</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Diszfória leküzdése transzmaszkulin személyek számára
 
 A diszfória rövid vagy hosszú távú kényelmetlenség, elégedetlenség és nehézségek megtapasztalása, amely a saját nemi identitás és a születéskor hozzárendelt nem különbözőségéből fakad.
