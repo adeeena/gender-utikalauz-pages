@@ -53,6 +53,43 @@ BEVEZETŐ
 
 A legtöbb transz nő lézerrel vagy elektrolízissel végzi el a tartós szőrtelenítést. Ezek a technikák drágák lehetnek; kezelésenként akár közel 30-50 ezer forint.
 
+<table>
+    <thead>
+        <tr>
+            <th>Szempont</th>
+            <th>Lézer</th>
+            <th>Elektrolízis</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Hogyan működik</td>
+            <td>Fény célozza a szőr pigmentjét</td>
+            <td>Tűvel, szálanként roncsolja a szőrtüszőt</td>
+        </tr>
+        <tr>
+            <td>Sebesség</td>
+            <td>Gyors, nagy területeken</td>
+            <td>Lassú, szálanként</td>
+        </tr>
+        <tr>
+            <td>Véglegesség</td>
+            <td>Tartós csökkenés, de nem mindig végleges</td>
+            <td>Az egyetlen ténylegesen végleges módszer</td>
+        </tr>
+        <tr>
+            <td>Szőrtípus</td>
+            <td>Főleg sötét szőrön hat</td>
+            <td>A világos és ősz szőrre is hat</td>
+        </tr>
+        <tr>
+            <td>Költség</td>
+            <td>Kezelésenként alacsonyabb</td>
+            <td>Összességében drágább, több ülés kell</td>
+        </tr>
+    </tbody>
+</table>
+
 Addig is, vagy ezzel párhuzamosan elrejtheted a szakállad és a bajszod helyét sminkkel. Szuper hatásos tud lenni!
 
 
