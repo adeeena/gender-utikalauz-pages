@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "1950-2010: a transz társadalmi és támogató hálózatok formalizálják az "tranzíció útját"."
+title: "Transz történelem: a támogató hálózatok kora (1950-2010)"
+description: "1950-2010: hogyan formalizálták a transz társadalmi és támogató hálózatok a tranzíció útját; Harry Benjamin, Christine Jorgensen és az interkontinentális önsegítő hálózatok."
 lang: hu
+keywords: "Harry Benjamin, Christine Jorgensen, transzszexualizmus, transz önsegítő hálózat, Reed Erikson, tranzíció története"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem-xx-szazad"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem-xx-szazad"
 ---
 
 <div class="floating-columns">
@@ -62,6 +69,20 @@ A transz műtétek kaliforniai és még inkább az Egyesült Államokban törté
   
 A beteg és az orvos közötti összetett kapcsolat már az első, 1912-es sebészeti beavatkozás óta kialakulóban volt, amelyet a beteg kezdeményezésére végeztek, és nem Hirschfeld javasolta kezelésként. Az azonban, hogy a transz emberek maguk kezükbe vették orvosi és sebészeti pályafutásuk irányítását, új dimenziót kapott az önsegélyező egyesületek és postai hálózatok, valamint a szociális segítő központok megjelenésével. Az Egyesült Államokban a Susan Stryker által vizsgált számos önsegítő hálózat közül a legfontosabb talán az volt, amely Reed Erikson (1917-1992), a milliomos filantróp és transz férfi ösztönzésére jött létre. Erikson 1963-ban kezdte meg hormonterápiáját, miután megörökölt néhány elektronikai céget. Több alapítványt finanszírozott, amelyek a népnevelés, az orvosi projektek finanszírozása, a transz emberek anyagi támogatása és a politikai befolyásolás erőteljes eszközei voltak. Az Erikson Oktatási Alapítvány, az Emberi Erőforrások Tanulmányozásának Intézete és a ONE Intézet együttes munkája hozta létre azt az "orvosi, jogi és pszichoterápiás intézményi keretet, amely [az Egyesült Államokban] negyven éve strukturálja a transzkérdéseket". 
   
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Ki vezette be a "transzszexualizmus" kifejezést?
+
+Harry Benjamin orvos, Hirschfeld régi barátja javasolta elsőként a "transzszexualizmus" kifejezést, és elhatárolta a kategóriát a szexuális orientációtól. Ő a hormonális tranzíciót hatékony kezelésként védte pácienseinek.
+
+### Miért utaztak a transz emberek Európába műtétre?
+
+Mivel a nemi átalakító műtéteket az 1949-es kaliforniai ítélet után az Egyesült Államokban betiltották (csonkításnak minősítve), a kérelmezők Európába utaztak. Ez hozta létre az első interkontinentális transz önsegítő hálózatot.
+
+### Ki volt Christine Jorgensen?
+
+Christine Jorgensen New York-i transz nő volt, akinek 1952-es dániai vaginoplasztikája az amerikai média egyik legtöbbet tárgyalt története lett, és a transz létezést széles nyilvánosság elé vitte az Egyesült Államokban.
 
 ## Forrás
 
