@@ -143,6 +143,34 @@ Ugyanígy, ha nem veszünk be anti-androgént és csak ösztrogén monoterápiá
 
 [Összefoglaló a cisz nők ösztrogénszintjeiről.](/#/entry?id=feminizalo-hormonterapia-gyik)
 
+<table>
+    <thead>
+        <tr>
+            <th>Hormon</th>
+            <th>Transz nő céltartománya</th>
+            <th>Összehasonlítás</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tesztoszteron (teljes)</td>
+            <td>0,15-0,55 ng/mL (0,5-1,9 nmol/L)</td>
+            <td>cisz férfi: 2,5-10 ng/mL</td>
+        </tr>
+        <tr>
+            <td>Ösztradiol</td>
+            <td>60-200 pg/mL (220-730 pmol/L)</td>
+            <td>cisz nő (felnőtt): 40-400 pg/mL</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="infobox info">
+
+A táblázat tájékoztató jellegű; a konkrét céltartományt mindig az orvosoddal egyeztetve, az egészségi állapotod alapján határozzátok meg.
+
+</div>
+
 
 ## Fontosabb elvek
 

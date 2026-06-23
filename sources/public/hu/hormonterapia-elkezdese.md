@@ -59,6 +59,28 @@ Feminizáló hormonkezelést az alábbi orvosok rendelhetnek el:
 
 Általában ezek a szakemberek azok, akik a vérvizsgálat után képesek hormonkezelést előírni.
 
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Maszkulinizáló (tesztoszteron)</th>
+            <th>Feminizáló (ösztrogén)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Első recept</b></td>
+            <td>szakorvos: endokrinológus, nőgyógyász, urológus</td>
+            <td>háziorvos, endokrinológus, nőgyógyász, urológus</td>
+        </tr>
+        <tr>
+            <td><b>Háziorvos szerepe</b></td>
+            <td>általában csak a recept megújítása</td>
+            <td>felírhatja és megújíthatja</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### Megfelelő szakember keresése
 
