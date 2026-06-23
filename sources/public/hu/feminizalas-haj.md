@@ -1,7 +1,14 @@
 ---
 title: "Haj - Női passing"
-description: "Haj és passing: A haj fontossága a transz nők életében. Kopaszodás, tranzíció és passing. Hasznos tippek a megjelenés kialakításához. 💇‍♀️✨"
+description: "A haj szerepe a női passingban: a férfias hajvonal és hajhullás kezelése, pajesz, hajnövesztés, frizuraválasztás és paróka."
 lang: hu
+keywords: "haj, női passing, hajvonal, kopaszodás, hajnövesztés, pajesz, frizura, paróka, transznemű nő, ricinusolaj"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/feminizalas-haj"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_feeling_of_joy.svg"
+slug: "feminizalas-haj"
 ---
 
 <div class="floating-columns">
@@ -126,5 +133,23 @@ Használhatsz olyan sminket, ami vékonyabbá teszi az arcodat (kontúrozás), j
 ## Források
 
 ➡️ [wikitrans.co](https://wikitrans.co)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Vissza tudja növeszteni a hajamat a feminizáló hormonkezelés?
+
+A feminizáló hormonkezelés megállítja a férfias típusú hajhullást, és segíthet a megállítás előtti hónapokban elvesztett haj részleges visszanövesztésében. A már teljesen kopasz területeket azonban általában nem növeszti vissza.
+
+### Hogyan rejthetem el a férfias hajvonalat?
+
+Bizonyos frizurák jól elrejtik a halántéknál visszahúzódó hajvonalat, például az oldalra vagy homlokba fésült tincsek. A fül előtti pajeszt érdemes kerülni, mert a nőies haj ívben, a fülek mögött nő.
+
+### Mennyi ideig tart megnöveszteni a hajat?
+
+A hajnövesztés időbe telik, és el kell viselni egy átmeneti, kevésbé szép fázist. Érdemes 6-12 hónapig kerülni a fodrászt, ritkábban mosni a hajat és hidratálni, például [ricinusolajjal](/#/entry?id=ricinusolaj).
+
+### Mit tehetek, ha rövid hajat szeretnék, de passing akarok maradni?
+
+Rövid hajnál más eszközökkel erősítheted a nőies összképet: kontúrozó sminkkel keskenyebbnek mutathatod az arcod, viselhetsz feltűnő fülbevalót vagy hangsúlyosan nőies felsőt. Ha vastagabb az arcod, a rövid haj viszont nehezítheti a passinget.
 
 </div>
