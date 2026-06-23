@@ -1,7 +1,14 @@
 ---
-title: "😐Androgel"
-description: "Ismerd meg az 😐Androgel előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Androgel"
+description: "Az Androgel egy transzdermális tesztoszteron-gél a maszkulinizáló hormonterápiában: alkalmazás, adagolás, költségek, előnyök és GYIK."
 lang: hu
+keywords: "Androgel, Testogel, tesztoszteron gél, transzdermális tesztoszteron, maszkulinizáló HRT, FTM, transznemű férfi"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/androgel"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_businessman.svg"
+slug: "androgel"
 ---
 
 <div class="floating-columns">
@@ -112,5 +119,22 @@ Egyeseknél a HRT egyes hatásai a normálisnak megfelelő hormonszintek ellené
 
 </div>
 
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mi a különbség az Androgel és a tesztoszteron-injekció között?
+
+Az Androgel egy bőrre kent gél, amelyet naponta kell alkalmazni és stabilabb, de gyakran enyhébb tesztoszteronszintet ad. Az injekciókat ritkábban kell beadni, és általában olcsóbbak és erősebb hatásúk, ezért sokan viszonylag gyorsan áttérnek rájuk.
+
+### Kinek ajánlott az Androgel?
+
+Jó választás lehet a HRT elkezdéséhez, vagy azoknak, akik enyhébb, fokozatosabb maszkulinizálást szeretnének, illetve akik tartanak az injekcióktól. A magasabb költség miatt azonban hosszú távon sokak számára az injekció gazdaságosabb.
+
+### Átadható a gél érintéssel másoknak?
+
+Igen. A frisséként felkent gél bőrkontaktussal másokra (például gyerekekre vagy partnerre) is átkerülhet. Ezért fontos, hogy a felviteli felületet ruhával takard, és a felviteli hely teljesen száradjon meg, mielőtt bárkivel érintkeznél.
+
+## Források
+
+➡️ [Testosterone gel - Wikipedia](https://en.wikipedia.org/wiki/Testosterone_(medication))
 
 </div>
