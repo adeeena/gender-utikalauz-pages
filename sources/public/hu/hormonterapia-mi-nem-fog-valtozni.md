@@ -1,7 +1,14 @@
 ---
 title: "Hormonterápia: mi nem fog megváltozni?"
-description: "Mik azok a dolgok, amik nem fognak megváltozni a hormonterápia hatására?"
+description: "Mit nem változtat meg a hormonterápia: testképi problémák, személyiség, társadalmi elfogadás, magasság, hang és a születés előtt kialakult jellemzők."
 lang: hu
+keywords: "hormonterápia korlátai, mit nem változtat a HRT, testkép, hang, magasság, transznemű, reális elvárások"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/hormonterapia-mi-nem-fog-valtozni"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_coolness.svg"
+slug: "hormonterapia-mi-nem-fog-valtozni"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_coolness.svg" /></div>
@@ -42,3 +49,21 @@ Attól függően, hogy hogyan élsz szexuális életet, lehet, hogy meg kell fon
 ➡️ [Hormones: A guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf)
 
 ➡️ [Hormones: A guide for MTFs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_MTF.pdf)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Megváltoztatja a feminizáló hormonterápia a hangomat?
+
+Nem. A feminizáló hormonterápia nem változtatja meg a hangmagasságot vagy a beszédmintát, mert a tesztoszteron által már kialakult hangszálváltozások visszafordíthatatlanok. A nőiesebb hangot [hangfeminizációs gyakorlással](/#/entry?id=feminizalas-hangfeminizacio) lehet elérni.
+
+### Csökkenti a HRT a magasságot vagy a kéz- és lábméretet?
+
+Bár a testzsír átrendeződése miatt finom változások előfordulhatnak, a magasság és a végtagok csontváza nem csökken érdemben, és nincs olyan kezelés, amely ezt megtenné. Ezek a születés előtt és a pubertás során már kialakult jellemzők.
+
+### Megszünteti a hormonterápia a depressziót és a testképi problémákat?
+
+A HRT sokak diszfóriáját és az abból eredő depressziót enyhíti, de nem old meg minden testképi vagy mentális problémát. Ha a nehézségeket más tényezők (biológiai okok, transzfóbia okozta stressz, megoldatlan személyes problémák) okozzák, azokon érdemes terapeutával vagy támogatással is dolgozni.
+
+### Eltávolítja a HRT az arc- és testszőrzetet?
+
+A feminizáló HRT lassítja és ritkítja a szőrnövekedést, de nem tünteti el teljesen a szőrzetet. A tartós szőrtelenítéshez lézeres kezelésre vagy elektrolízisre van szükség.
