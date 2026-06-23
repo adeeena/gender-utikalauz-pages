@@ -1,7 +1,14 @@
 ---
-title: "Transz történelem"
-description: "A nemek közötti átjárás az ókortól napjainkig"
+title: "Transz történelem: a nemek közötti átjárás az ókortól napjainkig"
+description: "A transz és nem bináris létezés nem modern találmány: áttekintő a nemek közötti átjárás történetéről az ókortól napjainkig, fejezetekre bontva."
 lang: hu
+keywords: "transz történelem, nem bináris történelem, LMBTQ történelem, transzneműség története, nemi fluiditás, transz ókor"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/transz-tortenelem"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_moving.svg"
+slug: "transz-tortenelem"
 ---
 
 <div class="floating-columns">
