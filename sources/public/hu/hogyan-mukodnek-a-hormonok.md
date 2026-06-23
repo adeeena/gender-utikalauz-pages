@@ -103,7 +103,7 @@ Végül a nemi hormonok jelenléte a szervezetben korlátozza a GnRH, <a href="h
 
 **A hormonok HRT-n keresztül történő bevezetése megváltoztatja ezt az egyensúlyt, és lehetővé teszi, hogy a szervezet megszüntesse a nemi hormonok természetes termelését.**
 
-<div class="content-image"><img src="assets/images/Hypothalamic–pituitary–gonadal_axis.svg.png" /></div>
+<div class="content-image"><img src="assets/images/Hypothalamic-pituitary-gonadal_axis.svg.png" /></div>
 
 
 [Kép forrása](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis)

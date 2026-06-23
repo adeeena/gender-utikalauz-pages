@@ -11,7 +11,7 @@ lang: hu
 <div class="infobox podcast-episode">
 <h5>🔊 Kapcsolódó podcast-epizód</h5>
 	
-[Egy Transz Podcast 1×02 – Honnan tudom, hogy ez nem csak egy fétis vagy valami múló tévképzet?](https://1tpc.hu/2022/06/15/etpc-1x02-honnan-tudom-hogy-ez-nem-csak-egy-fetis-vagy-valami-mulo-tevkepzet/)
+[Egy Transz Podcast 1×02; Honnan tudom, hogy ez nem csak egy fétis vagy valami múló tévképzet?](https://1tpc.hu/2022/06/15/etpc-1x02-honnan-tudom-hogy-ez-nem-csak-egy-fetis-vagy-valami-mulo-tevkepzet/)
 
 </div>
 

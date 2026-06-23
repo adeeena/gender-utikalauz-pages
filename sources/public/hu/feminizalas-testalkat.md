@@ -52,7 +52,7 @@ A legtöbb transz nő V, H vagy O testalkatú. Sok transz nőnek vizuálisan „
 
 A magas nők vagy a V alakú nők számára a passzolás fő kihívása az lesz, hogy nőiesítsék a felsőtestüket. Más szóval, hogy vékonyabbá, "hangsúlytalanabbá" tedd.
 
-A nyugati szépségideálok azt diktálják, hogy azok a nők, akiknek homokóra alakú a testük „a legszebbek” (vagy a legvonzóbbak a férfiak számára – *a szépségideálok alapvetően szexisták és ciszheteronormatívak*). Úgy, hogy a társadalomban minden nőies embertől elvárják, hogy homokóra alakú legyen.
+A nyugati szépségideálok azt diktálják, hogy azok a nők, akiknek homokóra alakú a testük „a legszebbek” (vagy a legvonzóbbak a férfiak számára; *a szépségideálok alapvetően szexisták és ciszheteronormatívak*). Úgy, hogy a társadalomban minden nőies embertől elvárják, hogy homokóra alakú legyen.
 
 Ez a szabvány még problémásabb, ha figyelembe vesszük, hogy a homokóra forma valójában a legkevésbé elterjedt testforma. Ennek ellenére érthető, hogy mindannyian ennek a társadalomnak a részei vagyunk, és bizonyos mértékig úgy akarunk kinézni, mint a nők az arckrémreklámokban. Persze ez sokaknak nem lehetséges, még a legtöbb cisz nőnek sem. De ez nem baj, mert a megjelenésünkre is nagy befolyást tudunk gyakorolni a ruháinkkal.
 

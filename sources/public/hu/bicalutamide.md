@@ -258,31 +258,31 @@ A számítási szabály az, hogy 1 mg bicalutamide 4ng/dl összes tesztoszteront
 
 **Általános információk a bicalutamide-dal kapcsolatban**
 
-➡️ [Bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide)
+➡️ [Bicalutamide; Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide)
 
-➡️ [Medical uses of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide)
+➡️ [Medical uses of bicalutamide; Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide)
 
-➡️ [Side effects of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
+➡️ [Side effects of bicalutamide; Wikipedia](https://en.wikipedia.org/wiki/Side_effects_of_bicalutamide)
 
-➡️ [Pharmacology of bicalutamide – Wikipedia](https://en.wikipedia.org/wiki/Pharmacology_of_bicalutamide)
+➡️ [Pharmacology of bicalutamide; Wikipedia](https://en.wikipedia.org/wiki/Pharmacology_of_bicalutamide)
 
-➡️ [Comparison of bicalutamide with other antiandrogens – Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_bicalutamide_with_other_antiandrogens)
+➡️ [Comparison of bicalutamide with other antiandrogens; Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_bicalutamide_with_other_antiandrogens)
 
 ➡️ [FAQ a transfemscience.org által](https://transfemscience.org/articles/bica-faq/)
 
 **A bicalutamide-dal (és más nem szteroid antiandrogénekkel) kapcsolatos információkat tartalmazó cikkek transznemű nőknél:**
 
-➡️ [Medical uses of bicalutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy)
+➡️ [Medical uses of bicalutamide § Transgender hormone therapy; Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Transgender_hormone_therapy)
 
-➡️ [Transgender hormone therapy (male-to-female) § Nonsteroidal antiandrogens – Wikipedia](https://cutt.ly/bwU2kmZP)
+➡️ [Transgender hormone therapy (male-to-female) § Nonsteroidal antiandrogens; Wikipedia](https://cutt.ly/bwU2kmZP)
 
-➡️ [Flutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Flutamide#Transgender_hormone_therapy)
+➡️ [Flutamide § Transgender hormone therapy; Wikipedia](https://en.wikipedia.org/wiki/Flutamide#Transgender_hormone_therapy)
 
-➡️ [Nilutamide § Transgender hormone therapy – Wikipedia](https://en.wikipedia.org/wiki/Nilutamide#Skin_conditions)
+➡️ [Nilutamide § Transgender hormone therapy; Wikipedia](https://en.wikipedia.org/wiki/Nilutamide#Skin_conditions)
 
 **Cikkek a korai pubertáskorban lévő fiúknál alkalmazott bicalutamide-ra vonatkozó információkkal (potenciálisan releváns a bicalutamide pubertásgátlóként való alkalmazása szempontjából serdülő transznemű lányoknál):**
 
-➡️ [Medical uses of bicalutamide § Male early puberty – Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Male_early_puberty)
+➡️ [Medical uses of bicalutamide § Male early puberty; Wikipedia](https://en.wikipedia.org/wiki/Medical_uses_of_bicalutamide#Male_early_puberty)
 
 **Tudományos cikkek**
 
@@ -296,9 +296,9 @@ A számítási szabály az, hogy 1 mg bicalutamide 4ng/dl összes tesztoszteront
 
 **Szakirodalmi áttekintések**
 
-➡️ [Bicalutamide § Further reading – Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide#Further_reading)
+➡️ [Bicalutamide § Further reading; Wikipedia](https://en.wikipedia.org/wiki/Bicalutamide#Further_reading)
 
-➡️ [Bicalutamide / Nonsteroidal Antiandrogens – PubMed](https://goo.gl/dF3gz8) (filter search results by « Review » in the left-hand column)
+➡️ [Bicalutamide / Nonsteroidal Antiandrogens; PubMed](https://goo.gl/dF3gz8) (filter search results by « Review » in the left-hand column)
 
 ## DIY beszerzési források
 

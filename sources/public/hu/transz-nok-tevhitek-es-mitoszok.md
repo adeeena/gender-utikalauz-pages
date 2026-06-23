@@ -173,7 +173,7 @@ A transzneműek jogaiért folytatott küzdelmek elleni visszahatást ezért egy 
 
 ➡️ [Disrupting Anti-Trans Feminist Advocacy: An Interactive Training. Vimeo, 2020](https://vimeo.com/443535988)
 
-➡️ [A Room Of Their Own – How Anti-Trans Feminists Are Complicit in Christian Right Anti-Trans Advocacy. 2020](https://www.politicalresearch.org/2020/07/14/room-their-own)
+➡️ [A Room Of Their Own; How Anti-Trans Feminists Are Complicit in Christian Right Anti-Trans Advocacy. 2020](https://www.politicalresearch.org/2020/07/14/room-their-own)
 
 ➡️ [Julia Serano, Debunking “Trans Women Are Not Women” Arguments. Medium, 2017](https://medium.com/@juliaserano/debunking-trans-women-are-not-women-arguments-85fd5ab0e19c)
 

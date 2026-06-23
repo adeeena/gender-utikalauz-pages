@@ -41,7 +41,7 @@ KAPCSOLÓDÓ KIADVÁNYOK
 <div class="infobox podcast-episode">
 <h5>🔊 Kapcsolódó podcast-epizód</h5>
 	
-[Egy Transz Podcast 2×06 – Arcművészet I. Rész – Deluxe Szédülés](https://1tpc.hu/2023/09/29/etpc-2x06-arcmuveszet-i-resz-deluxe-szedules/)
+[Egy Transz Podcast 2×06; Arcművészet I. Rész; Deluxe Szédülés](https://1tpc.hu/2023/09/29/etpc-2x06-arcmuveszet-i-resz-deluxe-szedules/)
 
 </div>
 

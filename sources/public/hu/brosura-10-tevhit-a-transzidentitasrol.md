@@ -35,11 +35,11 @@ Szülőként az az egyik feladatod, hogy megadj a gyermekednek minden lehetősé
 * Honnan ered a transzneműség?
 * Néhány definíció
 * Hogy néznek ki a transz emberek?
-* 1 – "El fogom veszíteni a fiamat / lányomat"
+* 1; "El fogom veszíteni a fiamat / lányomat"
 * 2 - "Mi lenne, ha csak nőiesebbé/férfiasabbá válnál?"
 * 3 - "Mi van, ha csak meleg lennél?"
-* 4 – "De te soha nem mutattad semmi jelét ennek!”
-* 5 – "Ez majd elmúlik"
+* 4; "De te soha nem mutattad semmi jelét ennek!”
+* 5; "Ez majd elmúlik"
 * 6 - "Soha nem fogsz úgy kinézni, mint egy férfi / nő"
 * 7 - "Túl fiatal/öreg vagy ahhoz, hogy belevágj"
 * 8 - "De nem lehetsz transz ÉS meleg egyszerre az új nemedben, ilyen nincs!"

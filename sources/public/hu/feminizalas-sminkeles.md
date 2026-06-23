@@ -68,7 +68,7 @@ A szemceruza egy ecset, ceruza vagy filctoll, amelyet a szem körüli vonalak fe
 
 A vonal helyes felviteléhez némi gyakorlásra van szükség, de továbbra is az egyik legegyszerűbben használható sminkeszköz. Egy kis gyakorlással pillanatok alatt diszkréten fel lehet vinni a szemsminket.
 
-➡️ [Viszkok Fruzsi – cicaszem tusvonal](https://www.youtube.com/watch?v=I0I4g9pU7cc)
+➡️ [Viszkok Fruzsi; cicaszem tusvonal](https://www.youtube.com/watch?v=I0I4g9pU7cc)
 
 ### Szemhéjfesték
 

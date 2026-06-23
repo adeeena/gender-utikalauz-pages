@@ -151,11 +151,11 @@ Egyesek képesek az ösztradiol monoterápiás kezelést transzdermális ösztro
 
 Kezdetekben ez volt a transznemű nők számára létező első típusú hormonpótló kezelés. Akkoriban nem bio-azonos ösztrogéneket használtak, hanem összekapcsolt ösztrogéneket, mint a Premarin, amelyek rendkívül veszélyesek voltak az egészségre, és ez vezetett az anti-androgénekkel kiegészített hormonpótló kezelések kifejlesztéséhez a kockázatok csökkentése érdekében.
 
-***Forrás a Premarin veszélyeiről:** Bińkowska M (October 2014). « Menopausal hormone therapy and venous thromboembolism ». PRZ Menopauzalny. 13 (5): 267–72. doi:10.5114/pm.2014.46468. PMC 4520375. PMID 26327865.*
+***Forrás a Premarin veszélyeiről:** Bińkowska M (October 2014). « Menopausal hormone therapy and venous thromboembolism ». PRZ Menopauzalny. 13 (5): 267-72. doi:10.5114/pm.2014.46468. PMC 4520375. PMID 26327865.*
 
-***Forrás a Premarin veszélyeiről:** Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25–31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
+***Forrás a Premarin veszélyeiről:** Smith NL, Blondon M, Wiggins KL, Harrington LB, van Hylckama Vlieg A, Floyd JS, Hwang M, Bis JC, McKnight B, Rice KM, Lumley T, Rosendaal FR, Heckbert SR, Psaty BM (January 2014). « Lower risk of cardiovascular events in postmenopausal women taking oral estradiol compared with oral conjugated equine estrogens ». JAMA Intern Med. 174 (1): 25-31. doi:10.1001/jamainternmed.2013.11074. PMC 4636198. PMID 24081194.*
 
-***Forrás a Premarin veszélyeiről:** Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581–7.*
+***Forrás a Premarin veszélyeiről:** Smith NL, Heckbert SR, Lemaitre RN, Reiner AP, Lumley T, Weiss NS, Larson EB, Rosendaal FR, Psaty BM (October 2004). « Esterified estrogens and conjugated equine estrogens and the risk of venous thrombosis ». JAMA. 292 (13): 1581-7.*
 
 **Forrás, hogy a Premarin veszélyesebb az ösztradiolnál:** ➡️ [Kockázat trombózis kialakulására](https://en.wikipedia.org/wiki/Template:Risk_of_venous_thromboembolism_with_hormone_therapy_and_birth_control_pills_(QResearch/CPRD))
 

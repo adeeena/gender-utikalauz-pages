@@ -55,7 +55,7 @@ Feminizáló hormonkezelést az alábbi orvosok rendelhetnek el:
 
 ### Megfelelő szakember keresése
 
-A legtöbb szakember (pszichiáterek, endokrinológusok, háziorvosok, nőgyógyászok...) nem rendelkezik a szükséges képzéssel ahhoz, hogy transznemű és/vagy nem bináris betegeket lásson el – kivéve, ha képzésük olyan időszakból származik, amikor a transzidentitást mentális betegségként kezelték, például.
+A legtöbb szakember (pszichiáterek, endokrinológusok, háziorvosok, nőgyógyászok...) nem rendelkezik a szükséges képzéssel ahhoz, hogy transznemű és/vagy nem bináris betegeket lásson el; kivéve, ha képzésük olyan időszakból származik, amikor a transzidentitást mentális betegségként kezelték, például.
 
 <!-- todo adena to complete -->
 

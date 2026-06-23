@@ -58,7 +58,7 @@ A diszfória az enyhe kényelmetlenségtől a szélsőséges kényelmetlenségig
 
 A mentális egészség az minden egyes ember életének egyik fő területe. A transzidentitás nem feltétlenül jár mentális egészségügyi problémákkal, de a statisztikák azt mutatják, hogy a transz emberek általában sokkal hajlamosabbak a depresszióra, a szorongásra, az önpusztító viselkedésre, a szerhasználatra, az étkezési zavarokra stb.
 
-Téves lenne azt a következtetést levonni, hogy a transz embereknek több mentális egészségügyi problémájuk van, miután az átállás mellett döntenek. Valójában ez fordítva is igaz – a transz emberek, még mielőtt megértenék önmagukat, már sok (érthető vagy nem érthető) nehézséget és szenvedést halmoznak fel, amelyek azzal kapcsolatosak, hogy a tényleges nemüktől eltérő nemet élnek (vagy elvárják tőle).
+Téves lenne azt a következtetést levonni, hogy a transz embereknek több mentális egészségügyi problémájuk van, miután az átállás mellett döntenek. Valójában ez fordítva is igaz; a transz emberek, még mielőtt megértenék önmagukat, már sok (érthető vagy nem érthető) nehézséget és szenvedést halmoznak fel, amelyek azzal kapcsolatosak, hogy a tényleges nemüktől eltérő nemet élnek (vagy elvárják tőle).
 
 Ezek bár az alapok, de a felgyülemlett erőszakot nem tarthatod meg magadnak, különben hosszú távon összeomlasz. Meg kell szabadulnod tőle, de egészséges módon. Vannak, akik sportolnak, mások lerajzolják a gondolataikat... Javaslom, hogy vezess kezdetnek naplót...
 

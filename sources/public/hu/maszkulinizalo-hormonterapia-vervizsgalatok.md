@@ -134,7 +134,7 @@ Ha még nem változtattad meg a személyin a nemedet, akkor a vérvizsgálatos p
 
 ## Mennyi legyen a teljes tesztoszteron (T) értékem?
 
-Az Endokrin Társaság 2017-es, a transznemű HRT-re vonatkozó klinikai irányelvei azt javasolják, hogy a transz férfiak tartsák fenn a „tesztoszteronszintet a fiziológiás normál férfi tartományban”, ezt a tartományt általában **300–1000 ng/dl-ben adják meg** ([Tesztoszteron mértékegységváltó (kalkulátor)](#/tesztoszteron-kalkulator)). Valamivel magasabb vagy alacsonyabb tesztoszteronszint felett vagy alatt nem kell aggódni, kivéve, ha az ösztradiol szinted is túl magas.
+Az Endokrin Társaság 2017-es, a transznemű HRT-re vonatkozó klinikai irányelvei azt javasolják, hogy a transz férfiak tartsák fenn a „tesztoszteronszintet a fiziológiás normál férfi tartományban”, ezt a tartományt általában **300-1000 ng/dl-ben adják meg** ([Tesztoszteron mértékegységváltó (kalkulátor)](#/tesztoszteron-kalkulator)). Valamivel magasabb vagy alacsonyabb tesztoszteronszint felett vagy alatt nem kell aggódni, kivéve, ha az ösztradiol szinted is túl magas.
 
 ## Mennyi legyen az ösztradiol (E2) értéke?
 

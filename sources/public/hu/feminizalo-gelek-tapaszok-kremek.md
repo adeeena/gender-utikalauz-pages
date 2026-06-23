@@ -235,7 +235,7 @@ A herezacskó bőre érrendszerének köszönhetően ismert a szteroid hormonok 
 
 Ezt a módszert elsősorban hipogonadizmussal küzdő ciszgender férfiak kezelésére tanulmányozták és alkalmazták, testoszteron gélt vagy tapaszokat használva.
 
-* *Forrás:*➡️ **[Clin Pharmacol. 2010; 2: 149–153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#): "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."**
+* *Forrás:*➡️ **[Clin Pharmacol. 2010; 2: 149-153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3262378/#): "Due to the superficial vascularity of the scrotal skin, there is a 5-40 fold increase in steroid absorption when compared to other skin sites."**
 
 * *Forrás:*➡️ **[J Clin Endocrinol Metab. 1996 May;81(5):1832-40](https://www.ncbi.nlm.nih.gov/pubmed/?term=J+Clin+Endocrinol+Metab.+1996+May%3B81(5)%3A1832-40.#): "the relative permeability at other application sites was greatest for the scrotum (42.0), increased for the back (1.7), reduced for the lateral ankle (0.42), and lowest for the sole of the foot (0.14)."**
 

@@ -120,7 +120,7 @@ Mindenki maga dönti el, hogy felfedezi-e a lehetőségeket, ha akarja; és kife
 
 ### Mikroadagolások
 
-➡️ [QAC 65 – 1 Month on Low Dose HRT || Non-Binary | Mental Health || The T Files](https://www.youtube.com/watch?v=WELz0XN0d-o)
+➡️ [QAC 65-1 Month on Low Dose HRT || Non-Binary | Mental Health || The T Files](https://www.youtube.com/watch?v=WELz0XN0d-o)
 
 ➡️ [2 years on low(ish)-dose T! | nonbinary transition](https://www.youtube.com/watch?v=jMa9Pe6OvO8)
 

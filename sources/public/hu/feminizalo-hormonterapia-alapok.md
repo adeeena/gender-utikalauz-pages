@@ -158,7 +158,7 @@ Ezenkívül az a cél, hogy korlátozzák a fejlődési problémákat, különö
 
 ***Forrás:** Brook C. G. 1985. Management of delayed puberty. 658. oldal: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1417655/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1417655/).*
 
-***Forrás:** Zacharin M. 2000. Use of Androgens and Oestrogens in Adolescents – A Review of Hormone Replacement Treatment. 6. oldal: [https://doi.org/10.1515/JPEM.2000.13.1.3](https://doi.org/10.1515/JPEM.2000.13.1.3)*
+***Forrás:** Zacharin M. 2000. Use of Androgens and Oestrogens in Adolescents; A Review of Hormone Replacement Treatment. 6. oldal: [https://doi.org/10.1515/JPEM.2000.13.1.3](https://doi.org/10.1515/JPEM.2000.13.1.3)*
 
 ***Forrás:** Zacharin M. 2010. Disorders of ovarian function in childhood and adolescence: evolving needs of the growing child. An endocrine perspective. 5. oldal : [https://doi.org/10.1111/j.1471-0528.2009.02399.x](https://doi.org/10.1111/j.1471-0528.2009.02399.x)*
 
@@ -171,11 +171,11 @@ Továbbá a tanulmányok arra utalnak, hogy a progeszteron nem szükséges a tra
 
 ***Forrás:** Clin Obstet Gynecol. 2018 Dec;61(4):705-721 “Extrapolation from the experience in inducing breast growth in adolescent girls with absent or delayed pubertal development suggests that simultaneous initial administration of progestins with estrogen may result in abnormal and limited growth due to the simultaneous induction of ductal proliferation and terminal lobular differentiation. It is therefore recommended to initiate breast growth with estrogen alone until stability is reached with a consideration for trial of progesterone/progestin at that time. (…) In view of the known course of development in normal puberty, and a description of abnormal breast growth with the early addition of progestins, it seems prudent to hold off on adding progesterone/progestin therapy until initial estrogen-induced ductal growth is complete.”*
 
-***Forrás:** J Clin Endocrinol Metab, January 2007, 92(1):10 –25 “To allow for normal breast and uterine development, it seems advisable to delay the addition of progestin at least 2 yr after starting estrogen or until breakthrough bleeding occurs.”*
+***Forrás:** J Clin Endocrinol Metab, January 2007, 92(1):10-25 “To allow for normal breast and uterine development, it seems advisable to delay the addition of progestin at least 2 yr after starting estrogen or until breakthrough bleeding occurs.”*
 
 ***Forrás:** J Sex Med. 2014 May;11(5):1240-7. Clinical review: Breast development in trans women receiving cross-sex hormones. “during pubertal induction in girls, early administration of progesterone is not recommended as premature initiation of progestin therapy can compromise ultimate breast growth [57].”*
 
-***Forrás:** Ther Adv Endocrinol Metab 2019, Vol. 10: 1–27 “Pubertal data in people assigned female at birth (AFAB) (e.g. girls with Turner syndrome) argue for delaying progesterone as it causes ductal differentiation and may interfere with optimal breast development.68”*
+***Forrás:** Ther Adv Endocrinol Metab 2019, Vol. 10: 1-27 “Pubertal data in people assigned female at birth (AFAB) (e.g. girls with Turner syndrome) argue for delaying progesterone as it causes ductal differentiation and may interfere with optimal breast development.68”*
 
 ***Forrás:** Bandeira, F., et al. (Eds.). (2013). Endocrinology and Diabetes: A Problem-Oriented Approach. Springer Science & Business Media. gbooks:U24AQAAQBAJ “Initial therapy is with estrogen alone to maximize breast growth and to induce uterine and endometrial proliferation. Adding a progestin prematurely or administering combinations of estrogens and progestins early on may reduce ultimate breast size. Progestin is added to mimic the normal menstrual cycle after breast growth ceases (when full contour breast growth plateaus) or menses occur.”*
 
