@@ -1,7 +1,14 @@
 ---
-title: "😐Spironolactone"
-description: "Ismerd meg a 😐Spironolactone előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Spironolactone"
+description: "A spironolactone egy vízhajtó, amelynek antiandrogén mellékhatását használják a feminizáló HRT-ben: előnyök, hátrányok, hiperkalémia kockázat és GYIK."
 lang: hu
+keywords: "spironolactone, Spiron, antiandrogén, vízhajtó, hiperkalémia, kálium, feminizáló HRT, tesztoszteron blokkoló, transznemű nő"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/spironolactone"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_scientist.svg"
+slug: "spironolactone"
 ---
 
 <div class="floating-columns">
@@ -184,5 +191,29 @@ Végül is, ha a spiro kritizálható a mell gyenge fejlődésének okozásáér
 ## DIY beszerzési források
 
 ➡️ [hrt.coffee - Spironolactone](https://hrt.coffee/spironolactone/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Miért csak "elfogadható" a spironolactone, nem ajánlott?
+
+A spironolactone viszonylag gyenge antiandrogén, gyakran nem nyomja el eléggé a tesztoszteront, így a feminizálás lassabb lehet. Emellett vízhajtó hatása és a hiperkalémia kockázata miatt több odafigyelést igényel, mint például a bicalutamide vagy a GnRH-agonisták.
+
+### Mi a hiperkalémia, és miért veszélyes?
+
+A hiperkalémia a vér túl magas káliumszintje. A spironolactone visszatartja a káliumot a szervezetben, ami súlyos esetben szívritmuszavart okozhat. Ezért fontos a rendszeres kálium- és nátriumszint-ellenőrzés és a káliumban gazdag ételek mérsékelt fogyasztása.
+
+### Igaz, hogy a spironolactone gátolja a mell növekedését?
+
+Nem. Ez egy 2012-es, később erősen kritizált tanulmányból eredő tévhit. Ha a spironolactone mellett gyengébb a mellfejlődés, az elsősorban azért van, mert gyenge antiandrogénként sok esetben nem nyomja el kellőképpen a tesztoszteront.
+
+### Miért kell sokat WC-re járnom a spironolactone szedése közben?
+
+A spironolactone elsődlegesen vízhajtó, ezért fokozott vizelést okoz. Ez sokak számára a legkellemetlenebb mellékhatás. Ügyelj a megfelelő folyadékbevitelre, és ha túl zavaró, beszélj orvosoddal egy alternatív antiandrogénről.
+
+## Források
+
+➡️ [Spironolactone - Wikipedia](https://en.wikipedia.org/wiki/Spironolactone)
+
+➡️ [Antiandrogen - Wikipedia](https://en.wikipedia.org/wiki/Antiandrogen)
 
 </div>
