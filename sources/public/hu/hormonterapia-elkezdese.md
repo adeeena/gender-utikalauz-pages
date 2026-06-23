@@ -1,7 +1,14 @@
 ---
 title: "Hormonterápia elkezdése"
-description: "Mik előzik meg a hormonterápia kezdetét?"
+description: "Hogyan kezdj el hormonterápiát Magyarországon: orvoskeresés, pszichiátriai igazolás, egészségi felmérés, vérvétel, vény és a kezelés nyomon követése."
 lang: hu
+keywords: "hormonterápia kezdése, HRT elkezdése, endokrinológus, pszichiátriai igazolás, nemi diszfória diagnózis, vérvétel, recept, transznemű"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/hormonterapia-elkezdese"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "hormonterapia-elkezdese"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_medical_care.svg" /></div>
@@ -141,7 +148,7 @@ Ha nem tudsz vagy nincs lehetőséged szakorvoshoz fordulni, utánajárhatsz a [
 
 Ha azonban helyzetének következtében nincs más választásod, mint az önkezelés, győződj meg róla, hogy a vásárolt termékeket megbízható emberektől szerzed.
 
-## Gyakran Ismételt Kérdések
+## GYIK (Gyakran Ismételt Kérdések)
 
 ### Milyen termékeket kérjek az orvosomtól?
 
