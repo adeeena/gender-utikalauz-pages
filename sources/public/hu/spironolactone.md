@@ -182,6 +182,15 @@ Fennállhat a hiperkalémia, azaz a káliumfelesleg által meghatározott állap
 
 Végül pedig a spironolactone gyakran nem elég hatékony a tesztoszteron blokkolásához, ami megmagyarázza a **gyenge feminizációt és a transz körökben a gyógyszerrel kapcsolatos bizonyos rossz hírnevet**.
 
+<div class="infobox warning">
+<h5>💊 Adagolás és gyakori mellékhatások</h5>
+
+A spironolactone-t nem érdemes **napi 100 mg fölé** vinni: a magasabb adag nem sokat javít az antiandrogén hatáson, viszont felerősíti a mellékhatásokat. Gyakori panaszok: agyköd, fáradtság, rossz memória, gyakori vizelés, alacsony vérnyomás, valamint nátrium- és elektrolit-egyensúly zavara.
+
+Fontos megérteni, hogy a spironolactone **nem csökkenti** érdemben a vér tesztoszteronszintjét, hanem a receptoroknál fejti ki a hatását; ezt érdemes tudni a laboreredmények értelmezésekor. Ha lehetséges, sok közösségi segédlet a [bicalutamidet](/#/entry?id=bicalutamide) vagy a [GnRH-agonistákat](/#/entry?id=decapeptyl) részesíti előnyben.
+
+</div>
+
 ### Hallottam, hogy a spiro gátolhatja a mell növekedését, igaz ez?
 
 Ez a pletyka [ebből a tanulmányból](https://academic.oup.com/jcem/article/97/12/4422/2536439) származik, amelyet 2012-ben végzett Dr. Seal. Ezt a tanulmányt azonban később több okból is erősen kritizálták. A legfontosabb az volt, hogy a tanulmány által előterjesztett számadatok nem igazán voltak megbízhatóak. Mivel a résztvevők melleinek méretét soha nem mérték meg, a kutatók egyszerűen megszámolták a később elvégzett mellnagyobbítások számát, és azt feltételezték, hogy a többi résztvevőnél a mellek fejlődése helyes volt.
