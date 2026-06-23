@@ -1,7 +1,14 @@
 ---
 title: "A maszkulinizáló hormonkezelés hatásai"
-description: "Mikre lehet számítani a feminizáló hormonterápia hatásaiként?"
+description: "Mire lehet számítani a maszkulinizáló hormonterápia hatásaiként: hangmélyülés, szőrnövekedés, izomnövekedés, a menstruáció megszűnése és a visszafordíthatatlan változások."
 lang: hu
+keywords: "tesztoszteron hatásai, maszkulinizáló HRT, hangmélyülés, szőrnövekedés, mikrodozis, PCOS, transz férfi"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalo-hormonterapia-hatasok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_junior_soccer.svg"
+slug: "maszkulinizalo-hormonterapia-hatasok"
 ---
 
 <div class="floating-columns">
@@ -200,5 +207,23 @@ Ezt a prosztataszövetet „androgén-assoziált prosztatametapláziának” nev
 ➡️ [Hormones: A guide for FTMs](https://d31kydh6n6r5j5.cloudfront.net/uploads/sites/161/2019/08/hormones_FTM.pdf)
 
 ➡️ [Les hommes trans et personnes transmasculines sous testostérone peuvent développer du tissu prostatique](https://hackmd.io/@biyokea/tissu_prostatique_htrans)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mikor jelentkeznek a tesztoszteron első hatásai?
+
+A csikló megnagyobbodása általában már az első adag után jelentkezik, a hang mélyülése a 2-3. hónapban kezdődik, a szőrnövekedés pedig a 3-4. hónaptól indul. A zsíreloszlás átformálódása kb. 6 hónap után látható.
+
+### Mely változások visszafordíthatatlanok?
+
+A csikló megnagyobbodása, a hangmélyülés és (ha bekövetkezik) a kopaszodás, valamint a szőrnövekedés egy része visszafordíthatatlan. A zsíreloszlás, a bőr textúrája és a testszag a kezelés leállításával nagyrészt visszafordul.
+
+### Mit jelent a mikroadagolás (microdosing)?
+
+A mikroadagolás során a tesztoszteronszint a cisz emberek tartományának alsó határán marad. Ugyanazok a hatások jelentkeznek, mint a teljes adagnál, csak lassabban; néhány nem-bináris ember használja androgün összkép elérésére.
+
+### Csökkenti-e a tesztoszteron a termékenységet?
+
+Igen, a HRT minden formája nagy valószínűséggel sterilizál, sokszor visszafordíthatatlanul. Ha valaha biológiai gyermeket szeretnél, a kezelés megkezdése előtt érdemes petesejtet fagyasztatni.
 
 </div>
