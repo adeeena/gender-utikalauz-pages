@@ -138,11 +138,17 @@ A depot por + oldószer formában érkezik, beadás előtt fel kell oldani, és 
 
 ### Előnyök és hátrányok
 
-| 👍 Előnyök | 👎 Hátrányok |
-|---|---|
-| Nagyon hatékony (>99%) | Rendkívül drága |
-| Gyakorlatilag mellékhatás-mentes | Injekciót igényel |
-| Nem terheli a májat | Havi / 3 havi ismétlés |
+**👍 Előnyök:**
+
+* Nagyon hatékony (>99%)
+* Gyakorlatilag mellékhatás-mentes
+* Nem terheli a májat
+
+**👎 Hátrányok:**
+
+* Rendkívül drága
+* Injekciót igényel
+* Havi / 3 havi ismétlés
 
 ### Hol helyezkedik el a többi antiandrogén között?
 
