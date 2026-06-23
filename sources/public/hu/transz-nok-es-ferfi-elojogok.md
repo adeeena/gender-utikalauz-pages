@@ -43,6 +43,33 @@ Ugyanakkor azok a transz nők, akik nagyon fiatalon elkezdik a hormonterápiát 
 
 Transz nőket ugyanúgy érik diszkriminációk lakás/albérlet keresésekor, munkahelyváltáskor, bértárgyaláskor és még egy rakás más alkalommal. Nőként nemcsak szexizmussal, hanem nagyon gyakran transzfóbiával is szembesülnünk kell. Sötétedés utáni sétálások is sokkal félelmetesebbnek hatnak majd.
 
+<table>
+    <thead>
+        <tr>
+            <th>Helyzet</th>
+            <th>Férfi előjogok</th>
+            <th>Jellemző tapasztalat</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tranzíció/kibújás előtt</td>
+            <td>Részben jelen (téves férfiként kezelés)</td>
+            <td>Gyakran traumatikus; nem a valódi nemben</td>
+        </tr>
+        <tr>
+            <td>Korai tranzíció (fiatalon)</td>
+            <td>Alig vagy egyáltalán nem</td>
+            <td>Kevésbé érinti a férfi szerep</td>
+        </tr>
+        <tr>
+            <td>Kibújás után</td>
+            <td>Eltűnnek</td>
+            <td>Szexizmus és transzfóbia</td>
+        </tr>
+    </tbody>
+</table>
+
 ## "Férfi kisugárzás"
 
 Néhányan azzal próbálnak érvelni, hogy "férfias" a kisugárzása a legtöbb transz nőnek. **Ez azon felül, hogy indokolatlanul transzfób, még szexista is: ez azt mondja, hogy a férfiaknak van valami megmagyarázhatatlan mágikus ereje, ami szintúgy jelen van néhány nőnél, másoknál ugyanakkor ez hiányzik.** Egy cisz és egy transz nőnél is jelen lehetnek ugyanolyan tomboy beütésű kinézet vagy viselkedés, de csak a transz nőre mondják ezek az emberek, hogy jelen van a férfi kisugárzás, mivel legtöbbször ezt a kisugárzást keresik rajtuk; **ugyanakkor fel sem merül, hogy megkérdőjelezzék a tomboy cisz nő nőiességét.**

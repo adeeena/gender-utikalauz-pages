@@ -26,6 +26,32 @@ Ajánlatos az interszex szót használni, és az érintett személyekre intersze
 
 **Az interszex nem tévesztendő össze a transz-identitással**, amely a születéskor kijelölt nemtől eltérő társadalmi nemet jelent, míg az interszex biológiai állapot.
 
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Interszex</th>
+            <th>Transznemű</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Mi határozza meg</b></td>
+            <td>Biológiai nemi jellegzetességek (anatómia, kromoszóma, hormon)</td>
+            <td>Nemi identitás (a születéskor kijelölt nemtől eltérő)</td>
+        </tr>
+        <tr>
+            <td><b>Jellege</b></td>
+            <td>Biológiai állapot</td>
+            <td>Identitásbeli</td>
+        </tr>
+        <tr>
+            <td><b>Kapcsolat</b></td>
+            <td colspan="2">Egy interszex ember lehet cisz vagy transz is; e két fogalom egymástól független</td>
+        </tr>
+    </tbody>
+</table>
+
 ## GYIK (Gyakran Ismételt Kérdések)
 
 ### Mit jelent interszexnek lenni?
