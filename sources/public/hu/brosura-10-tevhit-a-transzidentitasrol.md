@@ -1,7 +1,14 @@
 ﻿---
 title: "10 tévhit a transzidentitásról"
-description: "A 10 tévhit a transzidentitásról kiadvány segíti a szülőket megérteni és támogatni transznemű gyermeküket."
+description: "A 10 tévhit a transzidentitásról kiadvány a szülőknek és a családnak segít megérteni és támogatni transznemű gyermeküket a kibújás után, eloszlatva a leggyakoribb félreértéseket."
 lang: hu
+keywords: "10 tévhit, transzidentitás, kibújás brosúra, szülőknek transz gyermek, transznemű félreértések, családi támogatás"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/brosura-10-tevhit-a-transzidentitasrol"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_conversation.svg"
+slug: "brosura-10-tevhit-a-transzidentitasrol"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_conversation.svg" /></div>
@@ -49,3 +56,17 @@ Szülőként az az egyik feladatod, hogy megadj a gyermekednek minden lehetősé
 ## További olvasmány
 
 ➡️ [Tévhitek és mítoszok transz nőkről és a transzfeminin identitással kapcsolatban](/#/entry?id=transz-nok-tevhitek-es-mitoszok)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Kinek szól a 10 tévhit a transzidentitásról brosúra?
+
+Elsősorban a transznemű fiatalok szüleinek és családtagjainak szól. Akkor a leghasznosabb, ha a gyermeked épp most bújt ki, és a családodnak időre van szüksége, hogy feldolgozza és megértse a helyzetet. A kinyomtatott, körülbelül 20 oldalas kiadványt nyugodtan átadhatod nekik, hogy a kezdeti érzelmek lecsillapodása után átolvashassák.
+
+### Miért érdemes kinyomtatni a brosúrát?
+
+A kinyomtatott formátum kézzelfoghatóbbá és valóságosabbá teszi a témát, mint egy képernyőn olvasott szöveg. A család a saját tempójában, nyugodt körülmények között olvashatja át, és később is bármikor visszalapozhat hozzá, ha kérdése merül fel.
+
+### Milyen tévhiteket oszlat el a kiadvány?
+
+A brosúra tíz gyakori félreértést jár körül, többek között azt, hogy "el fogom veszíteni a gyermekemet", hogy "ez majd elmúlik", hogy "csak egy divathullám", vagy hogy "nem gondoltad végig eléggé". Mindegyikre megnyugtató, tényalapú magyarázatot ad.
