@@ -109,6 +109,39 @@ Mint a neve is mutatja, a műtétet metszés nélkül, kizárólag hüvelyi úto
 
 Ennek a technikának az az előnye, hogy egyáltalán nem hagy heget, de csak azok számára lehetséges, akik már szültek hüvelyi úton, mivel a szülés kiszélesíti a természetes utat.
 
+### A három technika összehasonlítása
+
+<table>
+    <thead>
+        <tr>
+            <th>Technika</th>
+            <th>Heg</th>
+            <th>Kórházi tartózkodás</th>
+            <th>Lábadozás</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Hasi</td>
+            <td>10-15 cm-es heg</td>
+            <td>kb. 1 hét</td>
+            <td>4-5 hét, fájdalmasabb</td>
+        </tr>
+        <tr>
+            <td>Laparoszkópos</td>
+            <td>kis hegek (3-5 öltés)</td>
+            <td>2-4 nap</td>
+            <td>2-3 hét</td>
+        </tr>
+        <tr>
+            <td>Hüvelyi (vaginális)</td>
+            <td>nincs heg</td>
+            <td>rövid</td>
+            <td>rövid, de csak hüvelyi úton szülteknek</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Műtét előtti feltételek
 
 ### Vizsgálatok
