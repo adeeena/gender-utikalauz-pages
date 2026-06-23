@@ -1,7 +1,14 @@
 ---
-title: "✅Decapeptyl"
-description: "Ismerd meg a ✅Decapeptyl előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Decapeptyl, Lucrin és pubertásblokkolók"
+description: "A Decapeptyl (triptorelin) az egyik leghatékonyabb tesztoszteron-blokkoló a feminizáló hormonterápiában: működése, adagolása, mellékhatásai, csontritkulási kockázata és pubertásblokkolóként való alkalmazása."
 lang: hu
+keywords: "Decapeptyl, Lucrin, triptorelin, GnRH agonista, tesztoszteron blokkoló, pubertásblokkoló, antiandrogén, feminizáló hormonterápia, Diphereline"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/decapeptyl"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medical_care.svg"
+slug: "decapeptyl"
 ---
 
 <div class="floating-columns">
