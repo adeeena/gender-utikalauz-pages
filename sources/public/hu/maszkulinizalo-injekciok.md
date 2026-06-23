@@ -1,7 +1,14 @@
 ---
 title: "✅Testosteron Depo"
-description: "Ismerd meg a ✅Testosteron Depo előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+description: "A Testosteron Depo (tesztoszteron-enantát injekció) maszkulinizáló hormonterápiához: adatlap, adagolási útmutató, öninjekciózás és beszérzés."
 lang: hu
+keywords: "Testosteron Depo, tesztoszteron-enantát, Androtardyl, maszkulinizáló injekció, öninjekciózás, adagolás, transz férfi"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/maszkulinizalo-injekciok"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
+slug: "maszkulinizalo-injekciok"
 ---
 
 <div class="floating-columns">
@@ -65,7 +72,7 @@ Hatékony tesztoszteron-pótló injekció. Alacsony rizikófaktor.
 
 <div class="infobox info">
 
-Ez a cikk a Testosterone Depo sajátos jellemzőit ismerteti. A HRT általános hatásainak megismeréséhez javasoljuk, hogy [először ezt a cikket olvasd el](/#/entry?id=feminizalo-hormonterapia-hatasok).
+Ez a cikk a Testosterone Depo sajátos jellemzőit ismerteti. A HRT általános hatásainak megismeréséhez javasoljuk, hogy [először ezt a cikket olvasd el](/#/entry?id=maszkulinizalo-hormonterapia-hatasok).
 
 </div>
 
@@ -258,5 +265,19 @@ Egyeseknél a HRT egyes hatásai a normálisnak megfelelő hormonszintek ellené
 ➡️ [RoidBazaar EU - Testosterone Cypionate](https://eu.roidbazaar.me/human-labs/testo-c/)
 
 ➡️ [RoidBazaar EU - Testosterone Cypionate II.](https://eu.roidbazaar.me/europe-domestic/testosterone-cypionate-250-1296/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Milyen gyakran kell beadni a Testosteron Depo injekciót?
+
+A Testosteron Depo injekciót általában két-négy hetente adják be. A leggyakoribb "végleges" adagolás 3 hetente 1 ampulla, de ez személyenként változik az életkortól és a termék iránti fogékonyságtól függően.
+
+### Magamnak is beadhatom az injekciót?
+
+Igen, sokan maguk adják be az injekciót. Használj 1 ml-es fecskendőt a pontos kiméréshez, megfelelő tűvastagságot (szubkután 25-30g, intramuszkuláris 23-25g), és a használt tűket mindig kemény műanyag éles-eszköz gyűjtőbe dobd.
+
+### Megváltozik-e a tesztoszteronszintem két injekció között?
+
+Igen, a szint az injekció utáni első napokban nagyon magas, majd a következő injekcióig csökken. Egyesek a ciklus végén fáradtságot vagy álmatlanságot tapasztalnak; ezt érdemes jelezni az orvosnak, hogy az injekciók közelebb kerülhessenek egymáshoz.
 
 </div>
