@@ -1,7 +1,14 @@
 ﻿---
 title: "Mit jelent nem binárisnak lenni?"
-description: "Hogyan értelmezhető a nem-binaritás egy alapvetően bináris társadalomban?"
+description: "A nem-binaritás azt jelenti, hogy valakinek a neme nem kizárólag férfi vagy női: definíciók, tévhitek, támogatás és a nem-bináris emberek tapasztalatai."
 lang: hu
+keywords: "nem bináris, nem-binaritás, nonbináris, gendersemleges, genderfluid, nemi identitás, nem-bináris támogatás"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mit-jelent-nem-binarisnak-lenni"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_ideas.svg"
+slug: "mit-jelent-nem-binarisnak-lenni"
 ---
 
 <div class="header-image"><img src="assets/images/undraw_ideas.svg" /></div>
@@ -171,6 +178,24 @@ Ha tehát úgy teszünk, mintha semmi sem történt volna, és továbbra is pont
 Idővel kialakult egy alkategóriákból álló lexikon, amely a különböző nem-bináris tapasztalatokat írja le. Például: gendersemleges, genderqueer, demiboy vagy demigirl, genderfluid...
 
 További információért [tekintsd meg a nem-binaritással kapcsolatos kifejezések szójegyzékét.](/#/lexikon)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Mit jelent nem-binárisnak lenni?
+
+A nem-bináris ember neme nem kizárólag férfi vagy kizárólag női: lehet valahol a kettő között, a kettő keveréke, egyik sem, vagy idővel változó. A nem-binaritás egy társadalmi, nemi identitásra vonatkozó fogalom, amelynek semmi köze a biológiához.
+
+### Ugyanaz a nem-binaritás, mint az interszexualitás vagy az androgünség?
+
+Nem. Az interszexualitás biológiai állapot, az androgünség pedig egy fizikai megjelenés. A nem-binaritás ezzel szemben nemi identitás, és nem kötődik sem a testalkathoz, sem a biológiához.
+
+### Egy nőies fiú vagy egy fiús lány nem-bináris?
+
+Nem feltétlenül. A nemi identitás nem keverendő össze a nemi kifejezéssel: egy férfi nőies vonásokkal is férfi marad, és fordítva. Csak az illető maga mondhatja meg, hogy nem-bináris-e.
+
+### Hogyan támogathatok egy nem-bináris embert?
+
+Tartsd tiszteletben az általa kért nevet és megszólítást, javítsd ki tévedés esetén magad és másokat, és legyél mellette érzelmileg, különösen a coming out utáni időszakban. A látható és aktív támogatás sokat számít.
 
 ## Forrás
 
