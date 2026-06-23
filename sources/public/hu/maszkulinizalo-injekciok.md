@@ -156,6 +156,36 @@ Lila: TU 1000mg im = 1000 mg tesztoszteron-undekanoát intramuszkuláris injekci
 
 ⚠️ Figyelem, ezek a profilok átlagokon alapulnak, és egyénenként változhatnak.
 
+### Mikor mérd a tesztoszteront?
+
+Az enantát-injekció után a tesztoszteronszint néhány napon belül a csúcsra ugrik, majd a következő injekcióig fokozatosan csökken. A legalacsonyabb pont (a **trough**, közvetlenül a következő injekció előtt) mutatja meg, hogy az adagod elég-e végig a ciklus alatt. Ezért a vérvételt jellemzően a következő injekció előtti napokra időzítik.
+
+<figure>
+<svg viewBox="0 0 600 260" width="100%" role="img" aria-label="A tesztoszteronszint változása az enantát-injekciók között">
+  <rect x="0" y="0" width="600" height="260" fill="#ffffff"/>
+  <line x1="55" y1="20" x2="55" y2="210" stroke="#444" stroke-width="1.5"/>
+  <line x1="55" y1="210" x2="575" y2="210" stroke="#444" stroke-width="1.5"/>
+  <text x="48" y="40" text-anchor="end" font-size="11" fill="#888">magas</text>
+  <text x="48" y="205" text-anchor="end" font-size="11" fill="#888">alacsony</text>
+  <!-- normal sav -->
+  <rect x="55" y="70" width="520" height="80" fill="#eaf0f8"/>
+  <text x="565" y="66" text-anchor="end" font-size="10" fill="#5a7bb0">férfi referenciatartomány</text>
+  <!-- ket ciklus gorbeje -->
+  <path d="M55,180 C90,60 120,55 150,90 C180,130 210,170 245,180 C280,60 310,55 340,90 C370,130 400,170 435,180" fill="none" stroke="#2f4a7a" stroke-width="2.5"/>
+  <!-- injekcio jelek -->
+  <circle cx="55" cy="180" r="4" fill="#2f4a7a"/>
+  <circle cx="245" cy="180" r="4" fill="#2f4a7a"/>
+  <circle cx="435" cy="180" r="4" fill="#2f4a7a"/>
+  <text x="55" y="230" text-anchor="middle" font-size="10" fill="#666">injekció</text>
+  <text x="245" y="230" text-anchor="middle" font-size="10" fill="#666">injekció</text>
+  <text x="435" y="230" text-anchor="middle" font-size="10" fill="#666">injekció</text>
+  <!-- trough marker -->
+  <line x1="245" y1="180" x2="245" y2="248" stroke="#2f7a3a" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="245" y="20" text-anchor="middle" font-size="11" fill="#2f7a3a" font-weight="bold">itt mérj (trough)</text>
+</svg>
+<figcaption><i>A tesztoszteronszint az injekció után magas, a következő injekció előtt a legalacsonyabb; a vérvételt erre a mélypontra érdemes időzíteni. Forrás: <a href="http://ftm-transsexuel.info/">ftm-transsexuel.info</a>.</i></figcaption>
+</figure>
+
 ## Öninjekciózás
 
 <div class="infobox warning">
