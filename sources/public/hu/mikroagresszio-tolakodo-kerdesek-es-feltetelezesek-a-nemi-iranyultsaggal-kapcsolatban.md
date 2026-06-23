@@ -1,7 +1,14 @@
 ---
-title: "🚫 Tolakodó kérdések / feltételezések a nemi irányultsággal és a testtel kapcsolatban. - Nemi mikroagresszió"
-description: "Mikroagresszió magyarázata, háttere, javaslatok."
+title: "Tolakodó kérdések a nemi irányultsággal és a testtel kapcsolatban - Nemi mikroagresszió"
+description: "Miért sértőek a transz emberek nemi szerveire, műtéteire és szexualitására irányuló tolakodó kérdések: ezek a magánélethez való jogot sértik."
 lang: hu
+keywords: "transz tolakodó kérdések, transz test kérdések, transz műtét kérdés, magánélet, nemi mikroagresszió"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/mikroagresszio-tolakodo-kerdesek-es-feltetelezesek-a-nemi-iranyultsaggal-kapcsolatban"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_feeling_blue.svg"
+slug: "mikroagresszio-tolakodo-kerdesek-es-feltetelezesek-a-nemi-iranyultsaggal-kapcsolatban"
 source: 32532a71-47e1-4363-8506-0452e2ede7af
 ---
 
@@ -41,6 +48,16 @@ Ezek a kérdések a magánélethez való jog megsértését jelentik.
 **Ide tartoznak a nemi identitásra és a szexuális tevékenységre vonatkozó, valamint a műtétekre vonatkozó kérdések is.**
 
 Ezek a kérdések a személy nemét és szexualitását állítják a figyelem középpontjába. Az LMBT+ embereknek ugyanolyan magánélethez van joguk, mint bármely más személynek. Ezek olyan kérdések, amelyeket senki nem tenne fel egy ciszgender/heteroszexuális személynek.
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Megkérdezhetem egy transz embertől, hogy esett-e át műtéten?
+
+Nem, hacsak ő maga nem hozza szóba. A nemi szervekre, műtétekre vagy a szexuális tevékenységre irányuló kérdés sérti a magánélethez való jogot; olyat kérdezel, amit egy cisz embertől sosem kérdeznél meg.
+
+### Mit kérdezhetek akkor egy transz embertől?
+
+Ugyanazt, amit bárki mástól: a munkájáról, az érdeklődési köréről, a napjáról. Ha a tranzíció szóba kerül, hagyd, hogy ő szabja meg, mennyit oszt meg aróla.
 
 ## Példák:
 
