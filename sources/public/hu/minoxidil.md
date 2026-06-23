@@ -1,7 +1,14 @@
 ---
-title: "😐Minoxidil"
-description: "Ismerd meg az 😐Minoxidil előnyeit és hátrányait, rendelkezésre álló alternatívákkal és adagolási útmutatókkal."
+title: "Minoxidil"
+description: "A minoxidil egy nem hormonális készítmény a hajhullás elleni küzdelemre és az arcszőrzet serkentésére: hogyan működik, adagolás, hatásidő és GYIK."
 lang: hu
+keywords: "minoxidil, Regaine, hajhullás, androgenetikus alopecia, arcszőrzet, szakáll, DHT, maszkulinizálás, FTM"
+author: "Montefiori Adéna Auróra"
+canonical: "https://genderutikalauz.hu/cikk/minoxidil"
+datePublished: "2023-01-01"
+dateModified: "2026-06-23"
+image: "https://genderutikalauz.hu/images/undraw_skateboard.svg"
+slug: "minoxidil"
 ---
 
 <div class="floating-columns">
@@ -52,7 +59,7 @@ NEM-HORMONÁLIS TERMÉKEK
 
 <div class="header-image"><img src="assets/images/undraw_skateboard.svg" /></div>
 
-# Nebido
+# Minoxidil
 
 <div class="infobox warning">
 
@@ -150,5 +157,19 @@ Valójában a Minoxidil cisz nőknél is hatékony a haj kezelésére. **A tapas
 ➡️ [Tudományos cikk a minoxidil felszívódási idejéről](https://www.ncbi.nlm.nih.gov/pubmed/2395092)
 
 ➡️ [Tudományos cikk a minoxidil szakállon való alkalmazásának hatékonyságáról](https://pubmed.ncbi.nlm.nih.gov/26893270/)
+
+## GYIK (Gyakran Ismételt Kérdések)
+
+### Használhatom a minoxidilt szakállnövesztésre tesztoszteron nélkül?
+
+Igen. A tapasztalatok szerint a minoxidil tesztoszteron szedése nélkül is segítheti az arcszőrzet kialakulását. Az így növesztett szőrzet azonban a hajszálakkal ellentétben a DHT hatása nélkül gyakran pehelyszőrzet marad, bár ez festhető.
+
+### Meddig kell használni a minoxidilt?
+
+Hajhullás esetén a minoxidilt folyamatosan kell alkalmazni a hatás fenntartásához; ha abbahagyod és a tesztoszteronszinted magas, a hajhullás újraindulhat. Arcszőrzetnél viszont, ha a szőrszálak (általában fél és két év között) terminális szőrszálakká válnak, a minoxidil abbahagyható.
+
+### Mennyi idő alatt látszik a minoxidil hatása?
+
+Az első hatások már néhány hónapos használat után láthatóak lehetnek, de a végleges eredmény eléréséhez sokkal hosszabb időre, akar két évre is szükség lehet.
 
 </div>
