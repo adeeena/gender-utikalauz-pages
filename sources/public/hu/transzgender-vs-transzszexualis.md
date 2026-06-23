@@ -29,6 +29,33 @@ A legfontosabb szabály: mindenkit úgy szólíts meg, ahogyan ő magát megneve
 * **Transzgender:** angol eredetű kifejezés, jelentése lényegében megegyezik a „transznemű" szóval; magyarul is használatos.
 * **Transzszexuális:** régebbi, eredetileg orvosi-klinikai eredetű kifejezés, amelyet sokan a tranzíció orvosi (hormonális, műtéti) útjával társítanak.
 
+<table>
+    <thead>
+        <tr>
+            <th>Kifejezés</th>
+            <th>Jelentés</th>
+            <th>Megjegyzés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Transznemű / transz</td>
+            <td>Gyűjtőfogalom: a nemi identitás eltér a születéskor megállapított nemtől</td>
+            <td>Ma a legszélesebb körben elfogadott, befogadó szó</td>
+        </tr>
+        <tr>
+            <td>Transzgender</td>
+            <td>Angol eredetű, jelentése lényegében megegyezik a „transznemű" szóval</td>
+            <td>Magyarul is használatos</td>
+        </tr>
+        <tr>
+            <td>Transzszexuális</td>
+            <td>Régebbi, orvosi-klinikai eredetű kifejezés</td>
+            <td>Csak akkor használd másra, ha ő maga is így nevezi magát</td>
+        </tr>
+    </tbody>
+</table>
+
 ## Miért változott a szóhasználat?
 
 A „transzszexuális" kifejezés erősen orvosi keretből származik, és a „szexuális" tag félreérthető, mert a nemi identitás nem a szexualitásról szól. Ezért sok közösségben a **transznemű** és a **transz** vált általánossá, mint befogadóbb, kevésbé patologizáló fogalom.
