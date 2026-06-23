@@ -80,6 +80,27 @@
     ]
   },
   {
+    "title": "⚖️ Jog és hivatalos ügyek",
+    "children": [
+      {
+        "entryId": "jogi-nemvaltoztatas-magyarorszagon",
+        "title": "Jogi nemváltoztatás Magyarországon"
+      },
+      {
+        "entryId": "nevvaltoztatas",
+        "title": "Névváltoztatás"
+      },
+      {
+        "entryId": "magyarorszagi-szervezetek-es-segitseg",
+        "title": "Magyarországi szervezetek és segítség"
+      },
+      {
+        "entryId": "anyagi-tamogatasok-es-precaritas",
+        "title": "Anyagi támogatások és bizonytalanság"
+      }
+    ]
+  },
+  {
     "title": "🔍 Bizonytalanoknak",
     "children": [
       {
