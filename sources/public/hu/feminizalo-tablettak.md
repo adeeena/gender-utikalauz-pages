@@ -158,6 +158,35 @@ Ez a módszer lehetővé teszi, hogy az ösztrogén ne haladjon át a májon, é
 
 Másrészt a szintek ezután gyorsabban csökkennek, és gyakran 8 vagy 12 óránként tablettát kell bevenni a szintek fenntartásához. Mivel ez a jojó-effektus messze elmarad a cisz nők által tapasztalt ingadozásoktól, nem lehet tudni, hogy ennek lehetnek-e negatív következményei a testi fejlődésre.
 
+<figure>
+<svg viewBox="0 0 600 290" width="100%" role="img" aria-label="A lenyelt és a nyelv alatti ösztrogén szintje a nap során">
+  <rect x="0" y="0" width="600" height="290" fill="#ffffff"/>
+  <line x1="55" y1="35" x2="55" y2="215" stroke="#444" stroke-width="1.5"/>
+  <line x1="55" y1="215" x2="575" y2="215" stroke="#444" stroke-width="1.5"/>
+  <text x="48" y="55" text-anchor="end" font-size="11" fill="#888">magas</text>
+  <text x="48" y="210" text-anchor="end" font-size="11" fill="#888">alacsony</text>
+  <!-- szublingvalis: csucsok -->
+  <path d="M60,185 C72,90 82,70 96,62 C122,72 182,160 227,184 C239,95 249,70 263,62 C289,72 350,162 393,184 C405,95 415,70 429,62 C455,72 520,165 560,180" fill="none" stroke="#c0508a" stroke-width="2.5"/>
+  <!-- lenyelt: laposabb -->
+  <path d="M60,178 C150,138 250,150 320,146 C400,142 480,150 560,148" fill="none" stroke="#e08bb5" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <!-- adag jelek -->
+  <g fill="#7a2b52">
+    <path d="M60,222 l6,10 l-12,0 Z"/>
+    <path d="M227,222 l6,10 l-12,0 Z"/>
+    <path d="M393,222 l6,10 l-12,0 Z"/>
+  </g>
+  <text x="60" y="250" text-anchor="middle" font-size="10" fill="#666">adag</text>
+  <text x="227" y="250" text-anchor="middle" font-size="10" fill="#666">adag</text>
+  <text x="393" y="250" text-anchor="middle" font-size="10" fill="#666">adag</text>
+  <!-- jelmagyarazat -->
+  <line x1="330" y1="270" x2="360" y2="270" stroke="#c0508a" stroke-width="2.5"/>
+  <text x="366" y="274" font-size="11" fill="#333">nyelv alatt</text>
+  <line x1="450" y1="270" x2="480" y2="270" stroke="#e08bb5" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <text x="486" y="274" font-size="11" fill="#333">lenyelve</text>
+</svg>
+<figcaption><i>A nyelv alatt feloldott tabletta gyors, magas csúcsokat ad, majd gyorsan csökken; a lenyelt tabletta egyenletesebb, de alacsonyabb szintet eredményez. Forrás: <a href="https://pghrt.diy/">pghrt.diy</a>.</i></figcaption>
+</figure>
+
 A másik előnye, hogy mivel a hormonoknak nem kell áthaladniuk a májon, a mélyvénás trombózis kockázatának nagy részét is elkerüli, amely az orális ösztrogén szedésével jár.
 
 ### Előnyök:
