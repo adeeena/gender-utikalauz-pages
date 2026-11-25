@@ -6,7 +6,7 @@ keywords: "masztéktómia, top surgery, mellkasi műtét, torsoplasztika, dupla 
 author: "Montefiori Adéna Auróra"
 canonical: "https://genderutikalauz.hu/cikk/maszkulinizalas-masztektomia"
 datePublished: "2023-01-01"
-dateModified: "2026-06-23"
+dateModified: "2026-11-25"
 image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
 slug: "maszkulinizalas-masztektomia"
 ---
@@ -27,7 +27,7 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 ➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Műtét utáni hegmasszázs](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs)
 
 </div>
 
@@ -227,7 +227,7 @@ A jó gyógyulás a bőröd minőségétől, az ápolástól és az általános 
 
 * A kötszereket legalább az első héten a fertőzésveszély csökkentése és a hegek megjelenésének figyelemmel kísérése érdekében ápolónak kell cserélnie. Ha szeretnéd, ha ezt egy orvosi képzettséggel nem rendelkező családtagod végezné, kérd meg, hogy az első néhány napra jöjjön el, hogy a nővérrel együtt megtanulja, hogyan kell ezt elvégezni. Ebben a szakaszban még mindig lehetséges, hogy saját magad is elvégezd, ha karjainak motorikus képességei megfelelőek.
 
-* A műtött területek masszírozása és a termékek alkalmazása (krémek, olajok stb., minden sebésznek megvannak a maga preferenciái, kétségtelenül neked is megvannak a sajátjai). Az önmasszázs fontos! Lehetővé teszik, hogy megszelídítse új törzsét és lebontsa a letapadásokat. [Brosúra a műtéti hegmasszázsról.](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+* A műtött területek masszírozása és a termékek alkalmazása (krémek, olajok stb., minden sebésznek megvannak a maga preferenciái, kétségtelenül neked is megvannak a sajátjaid). A sebész vagy gyógytornász által engedélyezett önmasszázs segíthet megszokni az új törzsedet és csökkenteni a letapadásokat. Olvasd el a [műtét utáni hegmasszázs útmutatóját](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs).
 
 * A műtét után legalább 15 napig kerüld a dohányzást.
 

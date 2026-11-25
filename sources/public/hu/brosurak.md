@@ -6,7 +6,7 @@ keywords: "transz brosúrák, LMBTQIA kiadványok, kibújás brosúra, hormonter
 author: "Montefiori Adéna Auróra"
 canonical: "https://genderutikalauz.hu/cikk/brosurak"
 datePublished: "2023-01-01"
-dateModified: "2026-06-23"
+dateModified: "2026-11-25"
 image: "https://genderutikalauz.hu/images/undraw_ride_till_i_can_no_more.svg"
 slug: "brosurak"
 ---
@@ -35,5 +35,6 @@ slug: "brosurak"
 
 ➡️ [Maszkulinizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Műtét utáni hegmasszázs](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs)
 
+➡️ [Műtéti hegmasszázs - PDF](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)

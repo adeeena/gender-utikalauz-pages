@@ -6,7 +6,7 @@ keywords: "mellnagyobítás, mammoplasztika, mellimplantátum, szilikon protézi
 author: "Montefiori Adéna Auróra"
 canonical: "https://genderutikalauz.hu/cikk/feminizalas-mellnagyobbito-mutet"
 datePublished: "2023-01-01"
-dateModified: "2026-06-23"
+dateModified: "2026-11-25"
 image: "https://genderutikalauz.hu/images/undraw_dua_lipa.svg"
 slug: "feminizalas-mellnagyobbito-mutet"
 ---
@@ -35,7 +35,7 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
  ➡️ [Feminizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Műtét utáni hegmasszázs](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs)
 
 </div>
 
@@ -273,7 +273,7 @@ A műtétet követő 2 hónapig kerüld a sportolást.
 A műtét után a mellkasi fájdalom 3-5 hónapig tart. Súlyos lehet, különösen akkor, ha az implantátumot a mellizom alá helyezik. A sebész fájdalomcsillapítót fog felírni, hogy segítsen ebben az időszakban.
 
 ### Hogyan gyógyulnak a hegek?
-Az első néhány hét után sebészed azt fogja javasolni, [hogy a hegeket rendszeresen masszírozzad, hogy segítsd a gyógyulásukat](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf).
+Az első néhány hét után sebészed azt fogja javasolni, hogy a hegeket rendszeresen masszírozd, hogy támogasd a gyógyulásukat. Ehhez olvasd el a [műtét utáni hegmasszázs útmutatóját](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs).
 
 Ha a varratok nem szívódóak fel, akkor a műtét után 10-15 nappal el kell távolítani őket.
 
@@ -348,6 +348,6 @@ Számíts rá, hogy akár két hét szabadságot is ki kell venned a munkából,
 
 ➡️ [Kamol Hospital](https://www.kamolhospital.com/fr/)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Műtét utáni hegmasszázs](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs)
 
 </div>

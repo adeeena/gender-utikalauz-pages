@@ -6,7 +6,7 @@ keywords: "hiszterektómia, méheltávolítás, oophorektómia, vaginektómia, t
 author: "Montefiori Adéna Auróra"
 canonical: "https://genderutikalauz.hu/cikk/maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia"
 datePublished: "2023-01-01"
-dateModified: "2026-06-23"
+dateModified: "2026-11-25"
 image: "https://genderutikalauz.hu/images/undraw_medicine.svg"
 slug: "maszkulinizalas-hiszterektomia-vaginektomia-oophorektomia"
 ---
@@ -27,7 +27,7 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 ➡️ [Orvosi konzultáció - kérdéssor](https://public.genderutikalauz.hu/orvosi-konzultacio-kerdessor.pdf)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Műtét utáni hegmasszázs](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs)
 
 </div>
 

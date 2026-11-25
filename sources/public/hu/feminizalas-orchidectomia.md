@@ -6,7 +6,7 @@ keywords: "orchidektómia, heretávolítás, here amputáció, tesztoszteron, h�
 author: "Montefiori Adéna Auróra"
 canonical: "https://genderutikalauz.hu/cikk/feminizalas-orchidectomia"
 datePublished: "2023-01-01"
-dateModified: "2026-06-23"
+dateModified: "2026-11-25"
 image: "https://genderutikalauz.hu/images/undraw_breaking_barriers.svg"
 slug: "feminizalas-orchidectomia"
 ---
@@ -35,7 +35,7 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 ➡️ [Feminizáló műtétek](/#/entry?id=brosura-feminizalo-maszkulinizalo-mutetek)
 
-➡️ [Műtéti hegmasszázs](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Műtét utáni hegmasszázs](/#/entry?id=mutet-utani-hegkezeles-es-hegmasszazs)
 
 </div>
 
