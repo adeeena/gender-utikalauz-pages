@@ -1,6 +1,6 @@
 ---
 title: "Injekciós hibaelhárítás"
-description: "Mit tegyél, ha az ösztrogéninjekció fáj, vérzik, szivárog, buborékos vagy kristályos? Tünet, ok és teendő áttekintése, valamint a fertőzés vészjelei."
+description: "Mit tegyél, ha az injekció fáj, a szúrás helye vérzik, vagy az oldat szivárog, buborékos, illetve kristályos? Tünet, ok és teendő áttekintése, valamint a fertőzés vészjelei."
 lang: hu
 keywords: "ösztrogén injekció probléma, injekció fáj, vérzés, buborék, szivárgás, kristály, fertőzés, Z-track, öninjekciózás, feminizáló HRT"
 author: "Montefiori Adéna Auróra"
@@ -117,17 +117,17 @@ A felsorolt jelenségek egy része ártalmatlan és könnyen kezelhető, mások 
         <tr>
             <td>Buborék a fecskendőben</td>
             <td>Felszívás közben került be levegő</td>
-            <td>A kis buborék (&lt;0,1 ml) ártalmatlan a bőr alatti vagy izombeli beadásnál; pöcköld a tetejére és nyomd ki.</td>
+            <td>A kis buborék (&lt;0,1 ml) ártalmatlan a bőr alatti vagy izombeli beadásnál; pöcköld a buborékokat a fecskendő tetejére, majd nyomd ki őket.</td>
         </tr>
         <tr>
-            <td>Az olaj kiszivárog a szúrás helyén</td>
-            <td>Túl híg oldószer, kevésbé jó mélység vagy szög, illetve nyitva maradó szúráscsatorna</td>
-            <td>Ne változtasd meg egyedül az oldószert. A tűméretet, a mélységet és a szöget egyeztesd szakemberrel. Használhatsz Z-track technikát, a beadás után hagyd bent a tűt néhány másodpercig, majd steril gézzel tartsd a szúrási helyet 30 másodpercig.</td>
+            <td>A készítmény kiszivárog a szúrás helyén</td>
+            <td>Túl híg oldószer, nem megfelelő mélység vagy szög, illetve nyitva maradó szúráscsatorna</td>
+            <td>Ne változtasd meg egyedül az oldószert. A tűméretet, a mélységet és a szöget egyeztesd szakemberrel. Használhatsz Z-track technikát, a beadás után hagyd bent a tűt néhány másodpercig, majd steril gézzel nyomd a szúrás helyét 30 másodpercig.</td>
         </tr>
         <tr>
             <td>Másnap fájó, érzékeny a hely</td>
             <td>Ismételt szúrás ugyanazon a ponton, túl nagy egyszeri térfogat vagy a tű mozgása a szövetben</td>
-            <td>Válts beadási helyet, stabilan tartsd a tűt beadás közben, és tegyél rá meleg borogatást. Ha az egyszeri térfogat okozhat gondot, az adagolási tervet egyeztesd az ellátóddal.</td>
+            <td>Válts beadási helyet, stabilan tartsd a tűt beadás közben, és tegyél rá meleg borogatást. Ha úgy gondolod, hogy a túl nagy egyszeri térfogat okozza, egyeztesd újra az adagolást az ellátóddal.</td>
         </tr>
         <tr>
             <td>Több napig tartó keményedés, pír, viszketés vagy égő érzés</td>
@@ -146,23 +146,23 @@ A felsorolt jelenségek egy része ártalmatlan és könnyen kezelhető, mások 
         </tr>
         <tr>
             <td>Enyhe pír, viszketés a bőr alatti beadásnál</td>
-            <td>Az oldószerre adott helyi reakció</td>
-            <td>Általában magától elmúlik; ha gyakori, beszéld meg orvossal vagy válts beadási módot.</td>
+            <td>Az oldószer okozta helyi reakció</td>
+            <td>Általában magától elmúlik; ha gyakori, beszélj róla az ellátóddal, és csak vele egyeztetve változtass beadási módot.</td>
         </tr>
     </tbody>
 </table>
 
 ## A „rossz" napok az injekciós ciklusban
 
-Az injekció után az ösztrogénszint a csúcsról fokozatosan csökken. A ciklus végén, a következő szúrás előtt, néhányan fáradtságot vagy hangulatingadozást éreznek. Ha ez zavaró, az ellátóddal egyeztethetsz arról, hogy a **kisebb, gyakoribb beadás** megfelelő lehet-e számodra. A teljes adagot, a hatóanyagot vagy a gyakoriságot ne módosítsd magadtól. A pontos beállításhoz a [vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok) adnak támpontot.
+Az injekció után az ösztrogénszint a csúcsról fokozatosan csökken. A ciklus végén, a következő szúrás előtt, néhányan fáradtságot vagy hangulatingadozást éreznek. Ha ez zavaró, az ellátóddal egyeztethetsz arról, hogy a **kisebb, gyakoribb beadás** megfelelő lehet-e számodra. Ne módosítsd önállóan sem az adagot, sem a hatóanyagot, sem a gyakoriságot. A pontos beállításhoz a [vérvizsgálatok](/#/entry?id=feminizalo-hormonterapia-vervizsgalatok) adnak támpontot.
 
 ## A Z-track technika röviden
 
-A Z-track csökkenti az olaj visszaszivárgását: beadás előtt told el oldalra a bőrt, szúrj be, add be az olajat, hagyd bent a tűt pár másodpercig, majd húzd ki és engedd vissza a bőrt. Az eltolt szövet így „elzárja" a szúrás csatornáját.
+A Z-track csökkenti a készítmény visszaszivárgását: beadás előtt told el oldalra a bőrt, szúrj be, add be a készítményt, hagyd bent a tűt pár másodpercig, majd húzd ki, és engedd vissza a bőrt. Az eltolt szövet így elzárja a szúráscsatornát.
 
 ## Mikor fordulj orvoshoz?
 
-A helyi pír és érzékenység néhány órán belül enyhül. A fertőzés ezzel szemben erősödik és terjed.
+A helyi pír és érzékenység rendszerint néhány órán belül enyhül. A fertőzés ezzel szemben erősödik és terjed.
 
 <div class="infobox error">
 
@@ -186,21 +186,21 @@ Ezek fertőzésre utalhatnak, és orvosi ellátást igényelnek.
 
 A bőr alatti és az izombeli beadásnál a kis légbuborék (kevesebb mint 0,1 ml) ártalmatlan. Beadás előtt mégis érdemes a buborékokat kipöckölni, főleg ha pontosan akarod kimérni az adagot.
 
-### Mit tegyek, ha vér jön a szúrás helyén?
+### Mit tegyek, ha vér jelenik meg a szúrás helyén?
 
 Ez azt jelenti, hogy a tű egy apró eret ért. Nyomd rá a steril gézt néhány másodpercre; a vérzés gyorsan eláll, és nem veszélyes.
 
-### Miért fáj jobban a hideg injekció?
+### Miért fájdalmasabb a hideg oldat beadása?
 
-A hideg olaj sűrűbb, lassabban folyik, és a szövet érzékenyebben reagál rá. Beadás előtt melegítsd a fiolát kézmeleg hőmérsékletre, és a szúrás helyét se hűtsd le.
+A hideg oldat sűrűbb, lassabban folyik, és a szövet érzékenyebben reagálhat rá. Beadás előtt, csak a termékleírás engedélyével melegítsd a fiolát kézmeleg hőmérsékletre, és ne tegyél hideg borogatást a szúrás helyére.
 
-### Hogyan előzöm meg az olaj kiszivárgását?
+### Hogyan előzöm meg a készítmény visszaszivárgását?
 
-Használj Z-track technikát, és a beadás után hagyd bent a tűt 5-10 másodpercig, mielőtt kihúzod. A beadási helyek rotációja is segít.
+Használj Z-track technikát, és a beadás után hagyd bent a tűt 5-10 másodpercig, mielőtt kihúzod. A beadási helyek rendszeres váltogatása is segít.
 
-### Honnan tudom, hogy fertőzés alakult ki?
+### Honnan tudhatom, hogy fertőzés alakult ki?
 
-A normál helyi reakció (enyhe pír, érzékenység) néhány órán belül enyhül. Ha viszont láz, genny, terjedő vörösség vagy erősödő fájdalom jelentkezik, az fertőzésre utal: fordulj orvoshoz.
+A normál helyi reakció (enyhe pír, érzékenység) néhány órán belül enyhül. Ha viszont láz, genny, terjedő vörösség vagy erősödő fájdalom jelentkezik, az fertőzésre utalhat; fordulj orvoshoz.
 
 ## Források
 
@@ -208,7 +208,7 @@ A normál helyi reakció (enyhe pír, érzékenység) néhány órán belül eny
 
 ➡️ [Plume: All About Injections](https://members.getplume.co/support/solutions/articles/72000544742-all-about-injections#Injection-video-tutorials)
 
-*Guide pratique d'injection d'hormones*, 2.0-s verzió, 2020. június 23.; a hibaelhárítás összeállításához felhasznált, helyben tárolt forrás.
+*Guide pratique d'injection d'hormones*, 2.0 verzió, 2020. június 23.; a hibaelhárítás összeállításához felhasznált, helyben tárolt forrás.
 
 </div>
 
