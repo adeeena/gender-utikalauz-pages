@@ -41,13 +41,13 @@ KAPCSOLÓDÓ KIADVÁNYOK
 
 <div class="infobox info">
 
-A hegmasszázsról szóló forrásunkat kifejezetten transz embereknek, masztektómia vagy más néven torsoplasztika után készítette egy gyógytornász. Az általános elvek más műtéti hegekhez is hasonlóak lehetnek, de más testtájékon, más műtéti technikánál és szövődmény esetén nem biztos, hogy ugyanazok az időpontok vagy mozdulatok megfelelőek. Mindig a saját sebészed, ápolód vagy gyógytornászod útmutatása az elsődleges.
+A hegmasszázsról szóló forrás kifejezetten masztektómián vagy más néven torsoplasztikán átesett, illetve ilyen műtét előtt álló transz emberek számára készült. Az általános elvek más műtéti hegek esetében is hasonlóak lehetnek, de más testtájékon, más műtéti technikánál vagy szövődmény esetén nem biztos, hogy ugyanazok az időpontok és mozdulatok megfelelőek. Mindig a saját sebészed, ápolód vagy gyógytornászod útmutatásait kövesd.
 
 </div>
 
 ## Miért van szükség a hegmasszázsra?
 
-A műtéti bemetszés helyén heg keletkezik. A gyógyulás alatt a bőrszövet természetes módon összekapcsolódhat az alatta fekvő rétegekkel. Ezt nevezzük letapadásnak vagy adhéziónak. A letapadás néha korlátozhatja a bőr csúszását, csökkentheti a mozgástartományt, feszülést vagy fájdalmat okozhat, és megváltoztathatja a heg rugalmasságát.
+A műtéti bemetszés helyén heg keletkezik. A gyógyulás során a bőr természetes módon összetapadhat az alatta fekvő rétegekkel. Ezt nevezzük letapadásnak vagy adhéziónak. A letapadás korlátozhatja a bőr szabad elcsúszását, csökkentheti a mellkas mozgékonyságát, illetve feszülést vagy fájdalmat okozhat. A heg rugalmasságát is csökkentheti.
 
 A hegmasszázs célja, hogy:
 
@@ -56,7 +56,7 @@ A hegmasszázs célja, hogy:
 - javítsa a heg rugalmasságát;
 - segítse, hogy fokozatosan megszokd a heg érintését.
 
-Egy teljesen begyógyult heg általában lapos, vékony, szabályos, rugalmas és nem fájdalmas, valamint nem tapad szorosan a mélyebb szövetekhez. A hegek megjelenése azonban egyénenként, műtétenként és bőrtípusonként eltérhet. A cél nem az, hogy minden heg egyformán nézzen ki, hanem az, hogy kényelmesen működjön.
+Egy jól gyógyult heg általában lapos, vékony, szabályos, rugalmas és nem fájdalmas, illetve nem tapad szorosan a mélyebb szövetekhez. A hegek megjelenése azonban egyénenként, műtétenként és bőrtípusonként eltérhet. A cél nem az, hogy minden heg egyformán nézzen ki, hanem az, hogy rugalmas legyen, és ne korlátozza a mozgást.
 
 ## Előkészület a műtét előtt
 
@@ -66,27 +66,21 @@ A műtét előtt kérdezd meg a sebészedet:
 - mikor engedi eltávolítani a varratokat vagy kapcsokat;
 - milyen kötözést és sebkezelést javasol;
 - mikor biztonságos elkezdeni a mozgást és a hegmasszázst;
-- írhat-e műtét utáni gyógytornakezelést.
+- írhat-e elő műtét utáni gyógytornakezelést.
 
-A személyre szabott gyógytornászati kontroll az egyik legbiztosabb módja annak, hogy a hegkezelés a te műtéti technikádhoz igazodjon. Ha ez fontos számodra, már a műtét előtt keress olyan gyógytornászt, aki transzbarát, tiszteletteljes ellátást biztosít. LMBTQ+ csoportok vagy helyi támogató közösségek ajánlhatnak biztonságos szakembereket.
+A személyre szabott gyógytornászati kontroll segíthet abban, hogy a hegkezelés a te műtéti technikádhoz igazodjon. Ha ez fontos számodra, már a műtét előtt keress olyan gyógytornászt, aki transzbarát, tiszteletteljes ellátást nyújt. LMBTQ+ csoportok és helyi támogató közösségek is ajánlhatnak biztonságos szakembereket.
 
 ## A műtét után közvetlenül
 
-Közvetlenül a műtét után csak a kezelőcsapat utasításait kövesd. Amíg varratok, kapcsok, drain (váladékelvezető cső) vagy nyitott seb van a területen, ne masszírozd a heget.
+Közvetlenül a műtét után csak a kezelőcsapat utasításait kövesd. Amíg varratok vagy kapcsok vannak a hegen, illetve a seb nincs teljesen bezárva, ne masszírozd a területet.
 
-Az ápoló vagy más egészségügyi szakember a szükséges gyakorisággal cseréli a kötéseket, hogy a seb nedves, tiszta környezetben gyógyulhasson. Pihenj, kerüld a túl korai erős megterhelést és a súlyos tárgyak emelését.
-
-A forrásban szereplő masztektómia vagy torsoplasztika után:
-
-- ha a sebész engedi, már másnap vagy a drain eltávolítása után óvatosan mozgasd a karjaidat, hogy az izmok ne legyenek túl sokáig tétlenek;
-- az úgynevezett horgony alakú metszésnél kerülheted a hátrafelé irányuló nagy mozgásokat, mert ezek húzhatják a varratokat;
-- egyszerű periareoláris metszésnél a mozgás korlátozása általában kevésbé kifejezett, de ezt is a műtőorvos döntse el.
+Az ápoló vagy más egészségügyi szakember rendszeresen cseréli a kötéseket, hogy a seb nedves, tiszta környezetben gyógyulhasson. Pihenj, és kerüld a túl korai megerőltetést, valamint a nehéz tárgyak emelését.
 
 Az első hónapban a dohányzás és az alkoholfogyasztás kerülése támogathatja a sebgyógyulást. Ha ez nehézséget okoz, kérj segítséget a kezelőcsapattól.
 
 <div class="infobox warning">
 
-Ne kezdd el a hegmasszázst csak azért, mert egy időpont elérkezett a naptárban. A sebnek zártnak, nyugalmi állapotban nem kipirosodottnak, nem melegnek és váladékozástól mentesnek kell lennie, továbbá minden varratot vagy kapcsot el kell távolítani róla. Nyitott seb, gennyes váladék, fokozódó bőrpír, melegség, láz, új duzzanat, erősödő fájdalom, vérzés vagy kellemetlen szag esetén ne masszírozz, és mielőbb fordulj a kezelőcsapatodhoz.
+Ne kezdd el a hegmasszázst csak azért, mert a naptár szerint már eltelt egy bizonyos idő. A sebnek teljesen zártnak, nem pirosnak, nem melegnek és váladékozástól mentesnek kell lennie, és minden varratot vagy kapcsot el kell távolítani. Nyitott seb, gennyes váladék, fokozódó bőrpír, melegség, láz, új duzzanat, erősödő fájdalom, vérzés vagy kellemetlen szag esetén ne masszírozd a területet, és mielőbb fordulj a kezelőcsapatodhoz.
 
 </div>
 
@@ -105,27 +99,27 @@ Az alábbi időpontok tájékozódó jellegűek. A gyógyulás egyéni, és a m�
     <tbody>
         <tr>
             <td>Közvetlenül a műtét után</td>
-            <td>A friss seb záródik, a varratok és esetleg a drain még a helyükön lehetnek.</td>
+            <td>A friss seb záródik, a varratok vagy kapcsok még a helyükön lehetnek.</td>
             <td>Kövesd az ápolási utasítást, pihenj, és ne masszírozd a heget.</td>
         </tr>
         <tr>
-            <td>7-8 nap után</td>
-            <td>A seb felszínén megindul a hámosodás, de a seb még gyulladásos szakaszban és varratokkal terhelt lehet.</td>
+            <td>7 nap után</td>
+            <td>A seb érképződési szakasza véget ér, a szövetburjánzási szakasz kezdődik, és megindul a hámosodás. A seb még gyulladt állapotban lehet, a varratok pedig rendszerint a helyükön vannak.</td>
             <td>Ne kezdd el a hegmasszázst.</td>
         </tr>
         <tr>
-            <td>Legalább 15-20 nap után</td>
-            <td>A heg már erősödhet, és minden varratot vagy kapcsot eltávolítottak.</td>
-            <td>Ha a sebész vagy az ápoló engedélyezte, elkezdhető a rövid, felületes mobilizálás.</td>
+            <td>10-15 nap után</td>
+            <td>Minden varratot vagy kapcsot eltávolítottak, a seb záródott, nem váladékozik, és már nem gyulladt: nem piros és nem meleg.</td>
+            <td>Ha a sebész vagy az ápoló engedélyezte, elkezdhető a rövid, óvatos mobilizálás.</td>
         </tr>
         <tr>
             <td>1-1,5 hónap után</td>
             <td>A heg átalakulása megkezdődik, és a szövet általában ellenállóbb.</td>
-            <td>Fokozatosan erőteljesebb mobilizálás, körkörös és S alakú mozgás, palper-rouler, valamint enyhe mellizomnyújtás következhet.</td>
+            <td>Fokozatosan erőteljesebb mobilizálás, körkörös és S-alakú mozgás, valamint a bőrredő görgetése következhet.</td>
         </tr>
         <tr>
             <td>3 hónap körül</td>
-            <td>A hegátalakulás intenzív, ekkor gyakran a legaktívabb a szövet.</td>
+            <td>A hegátalakulás intenzív; ekkor gyakran a legaktívabb a szövet.</td>
             <td>A megbeszélt irányokban rendszeresen folytatható a hegmozgatás, külön figyelemmel a letapadt részekre.</td>
         </tr>
         <tr>
@@ -141,16 +135,16 @@ Az alábbi időpontok tájékozódó jellegűek. A gyógyulás egyéni, és a m�
     </tbody>
 </table>
 
-## Az első kezelések: 15-20 nap után
+## Az első kezelések: 10-15 nap után
 
-Csak akkor kezdj, ha a seb teljesen záródott, már nem váladékozik, nincs meleg vagy kipirosodott, és a kezelőcsapat eltávolított minden varratot vagy kapcsot.
+Csak akkor kezdd el, ha a seb teljesen záródott, már nem váladékozik, nem meleg és nem piros, és a kezelőcsapat eltávolított minden varratot vagy kapcsot.
 
-Először szánj:
+Egy-egy alkalommal szánj:
 
-- körülbelül 3 percet egyszerű, krém nélküli mozgatásra;
-- majd 1-2 percet a bőr felszínének gyengéd átmasszírozására semleges hidratálóval, kifejezetten hegre javasolt krémmel vagy gyógyszertárban ajánlott csipkebogyóolajjal.
+- körülbelül 3-4 percet egyszerű, krém nélküli mozgatásra;
+- majd 1-2 percet gyengéd felszíni masszázsra semleges hidratálóval, kifejezetten hegre javasolt krémmel vagy a gyógyszertárban ajánlott csipkebogyóolajjal.
 
-A termék kiválasztásáról kérj tanácsot az ápolódtól, sebészédtől, gyógytornászodtól vagy gyógyszerészédtől. Parfümöt, irritáló összetevőket és bármilyen kipróbálatlan készítményt ne kezdj használni közvetlenül a frissen záródott seben.
+A termék kiválasztásáról kérj tanácsot az ápolódtól, sebészédtől, gyógytornászodtól vagy gyógyszerészédtől. Frissen záródott seben ne használj parfümöt, irritáló összetevőket vagy más, korábban nem próbált készítményt.
 
 Kezdheted azzal, hogy pusztán megérinted a heget, és megszokod az érintés érzését. Ha saját magad számára ez túl nehéz vagy kellemetlen, egy megbízható személy segíthet. A hegmasszázst nem kell erőltetned, és a fájdalmat sem kell kiállnod: éles, szúró vagy erősödő fájdalom esetén hagyd abba a kezelést, és kérj szakemberi véleményt.
 
@@ -164,7 +158,7 @@ A széléket a következő, korai mozdulatok közben is tartsd közel egymáshoz
 
 Az ujjaid ne csússzanak el a bőr felszínén. Inkább fogd meg óvatosan a bőrt, majd a heggel együtt mozgasd jobbra és balra. Ez a mozdulat a bőrt és a heget egységként mozgatja a mélyebb szövetekhez képest.
 
-Ha egyes pontokon a bőr nem követi el a mozdulatot, ott letapadás gyanítható. Ezeket a területeket csak óvatos, fokozatos mobilizálással kezeld, és szakemberrel beszéld át.
+Ha egyes pontokon a bőr nem követi a mozdulatot, ott letapadás gyanítható. A bőr mintha megtapadna a mélyebb szövetréteghez, ezért bizonyos helyeken nem csúszik szabadon. Ezeket a területeket csak óvatos, fokozatos mobilizálással kezeld, és beszéld meg a módszert szakemberrel.
 
 ### 3. Keresztirányú masszázs
 
@@ -172,7 +166,7 @@ A heg két oldalán tartott ujjaiddal mozgasd együtt a bőrt és a heget, a heg
 
 ### A kezelés befejezése
 
-Végül egy kis krémmel vagy olajjal masszírozd át nagyon gyengéden a területet. Ez a záró mozdulat olyan legyen, mint egy finom simítás: a cél ekkor nem az alatta fekvő szövetek erős mozgatása.
+Fejezd be a kezelést némi krémmel vagy olajjal végzett, nagyon gyengéd masszázzsal. Ez a záró mozdulat hasonlítson a finom simogatásra; a célja nem az alatta fekvő szövetek erős mozgatása.
 
 ## Erősebb mobilizálás: 1-1,5 hónap után
 
@@ -182,35 +176,23 @@ Ha a heg gyógyulása megfelelő, a kezelőcsapat pedig nem tiltja, ebben a szak
 
 Helyezd az ujjaid közvetlenül a hegvonalra. Az ujjak ne csússzanak a bőrön, hanem tartsák meg a bőrt, és mozgassák azt kis körökben. Kezdd gyenge nyomással, és csak a megfelelő gyógyulás és a fájdalommentesség mellett növeld a nyomást.
 
-### 5. S alakú csavarás
+### 5. S-alakú csavarás
 
 Helyezd az ujjaid a heg két oldalára, kissé eltolva egymást. Közelítsd a kezeidet egymás felé úgy, hogy a heg enyhe S alakot írjon le. Ne erőltesd a csavarást, és a mozdulat ne okozzon éles fájdalmat.
 
-### 6. Palper-rouler
+### 6. Bőrredő görgetése
 
-Ez egy nehezebb technika, amelyet sokszor önmagadon nem egyszerű kivitelezni. Egy megbízható személy vagy gyógytornász segíthet vele:
+Ez egy nehezebb technika, amelyet sokszor önmagadon nem egyszerű kivitelezni. Egy megbízható személy vagy gyógytornász segíthet a megvalósításában:
 
-1. Fogjátok fel óvatosan a bőr egy redőjét a heg mentén.
+1. Fogjatok fel óvatosan egy bőrredőt a heg mentén.
 2. A hüvelykujjakat lassan előre csúsztatva, a mutatóujjakkal hozzátok előre a bőrt úgy, hogy a redő megmaradjon.
-3. A redőt hullámszerűen, továbbhaladva görgessétek végig a heg teljes hosszán.
+3. Görgessétek a redőt hullámszerűen előre a heg teljes hosszán.
 
 A redő ne legyen szoros, a bőr ne sérüljön vagy váljon fehérré, és a kezelés ne legyen erősen fájdalmas. A technika írásban nehezebben tanulható meg, ezért a gyógytornásszal való gyakorlati bemutatás különösen hasznos.
 
-## Mellizomnyújtás
-
-Mellkasi műtét után, általában az 1-1,5 hónapos szakasztól, a szakember engedélyével elkezdhető lehet a mellizmok kíméletes nyújtása:
-
-1. Tedd például a jobb kezed a falra.
-2. Tartsd a karod és a vállad kényelmes, nem kényszerített helyzetben.
-3. A törzseddel óvatosan fordulj balra, amíg könnyű húzó érzést érzel a jobb mellizmokban.
-4. Tartsd meg 20-30 másodpercig.
-5. Ismételd meg összesen kétszer mindkét oldalon.
-
-Ha a nyújtás fájdalmas, ne lépd át ezt a határt. Várj néhány napot, kérd a sebész vagy gyógytornász tanácsát, majd csak annak engedélyével próbáld újra.
-
 ## Három hónap után
 
-A hegátalakulás ebben az időszakban még aktív lehet. A kezelőcsapattal egyeztetett, óvatos gyakorlatok során a heget a szükséges irányokba lehet mozgatni, különösen azokon a pontokon, ahol letapadást érzel.
+A hegátalakulás ebben az időszakban még aktív lehet. A kezelőcsapattal egyeztetett, óvatos gyakorlatok során a heget minden irányba mozgathatod, különösen azokon a pontokon, ahol letapadást érzel.
 
 A forrás szerint a kellemetlen feszülő érzés a letapadt terület kezelésekor előfordulhat. Ezt nem szabad összetéveszteni az éles vagy fokozódó fájdalommal: pihenj, ha a fájdalom erősödik, a terület kivörösödik, megduzzad vagy a seb újra megnyílik, és kérj szakmai segítséget.
 
@@ -218,7 +200,7 @@ A forrás szerint a kellemetlen feszülő érzés a letapadt terület kezelések
 
 Sok heg körülbelül hat hónap után stabilabb. Ha a gyógyulás jó, a szakemberrel egyeztetve a rendszeres masszázs befejezhető. A heg ezután is változhat, összesen akár 1-2 évig.
 
-Régebbi hegeknél is lehetnek kezelhető letapadások. Ha egy korábbi műtét hege fáj, korlátozza a mozgást vagy kellemetlenül húz, egy tapasztalt gyógytornász felmérheti, és megbeszélheti, hogy a korábban leírt technikák közül mi alkalmazható.
+Régi hegeknél is lehetnek kezelhető letapadások. Ha egy korábbi műtét hege fáj, korlátozza a mozgást vagy kellemetlenül húz, egy tapasztalt gyógytornász felmérheti, és megbeszélheti veled, hogy a korábban leírt technikák közül mit alkalmazhatsz.
 
 ## Napvédelem
 
@@ -226,7 +208,7 @@ A friss hegszövet a környező bőrnél érzékenyebben reagálhat az ibolyánt
 
 Az első évben:
 
-- napfényen viselj a hegen pólót vagy megfelelő takarást;
+- napfényen viselj pólót vagy más ruhadarabot, amely eltakarja a heget;
 - kerüld a hosszú, védelem nélküli napozást;
 - ha szükséges, a sebész javaslatát követve használj magas védelmet.
 
@@ -240,23 +222,23 @@ Személyre szabott gyógytornászati kontroll különösen hasznos lehet, ha:
 - a heg feszül, szorít vagy korlátozza a váll vagy a mellkas mozgását;
 - letapadt részeket érzel;
 - a saját kezedből nehezen eléred a teljes hegvonalat;
-- a palper-rouler mozdulatot nem tudod biztonságosan elvégezni.
+- a bőrredő görgetését nem tudod biztonságosan elvégezni.
 
-A gyógytornász kézi kezelést, szívóharangos vagy más negatív nyomású vákuumkezelést, valamint egyéb fizikoterápiás eljárást, például TECAR-kezelést is javasolhat. Ezek nem minden műtétnél és nem minden hegnél szükségesek, alkalmazásukról pedig szakember dönt.
+A gyógytornász kézi kezelést, vákuumharangokat vagy más negatív nyomású eszközöket is alkalmazhat. Ezek a kezelések segíthetnek a letapadások oldásában, de nem minden műtétnél és nem minden hegnél szükségesek. Alkalmazásukról szakember dönt.
 
 ## GYIK (Gyakran Ismételt Kérdések)
 
-### Mikor kezdhetem el biztosan?
+### Mikor kezdhetem el a hegmasszázst?
 
-Csak minden varrat és kapocs eltávolítása után, teljesen zárt, nem váladékozó és nem gyulladt seb mellett, a kezelőcsapat engedélyével. A forrás 15-20 napot említ tájékozódó legkorábbi időpontként, de a saját gyógyulásod eltérhet ettől.
+Csak minden varrat és kapocs eltávolítása után, teljesen zárt, nem váladékozó és nem gyulladt seb mellett, a kezelőcsapat engedélyével. A forrás 10-15 napot említ tájékozódó legkorábbi időpontként, de a saját gyógyulásod eltérhet ettől.
 
 ### Melyik krémet használjam?
 
-Semleges hidratáló, a hegkezelésre javasolt hialuronsavas krém vagy gyógyszertárban ajánlott csipkebogyóolaj megfelelő lehet. A pontos választást az ápolóval, sebészeddel, gyógytornászoddal vagy gyógyszerészeddel egyeztesd.
+Semleges hidratáló készítmény, hegkezelésre javasolt krém vagy a gyógyszertárban ajánlott csipkebogyóolaj megfelelő lehet. A pontos választást egyeztesd az ápolóval, a sebészeddel, a gyógytornászoddal vagy a gyógyszerészeddel.
 
 ### Normális, ha kellemetlen a masszázs?
 
-Enyhe feszülés vagy kellemetlenség előfordulhat egy letapadt részen. Az éles, szúró, fokozódó vagy később is tartó fájdalom már nem ezt jelenti, hanem okot ad a kezelés abbahagyására és szakmai ellenőrzésre.
+Enyhe feszülés vagy kellemetlenség előfordulhat egy letapadt részen. Az éles, szúró, fokozódó vagy később is tartó fájdalom azonban nem tekinthető ennek normális részének. Ilyen esetben hagyd abba a kezelést, és kérj szakmai véleményt.
 
 ### Ki kezelheti a hegem helyettem?
 
@@ -264,15 +246,15 @@ Egy tapasztalt gyógytornász, illetve szakmai tanács és a te egyértelmű bel
 
 ### Egy régi hegen is segíthet a masszázs?
 
-Igen, régebbi hegek letapadásai is felmérhetők és kezelhetők lehetnek. A várható javulás azonban függ a heg korától, a szövet állapotától és az egyéni körülményektől.
+Igen. Régebbi hegek letapadásai is felmérhetők és kezelhetők. A várható javulás azonban függ a heg korától, a szövet állapotától és az egyéni körülményektől.
 
 ### Ez az útmutató minden műtéti hegre érvényes?
 
-Nem automatikusan. A forrás kifejezetten masztektómia vagy torsoplasztika után készült. Arc-, nyaki, hasi, alsó műtéti vagy szerv közelében végzett beavatkozásoknál eltérő szabályok lehetnek érvényesek, ezért mindig a saját kezelőcsapatod protokollját kövesd.
+Nem minden esetben. A forrás kifejezetten masztektómia vagy torsoplasztika után készült. Arc- vagy nyakműtétek, hasi műtétek, illetve szervekhez közeli beavatkozások esetén eltérő szabályok lehetnek érvényesek, ezért mindig a saját kezelőcsapatod protokollját kövesd.
 
 ## Források
 
-➡️ [Dominique Joly: Le massage des cicatrices, 2022](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
+➡️ [Le massage des cicatrices, 2018](https://public.genderutikalauz.hu/muteti-hegmasszazs.pdf)
 
 </div>
 
