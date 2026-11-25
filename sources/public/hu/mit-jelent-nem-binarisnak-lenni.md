@@ -1,12 +1,12 @@
-﻿---
-title: "Mit jelent nem binárisnak lenni?"
-description: "A nem-binaritás azt jelenti, hogy valakinek a neme nem kizárólag férfi vagy női: definíciók, tévhitek, támogatás és a nem-bináris emberek tapasztalatai."
+---
+title: "Mit jelent nem-binárisnak lenni?"
+description: "A nem-binaritás összefoglaló fogalom olyan nemi identitásokra, amelyek nem kizárólag férfi vagy nő: alapfogalmak, identitástípusok, tranzíció, nyelvhasználat és támogatás."
 lang: hu
-keywords: "nem bináris, nem-binaritás, nonbináris, gendersemleges, genderfluid, nemi identitás, nem-bináris támogatás"
+keywords: "nem-bináris, nem-binaritás, nonbináris, enby, agender, genderfluid, genderqueer, nemi identitás, nemi kifejezés, nem-bináris támogatás"
 author: "Montefiori Adéna Auróra"
 canonical: "https://genderutikalauz.hu/cikk/mit-jelent-nem-binarisnak-lenni"
 datePublished: "2023-01-01"
-dateModified: "2026-06-23"
+dateModified: "2026-11-25"
 image: "https://genderutikalauz.hu/images/undraw_ideas.svg"
 slug: "mit-jelent-nem-binarisnak-lenni"
 ---
@@ -15,217 +15,321 @@ slug: "mit-jelent-nem-binarisnak-lenni"
 
 # Mit jelent nem-binárisnak lenni?
 
-## Bevezető
+## Röviden
 
-Amikor egy csecsemő megszületik, a nemi szervei alapján nemet kap: lány vagy fiú. Az általánosan használt kifejezés: "a születéskor lánynak/fiúnak rendelt személy".
+A **nem-bináris** vagy **nonbináris** olyan összefoglaló kifejezés, amely minden olyan nemi identitásra alkalmazható, amely nem kizárólag férfi vagy kizárólag nő. Egy nem-bináris ember a kettőtől eltérő nemet élhet meg, a két nem közötti vagy mindkét nemet magában foglaló nemet, illetve olyan nemet, amely idővel változhat. Lehetsz nem-bináris akkor is, ha semmilyen külön címkét nem szeretnél használni magadra.
 
-Ennek a hozzárendelésnek a társadalmi következményei nem a személy biológiájához, hanem a neméhez, és később a nemi identitásához kapcsolódnak, amelyet az illető kifejez. Például: egy bizonyos ruhát felvenni, egy bizonyos tevékenységet végezni, azt mondani, hogy "férfi" vagy "nő", stb.
+<div class="infobox info">
 
-Ha valaki neme nem kizárólagosan férfi vagy kizárólagosan női, akkor azt nem-binárisnak hivjuk. A férfi, nő és nem bináris személy kifejezések nemi identitásra utalnak. A nemi identitás nem kötődik a biológiához.
+<h5>💡 Fontos</h5>
 
-Vagyis egy nem-bináris személy nem kizárólag férfi vagy kizárólag nő: lehet valahol a kettő között, a kettő keveréke vagy egyik sem. A nem-binaritás azt is jelentheti, hogy az egyén neme az idő múlásával megváltozhat.
+A nem-bináris identitást nem lehet valaki kinézetéből, ruházatából, testfelépítéséből, hangjából vagy viselkedéséből megállapítani. Csak az adott ember határozhatja meg a saját nemi identitását.
 
-A nem-binaritás minden társadalmi osztályban és minden életkorban előfordulhat.
+</div>
 
-A nem-binaritást minden egyes érintett személy különböző módokon fejezhet ki.
+## Hogyan kapcsolódik ez a nemhez, a testhez és a kifejezéshez?
 
-## Ne tévesszük össze
-
-A nem-binaritás nem tévesztendő össze az [interszexualitással](/#/entry?id=mit-jelent-interszexnek-lenni), amely anatómiai, hormonális és/vagy kromoszómális eltérés. Az interszex az olyan elsődleges vagy másodlagos nemi jellegzetességekre utal, amelyek nem tartoznak szigorúan a férfiként vagy szigorúan a nőként meghatározott kategóriába.
-
-A nem-binaritás társadalmi tényező, amelynek semmi köze sincs a biológiához.
-
-A nem-binaritás nem felel meg az androgünségnek sem, amely a férfi és női esztétikai jegyeket vegyítő fizikai megjelenést írja le.
+A mindennapi beszédben a „nem” szó több, egymástól eltérő dolgot is jelölhet. Érdemes ezeket elkülöníteni:
 
 <table>
     <thead>
         <tr>
             <th>Fogalom</th>
-            <th>Mit jelent</th>
-            <th>Köze a biológiához</th>
+            <th>Mit jelent?</th>
+            <th>Mire nem következtethetünk belőle?</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Nem-binaritás</td>
-            <td>Nemi identitás, amely nem kizárólag férfi vagy nő</td>
-            <td>Nincs (társadalmi, identitásbeli)</td>
+            <td>Születéskor hozzárendelt nem</td>
+            <td>Az a kategória, amelybe a külső testi jellegzetességek alapján, általában születéskor sorolják a gyermeket</td>
+            <td>Nem mondja meg, hogy az illető később milyen neműként éli meg magát</td>
         </tr>
         <tr>
-            <td>Interszexualitás</td>
-            <td>Anatómiai, hormonális vagy kromoszómális eltérés</td>
-            <td>Igen (biológiai)</td>
+            <td>Nemi identitás</td>
+            <td>Az ember saját, belső tapasztalata arról, hogy milyen nemű</td>
+            <td>Nem olvasható le sem a testről, sem a megjelenésről</td>
         </tr>
         <tr>
-            <td>Androgünség</td>
-            <td>Férfi és női esztétikai jegyeket vegyítő megjelenés</td>
-            <td>Nincs (megjelenés)</td>
+            <td>Nemi kifejezés</td>
+            <td>Ahogyan valaki ruházattal, frizurával, mozgással, beszéddel vagy más módon jeleníti meg a nemét</td>
+            <td>Nem feltétlenül egyezik meg a nemi identitással</td>
+        </tr>
+        <tr>
+            <td>Biológiai nemi jellemzők</td>
+            <td>A kromoszómák, gének, hormonok, gonádok, belső és külső nemi szervek együttese</td>
+            <td>Ezek nem határozzák meg önmagukban a nemi identitást</td>
+        </tr>
+        <tr>
+            <td>Szexuális orientáció</td>
+            <td>Kihez vonzódik valaki érzelmileg, romantikusan vagy szexuálisan</td>
+            <td>Független a nemi identitástól és a nemi kifejezéstől</td>
         </tr>
     </tbody>
 </table>
 
-## Elismerés világszerte
+A társadalom bizonyos tulajdonságokat, szerepeket és viselkedésmódokat nőiesnek vagy férfiasnak tart. Ezek a társadalmi elvárások kultúránként és korszakonként változhatnak. Az, hogy valaki illeszkedik vagy nem illeszkedik ezekhez az elvárásokhoz, még nem bizonyítja a nemi identitását.
 
-A nem-bináris nemi identitás, bár mindig is létezett, egyre inkább társadalmi és jogi elismerést nyer.
+➡️ Kapcsolódó: [A biológiai nem nem bináris](/#/entry?id=a-biologiai-nem-nem-binaris)
 
-* Jogi elismerés: Ausztráliában, Németországban és Kanadában a személyazonossági okmányokban a szokásos M és F jelölés helyett X jelölést lehet feltüntetni.
-* Nyilvános elismerés: egyre több közszereplő vallja magát nem-binárisnak, mint peldaul Sam Smith, vagy Jack Monroe, a Guardian újságírója; vagy Miley Cirus énekesnő.
-* Elismerés az interneten: Facebook, [Google](https://time.com/3630012/google-infinite-gender-options/), [Tinder](https://blog.gotinder.com/genders/)... A webóriások, amikor nemet vagy névmást kérdeznek, mostantól lehetőséget adnak a férfin és nőn kívüli nem választásra. A Facebook például 52 megnevezést kínál a nemi identitás megnevezésére. A Google lehetővé teszi a [semleges nemű emojik](https://blog.emojipedia.org/googles-three-gender-emoji-future/) kiválasztását is.
+## Mi nem ugyanaz, mint a nem-binaritás?
 
+### Az androgün megjelenés
 
-## Gyakori kérdések
+Az **androgünség** megjelenésre és kifejezésre utal: az illető külsején egyszerre vagy váltakozva jelenhetnek meg a kultúra által nőiesnek és férfiasnak tekintett jegyek.
 
-### Nemi sztereotípiák és nem-binaritás
+Egy androgün megjelenésű ember lehet nő, férfi vagy nem-bináris. Ugyanígy egy nem-bináris ember megjelenhet kifejezetten nőiesnek, férfiasnak vagy semlegesnek is. A nemi identitás és a nemi kifejezés nem ugyanaz.
 
-A tomboy lányok és a nőies fiúk nem binárisak?
+### Egy harmadik, egységes nem
 
-Nem: egy férfi (cisz vagy transz) női vonásokkal még mindig férfi marad. Ezen az sem változtat, hogy nőies viselkedése és/vagy külseje van-e. Ugyanez vonatkozik a férfiasnak tartott nőkre is. A nemi identitás tehát nem keverendő össze a nemi kifejezéssel.
+A „nem-bináris” nem egyetlen új, harmadik nem. Ernyőfogalom: sokféle, egymástól eltérő identitást foglal magában. A „harmadik nem” nem írható rá mindenkire, aki nem-bináris.
 
-### Honnan állapítható meg, hogy egy személy nem bináris?
+### Interszexualitás
 
-Onnan tudjuk, hogy egy személy nem-bináris, ha nem-binárisként kibújik nekünk. Vagy ha a nem bináris státuszuk nyilvánosan megjelenik, például a közösségi platformokon vagy a Wikipédián.
+Az **interszex** biológiai nemi jellemzők sokféleségére utal. Akkor használható, amikor a kromoszómák, a hormonok, a gonádok vagy a nemi szervek együttese nem illeszkedik egyszerűen a tipikusan férfira vagy nőire épülő orvosi elvárásokhoz.
 
-Ezért soha nem lehet egy személy nem-binaritására következtetni a megjelenéséből. Csak azért, mert egy személynek a nemi normáktól eltérő fizikai jellemzői vannak, még nem jelenti azt, hogy nem bináris.
+Az interszex és a nem-bináris identitás egymástól független. Egy interszex ember lehet nő, férfi vagy nem-bináris, illetve más címkét is használhat önmagára. A különböző becslések szerint a népesség hozzávetőlegesen 1,7-4%-a interszex; az eltérés részben abból adódik, hogy a kutatások nem ugyanazokat az állapotokat sorolják ide.
 
-David Bowie például megtörte a nemi sztereotípiákat, de ciszgender férfi volt. Míg Sam Smith, bár inkább megfelel a férfi fizikai sztereotípiáknak, nem binárisnak vallja magát.
+Az, hogy valaki interszex, önmagában nem indokol műtétet vagy hormonkezelést. Mégis sok interszex emberen végeztek és végeznek ma is nem sürgős, a testet alakító beavatkozást gyermekkorban, a beleegyezése nélkül. Az interszex jogvédő szervezetek a személy önrendelkezését és azt támogatják, hogy az ilyen döntések a lehető legnagyobb mértékben az érintettre maradjanak.
 
-<div class="flex">
-	<div class="flex-item">
-	<img src="https://cdn.artphotolimited.com/images/5ff5a529bd40b83c5a537440/300x300/le-chanteur-anglais-david-bowie.jpg" />
-	<br />
-	David Bowie, egy ciszgender férfi
-	</div>
-<div class="flex-item">
-	<img src="https://resize-elle.ladmedia.fr/r/625,,forcex/crop/625,804,center-middle,forcex,ffffff/img/var/plain_site/storage/images/people/la-vie-des-people/news/sam-smith-devaste-le-chanteur-a-rompu-avec-l-acteur-de-13-reasons-why-brandon-flynn-3699095/88089416-1-fre-FR/Sam-Smith-devaste-le-chanteur-a-rompu-avec-l-acteur-de-13-Reasons-Why-Brandon-Flynn.jpg" />
-	<br />
-	Sam Smith, egy nem bináris személy
-	</div>
+➡️ Kapcsolódó: [Mit jelent interszexnek lenni?](/#/entry?id=mit-jelent-interszexnek-lenni)
+
+### Szexuális irányultság
+
+A nem-bináris kifejezés nem azt mutatja meg, hogy kihez vonzódik valaki. Egy nem-bináris ember lehet hetero, meleg, leszbikus, biszexuális, aszexuális, pánszexuális, illetve használhat más irányultsági címkét is.
+
+## Milyen nem-bináris identitások léteznek?
+
+Nem lehet és nem is kell minden tapasztalatot külön kategóriába sorolni. Egyesek számára a „nem-bináris” önmagában elegendő, mások pontosabb vagy személyesebb címkéket használnak. Az alábbi példák nem teljes felsorolások:
+
+<table>
+    <thead>
+        <tr>
+            <th>Fogalom</th>
+            <th>Egy lehetséges jelentés</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Agender</td>
+            <td>Az illető nem azonosul semmilyen nemmel, vagy úgy éli meg, hogy nincs neme.</td>
+        </tr>
+        <tr>
+            <td>Genderfluid</td>
+            <td>Az illető nemi identitása idővel változhat.</td>
+        </tr>
+        <tr>
+            <td>Bigender</td>
+            <td>Az illető egyszerre vagy váltakozva két nemet él meg.</td>
+        </tr>
+        <tr>
+            <td>Demifiú vagy demigirl</td>
+            <td>Az illető részben fiúként vagy férfiként, illetve részben lányként vagy nőként azonosul; a nemi identitása másik része más vagy semleges lehet.</td>
+        </tr>
+        <tr>
+            <td>Genderqueer</td>
+            <td>Olyan identitás, amely a megszokott nemi kategóriákat megkérdőjelezi vagy túllép rajtuk. Egyesek politikai, mások személyes értelemben használják.</td>
+        </tr>
+        <tr>
+            <td>Neutrois vagy semleges nem</td>
+            <td>Az illető semleges, vagy sem férfi, sem női nemként éli meg magát.</td>
+        </tr>
+        <tr>
+            <td>Maverique</td>
+            <td>A férfi és női nemi spektrumon kívül álló, önálló nemi identitás.</td>
+        </tr>
+        <tr>
+            <td>Xenogender</td>
+            <td>Olyan gyűjtőfogalom, amely metaforákkal, érzésekkel, tárgyakkal, színekkel vagy más, a nem hagyományos szókincsén kívüli képekkel írja le a nemet.</td>
+        </tr>
+    </tbody>
+</table>
+
+Ezek a fogalmak átfedhetnek egymással. A jelentésük közösségenként, nyelvenként és személyenként változhat, ezért mindig az érintett ember szóhasználatát érdemes követni. A címke használata nem kötelező, és egy címke sem tesz valakit „eléggé” vagy „valóban” nem-binárissá.
+
+➡️ Kapcsolódó: [Lexikon](/#/lexikon)
+
+## A nem-bináris emberek transzneműek?
+
+A transzneműség összefoglaló fogalom olyan emberekre, akiknek a nemi identitása eltér a születéskor hozzárendelt nemtől. Emiatt sok nem-bináris ember transznak is tartja magát. Más nem-bináris emberek nem használják ezt a szót saját magukra.
+
+Mindkét önmeghatározás érvényes. Ha nem vagy biztos abban, hogyan szólíts meg vagy nevezz meg valakit, ne találgasd ki; kérdezd meg az érintettet.
+
+➡️ Kapcsolódó: [Mit jelent transznak lenni?](/#/entry?id=mit-jelent-transznak-lenni)
+
+## Lehet nem-bináris valaki orvosi vagy jogi tranzíció nélkül?
+
+Igen. A tranzíció nem kötelező feltétele annak, hogy valaki nem-binárisnak tekintse magát.
+
+A nem-bináris emberek különböző társadalmi, jogi vagy orvosi lépéseket választhatnak:
+
+* kibújás;
+* új név vagy névmások használata;
+* új ruházat, frizura, testtartás vagy hanghasználat;
+* a születési név vagy jogi adatok megváltoztatása, ha ez az adott helyzetben lehetséges;
+* feminizáló vagy maszkulinizáló hormonterápia, esetenként alacsonyabb dózisokkal vagy részleges célokkal;
+* mellműtét, vaginoplasztika, falloplasztika vagy más műtét;
+* a fentiek tetszőleges kombinációja, vagy egyikük sem.
+
+Nincs kizárólag nem-bináris embereknek kitalált „egyetlen helyes” hormonterápia vagy műtéti út. Azoknak, akik orvosi beavatkozást fontolgatnak, a saját céljaikról, lehetőségeikről és kockázataikról tapasztalt egészségügyi szakemberrel érdemes beszélniük. A kezelés nem attól lesz hiteles, hogy mennyire férfias vagy nőies eredményt hoz, hanem attól, hogy megfelel-e az érintett személy igényeinek.
+
+➡️ Kapcsolódó: [Passing nem-binárisként](/#/entry?id=nem-binaris-passing)
+
+➡️ Kapcsolódó: [Feminizáló hormonterápia: gyakori kérdések](/#/entry?id=feminizalo-hormonterapia-gyik)
+
+➡️ Kapcsolódó: [Maszkulinizáló hormonterápia: gyakori kérdések](/#/entry?id=maszkulinizalo-hormonterapia-gyik)
+
+## Név, névmások és nyelv
+
+Egy nem-bináris ember kérhet új nevet, női vagy férfi nyelvtani formákat, többféle megszólítást, illetve tudatosan nemre nem utaló megfogalmazásokat. A magyar nyelvben az „ő” névmás önmagában semleges, de a hivatásokat, megszólításokat és rokonsági szavakat sokszor nemek szerint használjuk. Ezért a névmás kérdése mellett érdemes tisztázni a megszólítás és a ragozás megválasztását is.
+
+Például:
+
+* kérdezd meg, hogy milyen néven és megszólítással szólíthatod;
+* használd következetesen az érintett által kért formát;
+* ha tévedsz, javítsd ki magad röviden, majd haladj tovább a mondanivalóddal;
+* ne kérj mindig újra magyarázatot, ha a személy már elmondta a kérését;
+* ne feltételezd, hogy minden nem-bináris ember ugyanazt a megnevezést szeretné.
+
+<div class="infobox warning">
+
+<h5>⚠️ Fontos a személyes kérés</h5>
+
+Ne próbálj a név és a megszólítás használatához általános szabályt alkotni egy adott személy helyett. Ha nem vagy biztos a dolgodban, kérdezz, és tartsd tiszteletben a választ.
+
 </div>
 
-A nemiséggel és annak kifejezésével kapcsolatos előítéletek lebontása alapvető fontosságú annak megértéséhez, hogy miről is szól a nem-binaritás.
+➡️ Kapcsolódó: [Névmások, megszólítás és deadname](/#/entry?id=nevmasok-megszolitas-deadname)
 
-## Milyen érzés nem binárisnak lenni?
+## A nem-binaritás nem új divat
 
-### Láthatatlanság
+Nem-bináris emberek régebben is léteztek, akkor is, ha nem használhatták a mai kifejezéseket. A „genderqueer” szó az angolszász közösségekben az 1990-es évektől terjedt el, de maga a férfi és nő kategóriáin túli nemi tapasztalat nem korlátozódik erre az időszakra.
 
-A jogi és társadalmi elismerés ellenére a nem-bináris emberek tapasztalata továbbra is láthatatlan és a közvélemény számára kevéssé érthető. Elsősorban azok ismerik, akik érintettek, vagy akiknek maguknak is van nem bináris rokonuk.
+A nemek és nemi szerepek társadalmi megértése kultúránként eltér. Számos társadalom ismert el vagy ismer el a férfin és a nőn kívüli nemi kategóriákat, más társadalmak pedig többször változtatták meg a saját rendszerüket. Dél-ázsiai hijra-közösségek, illetve egyes észak-amerikai őslakos nemzeteknél a Two-Spirit kifejezés például saját történelmi, kulturális és spirituális háttérrel rendelkező identitásokhoz kapcsolódik. Ezeket nem szabad egyszerű, egységes „nem-bináris” címkeként alkalmazni.
 
-Magyarországon a társadalom nagy része csak két nemet (férfi és nő) ismer el. A nem-bináris emberek ezért gyakran nem tudják láthatóvá tenni tapasztalataikat.
+A gyarmatosítás több helyen is erőszakkal szorította vissza a helyi nemi rendszereket, és a nyugati férfi-női kettősséget kényszerítette rájuk. Ennek következményei ma is érezhetők.
 
-Hacsak nem érzékeny környezetben vannak, a nem-bináris embereknek maguknak kell lépéseket kezdeményezniük és előbújniuk ahhoz, hogy elismerjék őket, az alternatíva az, hogy férfinak vagy nőnek (cisz vagy transz) adják ki magukat.
+Európai és észak-amerikai történetekben is vannak olyan személyek, akiknek az élete később nem-bináris szempontból is értelmezhetővé vált. Ilyen például a 18. századi, nemi önmeghatározásával és kifejezésével a korabeli kategóriákat feszegető Public Universal Friend vagy d'Éon lovag. Hans Christian Andersen levelezésében is úgy írt önmagáról, hogy benne férfi és nő együtt van jelen. Clovis Maillet *Les genres fluides* című könyve a kereszténység történetéből olyan korábbi alakokat mutat be, akiknek az öltözködése vagy nemi kifejezése átlépte a megszokott határokat.
 
-### A támogatás szükségessége
+Ezeket a történelmi személyeket óvatosan kell megközelíteni. Mai identitáscímkéket nem mindig lehet biztosan alkalmazni olyan emberekre, akik jóval a mai fogalmak megjelenése előtt éltek. Az életük mégis arra emlékeztet, hogy a két nemre épülő elképzelés nem volt mindig és mindenhol kizárólagos.
 
-Ebben a kontextusban, ahol a nem bináris emberek nehezen beszélnek identitásukról, még fontosabb, hogy családtagként, partnerként, kollégaként vagy kortársként hallhatóan és aktívan támogassuk nem bináris szeretteinket, ismerőseinket.
+➡️ Kapcsolódó: [Transz történelem](/#/entry?id=transz-tortenelem)
 
-Szövetségesként kifejezheted támogatásodat ismerőseidnek:
+## Láthatatlanság és diszkrimináció
 
-* az új keresztnév tiszteletben tartásával (és tévedés esetén helyesbítéssel);
-* azáltal, hogy kijavítod azokat a kollégákat vagy barátokat, akik hibáznak, vagy nem hajlandók kijavítani magukat;
-* felajánlani, hogy elkíséred a boltokba, új ruhákat ajánlani neki;
-* elkísérni őket a tranzíciójukkal kapcsolatos orvosi időpontokra;
-* azzal, hogy felajánlod, hogy mellette leszel (fizikailag vagy lelkileg) a kibújáskor;
-* hajlandó vagy kibújni helyettük, ha kérik (pl. ha nem tudják, hogy hogyan bújjanak ki);
-* stb.
+A jogi és társadalmi elismerés egyenetlen. Sok országban csak férfi vagy női kategória választható a hivatalos adatok között, és a mindennapi beszéd is gyakran önkéntelenül bináris feltételezésekből indul ki. Nem-bináris emberként emiatt gyakori lehet, hogy mások:
 
-### Tapasztalatok széles skálája
+* férfinak vagy nőnek feltételezik;
+* megkérdőjelezik az identitást;
+* a nevet vagy a névmásokat figyelmen kívül hagyják;
+* sértő vagy túl személyes kérdéseket tesznek fel;
+* a személyt pusztán a külseje alapján próbálják besorolni;
+* a folyamatban lévő vagy megváltozott identitást „divatnak” nevezik.
 
-Ahogyan a női vagy férfi létnek is végtelen módja van, úgy minden nem-bináris személynek egyedi tapasztalata van a neméről és személyes módja annak elmondására.
+A nem-bináris emberekkel szembeni előítéletet és diszkriminációt olykor **enbyfóbiának** nevezik. A fogalom nem teszi kisebbé a tapasztalatodat, ha nem szeretnéd ezt a szót használni: a félreértés, a láthatatlanság vagy az erőszak akkor is valós hatással lehet az érintettre.
 
-A nem-bináris tapasztalat nem általánosítható, különösen mivel a nem-bináris identitások spektruma nagyon széles.
+## Lehet sokféle nemet megélni
 
-Nincs igazi "trükk" a megértéshez. Arról van szó, hogy meghallgatjuk, amit a szerettünk mondani akar, és kedvesen tiszteletben tartjuk az identitását.
+Ahogyan a férfi vagy női identitás sem egyetlenféle életutat jelent, a nem-binaritás sem egyféle tapasztalat. Például:
 
-Példa a nem bináris emberek életútjára:
+* lehet, hogy valaki hormonkezelést és műtéti beavatkozásokat választ, mégis nőnemű vagy más, számára megfelelő névmást és megszólítást kér;
+* lehet, hogy valaki semmilyen orvosi beavatkozást nem szeretne, de új nevet használ;
+* lehet, hogy valaki maszkulinnak jelenik meg, és ezt nőnemű névmásokkal kombinálja;
+* lehet, hogy valaki feminizáló hormonterápiát használ részleges célokkal;
+* lehet, hogy valaki csak biztonságos közegben használ más nevet, mert még nem bújt ki mindenkinek;
+* lehet, hogy valakinek a neme idővel változik, ezért a megnevezése és a kifejezése is változik.
 
-* Hormonális átváltozáson és bizonyos műtéteken átesett személy, aki a gendersemleges névmásokat részesíti előnyben, mert a nemét "inkább nőneműnek, de nem teljesen" érzékeli.
-* Egy olyan személy, aki nem akar orvosi átváltozást végrehajtani, és arra kéri a rokonait, hogy gendersemleges néven szólítsák, mert így találja meg a személy az egészséges egyensúlyt.
-* Egy transzmaszkulin személy (születésekor nőnek rendelték), aki hormonális átváltáson esett át, és szeretné megtartani nagyon férfias megjelenését, miközben ismét női névmásokat használ, mert így találta meg az egyensúlyt nem-binaritásának kifejezésében. (Vagy fordítva egy transzfeminin személy esetében).
-* Egy olyan személy, aki kinézetre nagyon férfiasnak vagy nagyon nőiesnek tűnik. Ez a személy nem változtatta meg a keresztnevét, mert a keresztneve már gendersemleges volt.
-* Olyan személy, aki orvosi és adminisztratív átváltozást hajtott végre.
-* Egy olyan személy, akinek hormonális kezelés nélkül kellett masztektómiát végezni. Nem számít neki, hogy milyen nemű.
-* Egy olyan személy, aki több éven át szedett hormonokat, majd abbahagyta, hogy gendersemleges legyen. Tehát lehetnek férfiak vagy nők, attól függően, hogy mit szeretnének.
-* Aki csak a baráti körében használ más keresztnevet, nem akarja azt hivatalosan megváltoztatni, és akinek a családjára való tekintettel nincs lehetősége arra, hogy elkezdje a hormonkezelést, amit szeretne. Még nem tudja, hogy a későbbiekben szeretne-e műtétet végeztetni, és mindenesetre még nincs meg hozzá az anyagi lehetősége.
+Az ilyen életutak nem „félkész”, hibás vagy kevésbé valódi tranzíciók. Nem kell egyetlen, előre meghatározott úton haladnod ahhoz, hogy a saját identitásod érvényes legyen.
 
-> "Az emberek az utca egyik végéből azt mondják, hogy "Jó napot asszonyom", miután átmegyek az út túloldalára, azt mondják, hogy "Jó napot uram". Néha az emberek vonakodnak meghatározni, szerintük milyen nemű vagyok. Régen fájt nekem. Ma már élvezem, és boldoggá tesz, mert jobban érzem magam a bőrömben, és a nemi homályban is, amelyben navigálok."
->
->Malha, nem bináris, 21 éves
+## A nemi diszfória nem kötelező feltétel
 
-### Nemi diszfória
+A nemi diszfória kellemetlen érzés, szorongás, stressz vagy szenvedés lehet, amely a nemi identitás, a test, a társadalmi észlelés vagy a név és névmások közötti eltéréssel függ össze. Nem minden nem-bináris ember tapasztal diszfóriát, és a diszfória hiánya nem teszi érvénytelenné az identitást.
 
-A nemi diszfória az a kellemetlen érzés vagy szenvedés, amelyet egyes emberek a születésükkor kijelölt nem és a valódi nemük közötti eltérés miatt éreznek. Egyes transz emberek, akár binárisak, akár nem, diszfóriát tapasztalnak.
+Egyes nem-bináris emberek inkább a **nemi eufóriát**, vagyis a saját nemük megéléséhez vagy kifejezéséhez kapcsolódó örömöt és megkönnyebbülést élik meg. A cél az lehet, hogy olyan módon élj, amely csökkenti a szorongást, a nyomást vagy a saját magadtól való idegenséget, és elősegíti a jóllétet.
 
-Ezek az eltérések az önképtől való elszakadáshoz vezethetnek. Ez az egyszerű kellemetlen érzéstől kezdve a születési név hallásán át a test iránti gyűlöletig terjedhet, ami néha depresszióhoz vagy akár öngyilkossághoz is vezethet, különösen ellenséges környezetben. A fájdalom lehet fizikai és lelki is.
+➡️ Kapcsolódó: [Nemi diszfória](/#/entry?id=diszforia)
 
-A diszfória csökkentésének egyetlen ismert módja a környezet általi elfogadás és a nemi átmenet az érintett személy szándéka szerint.
+## Hogyan támogass egy nem-bináris embert?
 
-Nem minden nem-bináris ember tapasztal diszfóriát. A diszfória jelenléte vagy hiánya nem kritérium egy személy nem-bináris státuszának megerősítésére vagy diszkreditálására.
+* Hallgasd meg, mit mond magáról, és fogadd el az önmeghatározását.
+* Használd a kért nevét, névmását és megszólításait.
+* Ha mások hibáznak, javítsd ki őket röviden, amennyiben ez biztonságos és az érintett is ezt szeretné.
+* Ne szólj az illető helyett, és ne oszd meg másokkal az identitását vagy korábbi nevét kérdezés nélkül.
+* Tartsd tiszteletben a személy nyilvános kibújásának határait. Nem mindenkinek kell egyszerre mindent elmondania.
+* Ne kérdezd a testéről vagy orvosi terveiről, kivéve ha az ilyen beszélgetésre felhatalmaz.
+* Ajánld fel a segítséged orvosi időpont, kibújás, ruhatárváltás vagy hivatalos ügyek alkalmával, de ne vállald magadra az irányítást.
+* Légy mellette akkor is, ha a neme, a neve vagy a névmásai idővel változnak.
 
->"Amióta tudom, hogy nem bináris vagyok, és ezt felvállalom, enyhült a hiányérzetem ebben a világban és ebben a társadalomban, mivel már nem érzem úgy, hogy velem van a probléma."
->
->Vio, nem bináris, 20 éves
+<div class="infobox success">
 
-### A különbözőség elfogadása
+<h5>✅ A kibújás bizalomról szól</h5>
 
-Nem lehet beleélni magunkat egy olyan ember helyzetébe, aki más nyelven beszél, mint mi, vagy akinek más a szexualitása, mint nekünk. Ez azonban nem akadályozza meg, hogy együtt élj és beszélgess velük.
+Ha valaki elmondja neked a nemi identitását, azt azért teszi, mert bízik benned. A legegyszerűbb támogató válasz gyakran ez: „Köszönöm, hogy elmondtad. Hogyan tudlak tisztelni ebben, és kivel oszthatom meg?”
 
-Ugyanez az elv érvényes a nemek esetében is.
+</div>
 
-Tanuld meg elfogadni, hogy lehetetlen teljesen beleélni magad egy nem-bináris személy helyzetébe, ha te magad nem vagy nem-bináris. Ez nem jelenti azt, hogy nem lehet elfogadni és támogatni nem bináris szeretteinket.
+## Ha bizonytalan vagy a saját nemedben
 
-### Mit változtat az, ha egy személy nem bináris?
+Nem kell azonnal címkét választanod. Lehet, hogy a „nem-bináris” kifejezés csak kiindulópont, később pontosabb szó illik majd hozzád, vagy egyáltalán nem szeretnél fogalmat használni. A saját neved, névmásod, kifejezésed vagy identitásod megváltoztatása nem teszi valótlanabbá a korábbi tapasztalataidat.
 
-Ha valaki azt mondja neked, hogy nem bináris, az azt jelenti, hogy a te elképzelésed a neméről téves volt, mert más nemű volt, mint amilyennek te ismerted.
+Érdemes lehet:
 
-### A viselkedés átalakítása
+* elolvasni más emberek eltérő tapasztalatait, anélkül hogy bármelyiket sablonná tennéd;
+* biztonságos közegben kipróbálni más nevet, névmást vagy kifejezési módot;
+* megbízható baráttal, közösséggel vagy érzékeny szakemberrel beszélni;
+* figyelni arra, mikor érzed jól magad, és mikor okoz feszültséget egy szerep vagy megnevezés;
+* időt adni magadnak.
 
-A nem bináris emberek gyakran kérik a környezetüket, hogy változtassanak meg néhány dolgot:
+A cél nem az, hogy mások egyetlen kategóriába sorolhassanak, hanem az, hogy biztonságosabban, hitelesebben és több eufóriával élhess.
 
-* a keresztnevüket (néha semleges névnek, de nem feltétlenül);
-* a megnevezésük (fiú vagy lány helyett "gyermek"; semleges kifejezések használata...);
-* az a mód, ahogyan mások jelenlétében bánnak velük (köszönés a kézcsókon vagy kézfogáson kívül stb.).
-* A munkahelyükön vagy a vállalatoknál a nem bináris emberek kérhetik, hogy a belső dokumentumokban Mr. vagy Ms. helyett Mx-ként tüntessék fel őket.
+➡️ Kapcsolódó: [Honnan tudom, hogy transz vagyok?](/#/entry?id=honnan-tudom-hogy-transz-vagyok)
 
-### Reagálás a <i>kibújásra</i>
+## GYIK
 
-Fontos megérteni, hogy a nem-binaritásod bejelentése nehéz: ez egy hosszú gondolkodás eredménye és annak a jele, hogy a nem-bináris szeretteid bíznak benned.
+### Mi az a nem-bináris?
 
-Szerettednek szüksége lesz a támogatásodra, különösen a bejelentés, valamint a kibújás utáni első hónapok és évek során. Az ő nem-binaritása nem törli el a kapcsolatot, amelyet közösen építettetek ki, sem a közös vonásokat, amelyek összekötnek benneteket.
+A nem-bináris olyan összefoglaló kifejezés, amely minden olyan nemi identitást jelölhet, amely nem kizárólag férfi vagy kizárólag nő. Lehet férfias, nőies, a kettő között álló, több nemet magában foglaló, időben változó vagy ezeken kívül eső.
 
-A kibújása a bizalom jele: tekintsd ezt a bizalmat lehetőségnek arra, hogy jobban megismerd a szerettedet, és hogy a kapcsolatotokat továbbfejlesszétek.
+### Ugyanaz a nem-binaritás, mint az interszexualitás?
 
-Ha tehát úgy teszünk, mintha semmi sem történt volna, és továbbra is pontosan úgy kezeljük az illetőt, mint korábban, figyelmen kívül hagyva vagy áthúzva a kéréseit, az a tisztelet hiányát jelenti.
+Nem. Az interszexualitás biológiai nemi jellemzőkre vonatkozik, a nem-binaritás pedig nemi identitás. Egy interszex ember lehet cisz, transz, bináris vagy nem-bináris.
 
->"A nem-binaritás ábrázolásai rendkívül negatívak és viccek forrásai. Olyan embereknek látnak minket, akik elszakadtak a valóságtól, akik "delíriumban" vannak. Az egészet csak egy szeszélynek tekintik... Ez felemészt."
->
->Riwallon, nem bináris
+### Androgünnek kell lennem ahhoz, hogy nem-bináris legyek?
 
-### Nem-bináris lexikon
+Nem. A nemi identitás nem a ruházatból vagy a megjelenésből adódik. Nem-bináris emberként lehetsz nőies, férfias, androgün vagy ezek egyikébe sem sorolható megjelenésű.
 
-Idővel kialakult egy alkategóriákból álló lexikon, amely a különböző nem-bináris tapasztalatokat írja le. Például: gendersemleges, genderqueer, demiboy vagy demigirl, genderfluid...
+### A nem-bináris ember mindig se nem férfi, se nem nő?
 
-További információért [tekintsd meg a nem-binaritással kapcsolatos kifejezések szójegyzékét.](/#/lexikon)
+Nem. Egyes nem-bináris emberek a két nem között, egyszerre több nemben vagy ezeken a kategóriákon kívül élik meg magukat. Mások részben férfinek vagy nőnek azonosítják magukat, illetve idővel változó nemet élnek meg.
 
-## GYIK (Gyakran Ismételt Kérdések)
+### Minden nem-bináris ember transz?
 
-### Mit jelent nem-binárisnak lenni?
+Sokan a transz ernyőfogalom alá sorolják magukat, mert nem azonosulnak a születéskor hozzárendelt nemmel. Mások nem használják ezt a címkét magukra. Tiszteld az adott ember önmeghatározását.
 
-A nem-bináris ember neme nem kizárólag férfi vagy kizárólag női: lehet valahol a kettő között, a kettő keveréke, egyik sem, vagy idővel változó. A nem-binaritás egy társadalmi, nemi identitásra vonatkozó fogalom, amelynek semmi köze a biológiához.
+### Kell tranzíciót végrehajtanom?
 
-### Ugyanaz a nem-binaritás, mint az interszexualitás vagy az androgünség?
+Nem. A társadalmi, jogi vagy orvosi tranzíció lehetséges út, de nem kötelező. Egyesek csak a nevüket vagy a kifejezésüket változtatják meg, mások részleges vagy teljes hormonkezelést, illetve műtétet választanak, és van, aki egyik lépést sem.
 
-Nem. Az interszexualitás biológiai állapot, az androgünség pedig egy fizikai megjelenés. A nem-binaritás ezzel szemben nemi identitás, és nem kötődik sem a testalkathoz, sem a biológiához.
+### Honnan tudhatom, hogy nem-bináris vagyok?
 
-### Egy nőies fiú vagy egy fiús lány nem-bináris?
+Nincs külső teszt vagy kinézetbeli jel, amely ezt helyetted eldönthetné. A saját érzéseid, tapasztalataid, nemi eufóriád és a különböző önkifejezési formák kipróbálása segíthet eligazodni. Időt és támogatást vehetsz igénybe.
 
-Nem feltétlenül. A nemi identitás nem keverendő össze a nemi kifejezéssel: egy férfi nőies vonásokkal is férfi marad, és fordítva. Csak az illető maga mondhatja meg, hogy nem-bináris-e.
+### Mit tegyek, ha hibásan szólítok meg valakit?
 
-### Hogyan támogathatok egy nem-bináris embert?
+Javítsd ki magad röviden, használd helyesen a kért nevet vagy névmást, és menj tovább. A hosszas mentegetőzés gyakran az érintettre helyezi át az érzelmi terhet.
 
-Tartsd tiszteletben az általa kért nevet és megszólítást, javítsd ki tévedés esetén magad és másokat, és legyél mellette érzelmileg, különösen a coming out utáni időszakban. A látható és aktív támogatás sokat számít.
+## Források és további olvasnivalók
 
-## Forrás
+➡️ [Nonbinary Wiki: Nonbinary](https://nonbinary.wiki/wiki/Nonbinary)
 
-➡️ [Non Binary Wiki](https://nonbinary.wiki/wiki/Nonbinary)
+➡️ [Wikitrans: La non-binarité, c'est quoi?](https://wikitrans.co/2020/01/07/la-non-binarite-cest-quoi/)
 
-➡️ [Wikitrans](https://wikitrans.co/2020/01/07/la-non-binarite-cest-quoi/)
+➡️ [Clovis Maillet: Les genres fluides](https://search.worldcat.org/search?q=Les+genres+fluides+Clovis+Maillet)
+
+➡️ [Office québécois de la langue française: Epicène, neutre, non binaire et inclusif](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gout/epicene-neutre-non-binaire-et-inclusif)
+
+➡️ [La Vie en Queer: nonbinary identities](https://lavieenqueer.wordpress.com/category/genre/genres-non-binaires/)
+
+➡️ [Háttér Társaság](https://hatter.hu/)
+
+➡️ [Transvanilla Transznemű Egyesület](https://transvanilla.hu/)
