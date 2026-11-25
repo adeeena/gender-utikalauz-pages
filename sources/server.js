@@ -1,7 +1,6 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
-const marked = import('marked');
 const cors = require('cors');
 const seo = require('./seo');
 
@@ -119,7 +118,8 @@ app.get('/entry', (req, res) => {
   }
 });
 
-app.get('/search', (req, res) => {
+app.get('/search', async (req, res) => {
+  const { marked } = await import('marked');
   const { query, languageCode } = req.query;
   const searchResults = [];
   const maxResults = 5;
