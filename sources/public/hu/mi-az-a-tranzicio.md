@@ -51,6 +51,8 @@ Az orvosi tranzíció az olyan beavatkozásokat foglalja magában, mint:
 
 ➡️ Kapcsolódó: [Hormonterápia elkezdése](/#/entry?id=hormonterapia-elkezdese)
 
+➡️ Kapcsolódó: [Maszkulinizáló tranzíció áttekintése](/#/entry?id=maszkulinizalo-tranzicio-attekintese)
+
 <table>
     <thead>
         <tr>
@@ -113,6 +115,8 @@ Jelenleg nem; a jogi nemváltoztatás 2020 óta nem lehetséges Magyarországon.
 ## Források
 
 ➡️ [Hormonterápia elkezdése](/#/entry?id=hormonterapia-elkezdese)
+
+➡️ [Maszkulinizáló tranzíció áttekintése](/#/entry?id=maszkulinizalo-tranzicio-attekintese)
 
 ➡️ [Kibújás (coming out)](/#/entry?id=kibujas)
 
