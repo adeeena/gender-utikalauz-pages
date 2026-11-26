@@ -47,7 +47,7 @@ JOGI KÉRDÉSEK
 
 # Maszkulinizáló tranzíció áttekintése
 
-A maszkulinizáló tranzíció olyan társas, jogi vagy orvosi lépések összessége lehet, amelyekkel egy transz férfi vagy transzmaszkulin személy közelebb hozza az életét és a testét a saját nemi identitásához. Nincs kötelező sorrend, és egyik lépés sem szükséges ahhoz, hogy az identitásod érvényes legyen.
+A maszkulinizáló tranzíció olyan társadalmi, jogi vagy orvosi lépések összessége lehet, amelyekkel egy transz férfi vagy transzmaszkulin személy közelebb hozza az életét és a testét a saját nemi identitásához. Nincs kötelező sorrend, és egyik lépés sem szükséges ahhoz, hogy az identitásod érvényes legyen.
 
 Az FtM (female to male) kifejezést továbbra is sok közösségi és történeti forrás használja. A leíróbb, befogadóbb megnevezés a transz férfi vagy a transzmaszkulin személy.
 
@@ -59,7 +59,7 @@ Ez az oldal áttekintést ad. A gyógyszerválasztást, az adagolást és a műt
 
 ## Nincs egyetlen helyes út
 
-Kiválaszthatod, mely lépéseket szeretnéd megtenni. Lehet, hogy a választott neved, névmásaid és ruházatod használata elegendő számodra. Lehet, hogy hormonterápiát szeretnél, de műtétet nem, vagy csak egyes műtéteket választasz. A társas, a jogi és az orvosi tranzíció külön döntési területek.
+Kiválaszthatod, mely lépéseket szeretnéd megtenni. Lehet, hogy a választott neved, névmásaid és ruházatod használata elegendő számodra. Lehet, hogy hormonterápiát szeretnél, de műtétet nem, vagy csak egyes műtéteket választasz. A társadalmi, a jogi és az orvosi tranzíció külön döntési területek.
 
 A legtöbb maradandó orvosi változás előtt érdemes átgondolnod:
 
@@ -71,9 +71,9 @@ A legtöbb maradandó orvosi változás előtt érdemes átgondolnod:
 
 A felkészülés nem azt jelenti, hogy minden kétséget el kell tüntetned. Akkor érdemes továbblépni, amikor kellő információ birtokában, saját céljaid alapján tudsz dönteni.
 
-## Társas tranzíció
+## Társadalmi tranzíció
 
-A társas tranzícióhoz tartozhat a választott név és a névmások használata, a kibújás, a ruházat, a frizura, a testbeszéd vagy a hang megváltoztatása. Ezek önmagukban is teljes értékű lépések lehetnek.
+A társadalmi tranzícióhoz tartozhat a választott név és a névmások használata, a kibújás, a ruházat, a frizura, a testbeszéd vagy a hang megváltoztatása. Ezek önmagukban is teljes értékű lépések lehetnek.
 
 ➡️ Kapcsolódó: [Kibújás (coming out)](/#/entry?id=kibujas)
 
@@ -270,7 +270,7 @@ A magyar hormonterápiás hozzáférés orvosi, pszichiátriai és biztosítási
 
 ### Kötelező minden maszkulinizáló lépést megtennem?
 
-Nem. A hormonterápia, a műtétek, a névhasználat és a társas tranzíció nem előfeltétele egymásnak, és egyikük sem tesz „eléggé" transz férfivá vagy transzmaszkulin személlyé. Te döntöd el, mely lépések szolgálják az egészségedet és a céljaidat.
+Nem. A hormonterápia, a műtétek, a névhasználat és a társadalmi tranzíció nem előfeltétele egymásnak, és egyikük sem tesz „eléggé" transz férfivá vagy transzmaszkulin személlyé. Te döntöd el, mely lépések szolgálják az egészségedet és a céljaidat.
 
 ### A tesztoszteron mindent tartósan megváltoztat?
 
