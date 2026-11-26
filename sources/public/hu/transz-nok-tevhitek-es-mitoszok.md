@@ -142,7 +142,7 @@ Ez azonban nem így van: az átmenet folyamata Magyarországon és külföldön 
 
 ➡️ [Histories of the Transgender Child](https://www.upress.umn.edu/book-division/books/histories-of-the-transgender-child)
 
-# Miért kell leleplezni a transzellenes érveket?
+## Miért kell leleplezni a transzellenes érveket?
 
 A transzellenes érvelés felemelkedése egyre erőteljesebb jelenség, és bár az elfogadás és a tájékoztatás is sokat fejlődik, de még mindig rengeteg tévhit, és ebből adódó atrocitás éri a transzneműeket.
 

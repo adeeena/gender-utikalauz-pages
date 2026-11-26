@@ -118,6 +118,12 @@ app.get('/entry', (req, res) => {
   }
 });
 
+app.get('/recent-entries', (req, res) => {
+  const requestedLanguage = String(req.query.languageCode || 'hu');
+  const languageCode = /^[a-z]{2}$/i.test(requestedLanguage) ? requestedLanguage : 'hu';
+  res.status(200).json(seo.listRecentlyModified(languageCode, 120));
+});
+
 app.get('/search', async (req, res) => {
   const { marked } = await import('marked');
   const { query, languageCode } = req.query;
@@ -137,8 +143,9 @@ app.get('/search', async (req, res) => {
     if (file.endsWith('.md') && count < maxResults) {
       const filePath = path.join(__dirname, 'public', languageCode, file);
       const pureContent = fs.readFileSync(filePath, 'utf-8');
+      const articleContent = pureContent.replace(/^---\s*[\s\S]*?---\s*/u, '');
       const content = marked
-        .parse(pureContent)
+        .parse(articleContent)
         .replace(/<[^>]*>/g, '')
         .replace(/&quot;/g, '"');
 
@@ -148,7 +155,7 @@ app.get('/search', async (req, res) => {
 
       if (normalizedContent.includes(normalizedQuery)) {
         // Parse the Markdown content to extract the title
-        const tokens = marked.lexer(pureContent);
+        const tokens = marked.lexer(articleContent);
         let title = '';
         for (const token of tokens) {
           if (token.type === 'heading' && token.depth === 1) {

@@ -86,6 +86,19 @@ function firstHeading(body) {
   return m ? m[1].trim() : '';
 }
 
+function parseArticleDate(value) {
+  const raw = String(value || '').trim();
+  const parsed = new Date(raw);
+  if (!Number.isNaN(parsed.getTime())) return parsed;
+
+  const normalized = raw
+    .trim()
+    .replace(/:/g, '-')
+    .replace(/\s*-\s*/g, '-');
+  const date = new Date(`${normalized}T00:00:00Z`);
+  return Number.isNaN(date.getTime()) ? null : date;
+}
+
 // Extract GYIK question/answer pairs: "### Question" under a "## GYIK..." heading,
 // each answer being the plain text until the next "###" or "##".
 function extractFaq(body) {
@@ -161,6 +174,27 @@ function readEntry(lang, slug) {
     canonical: `${SITE_URL}/cikk/${slug}`,
     appUrl: `${APP_URL}/#/entry?id=${slug}`,
   };
+}
+
+function listRecentlyModified(lang, days, now = new Date()) {
+  const cutoff = new Date(now);
+  cutoff.setUTCHours(0, 0, 0, 0);
+  cutoff.setUTCDate(cutoff.getUTCDate() - days);
+
+  return listSlugs(lang)
+    .map((slug) => readEntry(lang, slug))
+    .filter((entry) => {
+      if (!entry) return false;
+      const modified = parseArticleDate(entry.dateModified);
+      return modified && modified >= cutoff && modified <= now;
+    })
+    .sort((a, b) => parseArticleDate(b.dateModified) - parseArticleDate(a.dateModified))
+    .map(({ slug, title, description, dateModified }) => ({
+      slug,
+      title,
+      description,
+      dateModified,
+    }));
 }
 
 function summarize(text, max) {
@@ -369,6 +403,7 @@ module.exports = {
   AI_REFERRERS,
   listSlugs,
   readEntry,
+  listRecentlyModified,
   buildRobots,
   buildSitemap,
   buildLlms,

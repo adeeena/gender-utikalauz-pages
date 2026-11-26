@@ -70,7 +70,7 @@ Amikor Hermaphroditus kijött a medencéből, és meglátta új alakját, imádk
 Salmacis és Hermaphroditus vers, amely mélyebb értelemben általános emberi tapasztalatokra utal, különösen a vágyak és az elutasítás dinamikájára épít. A vers megvilágíthatja azt a kettős természetet, amely mindkét karakterben megtalálható, sejtetve a transzidentitás egyfajta allegóriájárat a történetben.
 Salmacis, a nimfa ábrázolása képe egyfelől ártatlan és szűzies, másfelől azonban vágyat ébreszt a férfiakban. Ez a kettősség azt sugallja, hogy az ártatlanság és a vágy közötti határ elmosódik, és hogy az emberi természet gyakran összetett és ellentmondásos lehet.
 
-Hermaphroditus karaktere szintén képlékeny és kettõs. Bár szépsége vonzó, vágya Salmacis iránt nem valódi, hanem "csalóka". Ez a belső ellentmondás azt sugallja, hogy Hermaphroditusnak magában is kettős természete van, amely lehet, hogy nem egyezik meg a külső megjelenésével vagy a társadalmi elvárásokkal.
+Hermaphroditus karaktere szintén képlékeny és kettős. Bár szépsége vonzó, vágya Salmacis iránt nem valódi, hanem "csalóka". Ez a belső ellentmondás azt sugallja, hogy Hermaphroditusnak magában is kettős természete van, amely lehet, hogy nem egyezik meg a külső megjelenésével vagy a társadalmi elvárásokkal.
 
 A transzidentitás allegóriái tovább erősítik ezt a kettősséget és az identitás különböző megnyilvánulásait. Salmacis és Hermaphroditus története egyfajta transzformációt és az identitás átmenetét ábrázolja, ami azonban nem mindig harmonikus vagy kívánatos. A karakterek átalakulása azonban lehet metaforikus az emberi élet változékonyságára és az identitás folyamatos formálódására.
 

@@ -86,7 +86,7 @@ Mivel a transznemű nőknek nincs előnyük cisz nőkkel szemben, **egy ilyen ka
 
 Ha pánikba esünk és indokolatlanul szigorú biológiai kritériumokat vezetünk be, más nők sportolását is veszélybe sodorjuk. Az interszex személyek, akik nőknek születnek, de ritkább biológiai jellemzőkkel rendelkeznek, így kirekesztődhetnek a versenyekből. Ezek a kritériumok gyakran a fehér sportolónők normái alapján készülnek, és néha faji diszkriminációhoz vezethetnek.
 
-# A sport nem csak verseny!
+## A sport nem csak verseny!
 
 Bár ezek a támadások indokolatlanok a versenysportok esetében is, a következmények valósak: a transz nőket valójában mindennap kizárják a versenyekről igazságtalan szabályok miatt, amelyeket bizonyos szövetségek vagy szabályzatok írnak elő, ellentmondva azoknak az elveknek, amelyek az egyenlőséget és méltányosságot hirdetik.
 

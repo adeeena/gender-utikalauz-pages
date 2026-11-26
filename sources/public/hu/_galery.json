@@ -7,19 +7,19 @@
 		"description": "Amerikai zenész, színész és rendező. Cher énekesnő gyermeke."
 	}, {
 		"name": "Lana Wachowski",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://hu.wikipedia.org/wiki/Wachowski_testv%C3%A9rek",
 		"image": "lana-wachowski.png",
 		"description": "Amerikai rendező és producer, aki a nővére, (szintén transz) Lilly oldalán állva készítette a Mátrixot, a V mint Vendetta és a Sense8 című sorozatot, amelyben több LGBT+ szereplő is szerepel."
 	}, {
 		"name": "Ónodi Adél",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://www.imdb.com/name/nm11784981/#:~:text=Ad%C3%A9l%20Onodi%20was%20born%20on,Resume",
 		"image": "onodi-adel.png",
 		"description": "Magyar színésznő és énekesnő."
 	}, {
 		"name": "Laura Les",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Laura_Les",
 		"image": "laura-les.png",
 		"description": "Amerikai zenei producer, énekes és dalszerző, akit Dylan Brady mellett a 100 gecs kísérleti elektronikus duó egyik feleként ismert."
@@ -31,13 +31,13 @@
 		"description": "Bostoni queer indie punk zenész, író és aktivista."
 	}, {
 		"name": "Laverne Cox",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Laverne_Cox#new_tab",
 		"image": "laverne-cox.png",
 		"description": "Énekesnő és színésznő, akit a nagyközönség a Netflix sorozatában, az Orange Is The New Black-ben ismerhet meg, ahol egy transz nőt alakít."
 	}, {
 		"name": "Chelsea Manning",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://hu.wikipedia.org/wiki/Chelsea_Manning",
 		"image": "chelsea-manning.png",
 		"description": "Az amerikai hadsereg volt katonai elemzője és a Wiki Leaks-ügyben érintett informátor."
@@ -67,19 +67,19 @@
 		"description": "Amerikai fodrász, podcaster, aktivista és szerző, aki leginkább a Queer Eye imázsszakértőjeként ismert."
 	}, {
 		"name": "Teddy Quinlivan",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Teddy_Quinlivan#new_tab",
 		"image": "teddy-quinlivan.png",
 		"description": "Amerikai fodrász, podcaster, aktivista és szerző, aki leginkább a Queer Eye imázsszakértőjeként ismert."
 	}, {
 		"name": "Janet Mock",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Janet_Mock",
 		"image": "janet-mock.png",
 		"description": "Amerikai író, televíziós műsorvezető és aktivista. Dolgozott a Marie Claire-nek és a People-nek."
 	}, {
 		"name": "Lena Raine",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Lena_Raine#new_tab",
 		"image": "lena-raine.png",
 		"description": "Amerikai producer és zeneszerző, aki a Celeste, a Guild Wars 2 és a Minecraft soundtrackjének egy részét készítette."
@@ -97,10 +97,10 @@
 		"description": "Egyesült Államokbeli aktivista, egyik elsőként felkapott transz férfi a média által, aki hosszú idővel a hormonkezelés megkezdése után szült gyermeket."
 	}, {
 		"name": "Jamie Clayton",
-		"gender": "transz nô",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Jamie_Clayton",
 		"image": "jamie-clayton.jpg",
-		"description": "Amerikai színésznõ, aki a Netflix eredeti sorozatában, a Sense8-ban játszott, ahol egy transz nőt alakított."
+		"description": "Amerikai színésznő, aki a Netflix eredeti sorozatában, a Sense8-ban játszott, ahol egy transz nőt alakított."
 	}, {
 		"name": "Tiq Milan",
 		"gender": "transz férfi",
@@ -109,19 +109,19 @@
 		"description": "Médiastratégia tanácsadó, író, előadó és amerikai aktivista."
 	}, {
 		"name": "Laura Jane Grace",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Laura_Jane_Grace",
 		"image": "laura-jane-grace.png",
 		"description": "Egyesült Államokbeli énekesnő-zenész egy általa alapított zenekarban."
 	}, {
 		"name": "Lynn Conway",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Lynn_Conway",
 		"image": "lynn-conway.png",
 		"description": "Vezető amerikai informatikus, az automatizált elektronikus áramkörtervezési ipar globális inkubátorának alapítója."
 	}, {
 		"name": "Lilly Wachowski",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://hu.wikipedia.org/wiki/Wachowski_testv%C3%A9rek",
 		"image": "lilly-wachowski.png",
 		"description": "Amerikai rendező és producer, aki nővérével, Lana-val (aki szintén transznemű) a Matrix, a V mint Vendetta és a Sense8 című sorozat alkotója, amelyben több LMBT+ karakter is szerepel."
@@ -133,7 +133,7 @@
 		"description": "Brit énekes-dalszerző."
 	}, {
 		"name": "Maria Creveling",
-		"gender": "transz nõ",
+		"gender": "transz nő",
 		"link": "https://en.wikipedia.org/wiki/Remilia",
 		"image": "maria-creveling.png",
 		"description": "Profi League of Legends játékos, aki arról ismert, hogy ő volt az első nő, aki kvalifikálta magát a Championship Seriesre."
