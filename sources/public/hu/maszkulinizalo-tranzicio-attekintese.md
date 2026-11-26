@@ -1,6 +1,6 @@
 ---
 title: "Maszkulinizáló tranzíció áttekintése"
-description: "A maszkulinizáló tranzíció teljes áttekintése: döntési szempontok, tesztoszteron, hatások, termékenység, műtétek, hang, társas és jogi lépések Magyarországon."
+description: "A maszkulinizáló tranzíció teljes áttekintése: döntési szempontok, tesztoszteron, hatások, termékenység, műtétek, hang, társadalmi és jogi lépések Magyarországon."
 lang: hu
 keywords: "maszkulinizáló tranzíció, transz férfi, transzmaszkulin, tesztoszteron, FtM tranzíció, masztektómia, metoidioplasztika, phalloplasztika, termékenység, hang"
 author: "Montefiori Adéna Auróra"
@@ -242,23 +242,11 @@ Ne erőltesd a hangod fájdalomig. A tartós rekedtséget, fájdalmat vagy elves
 
 ➡️ Részletek: [Maszkulinizáló hangképzés](/#/entry?id=maszkulinizalas-hangkepzes)
 
-## A forrásdokumentum francia rendszere
-
-A dokumentum 2020-ban készült francia összefoglaló. A benne leírt, kedvezményekkel kapcsolatos szabályok nem alkalmazhatók Magyarországra aktuális szabályként.
-
-A forrás szerint Franciaországban a hormonterápia kezdetekor vérvizsgálat, szükség esetén egyéb vizsgálatok történtek. A maszkulinizáló hormonok felírására endokrinológus, megfelelő továbbképzéssel rendelkező háziorvos vagy nőgyógyász lehetett jogosult. Pszichiátriai igazolást sok orvos kért, de a dokumentum szerint ez önmagában nem volt jogszabályi feltétel. Kiskorúaknál a tesztoszteronhoz vagy a pubertásblokkoláshoz valamennyi törvényes képviselő hozzájárulását említette.
-
-A francia társadalombiztosítási rendszerben a hosszú betegségre vonatkozó ALD eljárás egyes vizsgálatokat, hormonterápiás és műtéti költségeket támogathatott. A dokumentum a 2020-as állapothoz tartozó százalékokat és euróárakat is közölt, de ezek ma már nem használhatók sem francia, sem magyar aktuális díjként. A forrás azt is megjegyezte, hogy a Franciaországban tárolt ivarsejtek használhatósága a jogi nemváltoztatás után korlátozott lehet; erre sem szabad egy 2020-as leírás alapján dönteni, hanem az adott termékenységi központ aktuális feltételeit kell ellenőrizni.
-
-A név- és nemváltoztatást külön francia állampolgári eljárásként ismertette, amelyet a 2017-es egyszerűsítés után sem lehetett fenntartás nélkül más országokra átvinni. Kiemelte azt is, hogy a bankok, az iskolák és más intézmények saját gyakorlata eltérhet a nyilvántartástól. Magyarországon ugyanilyen okokból mindig az adott intézmény és a hazai jogi helyzet szerint kell eljárnod.
-
 ## Magyarországi jogi és egészségügyi helyzet
-
-A forrásdokumentum francia ellátási és jogi rendszert ismertet: pszichiátriai igazolást, CPAM-ügyintézést, ALD-támogatást, francia név- és nemváltoztatási eljárást. Ezek nem alkalmazhatók automatikusan Magyarországon, és a dokumentum költség- és finanszírozási adatai sem tekinthetők mai magyar referenciaértéknek.
 
 Magyarországon a jogi nemváltoztatás 2020 óta nem lehetséges. A választott nevedet használhatod a mindennapokban, de hivatalos okmányaid módosítása összetett jogi és közigazgatási kérdés. A saját ügyedben mindig friss tájékoztatást kérj.
 
-A magyar hormonterápiás hozzáférés orvosi, pszichiátriai és biztosítási gyakorlata is eltérhet a francia forrásban leírtaktól. A személyes lehetőségeidről a témában jártas szakembertől és hazai szervezettől tájékozódj.
+A hormonterápiához való hozzáférésről, az elérhető kezelésekről és a lehetséges költségekről a témában jártas egészségügyi szakembertől és hazai szervezetektől tájékozódj.
 
 ➡️ Részletek: [Jogi nemváltoztatás Magyarországon](/#/entry?id=jogi-nemvaltoztatas-magyarorszagon)
 
@@ -284,13 +272,9 @@ Nem. A menstruáció elmaradása nem bizonyítja, hogy nem lehet peteérés vagy
 
 Nem minden esetben. A méh, a petefészkek, a hüvely, a herezacskó és a húgycső műtétje külön döntés, amelyet a célod, az egészségi állapotod és a választott technika alapján kell megbeszélni a sebésszel.
 
-### Alkalmazhatom a dokumentum francia költség- és jogi adatait Magyarországon?
-
-Nem. A támogatások, a receptköteles készítmények, a műtéti feltételek és a jogi eljárások országonként eltérnek. A francia adatok történeti kontextusként használhatók, de a személyes döntéshez magyar, aktuális tájékoztatás szükséges.
-
 ## Források
 
-➡️ Damanyuh, Fransgenre: *La transition femme vers homme*, 2020. A jelen cikk a dokumentum valamennyi témáját összefoglalja és a magyar, naprakész oldalakhoz igazítja; nem a forrás szó szerinti fordítása.
+➡️ Damanyuh, Fransgenre: *La transition femme vers homme*, 2020.
 
 ➡️ [OUTrans: transznemű útmutatók](http://outrans.org/ressources/hormones-et-parcours-trans/)
 
