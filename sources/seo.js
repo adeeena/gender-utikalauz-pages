@@ -172,7 +172,7 @@ function readEntry(lang, slug) {
     body,
     faqs: extractFaq(body),
     canonical: `${SITE_URL}/cikk/${slug}`,
-    appUrl: `${APP_URL}/#/entry?id=${slug}`,
+    appUrl: `${APP_URL}/entry?id=${slug}`,
   };
 }
 
